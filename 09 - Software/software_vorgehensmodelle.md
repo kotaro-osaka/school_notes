@@ -69,4 +69,11 @@ ___
 #### Product Owner
 - Formuliert Anforderungen an das Produkt (Ziel)
 - Entscheidet welche Anforderungen umgesetzt werden
-- Trägt Verantwortung über Formulierung & Priortisierung vo
+- Trägt Verantwortung über Formulierung & Priorisierung von Anforderungen
+	→ geschieht durch **Product Backlog** (auch Verantwortungsträger)
+#### Scrum Master
+- Berater (greift nicht in Pro)
+- Sicherstellung von Regeln, Praktiken & Prozessen
+- Schult Mitarbeiter, unterstützt Entwicklung eines Bewusstseins für agile Arbeitsweise
+- Hilfe bei Einführung, Anpassung & Vorgehen von Scrum
+- 
