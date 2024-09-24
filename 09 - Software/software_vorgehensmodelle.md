@@ -26,4 +26,12 @@ ___
 1. **Coding**
 2. **Feedback einholen**
 ## Spiralmodell
-- 
+- **Iterativer Prozess** (statt linearer)
+- Eingriff durch Management durch Wiederholungen von Phasen möglich
+- Risiko des Scheiterns wird mit einbezogen
+### Phasen
+1. **Festlegung von Zielen, Alternativen & Rahmenbedingungen**
+2. **Evaluierung der Alternativen & Erkennen und Reduzieren von Risiken**
+3. **Realisierung & Überprüfung des Zwischenprodukts**
+4. **Planung der Projektfortsetzung**
+## V-Modell
