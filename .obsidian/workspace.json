@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "5763264e2fccc572",
+    "type": "split",
+    "children": [
+      {
+        "id": "59271f9c574c3d88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72b9f5224c744d9f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64ebdb829c11b56b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c72bf26045985598",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f5c7bd669d58100",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be2e4aabaca33dac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "rip",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "413e84b86924e884",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00aef108bba0d04b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1b9424aa02a1eb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54554b71cf5d3dab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d343ffbc41b570d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5364779db2bd2fd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "295f29a897a0bc7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a01cd07fb78fc8b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "72b9f5224c744d9f",
+  "lastOpenFiles": [
+    "praktikum.md",
+    "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
+    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf",
+    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_analysis.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_address_types.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4.md",
+    "00 - BSN/99 - archive/strukturierte_verkabelung.md",
+    "00 - BSN/99 - archive/physisches_netz_praes.md",
+    "00 - BSN/99 - archive/netz_koppelelemente.md",
+    "00 - BSN/99 - archive/ip_netzwerk_konfig_praes.md",
+    "00 - BSN/99 - archive/ip_netzwerk_konfig.md",
+    "00 - BSN/99 - archive/fritzbox_multifunctionsrouter.md",
+    "00 - BSN/99 - archive/0 - klausur 4 vorbereitung/merkblatt.md",
+    "01 - ET/et__18_09_24.md",
+    "01 - ET/et_kondensator_kapazitaet_13_09_24.md",
+    "01 - ET/et_fehlerarten_23_08_24.md",
+    "07 - English/en_comment_vr_integration_schools_17_09_24.md",
+    "02 - MMI/mmi_knx_topologie_praesentation.md",
+    "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
+    "99 - misc/Pasted image 20240915205143.png",
+    "99 - misc/Pasted image 20240915204259.png",
+    "00 - BSN/1 - glossary/1.3 - routing/IP-Netze-07.30_Routing_NetIT-Exkurs_DOC.pdf",
+    "00 - BSN/1 - glossary/1.3 - routing/1.3.0 - routing protocols/rip.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_header.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv6/ipv6_header.md",
+    "01 - ET/et_szenario_22_08_24.pdf",
+    "01 - ET/et_04_09_24.md",
+    "01 - ET/oszilloskop.md",
+    "01 - ET/et_szenario_netzwerk_testen_21_08_24.md",
+    "07 - English/metaverse_pros_cons_12_09_24.md",
+    "07 - English/en_metaverse_03_09_24.md",
+    "06 - Wirtschaft/0 - res/01 - Ablatt Darlehensarten.pdf",
+    "06 - Wirtschaft/0 - res/I+F WBL_Buch.pdf",
+    "06 - Wirtschaft/0 - res",
+    "99 - misc/Pasted image 20240909122430.png",
+    "99 - misc/Pasted image 20240909115319.png",
+    "99 - misc/Pasted image 20240909114503.png",
+    "02 - MMI/0 - res",
+    "00 - BSN/1 - glossary/1.3 - routing/1.3.1 - Aufgaben/IP-Netze-07.34_Routing_NetIT-Exkurs_AUF.pdf",
+    "00 - BSN/1 - glossary/1.3 - routing/1.3.1 - Aufgaben/IP-Netze-07.20_Routing_Einführung_Basics2_AUF.pdf",
+    "99 - misc/Pasted image 20240902084915.png",
+    "99 - misc/Pasted image 20240902083932.png",
+    "99 - misc/Pasted image 20240902083157.png",
+    "04 - Deutsch/0 - archive/werbung_spinat_kaese_staebchen.jpg",
+    "99 - misc/Pasted image 20240823074438.png"
+  ]
+}

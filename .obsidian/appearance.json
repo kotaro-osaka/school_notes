@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "cssTheme": "GitHub Theme",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ],
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
+}

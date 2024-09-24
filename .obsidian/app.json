@@ -1,0 +1,18 @@
+{
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "attachmentFolderPath": "99 - misc",
+  "propertiesInDocument": "visible",
+  "foldHeading": true,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
