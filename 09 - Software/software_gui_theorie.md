@@ -18,4 +18,10 @@ ___
 ### 2. Informatives Feedback
 - Systemstand muss zu jeder Zeit ersichtlich sein
 ### 3. Abgeschlossene Dialoge
-- Überblick von Funktionen und Prozesse
+- Überblick von Funktionen und Prozessen durch klaren Anfang und klaren Ende gewährleisten
+### 4. Fehler Vermeidung und Behandlung
+- Fehleingaben durch genügend Information vermeiden
+- Erkennen von Fehleingaben
+- Unterstützung bei Korrektur
+### 5. Umkehrbarkeit von Aktionen
+- 
