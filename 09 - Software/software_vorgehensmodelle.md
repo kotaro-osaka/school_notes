@@ -13,10 +13,17 @@ ___
 - Ergebnisse der vorherigen Phase dienen als Input für darauffolgende Phase
 - Rückgriffe und Iterationen zwischen aufeinander folgende Phasen nur begrenzt möglich 
 ### Phasen
-1. Analyse (Ist/Soll)
-2. Entwurf
-3. Implementierung
-4. Test
-5. Softwarepflege und -änderung (nach Einführung/Inbetriebnahme)
+1. **Analyse** (Ist/Soll)
+2. **Entwurf**
+3. **Implementierung**
+4. **Test**
+5. **Softwarepflege und -änderung** (nach Einführung/Inbetriebnahme)
 ## Prototyping
-- Ziel: **Schnelle Ergebnisse** und **frühzeitiges Feedback** (Eignung)
+- Ziel: **Schnelle Ergebnisse** und **frühzeitiges Feedback** (Eignung des Lösungsansatzes)
+- **Frühzeitige Erkennung** von Problemen und Änderungswünschen
+	→ Weniger Aufwand zu beheben (als nach kompletter Fertigstellung)
+### Phasen
+1. **Coding**
+2. **Feedback einholen**
+## Spiralmodell
+- 
