@@ -59,4 +59,14 @@ ___
 - **Feedback**
 - **Courage**
 ## Scrum
-- Agile/dynamische Vorgehensweise
+- Agile Vorgehensweise
+- Keine Vorschriften zur Programmierung
+- Vorgaben für Projektmanagement & Softwareentwicklungsprozess
+### Rollen
+- Product Owner
+- Scrum Master
+- Development Team
+#### Product Owner
+- Formuliert Anforderungen an das Produkt (Ziel)
+- Entscheidet welche Anforderungen umgesetzt werden
+- Trägt Verantwortung über Formulierung & Priortisierung vo
