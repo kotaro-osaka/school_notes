@@ -27,5 +27,8 @@ ___
 - Eingaben müssen rückgängig gemacht werden können
 ### 6. Benutzerkontrolle gewährleisten
 - Aktionen selbst **auslösen**, **unterbrechen** und **stoppen** können
-### Kurzzeitgedächtnis entlasten
+### 7. Kurzzeitgedächtnis entlasten
 - Nur nötigen Elemente & Informationen, die zur Zielerreichung nötig sind, anzeigen
+### 8. Universelle Benutzbarkeit
+- Praktische Bedienung für jeden
+- Tastatur-Shortcuts für Erfahrene

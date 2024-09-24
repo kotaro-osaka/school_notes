@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Software/ABSCHLUSSKLAUSUR.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ea7b3fae7f3f346",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09 - Software/software_gui_theorie.md",
+                "file": "09 - Software/software_vorgehensmodelle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -101,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Software/software_gui_theorie.md",
+                "file": "09 - Software/software_vorgehensmodelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Software/software_gui_theorie.md",
+                "file": "09 - Software/software_vorgehensmodelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Software/software_gui_theorie.md"
+                "file": "09 - Software/software_vorgehensmodelle.md"
               }
             }
           },
@@ -179,9 +164,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5ea7b3fae7f3f346",
+  "active": "f402208a28bee13b",
   "lastOpenFiles": [
     "09 - Software/ABSCHLUSSKLAUSUR.md",
+    "09 - Software/software_vorgehensmodelle.md",
     "09 - Software/software_gui_theorie.md",
     "09 - Software/software_pflichtenheft.md",
     "09.md",
@@ -207,7 +193,6 @@
     "00 - BSN/99 - archive/fritzbox_multifunctionsrouter.md",
     "00 - BSN/99 - archive/0 - klausur 4 vorbereitung/merkblatt.md",
     "01 - ET/et__18_09_24.md",
-    "01 - ET/et_kondensator_kapazitaet_13_09_24.md",
     "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
     "99 - misc/Pasted image 20240915205143.png",
     "99 - misc/Pasted image 20240915204259.png",
