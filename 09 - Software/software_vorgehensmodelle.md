@@ -54,4 +54,9 @@ ___
 - “Der Kunde bekommt genau das, was er braucht, und genau dann, wann er es braucht.”
 - 3-10 Entwickler
 ### Werte
--
+- **Kommunikation**
+- **Einfachheit**
+- **Feedback**
+- **Courage**
+## Scrum
+- Agile/dynamische Vorgehensweise
