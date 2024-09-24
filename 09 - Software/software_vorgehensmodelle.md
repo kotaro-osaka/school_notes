@@ -72,8 +72,15 @@ ___
 - Trägt Verantwortung über Formulierung & Priorisierung von Anforderungen
 	→ geschieht durch **Product Backlog** (auch Verantwortungsträger)
 #### Scrum Master
-- Berater (greift nicht in Pro)
+- Berater (greift **nur bei Hindernissen/Beeinträchtigungen** ein)
 - Sicherstellung von Regeln, Praktiken & Prozessen
-- Schult Mitarbeiter, unterstützt Entwicklung eines Bewusstseins für agile Arbeitsweise
-- Hilfe bei Einführung, Anpassung & Vorgehen von Scrum
+- Unterstützt Entwicklung eines Bewusstseins für agile Arbeitsweise
+- Hilft bei Einführung, Anpassung & Vorgehen von Scrum
+- Coaching zur Selbstorganisation & Funktionsübergreifende Zusammenarbeit
+- Moderation von Events & Meetings
+- Unterstützt **Product Owner** bei Erstellung & Kommunikation des **Product Backlogs**
+#### Development Team
+- Erstellt “**Produktinkrement**”
+- 3-9 hoch qualifizierte Fachkräfte
+	- Sollten fachübergreifend alle Fähigkeiten & Kompetenzen aufweisen
 - 
