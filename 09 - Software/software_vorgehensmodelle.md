@@ -83,4 +83,13 @@ ___
 - Erstellt “**Produktinkrement**”
 - 3-9 hoch qualifizierte Fachkräfte
 	- Sollten fachübergreifend alle Fähigkeiten & Kompetenzen aufweisen
-- 
+### Phasen (“Artefakte”)
+1. **Product Backlog**
+	→ Liste an Anforderungen an Produkt
+	→ Dynamisches Dokument (Festlegung und Priorisierung von Anforderungen, Funktionalitäten, Eigenschaften & Änderungen)
+2. **Sprint Backlog**
+	→ Ausgewählte Menge an Items, die im darauf folgenden Zyklus abgearbeitet werden
+	→ Aufgaben werden nach Priorität in Sprint Backlog aufgenommen & abgearbeitet
+	→ Nur Hoch priorisierte Items werden ausgewählt
+	→  
+1. **Inkrement**
