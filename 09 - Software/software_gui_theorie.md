@@ -24,4 +24,8 @@ ___
 - Erkennen von Fehleingaben
 - Unterstützung bei Korrektur
 ### 5. Umkehrbarkeit von Aktionen
-- 
+- Eingaben müssen rückgängig gemacht werden können
+### 6. Benutzerkontrolle gewährleisten
+- Aktionen selbst **auslösen**, **unterbrechen** und **stoppen** können
+### Kurzzeitgedächtnis entlasten
+- Nur nötigen Elemente & Informationen, die zur Zielerreichung nötig sind, anzeigen
