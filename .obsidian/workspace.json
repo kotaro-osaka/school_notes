@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Software/ABSCHLUSSKLAUSUR.md",
+                "file": "09 - Software/software_pflichtenheft.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Software/ABSCHLUSSKLAUSUR.md",
+                "file": "09 - Software/software_pflichtenheft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Software/ABSCHLUSSKLAUSUR.md",
+                "file": "09 - Software/software_pflichtenheft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Software/ABSCHLUSSKLAUSUR.md"
+                "file": "09 - Software/software_pflichtenheft.md"
               }
             }
           },
@@ -167,6 +168,8 @@
   "active": "ad6bc1c0c9b6b67a",
   "lastOpenFiles": [
     "09 - Software/ABSCHLUSSKLAUSUR.md",
+    "09 - Software/software_pflichtenheft.md",
+    "09 - Software/0 - archive/Untitled.md",
     "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
     "04 - Deutsch/ABSCHLUSSKLAUSUR.md",
     "02 - MMI/ABSCHLUSSKLAUSUR.md",
@@ -195,8 +198,6 @@
     "99 - misc/Pasted image 20240915205143.png",
     "99 - misc/Pasted image 20240915204259.png",
     "00 - BSN/1 - glossary/1.3 - routing/IP-Netze-07.30_Routing_NetIT-Exkurs_DOC.pdf",
-    "00 - BSN/1 - glossary/1.3 - routing/1.3.0 - routing protocols/rip.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_header.md",
     "01 - ET/et_szenario_22_08_24.pdf",
     "06 - Wirtschaft/0 - res/01 - Ablatt Darlehensarten.pdf",
     "06 - Wirtschaft/0 - res/I+F WBL_Buch.pdf",
