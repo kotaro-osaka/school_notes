@@ -16,4 +16,6 @@ ___
 ### 1. Konsistenz
 - Verwandte Elemente müssen in **Anordnung**, **Farbe** und **Funktionalität** konsistent bleiben
 ### 2. Informatives Feedback
-- Feedback zu durchgelaufenen
+- Systemstand muss zu jeder Zeit ersichtlich sein
+### 3. Abgeschlossene Dialoge
+- Überblick von Funktionen und Prozesse
