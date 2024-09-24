@@ -18,4 +18,4 @@ ___
 ___
 > Sie sind es gewohnt nach einem Vorgehensmodell zu arbeiten. Entscheiden Sie sich begründet für ein Vorgehensmodell.
 
-Ich habe mich für **Extreme Programming** (XP) entschieden, da
+Ich habe mich für **Extreme Programming** (XP) entschieden, da das Lösen der Programmieraufgabe dabei in den Vordergrund gestellt wird. Dies finde ich für diese Aufgabe am passendsten, weil es darum geht einen Teilbereich des eigentlichen Projektes “AmNetPrime” nach Vorgaben zu implementieren und das Basiswissen dafür bereits besteht. Fragen zur genaueren Implementation sind weitestgehend selbsterklärend und müssen sonst 
