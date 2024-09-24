@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c1f46256674c46d",
+        "id": "03f77d4230ebd80a",
         "type": "tabs",
         "children": [
           {
-            "id": "9f6922485bf38c90",
+            "id": "a87a8f72beed4a9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
+                "file": "09 - Software/software_gui_theorie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
+                "file": "09 - Software/software_gui_theorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
+                "file": "09 - Software/software_gui_theorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Software/software_amnetprime_favoritenliste_24_09_24.md"
+                "file": "09 - Software/software_gui_theorie.md"
               }
             }
           },
@@ -165,10 +164,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9f6922485bf38c90",
+  "active": "a87a8f72beed4a9e",
   "lastOpenFiles": [
-    "09 - Software/software_vorgehensmodelle.md",
     "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
+    "09 - Software/software_vorgehensmodelle.md",
     "09 - Software/ABSCHLUSSKLAUSUR.md",
     "09 - Software/software_gui_theorie.md",
     "09 - Software/software_pflichtenheft.md",
