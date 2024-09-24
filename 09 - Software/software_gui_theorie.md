@@ -14,4 +14,6 @@ ___
 - Ergebnis: **Gebrauchstauglichkeit**
 ## Die 8 Goldenen Regeln (des Interface Designs)
 ### 1. Konsistenz
-- Verwandte Elemente
+- Verwandte Elemente müssen in **Anordnung**, **Farbe** und **Funktionalität** konsistent bleiben
+### 2. Informatives Feedback
+- Feedback zu durchgelaufenen
