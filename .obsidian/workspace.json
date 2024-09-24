@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "acdee4389a10d646",
+        "id": "2c1f46256674c46d",
         "type": "tabs",
         "children": [
           {
-            "id": "f402208a28bee13b",
+            "id": "9f6922485bf38c90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Software/ABSCHLUSSKLAUSUR.md",
+                "file": "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "572eca89b98c4ca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "658136a2dca5ff15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09 - Software/software_vorgehensmodelle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -86,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Software/ABSCHLUSSKLAUSUR.md",
+                "file": "09 - Software/software_vorgehensmodelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Software/ABSCHLUSSKLAUSUR.md",
+                "file": "09 - Software/software_vorgehensmodelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Software/ABSCHLUSSKLAUSUR.md"
+                "file": "09 - Software/software_vorgehensmodelle.md"
               }
             }
           },
@@ -164,8 +184,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f402208a28bee13b",
+  "active": "658136a2dca5ff15",
   "lastOpenFiles": [
+    "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
     "09 - Software/software_vorgehensmodelle.md",
     "09 - Software/ABSCHLUSSKLAUSUR.md",
     "09 - Software/software_gui_theorie.md",
@@ -179,7 +200,6 @@
     "01 - ET/ABSCHLUSSKLAUSUR.md",
     "00 - BSN/ABSCHLUSSKLAUSUR.md",
     "praktikum.md",
-    "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
     "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf",
     "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
     "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_analysis.md",

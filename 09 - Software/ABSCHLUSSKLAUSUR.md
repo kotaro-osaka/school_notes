@@ -7,4 +7,6 @@ ___
 3. [Vorgehensmodelle](/09%20-%20Software/software_vorgehensmodelle)
 4. Struktogramm Syntax
 5. Sortieralgorithmen???
-6. 
+6. Polymorphie & Vererbung
+7. Datenbankeinbindung
+8. GUI???
