@@ -38,4 +38,20 @@ ___
 - **Qualitätssicherung** durch Testphasen
 - Erste Hälfte bezieht sich auf **funktionale/fachliche** Spezifikation, die in **technische** Spezifikation übergeht und in **Implementierungsgrundlage** ausgebaut wird
 ### Phasen
-1. Sy
+1. **Systemanforderungsanalyse**
+2. **System-Architektur**
+3. **System-Entwurf**
+4. **Software-Architektur**
+5. **Software-Entwurf**
+6. **Unit-Tests**
+7. **Integration-Tests**
+8. **System-Integration**
+9. **Abnahme & Nutzung**
+## Extreme Programming (XP)
+- Stellt Lösen der Programmieraufgabe in Vordergrund
+- Formalisiertes Vorgehen hat geringere Bedeutung
+- Orientierung an Bedürfnissen des Kunden
+- “Der Kunde bekommt genau das, was er braucht, und genau dann, wann er es braucht.”
+- 3-10 Entwickler
+### Werte
+-
