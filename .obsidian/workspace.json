@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1cd2dbe0dd423942",
+        "id": "acdee4389a10d646",
         "type": "tabs",
         "children": [
           {
-            "id": "ad6bc1c0c9b6b67a",
+            "id": "5ea7b3fae7f3f346",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Software/software_pflichtenheft.md",
+                "file": "09 - Software/ABSCHLUSSKLAUSUR.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Software/software_pflichtenheft.md",
+                "file": "09 - Software/ABSCHLUSSKLAUSUR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Software/software_pflichtenheft.md",
+                "file": "09 - Software/ABSCHLUSSKLAUSUR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Software/software_pflichtenheft.md"
+                "file": "09 - Software/ABSCHLUSSKLAUSUR.md"
               }
             }
           },
@@ -165,9 +164,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ad6bc1c0c9b6b67a",
+  "active": "5ea7b3fae7f3f346",
   "lastOpenFiles": [
+    "09.md",
     "09 - Software/ABSCHLUSSKLAUSUR.md",
+    "software_pflichtenheft.md",
     "09 - Software/software_pflichtenheft.md",
     "09 - Software/0 - archive/Untitled.md",
     "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
@@ -192,8 +193,6 @@
     "01 - ET/et__18_09_24.md",
     "01 - ET/et_kondensator_kapazitaet_13_09_24.md",
     "01 - ET/et_fehlerarten_23_08_24.md",
-    "07 - English/en_comment_vr_integration_schools_17_09_24.md",
-    "02 - MMI/mmi_knx_topologie_praesentation.md",
     "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
     "99 - misc/Pasted image 20240915205143.png",
     "99 - misc/Pasted image 20240915204259.png",
