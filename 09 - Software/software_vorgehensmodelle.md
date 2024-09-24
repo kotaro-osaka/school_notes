@@ -35,3 +35,7 @@ ___
 3. **Realisierung & Überprüfung des Zwischenprodukts**
 4. **Planung der Projektfortsetzung**
 ## V-Modell
+- **Qualitätssicherung** durch Testphasen
+- Erste Hälfte bezieht sich auf **funktionale/fachliche** Spezifikation, die in **technische** Spezifikation übergeht und in **Implementierungsgrundlage** ausgebaut wird
+### Phasen
+1. Sy
