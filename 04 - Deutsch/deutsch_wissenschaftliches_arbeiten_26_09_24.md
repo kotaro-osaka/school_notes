@@ -29,3 +29,6 @@ ___
 3. Methode
 	→ Quantitativ (Daten in Form von Zahlen; Häufigkeit)
 	→ Qualitativ (Daten in Form von Texten; Tiefergehende Meinungen)
+4. Literatur recherchieren & Aussagen belegen
+5. Forschungsfrage beantworten
+	→ Gütekriterien erfüllen
