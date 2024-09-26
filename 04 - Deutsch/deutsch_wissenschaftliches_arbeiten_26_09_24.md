@@ -9,5 +9,6 @@ ___
 - Methodisches Vorgehen
 - Gütekriterien
 	- Validität
-	- Reliabilität
+	- Reliabilität → Wiederholung liefert ähnliche Ergebnisse
 	- Objektivität
+- 
