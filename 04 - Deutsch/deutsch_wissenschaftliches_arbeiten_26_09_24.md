@@ -38,3 +38,5 @@ ___
 3. Einleitung → Interesse wecken; Thema & Aufbau vorstellen
 4. Hauptteil → Theoretische Grundlagen (Fachbegriffe, Theorien, Konzepte); Methodik
 5. Fazit → Erkenntnisse; Forschungsfrage beantworten; Ziel erreicht?; Zukunftsaussichten
+## Wissenschaftliches Schreiben
+- Abkürzungen richtig verwenden → Fußzeile
