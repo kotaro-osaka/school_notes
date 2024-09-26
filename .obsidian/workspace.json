@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "10108a557bea26ae",
+        "id": "59271f9c574c3d88",
         "type": "tabs",
         "children": [
           {
-            "id": "7ff292001b6eb955",
+            "id": "72b9f5224c744d9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Software/software_gui_theorie.md",
+                "file": "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Software/software_gui_theorie.md",
+                "file": "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Software/software_gui_theorie.md"
+                "file": "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md"
               }
             }
           },
@@ -159,24 +164,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "72b9f5224c744d9f",
   "lastOpenFiles": [
+    "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
+    "09 - Software/software_vorgehensmodelle.md",
+    "09 - Software/software_pflichtenheft.md",
+    "09 - Software/software_gui_theorie.md",
     "09 - Software/favoritenliste.png",
     "09 - Software/favoritenliste.drawio",
-    "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
-    "09 - Software/software_vorgehensmodelle.md",
     "09 - Software/ABSCHLUSSKLAUSUR.md",
-    "09 - Software/software_gui_theorie.md",
-    "09 - Software/software_pflichtenheft.md",
-    "09.md",
-    "software_pflichtenheft.md",
-    "09 - Software/0 - archive/Untitled.md",
     "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
     "04 - Deutsch/ABSCHLUSSKLAUSUR.md",
-    "02 - MMI/ABSCHLUSSKLAUSUR.md",
-    "01 - ET/ABSCHLUSSKLAUSUR.md",
     "00 - BSN/ABSCHLUSSKLAUSUR.md",
     "praktikum.md",
+    "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
     "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf",
     "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
     "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_analysis.md",
@@ -189,6 +190,11 @@
     "00 - BSN/99 - archive/ip_netzwerk_konfig.md",
     "00 - BSN/99 - archive/fritzbox_multifunctionsrouter.md",
     "00 - BSN/99 - archive/0 - klausur 4 vorbereitung/merkblatt.md",
+    "01 - ET/et__18_09_24.md",
+    "01 - ET/et_kondensator_kapazitaet_13_09_24.md",
+    "01 - ET/et_fehlerarten_23_08_24.md",
+    "07 - English/en_comment_vr_integration_schools_17_09_24.md",
+    "02 - MMI/mmi_knx_topologie_praesentation.md",
     "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
     "99 - misc/Pasted image 20240915205143.png",
     "99 - misc/Pasted image 20240915204259.png",
@@ -205,7 +211,6 @@
     "99 - misc/Pasted image 20240902084915.png",
     "99 - misc/Pasted image 20240902083932.png",
     "99 - misc/Pasted image 20240902083157.png",
-    "04 - Deutsch/0 - archive/werbung_spinat_kaese_staebchen.jpg",
-    "99 - misc/Pasted image 20240823074438.png"
+    "04 - Deutsch/0 - archive/werbung_spinat_kaese_staebchen.jpg"
   ]
 }
