@@ -14,3 +14,6 @@ ___
 - Aussagen fundieren
 - Begriffserklärung
 - Richtiges Zitieren
+	- Abrufsdatum
+- Quellenangaben
+## Vorgehen
