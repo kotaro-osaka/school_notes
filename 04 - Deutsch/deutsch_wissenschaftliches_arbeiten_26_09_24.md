@@ -24,5 +24,8 @@ ___
 	2.2 Theoretische Grundlagen → Womit?
 	2.3 Methodik → Wie?
 	2.4 Ergebnisse
-	2.5 Diskussion
+	2.5 Diskussion → Vergleich mit Theorie
 	2.6 Fazit
+3. Methode
+	→ Quantitativ (Daten in Form von Zahlen; Häufigkeit)
+	→ Qualitativ (Daten in Form von Texten; Tiefergehende Meinungen)
