@@ -11,4 +11,6 @@ ___
 	- Validität
 	- Reliabilität → Wiederholung liefert ähnliche Ergebnisse
 	- Objektivität
-- 
+- Aussagen fundieren
+- Begriffserklärung
+- Richtiges Zitieren
