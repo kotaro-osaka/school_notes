@@ -40,20 +40,25 @@ $$
 ___
 ## Aufgabe
 **Geg.**:
-$\mu_r=2$
+$\mu_r=1$
 $N=100$
 $\varnothing = 3cm$
 $l=20cm$
 
 **Ges.**: $L$
+$$\begin{flalign}
+L=\mu_0\times\mu_r\times n^2\times\frac{A}{l}&&
+\end{flalign}$$
 $$
 \begin{flalign}
 A &= \frac{d^2\times\pi}{4} = \frac{0,03m^2\pi}{4}&& \\
-A &=7,06 \times 10^{-4}m^2 &&
+A &=7,06 \times 10^{-4}m^2 && \\
+
 \end{flalign}
 $$
 $$
 \begin{flalign}
-L &= 4\pi \times 10^{-7} \times 1 \times 100 && \\
+L &= 4\pi \times 10^{-7} \times 1 \times 100 \frac{7,06\times10^{-4}m^2}{0,2m} && \\
+&= 
 \end{flalign}
 $$
