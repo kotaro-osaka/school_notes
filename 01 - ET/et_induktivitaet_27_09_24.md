@@ -58,7 +58,7 @@ A &=7,06 \times 10^{-4}m^2 && \\
 $$
 $$
 \begin{flalign}
-L &= 4\pi \times 10^{-7} \times 1 \times 100 \frac{7,06\times10^{-4}m^2}{0,2m} && \\
+L &= 4\pi \times 10^{-7} \times 1 \times 100 \times \frac{7,06\times10^{-4}m^2}{0,2m} && \\
 &= 
 \end{flalign}
 $$
