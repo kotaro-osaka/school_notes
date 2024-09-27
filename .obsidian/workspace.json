@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "59271f9c574c3d88",
+        "id": "319ad1246c59b3c3",
         "type": "tabs",
         "children": [
           {
-            "id": "72b9f5224c744d9f",
+            "id": "cf69e82582685a77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +155,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "72b9f5224c744d9f",
+  "active": "cf69e82582685a77",
   "lastOpenFiles": [
     "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
     "09 - Software/software_vorgehensmodelle.md",
