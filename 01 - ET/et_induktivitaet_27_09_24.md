@@ -59,6 +59,6 @@ $$
 $$
 \begin{flalign}
 L &= 4\pi \times 10^{-7} \times 1 \times 100 \times \frac{7,06\times10^{-4}m^2}{0,2m} && \\
-&= 
+&\approx 1,39\times10^{-4}
 \end{flalign}
 $$
