@@ -16,8 +16,8 @@ $A=0,0001m^2$
 $l=0,1m$
 $$
 \begin{flalign}
-L=4\pi \times 10^{-7} \frac{N}{A^2} \times 2 \times 100^2 \times \frac{0,0001m^2}{0,1m}&&
-=2,5\times10^{-5}H&&
+L &=4\pi \times 10^{-7} \frac{N}{A^2} \times 2 \times 100^2 \times \frac{0,0001m^2}{0,1m}&& \\
+ &=2,5\times10^{-5}H&&
 \end{flalign}
 $$
 ___
@@ -28,13 +28,3 @@ $\varnothing = 3cm$
 $l=20cm$
 
 **Ges.**: $L$
-
-$$
-\begin{flalign}
-\text { output }=
-\begin{cases}
-0 & \text { if } \sum_{j} w_{j} x_{j} \leq \text { threshold } \\
-1 & \text { if } \sum_{j} w_{j} x_{j}>\text { threshold}
-\end{cases}&&
-\end{flalign}
-$$
