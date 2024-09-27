@@ -4,7 +4,8 @@
   "theme": "system",
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "Colored Sidebar Items"
+    "Colored Sidebar Items",
+    "obsidian"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
