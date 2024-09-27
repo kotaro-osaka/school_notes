@@ -1,6 +1,6 @@
 # Induktivität
 ___
-## Formel
+## Gerade lange Spule
 $$\begin{flalign}
 L=\mu_0\times\mu_r\times n^2\times\frac{A}{l}&&
 \end{flalign}$$
@@ -10,16 +10,21 @@ $n^2$: Anzahl der Windungen
 $A$: Querschnittsfläche
 $l$: Länge
 ### Beispiel
+**Geg.**:
 $\mu_R=2$
 $n=100$
 $A=0,0001m^2$
 $l=0,1m$
+
+**Ges.**: $L$
 $$
 \begin{flalign}
 L &=4\pi \times 10^{-7} \frac{N}{A^2} \times 2 \times 100^2 \times \frac{0,0001m^2}{0,1m}&& \\
  &=2,5\times10^{-5}H&&
 \end{flalign}
 $$
+$H$: Henry
+##
 ___
 ## Aufgabe
 **Geg.**:
@@ -28,3 +33,8 @@ $\varnothing = 3cm$
 $l=20cm$
 
 **Ges.**: $L$
+$$
+\begin{flalign}
+&&
+\end{flalign}
+$$
