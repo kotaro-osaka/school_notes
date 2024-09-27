@@ -47,6 +47,13 @@ $l=20cm$
 **Ges.**: $L$
 $$
 \begin{flalign}
-A &= \frac&&
+A &= \frac{d^2\times\pi}{4}&& \\
+&= \frac{0,03m^2\pi}{4}&& \\
+&= A=7,06 \times 10^{-4}m^2 &&
+\end{flalign}
+$$
+$$
+\begin{flalign}
+L &= 4\pi \times 10^{-7} && \\
 \end{flalign}
 $$
