@@ -11,8 +11,13 @@
             "id": "cf69e82582685a77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 - ET/et_induktivitaet_27_09_24.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 - ET/et_induktivitaet_27_09_24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 - ET/et_induktivitaet_27_09_24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 - ET/et_induktivitaet_27_09_24.md"
+              }
             }
           },
           {
@@ -157,6 +166,7 @@
   },
   "active": "cf69e82582685a77",
   "lastOpenFiles": [
+    "01 - ET/et_induktivitaet_27_09_24.md",
     "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
     "09 - Software/software_vorgehensmodelle.md",
     "09 - Software/software_pflichtenheft.md",
@@ -185,7 +195,6 @@
     "01 - ET/et_kondensator_kapazitaet_13_09_24.md",
     "01 - ET/et_fehlerarten_23_08_24.md",
     "07 - English/en_comment_vr_integration_schools_17_09_24.md",
-    "02 - MMI/mmi_knx_topologie_praesentation.md",
     "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
     "99 - misc/Pasted image 20240915205143.png",
     "99 - misc/Pasted image 20240915204259.png",
