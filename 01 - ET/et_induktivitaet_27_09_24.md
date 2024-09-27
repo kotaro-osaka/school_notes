@@ -9,7 +9,21 @@ $\mu_r$: Permeabilität
 $n^2$: Anzahl der Windungen
 $A$: Querschnittsfläche
 $l$: Länge
-
+### Beispiel
+$\mu_R=2$
+$n=100$
+$A=0,0001m^2$
+$l=0,1m$
+$$
+\begin{flalign}
+L=4\pi \times &&
+\end{flalign}
+$$
 ___
 ## Aufgabe
+**Geg.**:
+$N=100$
 $\varnothing = 3cm$
+$l=20cm$
+
+**Ges.**: $L$
