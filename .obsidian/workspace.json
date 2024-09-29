@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "10108a557bea26ae",
+        "id": "cb29e26f9c0ac521",
         "type": "tabs",
         "children": [
           {
-            "id": "7ff292001b6eb955",
+            "id": "106047fec4d6b894",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Mathe/trigonometrie.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Mathe/trigonometrie.md",
+                "file": "03 - Mathe/1 - archive/trigonometrie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Mathe/trigonometrie.md",
+                "file": "03 - Mathe/1 - archive/trigonometrie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Mathe/trigonometrie.md"
+                "file": "03 - Mathe/1 - archive/trigonometrie.md"
               }
             }
           },
@@ -164,10 +159,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7ff292001b6eb955",
+  "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
     "01 - ET/et_induktivitaet_27_09_24.md",
-    "03 - Mathe/trigonometrie.md",
+    "03 - Mathe/1 - archive/trigonometrie.md",
     "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
     "09 - Software/favoritenliste.png",
     "09 - Software/favoritenliste.drawio",
