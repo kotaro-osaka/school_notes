@@ -64,3 +64,4 @@ ___
 > $\vec{e_v}=\frac{1}{|\vec{v}|}\times\vec{v}$
 > » “Normieren”
 
+![[99 - misc/videoframe_162647.png|500]]
