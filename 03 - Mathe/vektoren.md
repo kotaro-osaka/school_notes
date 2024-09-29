@@ -89,4 +89,6 @@ ___
 ### 1 Vektor gegeben
 1. Skalarprodukt $\vec{a}\times\vec{b}$ mit zufälligen Zahlen ($\neq0$) für $b_1$ und $b_2$ nach $b_3$ auflösen
 2. Orthogonaler Vektor: $\vec{b}=\begin{pmatrix}b_1 \\ b_2 \\ b_3\end{pmatrix}$
-3. 
+## Kreuzprodukt
+___
+![[99 - misc/Pasted image 20240929190555.png|500]]
