@@ -29,6 +29,23 @@ $$
 		3 \\ -2
 	\end{pmatrix}
 	
-	;\lambda=\frac{1}{2}&&
+	\text{ ; }\lambda=\frac{1}{2}&&
+\end{flalign}
+$$
+$$
+\begin{flalign}
+	\frac{1}{2} \times
+	\begin{pmatrix}
+		3 \\ -2
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		\frac{1}{2} \times 3 \\
+		\frac{1}{2} \times (-2)
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		1,5 \\ -1
+	\end{pmatrix}&&
 \end{flalign}
 $$
