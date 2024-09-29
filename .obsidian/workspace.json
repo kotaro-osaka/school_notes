@@ -11,8 +11,13 @@
             "id": "7ff292001b6eb955",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03 - Mathe/trigonometrie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 - Software/software_gui_theorie.md",
+                "file": "03 - Mathe/trigonometrie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Software/software_gui_theorie.md",
+                "file": "03 - Mathe/trigonometrie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Software/software_gui_theorie.md"
+                "file": "03 - Mathe/trigonometrie.md"
               }
             }
           },
@@ -159,8 +164,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "7ff292001b6eb955",
   "lastOpenFiles": [
+    "03 - Mathe/trigonometrie.md",
     "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
     "01 - ET/et_induktivitaet_27_09_24.md",
     "09 - Software/favoritenliste.png",
@@ -189,7 +195,6 @@
     "00 - BSN/99 - archive/netz_koppelelemente.md",
     "00 - BSN/99 - archive/ip_netzwerk_konfig_praes.md",
     "00 - BSN/99 - archive/ip_netzwerk_konfig.md",
-    "00 - BSN/99 - archive/fritzbox_multifunctionsrouter.md",
     "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
     "99 - misc/Pasted image 20240915205143.png",
     "99 - misc/Pasted image 20240915204259.png",
