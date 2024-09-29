@@ -8,6 +8,13 @@ ___
 
 $$
 \begin{flalign}
-\lambda\times &&
+\lambda\times
+\begin{pmatrix}
+a_1 \\ a_2
+\end{pmatrix} 
+= \begin{pmatrix}
+\lambda\times a_1 \\ \lambda\times a_2
+\end{pmatrix} &&
 \end{flalign}
 $$
+### Beispiel
