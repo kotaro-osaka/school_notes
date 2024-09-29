@@ -11,8 +11,13 @@
             "id": "106047fec4d6b894",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03 - Mathe/1 - archive/trigonometrie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -161,8 +166,8 @@
   },
   "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
-    "01 - ET/et_induktivitaet_27_09_24.md",
     "03 - Mathe/1 - archive/trigonometrie.md",
+    "01 - ET/et_induktivitaet_27_09_24.md",
     "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
     "09 - Software/favoritenliste.png",
     "09 - Software/favoritenliste.drawio",
