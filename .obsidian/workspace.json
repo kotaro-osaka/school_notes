@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb29e26f9c0ac521",
+        "id": "ab4efea694e2098b",
         "type": "tabs",
         "children": [
           {
-            "id": "106047fec4d6b894",
+            "id": "a4e73a10b28d574b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Mathe/1 - archive/trigonometrie.md",
+                "file": "03 - Mathe/vektoren.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Mathe/1 - archive/trigonometrie.md",
+                "file": "03 - Mathe/vektoren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Mathe/1 - archive/trigonometrie.md",
+                "file": "03 - Mathe/vektoren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Mathe/1 - archive/trigonometrie.md"
+                "file": "03 - Mathe/vektoren.md"
               }
             }
           },
@@ -164,8 +164,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "a4e73a10b28d574b",
   "lastOpenFiles": [
+    "99 - misc/Pasted image 20240929122203.png",
+    "03 - Mathe/vektoren.md",
     "03 - Mathe/1 - archive/trigonometrie.md",
     "01 - ET/et_induktivitaet_27_09_24.md",
     "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
@@ -193,8 +195,6 @@
     "00 - BSN/99 - archive/strukturierte_verkabelung.md",
     "00 - BSN/99 - archive/physisches_netz_praes.md",
     "00 - BSN/99 - archive/netz_koppelelemente.md",
-    "00 - BSN/99 - archive/ip_netzwerk_konfig_praes.md",
-    "00 - BSN/99 - archive/ip_netzwerk_konfig.md",
     "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
     "99 - misc/Pasted image 20240915205143.png",
     "99 - misc/Pasted image 20240915204259.png",
