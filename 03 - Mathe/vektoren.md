@@ -8,13 +8,27 @@ ___
 
 $$
 \begin{flalign}
-\lambda\times
-\begin{pmatrix}
-a_1 \\ a_2
-\end{pmatrix} 
-= \begin{pmatrix}
-\lambda\times a_1 \\ \lambda\times a_2
-\end{pmatrix} &&
+	\lambda\times
+	
+	\begin{pmatrix}
+		a_1 \\ a_2
+	\end{pmatrix}
+	=
+	\begin{pmatrix}
+		\lambda\times a_1 \\ \lambda\times a_2
+	\end{pmatrix} &&
 \end{flalign}
 $$
+> $\lambda=\text{Lambda}$
 ### Beispiel
+$$
+\begin{flalign}
+	\vec{a} =
+	
+	\begin{pmatrix}
+		3 \\ -2
+	\end{pmatrix}
+	
+	;\lambda=\frac{1}{2}&&
+\end{flalign}
+$$
