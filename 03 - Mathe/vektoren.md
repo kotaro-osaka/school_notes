@@ -87,6 +87,6 @@ ___
 1. Skalarprodukt $\vec{a}\times\vec{b}$
 2. Wenn $=0$, dann orthogonal
 ### 1 Vektor gegeben
-1. Skalarprodukt $\vec{a}\times\vec{b}$ mit zufälligen Zahlen für $b_1$ und $b_2$ nach $b_3$ auflösen
+1. Skalarprodukt $\vec{a}\times\vec{b}$ mit zufälligen Zahlen ($\neq0$) für $b_1$ und $b_2$ nach $b_3$ auflösen
 2. Orthogonaler Vektor: $\vec{b}=\begin{pmatrix}b_1 \\ b_2 \\ b_3\end{pmatrix}$
 3. 
