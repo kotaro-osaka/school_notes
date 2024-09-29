@@ -69,3 +69,8 @@ ___
 ___
 > Zeigt von Ursprung auf gegebenen Punkt
 
+![[99 - misc/Pasted image 20240929182448.png|500]]
+> Ausgangspunkt von Endpunkt abziehen
+### Schreibweisen
+- $\vec{OA}$: Ortsvektor + Punkt
+- $\vec{a}$: Punkt
