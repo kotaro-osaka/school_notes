@@ -5,3 +5,20 @@ ___
 - **Gegenkathete**: **Gegenüber** von Ankathete/Winkel
 - **Winkel** $\alpha$: Spitzer Winkel
 
+$$
+\begin{flalign}
+sin(\alpha) = \frac{Gegenkathete von \alpha}{Hypotenuse} &&
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+cos(\alpha) = \frac{Ankathete von \alpha}{Hypotenuse}
+\end{flalign}
+$$
+
+$$
+\begin{flalign}
+cos
+\end{flalign}
+$$
