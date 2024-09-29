@@ -1,9 +1,12 @@
 # Vektoren
 ___
+> **Darstellung**: $\vec{v}=\begin{pmatrix}v_1 \\ v_2\end{pmatrix}$
 ## Vektor durch zwei Punkte berechnen
+___
 ![[99 - misc/Pasted image 20240929122203.png|500]]
 > “Spitze minus Fuß”
 ## Skalarmultiplikation
+___
 > Wird verwendet, um Vektor zu Strecken und Stauchen
 
 $$
@@ -49,3 +52,7 @@ $$
 	\end{pmatrix}&&
 \end{flalign}
 $$
+## Betrag eines Vektors
+___
+> Länge eines Vektors
+> **Darstellung**: $|\vec{v}|=\sqrt{}$
