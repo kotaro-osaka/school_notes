@@ -4,21 +4,21 @@ ___
 - **Ankathete**: Seite, **an** dem Winkel
 - **Gegenkathete**: **Gegenüber** von Ankathete/Winkel
 - **Winkel** $\alpha$: Spitzer Winkel
-
+## Formeln
 $$
 \begin{flalign}
-sin(\alpha) = \frac{Gegenkathete von \alpha}{Hypotenuse} &&
+sin(\alpha) = \frac{\text{Gegenkathete von } \alpha}{\text{Hypotenuse}} &&
 \end{flalign}
 $$
 
 $$
 \begin{flalign}
-cos(\alpha) = \frac{Ankathete von \alpha}{Hypotenuse}
+cos(\alpha) = \frac{\text{Ankathete von } \alpha}{\text{Hypotenuse}} &&
 \end{flalign}
 $$
 
 $$
 \begin{flalign}
-cos
+tan(\alpha) = \frac{\text{Gegenkathete von } \alpha}{\text{Ankathete von } \alpha} &&
 \end{flalign}
 $$
