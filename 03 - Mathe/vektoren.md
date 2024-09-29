@@ -58,4 +58,9 @@ ___
 > **Darstellung**: $|\vec{v}|=\sqrt{v_1^2+v_2^2}$
 
 ![[99 - misc/Pasted image 20240929125235.png|500]]
+## Einheitsvektor
+___
+> Vektoren mit der Länge $1$
+> $\vec{e_v}=\frac{1}{|\vec{v}|}\times\vec{v}$
+> » “Normieren”
 
