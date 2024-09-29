@@ -80,4 +80,8 @@ ___
 2. Bestimme $\vec{a}\text{ und }\vec{b}$
 3. Berechne Formel $$\begin{flalign}cos(\theta)=\frac{\vec{a}\times\vec{b}}{|\vec{a}|\times|\vec{b}|}&&\end{flalign}$$
 4. Formel nach $\theta$ umstellen $$\begin{flalign}\theta=cos^{-1}(\frac{\vec{a}\times\vec{b}}{|\vec{a}|\times|\vec{b}|})&&\end{flalign}$$
--1
+## Orthogonale Vektoren
+___
+> Zusammen rechter Winkel
+
+1. Skalarprodukt $\vec{a}\times\vec{b$
