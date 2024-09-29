@@ -65,3 +65,7 @@ ___
 > » “Normieren”
 
 ![[99 - misc/videoframe_162647.png|500]]
+## Ortsvektor
+___
+> Zeigt von Ursprung auf gegebenen Punkt
+
