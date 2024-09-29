@@ -74,3 +74,9 @@ ___
 ### Schreibweisen
 - $\vec{OA}$: Ortsvektor + Punkt
 - $\vec{a}$: Punkt
+## Winkel zwischen zwei Vektoren
+___
+1. Skalarprodukt berechnen $\vec{a}\times\vec{b}$
+2. Bestimme $\vec{a}\text{ und }\vec{b}$
+3. Berechne Formel $$\begin{flalign}cos(\theta)=\frac{\vec{a}\times\vec{b}}{|\vec{a}|\times|\vec{b}|}\end{flalign}$$
+4. Formel nach $\theta$ umstellen
