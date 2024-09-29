@@ -78,5 +78,6 @@ ___
 ___
 1. Skalarprodukt berechnen $\vec{a}\times\vec{b}$
 2. Bestimme $\vec{a}\text{ und }\vec{b}$
-3. Berechne Formel $$\begin{flalign}cos(\theta)=\frac{\vec{a}\times\vec{b}}{|\vec{a}|\times|\vec{b}|}\end{flalign}$$
-4. Formel nach $\theta$ umstellen
+3. Berechne Formel $$\begin{flalign}cos(\theta)=\frac{\vec{a}\times\vec{b}}{|\vec{a}|\times|\vec{b}|}&&\end{flalign}$$
+4. Formel nach $\theta$ umstellen $$\begin{flalign}\theta=cos^{-1}(\frac{\vec{a}\times\vec{b}}{|\vec{a}|\times|\vec{b}|})&&\end{flalign}$$
+-1
