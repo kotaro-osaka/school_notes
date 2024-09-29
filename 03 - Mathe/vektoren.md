@@ -54,7 +54,8 @@ $$
 $$
 ## Betrag eines Vektors
 ___
-> Länge eines Vektors
+> **Länge** eines Vektors
 > **Darstellung**: $|\vec{v}|=\sqrt{v_1^2+v_2^2}$
 
-![[99 - misc/Pasted image 20240929125235.png]]
+![[99 - misc/Pasted image 20240929125235.png|500]]
+
