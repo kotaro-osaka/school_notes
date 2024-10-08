@@ -1,3 +1,3 @@
 # IPv6 Header
 ___
-![[ipv6_header.png]]
+![[ipv6_header.png|750]]

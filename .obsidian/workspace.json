@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "83dcc6683ceaded8",
+        "id": "1311efe24cc3f54b",
         "type": "tabs",
         "children": [
           {
-            "id": "6574a0a1dba72d4e",
+            "id": "71c7372d681fbe5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +155,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6574a0a1dba72d4e",
+  "active": "71c7372d681fbe5e",
   "lastOpenFiles": [
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_header.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv6/ipv6_header.md",
+    "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
+    "98 - Daily Notes/19-09-2023.md",
     "00 - BSN/1 - glossary/1.1 - protocols/tcp.md",
     "Untitled.md",
     "03 - Mathe/vektoren.md",
@@ -200,10 +195,6 @@
     "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4.md",
     "00 - BSN/99 - archive/strukturierte_verkabelung.md",
     "00 - BSN/99 - archive/physisches_netz_praes.md",
-    "00 - BSN/99 - archive/netz_koppelelemente.md",
-    "00 - BSN/99 - archive/ip_netzwerk_konfig_praes.md",
-    "00 - BSN/99 - archive/ip_netzwerk_konfig.md",
-    "00 - BSN/99 - archive/fritzbox_multifunctionsrouter.md",
     "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
     "99 - misc/Pasted image 20240915205143.png",
     "99 - misc/Pasted image 20240915204259.png",
