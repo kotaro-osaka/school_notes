@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
+                "file": "00 - BSN/1 - glossary/1.2 - addressing/mac_address/mac_analysis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
+                "file": "00 - BSN/1 - glossary/1.2 - addressing/mac_address/mac_analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
+                "file": "00 - BSN/1 - glossary/1.2 - addressing/mac_address/mac_analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md"
+                "file": "00 - BSN/1 - glossary/1.2 - addressing/mac_address/mac_analysis.md"
               }
             }
           },
@@ -166,12 +166,13 @@
   },
   "active": "8cca82680b57507f",
   "lastOpenFiles": [
+    "00 - BSN/1 - glossary/1.2 - addressing/mac_address/mac_address.md",
+    "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
     "00 - BSN/1 - glossary/1.0 - misc/dmz.md",
     "00 - BSN/1 - glossary/1.0 - misc/collision.md",
     "00 - BSN/1 - glossary/1.3 - routing/1.3.0 - routing protocols/bgp.md",
     "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_header.md",
     "00 - BSN/1 - glossary/1.2 - addressing/ipv6/ipv6_header.md",
-    "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
     "98 - Daily Notes/19-09-2023.md",
     "00 - BSN/1 - glossary/1.1 - protocols/tcp.md",
     "Untitled.md",
@@ -203,7 +204,6 @@
     "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf",
     "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
     "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_analysis.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_address_types.md",
     "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
     "99 - misc/Pasted image 20240915205143.png",
     "99 - misc/Pasted image 20240915204259.png",
