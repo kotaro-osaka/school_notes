@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/collision.md",
+                "file": "00 - BSN/1 - glossary/1.3 - routing/1.3.0 - routing protocols/ospf.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/collision.md",
+                "file": "00 - BSN/1 - glossary/1.3 - routing/1.3.0 - routing protocols/ospf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/collision.md",
+                "file": "00 - BSN/1 - glossary/1.3 - routing/1.3.0 - routing protocols/ospf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/collision.md"
+                "file": "00 - BSN/1 - glossary/1.3 - routing/1.3.0 - routing protocols/ospf.md"
               }
             }
           },
@@ -166,43 +166,44 @@
   },
   "active": "8cca82680b57507f",
   "lastOpenFiles": [
-    "00 - BSN/1 - glossary/1.2 - addressing/mac_address/mac_types.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/mac_address/mac_address.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/mac_address/mac_analysis.md",
-    "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
-    "00 - BSN/1 - glossary/1.0 - misc/dmz.md",
-    "00 - BSN/1 - glossary/1.0 - misc/collision.md",
+    "00 - BSN/1 - glossary/1.3 - routing/1.3.0 - routing protocols/is-is.md",
+    "00 - BSN/1 - glossary/1.3 - routing/1.3.0 - routing protocols/igp.md",
+    "00 - BSN/1 - glossary/1.3 - routing/1.3.0 - routing protocols/eigrp.md",
     "00 - BSN/1 - glossary/1.3 - routing/1.3.0 - routing protocols/bgp.md",
     "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_header.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv6/ipv6_header.md",
-    "98 - Daily Notes/19-09-2023.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_analysis.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_address_types.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/udp.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/tls.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/telnet.md",
     "00 - BSN/1 - glossary/1.1 - protocols/tcp.md",
-    "Untitled.md",
-    "03 - Mathe/vektoren.md",
-    "01 - ET/et_induktivitaet_27_09_24.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/ssl.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/ssh.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/snmp.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/pptp.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
+    "00 - BSN/1 - glossary/1.1 - protocols/ipsec.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/icmp.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/http.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/ftp.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/dns.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/dhcp.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv6/ipv6.md",
+    "00 - BSN/1 - glossary/1.0 - misc/collision.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/mac_address/mac_types.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/mac_address/mac_address.md",
     "99 - misc/videoframe_162647.png",
     "99 - misc/Pasted image 20240929190555.png",
     "99 - misc/Pasted image 20240929182448.png",
     "99 - misc/Pasted image 20240929125235.png",
     "99 - misc/Pasted image 20240929125221.png",
     "99 - misc/Pasted image 20240929122203.png",
-    "03 - Mathe/1 - archive/trigonometrie.md",
-    "01 - ET/et_kondensator_kapazitaet_13_09_24.md",
     "obsidian.css",
     "New Text Document.txt",
     "New folder",
-    "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
-    "09 - Software/software_vorgehensmodelle.md",
-    "09 - Software/software_pflichtenheft.md",
-    "09 - Software/software_gui_theorie.md",
     "09 - Software/favoritenliste.png",
     "09 - Software/favoritenliste.drawio",
-    "09 - Software/ABSCHLUSSKLAUSUR.md",
-    "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
-    "04 - Deutsch/ABSCHLUSSKLAUSUR.md",
-    "00 - BSN/ABSCHLUSSKLAUSUR.md",
-    "praktikum.md",
-    "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
     "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf",
     "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
     "99 - misc/Pasted image 20240915205143.png",
@@ -210,7 +211,6 @@
     "00 - BSN/1 - glossary/1.3 - routing/IP-Netze-07.30_Routing_NetIT-Exkurs_DOC.pdf",
     "01 - ET/et_szenario_22_08_24.pdf",
     "06 - Wirtschaft/0 - res/01 - Ablatt Darlehensarten.pdf",
-    "06 - Wirtschaft/0 - res/I+F WBL_Buch.pdf",
-    "99 - misc/Pasted image 20240909122430.png"
+    "06 - Wirtschaft/0 - res/I+F WBL_Buch.pdf"
   ]
 }
