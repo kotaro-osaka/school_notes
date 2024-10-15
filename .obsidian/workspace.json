@@ -11,8 +11,13 @@
             "id": "79e0834151c3876e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled 1.md"
+              }
             }
           },
           {
@@ -155,8 +164,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "79e0834151c3876e",
+  "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "06 - Wirtschaft/klausur_themen.md",
     "Untitled.md",
     "06 - Wirtschaft/Untitled.md",
@@ -191,7 +201,6 @@
     "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_analysis.md",
     "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_address_types.md",
     "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4.md",
-    "00 - BSN/99 - archive/strukturierte_verkabelung.md",
     "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
     "99 - misc/Pasted image 20240915205143.png",
     "99 - misc/Pasted image 20240915204259.png",
