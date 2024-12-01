@@ -11,12 +11,3 @@ Bericht mit Aufgabenstellung:
 - Deutsch
 - Englisch
 
-
-Betriebe
-- Elisabeth Hospital
-- Prosper
-- Stadtwerke Herten
-- Stadtwerke Recklinghausen
-- Kreishaus Recklinghausen
-- Keytech
-- [Refine](https://refineit.de/)
