@@ -11,10 +11,15 @@
             "id": "2a85c9a575c84971",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -177,9 +182,33 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "2a85c9a575c84971",
   "lastOpenFiles": [
     "test.md",
+    "Untitled.md",
+    "11 - PPH/pph_nahost_konflikt_2025_13_01.md",
+    "11 - PPH",
+    "07 - English/interview.txt",
+    "03 - Mathe/mathe_ggT_kgv_2025_15_01.md",
+    "03 - Mathe/07_mgk_ggt-kgv.pdf",
+    "01 - ET/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
+    "01 - ET/et_daempfung_2025_08_01.md",
+    "01 - ET/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
+    "01 - ET/Europa - Rechenbuch Elektrotechnik S_219 - Dämpfungsmaß_2025_08_01.pdf",
+    "01 - ET/99 - archive/oszilloskop.md",
+    "01 - ET/99 - archive/et_widerstand_berechnen_09_09_24.md",
+    "01 - ET/99 - archive/et_szenario_netzwerk_testen_21_08_24.md",
+    "01 - ET/99 - archive/et_kondensator_kapazitaet_13_09_24.md",
+    "01 - ET/99 - archive/et_induktivitaet_27_09_24.md",
+    "01 - ET/99 - archive/et_fehlerarten_23_08_24.md",
+    "01 - ET/99 - archive/et__18_09_24.md",
+    "01 - ET/99 - archive/et_04_09_24.md",
+    "01 - ET/0 - res/et_szenario_22_08_24.pdf",
+    "00 - BSN/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
+    "00 - BSN/bsn_cidr_translation_20_09_24.txt",
+    "00 - BSN/MPDF_eBook_EUROPA_K7_Switching+Routing.pdf",
+    "00 - BSN/L2-Items-20.10_STP_AUF+LSG.pdf",
+    "00 - BSN/IT-Sec_Datenschutz-10.01_AUF+LSG.pdf",
     "praktikum.md",
     "Untitled 1.md",
     "06 - Wirtschaft/klausur_themen.md",
@@ -195,35 +224,11 @@
     "01 - ET/et_induktivitaet_27_09_24.md",
     "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
     "09 - Software/favoritenliste.png",
-    "09 - Software/favoritenliste.drawio",
     "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
     "09 - Software/software_vorgehensmodelle.md",
     "09 - Software/ABSCHLUSSKLAUSUR.md",
-    "09 - Software/software_gui_theorie.md",
-    "09 - Software/software_pflichtenheft.md",
-    "09.md",
-    "software_pflichtenheft.md",
-    "09 - Software/0 - archive/Untitled.md",
-    "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
-    "04 - Deutsch/ABSCHLUSSKLAUSUR.md",
-    "02 - MMI/ABSCHLUSSKLAUSUR.md",
-    "01 - ET/ABSCHLUSSKLAUSUR.md",
-    "00 - BSN/ABSCHLUSSKLAUSUR.md",
-    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf",
-    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_analysis.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_address_types.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4.md",
-    "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
     "99 - misc/Pasted image 20240915205143.png",
     "99 - misc/Pasted image 20240915204259.png",
-    "00 - BSN/1 - glossary/1.3 - routing/IP-Netze-07.30_Routing_NetIT-Exkurs_DOC.pdf",
-    "01 - ET/et_szenario_22_08_24.pdf",
-    "06 - Wirtschaft/0 - res/01 - Ablatt Darlehensarten.pdf",
-    "06 - Wirtschaft/0 - res/I+F WBL_Buch.pdf",
-    "06 - Wirtschaft/0 - res",
-    "99 - misc/Pasted image 20240909122430.png",
-    "02 - MMI/0 - res",
-    "00 - BSN/1 - glossary/1.3 - routing/1.3.1 - Aufgaben/IP-Netze-07.34_Routing_NetIT-Exkurs_AUF.pdf"
+    "99 - misc/Pasted image 20240909122430.png"
   ]
 }
