@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a5f08f7952f5bea6",
+        "id": "9c3c1829882f31d9",
         "type": "tabs",
         "children": [
           {
-            "id": "b421c3c7c324eb74",
+            "id": "2a85c9a575c84971",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bgp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "praktikum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for praktikum"
             }
           },
           {
@@ -112,11 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "praktikum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from praktikum"
             }
           },
           {
@@ -137,9 +134,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "praktikum.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of praktikum"
             }
           },
           {
@@ -178,53 +177,53 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b421c3c7c324eb74",
+  "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
     "test.md",
     "praktikum.md",
-    "99 - misc/zwei_punkte_berechnen_bsp.png",
-    "99 - misc/videoframe_162647.png",
-    "99 - misc/vektorrechnung.png",
-    "99 - misc/vektoren_durch_zwei_punkte_berechnen.png",
-    "99 - misc/vektoren_3d.png",
-    "99 - misc/vektoren_1.png",
-    "99 - misc/Pasted image 20240929190555.png",
-    "99 - misc/Pasted image 20240929125235.png",
-    "99 - misc/Pasted image 20240929182448.png",
-    "99 - misc/Pasted image 20240929125221.png",
-    "99 - misc",
-    "08 - Datenbanken/1 - archive/nachpruefung_vorbereitung.md",
-    "08 - Datenbanken/1 - archive/subquery.md",
-    "08 - Datenbanken/1 - archive/datenbanken.md",
-    "08 - Datenbanken/1 - archive/datenbanken.pdf",
-    "08 - Datenbanken/db_charsets_collations_unicode_02_09_24.md",
-    "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
-    "08 - Datenbanken/1 - archive",
-    "08 - Datenbanken/0 - res",
-    "08 - Datenbanken",
-    "07 - English/1 - archive/the_importance_of_business_communication.md",
-    "07 - English/1 - archive/vocabulary_offer_nm5.md",
-    "07 - English/1 - archive/uebungen_vocabulary_offer.pdf",
-    "07 - English/1 - archive/2024_04_16_offer.md",
-    "07 - English/1 - archive/order_complaint.md",
-    "07 - English/1 - archive/enquiry.md",
-    "07 - English/1 - archive/english_group_b.md",
-    "07 - English/1 - archive/enquiry.pdf",
-    "07 - English/en_metaverse_03_09_24.md",
-    "07 - English/metaverse_pros_cons_12_09_24.md",
-    "07 - English/en_comment_vr_integration_schools_17_09_24.md",
-    "07 - English/1 - archive",
-    "07 - English/0 - res",
-    "07 - English",
-    "06 - Wirtschaft/1 - archive/flussprinzip_verrichtungsprinzip.md",
-    "06 - Wirtschaft/1 - archive/digitalisierung.md",
-    "06 - Wirtschaft/1 - archive/fertigung_nach_ablaufprinzipien.md",
-    "06 - Wirtschaft/1 - archive/2024_04_18.md",
-    "06 - Wirtschaft/1 - archive/2024_04_26.md",
-    "06 - Wirtschaft/1 - archive/2024_02_07.md",
-    "06 - Wirtschaft/wwl_investitionsrechnung_27_08_2024.md",
+    "Untitled 1.md",
     "06 - Wirtschaft/klausur_themen.md",
-    "05 - Politik/0 - archive/soziale_gerechtigkeit_praes.md",
-    "05 - Politik/0 - archive/soziale_gerechtigkeit_in_deutschland.md"
+    "06 - Wirtschaft/Untitled.md",
+    "03 - Mathe/vektoren.md",
+    "99 - misc/Pasted image 20240929190555.png",
+    "99 - misc/Pasted image 20240929182448.png",
+    "99 - misc/videoframe_162647.png",
+    "99 - misc/Pasted image 20240929125235.png",
+    "99 - misc/Pasted image 20240929125221.png",
+    "99 - misc/Pasted image 20240929122203.png",
+    "03 - Mathe/1 - archive/trigonometrie.md",
+    "01 - ET/et_induktivitaet_27_09_24.md",
+    "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
+    "09 - Software/favoritenliste.png",
+    "09 - Software/favoritenliste.drawio",
+    "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
+    "09 - Software/software_vorgehensmodelle.md",
+    "09 - Software/ABSCHLUSSKLAUSUR.md",
+    "09 - Software/software_gui_theorie.md",
+    "09 - Software/software_pflichtenheft.md",
+    "09.md",
+    "software_pflichtenheft.md",
+    "09 - Software/0 - archive/Untitled.md",
+    "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
+    "04 - Deutsch/ABSCHLUSSKLAUSUR.md",
+    "02 - MMI/ABSCHLUSSKLAUSUR.md",
+    "01 - ET/ABSCHLUSSKLAUSUR.md",
+    "00 - BSN/ABSCHLUSSKLAUSUR.md",
+    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf",
+    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_analysis.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_address_types.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4.md",
+    "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
+    "99 - misc/Pasted image 20240915205143.png",
+    "99 - misc/Pasted image 20240915204259.png",
+    "00 - BSN/1 - glossary/1.3 - routing/IP-Netze-07.30_Routing_NetIT-Exkurs_DOC.pdf",
+    "01 - ET/et_szenario_22_08_24.pdf",
+    "06 - Wirtschaft/0 - res/01 - Ablatt Darlehensarten.pdf",
+    "06 - Wirtschaft/0 - res/I+F WBL_Buch.pdf",
+    "06 - Wirtschaft/0 - res",
+    "99 - misc/Pasted image 20240909122430.png",
+    "02 - MMI/0 - res",
+    "00 - BSN/1 - glossary/1.3 - routing/1.3.1 - Aufgaben/IP-Netze-07.34_Routing_NetIT-Exkurs_AUF.pdf"
   ]
 }
