@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c3c1829882f31d9",
+        "id": "a5f08f7952f5bea6",
         "type": "tabs",
         "children": [
           {
-            "id": "2a85c9a575c84971",
+            "id": "b421c3c7c324eb74",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bgp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "praktikum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for praktikum"
+              "title": "Backlinks"
             }
           },
           {
@@ -108,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "praktikum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from praktikum"
+              "title": "Outgoing links"
             }
           },
           {
@@ -134,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "praktikum.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of praktikum"
+              "title": "Outline"
             }
           },
           {
@@ -179,51 +175,51 @@
   },
   "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
-    "test.md",
     "praktikum.md",
-    "Untitled 1.md",
-    "06 - Wirtschaft/klausur_themen.md",
-    "06 - Wirtschaft/Untitled.md",
-    "03 - Mathe/vektoren.md",
+    "99 - misc/zwei_punkte_berechnen_bsp.png",
+    "99 - misc/videoframe_162647.png",
+    "99 - misc/vektorrechnung.png",
+    "99 - misc/vektoren_1.png",
+    "99 - misc/vektoren_durch_zwei_punkte_berechnen.png",
+    "99 - misc/vektoren_3d.png",
     "99 - misc/Pasted image 20240929190555.png",
     "99 - misc/Pasted image 20240929182448.png",
-    "99 - misc/videoframe_162647.png",
-    "99 - misc/Pasted image 20240929125235.png",
     "99 - misc/Pasted image 20240929125221.png",
-    "99 - misc/Pasted image 20240929122203.png",
-    "03 - Mathe/1 - archive/trigonometrie.md",
-    "01 - ET/et_induktivitaet_27_09_24.md",
-    "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
-    "09 - Software/favoritenliste.png",
+    "99 - misc/Pasted image 20240929125235.png",
+    "99 - misc",
+    "98 - Daily Notes/27-09-2023.md",
+    "98 - Daily Notes/26-09-2023.md",
+    "98 - Daily Notes/22-09-2023.md",
+    "98 - Daily Notes/2024-29-01.md",
+    "98 - Daily Notes/2024-22-01.md",
+    "98 - Daily Notes/2024-08-01.md",
+    "98 - Daily Notes/2024-05-02.md",
+    "98 - Daily Notes/2024-09-01.md",
+    "98 - Daily Notes/20-11-2023.md",
+    "98 - Daily Notes/19-09-2023.md",
+    "98 - Daily Notes/16-11-2023.md",
+    "98 - Daily Notes/15-11-2023.md",
+    "98 - Daily Notes/06-11-2023.md",
+    "98 - Daily Notes",
+    "09 - Software/0 - archive/private_rente.md",
+    "09 - Software/0 - archive/ostvestia_gruppenpuzzle.md",
+    "09 - Software/0 - archive/grundbegriffe.md",
+    "09 - Software/0 - archive/eclipse.md",
+    "09 - Software/0 - archive/das_raetsel.md",
+    "09 - Software/software_vorgehensmodelle.md",
+    "09 - Software/software_pflichtenheft.md",
+    "09 - Software/software_gui_theorie.md",
+    "09 - Software/ABSCHLUSSKLAUSUR.md",
     "09 - Software/favoritenliste.drawio",
     "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
-    "09 - Software/software_vorgehensmodelle.md",
-    "09 - Software/ABSCHLUSSKLAUSUR.md",
-    "09 - Software/software_gui_theorie.md",
-    "09 - Software/software_pflichtenheft.md",
-    "09.md",
-    "software_pflichtenheft.md",
-    "09 - Software/0 - archive/Untitled.md",
-    "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
-    "04 - Deutsch/ABSCHLUSSKLAUSUR.md",
-    "02 - MMI/ABSCHLUSSKLAUSUR.md",
-    "01 - ET/ABSCHLUSSKLAUSUR.md",
-    "00 - BSN/ABSCHLUSSKLAUSUR.md",
-    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf",
-    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_analysis.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_address_types.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4.md",
-    "02 - MMI/0 - res/INFO - 06 - KNX - Topologie.pdf",
-    "99 - misc/Pasted image 20240915205143.png",
-    "99 - misc/Pasted image 20240915204259.png",
-    "00 - BSN/1 - glossary/1.3 - routing/IP-Netze-07.30_Routing_NetIT-Exkurs_DOC.pdf",
-    "01 - ET/et_szenario_22_08_24.pdf",
-    "06 - Wirtschaft/0 - res/01 - Ablatt Darlehensarten.pdf",
-    "06 - Wirtschaft/0 - res/I+F WBL_Buch.pdf",
-    "06 - Wirtschaft/0 - res",
-    "99 - misc/Pasted image 20240909122430.png",
-    "02 - MMI/0 - res",
-    "00 - BSN/1 - glossary/1.3 - routing/1.3.1 - Aufgaben/IP-Netze-07.34_Routing_NetIT-Exkurs_AUF.pdf"
+    "09 - Software/0 - archive",
+    "09 - Software",
+    "08 - Datenbanken/1 - archive/subquery.md",
+    "08 - Datenbanken/1 - archive/nachpruefung_vorbereitung.md",
+    "08 - Datenbanken/1 - archive/datenbanken.pdf",
+    "08 - Datenbanken/1 - archive",
+    "08 - Datenbanken/0 - res",
+    "08 - Datenbanken",
+    "07 - English/1 - archive/enquiry.pdf"
   ]
 }
