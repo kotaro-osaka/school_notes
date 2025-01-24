@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9c3c1829882f31d9",
+        "id": "a5f08f7952f5bea6",
         "type": "tabs",
         "children": [
           {
-            "id": "2a85c9a575c84971",
+            "id": "b421c3c7c324eb74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "00 - BSN/L2-Items-20.10_STP_AUF+LSG.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "L2-Items-20.10_STP_AUF+LSG"
             }
           }
         ]
@@ -48,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bgp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "praktikum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for praktikum"
+              "title": "Backlinks"
             }
           },
           {
@@ -108,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "praktikum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from praktikum"
+              "title": "Outgoing links"
             }
           },
           {
@@ -134,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "praktikum.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of praktikum"
+              "title": "Outline"
             }
           },
           {
@@ -177,53 +175,53 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "b421c3c7c324eb74",
   "lastOpenFiles": [
-    "test.md",
-    "Untitled.md",
+    "00 - BSN/IT-Sec_Datenschutz-10.01_AUF+LSG.pdf",
+    "00 - BSN/250116_CI3O1_BSN.pdf",
     "11 - PPH/pph_nahost_konflikt_2025_13_01.md",
     "11 - PPH",
     "07 - English/interview.txt",
     "03 - Mathe/mathe_ggT_kgv_2025_15_01.md",
     "03 - Mathe/07_mgk_ggt-kgv.pdf",
-    "01 - ET/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
-    "01 - ET/et_daempfung_2025_08_01.md",
-    "01 - ET/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
-    "01 - ET/Europa - Rechenbuch Elektrotechnik S_219 - Dämpfungsmaß_2025_08_01.pdf",
     "01 - ET/99 - archive/oszilloskop.md",
+    "01 - ET/99 - archive/et__18_09_24.md",
     "01 - ET/99 - archive/et_widerstand_berechnen_09_09_24.md",
     "01 - ET/99 - archive/et_szenario_netzwerk_testen_21_08_24.md",
     "01 - ET/99 - archive/et_kondensator_kapazitaet_13_09_24.md",
     "01 - ET/99 - archive/et_induktivitaet_27_09_24.md",
     "01 - ET/99 - archive/et_fehlerarten_23_08_24.md",
-    "01 - ET/99 - archive/et__18_09_24.md",
     "01 - ET/99 - archive/et_04_09_24.md",
     "01 - ET/0 - res/et_szenario_22_08_24.pdf",
-    "00 - BSN/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
-    "00 - BSN/bsn_cidr_translation_20_09_24.txt",
+    "01 - ET/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
+    "01 - ET/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
+    "01 - ET/Europa - Rechenbuch Elektrotechnik S_219 - Dämpfungsmaß_2025_08_01.pdf",
+    "01 - ET/et_daempfung_2025_08_01.md",
     "00 - BSN/MPDF_eBook_EUROPA_K7_Switching+Routing.pdf",
     "00 - BSN/L2-Items-20.10_STP_AUF+LSG.pdf",
-    "00 - BSN/IT-Sec_Datenschutz-10.01_AUF+LSG.pdf",
+    "00 - BSN/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
+    "00 - BSN/bsn_cidr_translation_20_09_24.txt",
+    "test.md",
     "praktikum.md",
-    "Untitled 1.md",
-    "06 - Wirtschaft/klausur_themen.md",
-    "06 - Wirtschaft/Untitled.md",
-    "03 - Mathe/vektoren.md",
-    "99 - misc/Pasted image 20240929190555.png",
-    "99 - misc/Pasted image 20240929182448.png",
+    "99 - misc/zwei_punkte_berechnen_bsp.png",
     "99 - misc/videoframe_162647.png",
+    "99 - misc/vektorrechnung.png",
+    "99 - misc/vektoren_durch_zwei_punkte_berechnen.png",
+    "99 - misc/vektoren_3d.png",
+    "99 - misc/vektoren_1.png",
+    "99 - misc/Pasted image 20240929190555.png",
     "99 - misc/Pasted image 20240929125235.png",
+    "99 - misc/Pasted image 20240929182448.png",
     "99 - misc/Pasted image 20240929125221.png",
-    "99 - misc/Pasted image 20240929122203.png",
-    "03 - Mathe/1 - archive/trigonometrie.md",
-    "01 - ET/et_induktivitaet_27_09_24.md",
-    "04 - Deutsch/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
-    "09 - Software/favoritenliste.png",
-    "09 - Software/software_amnetprime_favoritenliste_24_09_24.md",
-    "09 - Software/software_vorgehensmodelle.md",
-    "09 - Software/ABSCHLUSSKLAUSUR.md",
-    "99 - misc/Pasted image 20240915205143.png",
-    "99 - misc/Pasted image 20240915204259.png",
-    "99 - misc/Pasted image 20240909122430.png"
+    "08 - Datenbanken/1 - archive/nachpruefung_vorbereitung.md",
+    "08 - Datenbanken/1 - archive/subquery.md",
+    "08 - Datenbanken/1 - archive/datenbanken.md",
+    "08 - Datenbanken/db_charsets_collations_unicode_02_09_24.md",
+    "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
+    "07 - English/1 - archive/the_importance_of_business_communication.md",
+    "07 - English/1 - archive/vocabulary_offer_nm5.md",
+    "07 - English/1 - archive/2024_04_16_offer.md",
+    "07 - English/1 - archive/order_complaint.md",
+    "07 - English/1 - archive/enquiry.md"
   ]
 }
