@@ -4,19 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "a5f08f7952f5bea6",
+        "id": "6e04983f3fcf07f8",
         "type": "tabs",
         "children": [
           {
-            "id": "b421c3c7c324eb74",
+            "id": "e84e495be492ec25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - BSN/usv.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "usv"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c6dbbdc3ad6bd887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcccda639c8bab5b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "00 - BSN/L2-Items-20.10_STP_AUF+LSG.pdf"
+                "file": "00 - BSN/IT-Sec_USV-10.09_LM-Training_CI3O1_AUF+LSG.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "L2-Items-20.10_STP_AUF+LSG"
+              "title": "IT-Sec_USV-10.09_LM-Training_CI3O1_AUF+LSG"
             }
           }
         ]
@@ -75,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -175,9 +197,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b421c3c7c324eb74",
+  "active": "bcccda639c8bab5b",
   "lastOpenFiles": [
+    "00 - BSN/usv.md",
+    "00 - BSN/IT-Sec_USV-10.09_LM-Training_CI3O1_AUF+LSG.pdf",
+    "00 - BSN/IT-Sec_USV-10.09_LM-Training_CI3O1_AUF.pdf",
     "00 - BSN/IT-Sec_Datenschutz-10.01_AUF+LSG.pdf",
+    "00 - BSN/L2-Items-20.10_STP_AUF+LSG.pdf",
     "00 - BSN/250116_CI3O1_BSN.pdf",
     "11 - PPH/pph_nahost_konflikt_2025_13_01.md",
     "11 - PPH",
@@ -195,12 +221,8 @@
     "01 - ET/0 - res/et_szenario_22_08_24.pdf",
     "01 - ET/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
     "01 - ET/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
-    "01 - ET/Europa - Rechenbuch Elektrotechnik S_219 - Dämpfungsmaß_2025_08_01.pdf",
     "01 - ET/et_daempfung_2025_08_01.md",
-    "00 - BSN/MPDF_eBook_EUROPA_K7_Switching+Routing.pdf",
-    "00 - BSN/L2-Items-20.10_STP_AUF+LSG.pdf",
     "00 - BSN/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
-    "00 - BSN/bsn_cidr_translation_20_09_24.txt",
     "test.md",
     "praktikum.md",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
@@ -221,7 +243,6 @@
     "07 - English/1 - archive/the_importance_of_business_communication.md",
     "07 - English/1 - archive/vocabulary_offer_nm5.md",
     "07 - English/1 - archive/2024_04_16_offer.md",
-    "07 - English/1 - archive/order_complaint.md",
-    "07 - English/1 - archive/enquiry.md"
+    "07 - English/1 - archive/order_complaint.md"
   ]
 }
