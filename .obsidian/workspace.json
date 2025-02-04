@@ -21,13 +21,7 @@
               "icon": "lucide-file",
               "title": "usv"
             }
-          }
-        ]
-      },
-      {
-        "id": "c6dbbdc3ad6bd887",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "bcccda639c8bab5b",
             "type": "leaf",
@@ -40,7 +34,8 @@
               "title": "IT-Sec_USV-10.09_LM-Training_CI3O1_AUF+LSG"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
