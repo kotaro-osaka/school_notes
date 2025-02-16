@@ -15,3 +15,12 @@ Rechnung:
 $a \times 48+b \times 5=1$
 $a, b \in \perp$
 
+$$
+\begin{flalign}
+& 48=9 \times 5+3 & \rightarrow 3=48-9 \times 5 && \\
+& 5=1 \times 3+2 & \rightarrow 2=5-1 \times 3 && \\
+& 3=1 \times 2+1 & \rightarrow 1=3-1 \times 2 && \\
+& 
+& &&
+\end{flalign}
+$$
