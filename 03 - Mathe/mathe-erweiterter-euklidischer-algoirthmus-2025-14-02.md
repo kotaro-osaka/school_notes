@@ -31,11 +31,7 @@ $$
 $$
 
 $$
-\begin{flalign}
-& 150 = 12 \times 12 + 6 & & \rightarrow 6 = 150 - 12 \times 12 && \\
-& 12 = 2 \times 6 + 0 & & \text{(Abbruch, da Rest 0)} && \\
-& & & = 150 - 12 \times 12 &&
-\end{flalign}
+\begin{flalign} & 150 = 12 \times 12 + 6 & & \rightarrow 6 = 150 - 12 \times 12 && \\ & 12 = 2 \times 6 + 0 & & \text{(Abbruch, da Rest 0)} && \\ & & & = 150 - 12 \times 12 && \end{flalign}
 $$
 
 
@@ -46,3 +42,4 @@ $$\begin{flalign}
 & & & = 12 - 1 \times 152 + 12 \times 12 && \\
 & & & = 12 \times 13 - 152 \times 1 &&
 \end{flalign}$$
+
