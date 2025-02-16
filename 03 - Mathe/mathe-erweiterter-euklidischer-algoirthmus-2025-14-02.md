@@ -14,6 +14,15 @@ $$
 \begin{flalign}
 & 150=12 \times 12+6 && \\
 & 12=1 \times 6+6 && \\
-& 
+& 6=1 \times 6+0 &&
+\end{flalign}
+$$
+$\rightarrow ggT(150, 12)=6$
+
+Erweiterter eukl. ALgorithmus:
+$a \times 150+b \times 12=6$
+
+$$
+\begin{flalign}
 \end{flalign}
 $$
