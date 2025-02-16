@@ -17,10 +17,10 @@ $a, b \in \perp$
 
 $$
 \begin{flalign}
-& 48=9 \times 5+3 & \rightarrow 3=48-9 \times 5 && \\
-& 5=1 \times 3+2 & \rightarrow 2=5-1 \times 3 && \\
-& 3=1 \times 2+1 & \rightarrow 1=3-1 \times 2 && \\
-& 
-& &&
+& 48=9 \times 5+3 & & \rightarrow 3=48-9 \times 5 && \\
+& 5=1 \times 3+2 & & \rightarrow 2=5-1 \times 3 && \\
+& 3=1 \times 2+1 & & \rightarrow 1=3-1 \times 2 && \\
+& 2=2 \times 1 & & =3-1 \times (5-1 \times 3)=2 \times 3-1 \times 5 && \\
+& & &  =2 \times (48-9 \times 5)-1 \times 5=2 \times 48-19 \times 5 &&
 \end{flalign}
 $$
