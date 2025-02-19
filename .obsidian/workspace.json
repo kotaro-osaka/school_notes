@@ -167,11 +167,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "c81b56134047c475",
+  "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
+    "Untitled.md",
+    "03 - Mathe/mathe_ggT_kgv_2025_16_01.md",
+    "03 - Mathe/mathe-erweiterter-euklidischer-algorithmus-2025-14-02.pdf",
+    "03 - Mathe/mathe-erweiterter-euklidischer-algoirthmus-2025-14-02.md",
     "00 - BSN/IT-Sec-06.12_Backup+Restore_AUF.pdf",
     "00 - BSN/IT-Sec_USV-10.09_LM-Training_CI3O1_AUF+LSG.pdf",
     "00 - BSN/usv.md",
@@ -192,9 +197,7 @@
     "01 - ET/99 - archive/et_induktivitaet_27_09_24.md",
     "01 - ET/99 - archive/et_fehlerarten_23_08_24.md",
     "01 - ET/99 - archive/et_04_09_24.md",
-    "01 - ET/0 - res/et_szenario_22_08_24.pdf",
     "01 - ET/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
-    "01 - ET/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
     "01 - ET/et_daempfung_2025_08_01.md",
     "00 - BSN/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
     "test.md",
@@ -215,8 +218,6 @@
     "08 - Datenbanken/db_charsets_collations_unicode_02_09_24.md",
     "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
     "07 - English/1 - archive/the_importance_of_business_communication.md",
-    "07 - English/1 - archive/vocabulary_offer_nm5.md",
-    "07 - English/1 - archive/2024_04_16_offer.md",
-    "07 - English/1 - archive/order_complaint.md"
+    "07 - English/1 - archive/vocabulary_offer_nm5.md"
   ]
 }
