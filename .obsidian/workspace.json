@@ -21,7 +21,13 @@
               "icon": "lucide-file",
               "title": "et_gleichspannungen_glaetten_2025_19_02"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "db59b06135798b30",
+        "type": "tabs",
+        "children": [
           {
             "id": "6d3bcb036c20b6ec",
             "type": "leaf",
@@ -34,8 +40,7 @@
               "title": "et_ah_glaetten_von_gleichspannungen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -189,10 +195,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6d3bcb036c20b6ec",
+  "active": "c81b56134047c475",
   "lastOpenFiles": [
-    "01 - ET/et_gleichspannungen_glaetten_2025_19_02.md",
     "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf",
+    "01 - ET/et_gleichspannungen_glaetten_2025_19_02.md",
     "Untitled.md",
     "03 - Mathe/mathe_ggT_kgv_2025_16_01.md",
     "03 - Mathe/mathe-erweiterter-euklidischer-algorithmus-2025-14-02.pdf",
