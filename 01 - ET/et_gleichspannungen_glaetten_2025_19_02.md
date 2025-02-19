@@ -1,0 +1,3 @@
+# Glätten pulsierender Gleichspannungen
+___
+$$
