@@ -11,10 +11,15 @@
             "id": "c7d55d3c324d98e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "11 - PPH/pph__2025_24_02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "pph__2025_24_02"
             }
           }
         ]
@@ -171,8 +176,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "c7d55d3c324d98e7",
   "lastOpenFiles": [
+    "11 - PPH/pph__2025_24_02.md",
     "08 - Datenbanken/db_charsets_collations_unicode_02_09_24.md",
     "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
     "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf",
@@ -208,7 +214,6 @@
     "01 - ET/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
     "00 - BSN/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
     "test.md",
-    "praktikum.md",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
     "99 - misc/videoframe_162647.png",
     "99 - misc/vektorrechnung.png",
