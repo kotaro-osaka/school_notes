@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a511021fa34fcde2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01 - ET/et_brueckengleichrichtung.pdf.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "et_brueckengleichrichtung.pdf"
-            }
-          },
-          {
             "id": "81e146d87c152af9",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf"
+                "file": "01 - ET/et_ab_gleichrichter_blatt2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "et_ah_glaetten_von_gleichspannungen"
+              "title": "et_ab_gleichrichter_blatt2"
+            }
+          },
+          {
+            "id": "ae1016b96eae642b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01 - ET/et_ah_gleichrichtung.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "et_ah_gleichrichtung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,12 +187,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a511021fa34fcde2",
+  "active": "ae1016b96eae642b",
   "lastOpenFiles": [
-    "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf",
-    "01 - ET/et_brueckengleichrichtung.pdf.pdf",
     "01 - ET/et_ab_gleichrichter_blatt2.pdf",
+    "01 - ET/et_brueckengleichrichtung.pdf.pdf",
+    "01 - ET/et_brueckengleichrichtung.pdf",
+    "01 - ET/et_ah_gleichrichtung.pdf",
+    "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf",
+    "01 - ET/et_widerstand_berechnen_09_09_24.md",
+    "01 - ET/et_szenario_netzwerk_testen_21_08_24.md",
+    "01 - ET/et_szenario_22_08_24.pdf",
+    "01 - ET/et_kondensator_kapazitaet_13_09_24.md",
+    "01 - ET/et_induktivitaet_27_09_24.md",
     "01 - ET/et_gleichspannungen_glaetten_2025_19_02.md",
+    "01 - ET/et_daempfung_2025_08_01.md",
     "Untitled.md",
     "03 - Mathe/mathe_ggT_kgv_2025_16_01.md",
     "03 - Mathe/mathe-erweiterter-euklidischer-algorithmus-2025-14-02.pdf",
@@ -201,10 +210,7 @@
     "00 - BSN/usv.md",
     "00 - BSN/IT-Sec_USV-10.09_LM-Training_CI3O1_AUF.pdf",
     "00 - BSN/IT-Sec_Datenschutz-10.01_AUF+LSG.pdf",
-    "00 - BSN/L2-Items-20.10_STP_AUF+LSG.pdf",
-    "00 - BSN/250116_CI3O1_BSN.pdf",
     "11 - PPH/pph_nahost_konflikt_2025_13_01.md",
-    "11 - PPH",
     "03 - Mathe/mathe_ggT_kgv_2025_15_01.md",
     "01 - ET/99 - archive/oszilloskop.md",
     "01 - ET/99 - archive/et__18_09_24.md",
@@ -215,7 +221,6 @@
     "01 - ET/99 - archive/et_fehlerarten_23_08_24.md",
     "01 - ET/99 - archive/et_04_09_24.md",
     "01 - ET/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
-    "01 - ET/et_daempfung_2025_08_01.md",
     "00 - BSN/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
     "test.md",
     "praktikum.md",
@@ -229,10 +234,6 @@
     "99 - misc/Pasted image 20240929125235.png",
     "99 - misc/Pasted image 20240929182448.png",
     "99 - misc/Pasted image 20240929125221.png",
-    "08 - Datenbanken/1 - archive/nachpruefung_vorbereitung.md",
-    "08 - Datenbanken/1 - archive/subquery.md",
-    "08 - Datenbanken/1 - archive/datenbanken.md",
-    "08 - Datenbanken/db_charsets_collations_unicode_02_09_24.md",
-    "08 - Datenbanken/ABSCHLUSSKLAUSUR.md"
+    "08 - Datenbanken/1 - archive/nachpruefung_vorbereitung.md"
   ]
 }
