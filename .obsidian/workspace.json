@@ -18,21 +18,8 @@
               "icon": "lucide-file-text",
               "title": "et_brueckengleichrichtung.pdf"
             }
-          },
-          {
-            "id": "070e368693b7ae58",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01 - ET/et_ab_gleichrichter_blatt2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "et_ab_gleichrichter_blatt2"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,10 +173,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "070e368693b7ae58",
+  "active": "a511021fa34fcde2",
   "lastOpenFiles": [
-    "01 - ET/et_brueckengleichrichtung.pdf.pdf",
     "01 - ET/et_ab_gleichrichter_blatt2.pdf",
+    "01 - ET/et_brueckengleichrichtung.pdf.pdf",
     "01 - ET/et_gleichspannungen_glaetten_2025_19_02.md",
     "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf",
     "Untitled.md",
