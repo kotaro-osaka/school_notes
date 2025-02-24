@@ -23,6 +23,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "847092a69dc0f569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7419510f5332dac2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "11 - PPH/Völkergemeinschaft und Frieden.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Völkergemeinschaft und Frieden"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -178,6 +197,7 @@
   },
   "active": "c7d55d3c324d98e7",
   "lastOpenFiles": [
+    "11 - PPH/Völkergemeinschaft und Frieden.pdf",
     "11 - PPH/pph__2025_24_02.md",
     "08 - Datenbanken/db_charsets_collations_unicode_02_09_24.md",
     "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
@@ -200,7 +220,6 @@
     "00 - BSN/IT-Sec-06.12_Backup+Restore_AUF.pdf",
     "00 - BSN/IT-Sec_USV-10.09_LM-Training_CI3O1_AUF+LSG.pdf",
     "00 - BSN/usv.md",
-    "00 - BSN/IT-Sec_USV-10.09_LM-Training_CI3O1_AUF.pdf",
     "11 - PPH/pph_nahost_konflikt_2025_13_01.md",
     "03 - Mathe/mathe_ggT_kgv_2025_15_01.md",
     "01 - ET/99 - archive/oszilloskop.md",
@@ -213,7 +232,6 @@
     "01 - ET/99 - archive/et_04_09_24.md",
     "01 - ET/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
     "00 - BSN/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
-    "test.md",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
     "99 - misc/videoframe_162647.png",
     "99 - misc/vektorrechnung.png",
