@@ -18,6 +18,18 @@
               "icon": "lucide-file-text",
               "title": "et_brueckengleichrichtung.pdf"
             }
+          },
+          {
+            "id": "81e146d87c152af9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "et_ah_glaetten_von_gleichspannungen"
+            }
           }
         ]
       }
@@ -76,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -175,10 +188,10 @@
   },
   "active": "a511021fa34fcde2",
   "lastOpenFiles": [
-    "01 - ET/et_ab_gleichrichter_blatt2.pdf",
-    "01 - ET/et_brueckengleichrichtung.pdf.pdf",
-    "01 - ET/et_gleichspannungen_glaetten_2025_19_02.md",
     "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf",
+    "01 - ET/et_brueckengleichrichtung.pdf.pdf",
+    "01 - ET/et_ab_gleichrichter_blatt2.pdf",
+    "01 - ET/et_gleichspannungen_glaetten_2025_19_02.md",
     "Untitled.md",
     "03 - Mathe/mathe_ggT_kgv_2025_16_01.md",
     "03 - Mathe/mathe-erweiterter-euklidischer-algorithmus-2025-14-02.pdf",
