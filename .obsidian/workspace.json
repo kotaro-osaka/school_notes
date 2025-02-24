@@ -30,7 +30,13 @@
               "icon": "lucide-file-text",
               "title": "et_ab_gleichrichter_blatt2"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "48bbe9964279e4e6",
+        "type": "tabs",
+        "children": [
           {
             "id": "ae1016b96eae642b",
             "type": "leaf",
@@ -43,8 +49,7 @@
               "title": "et_ah_gleichrichtung"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,11 +203,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ae1016b96eae642b",
+  "active": "7cab3a7bc59a2c31",
   "lastOpenFiles": [
-    "01 - ET/et_ab_gleichrichter_blatt2.pdf",
     "01 - ET/et_ah_gleichrichtung.pdf",
     "01 - ET/et_brueckengleichrichtung.pdf",
+    "01 - ET/et_ab_gleichrichter_blatt2.pdf",
     "01 - ET/et_brueckengleichrichtung.pdf.pdf",
     "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf",
     "01 - ET/et_widerstand_berechnen_09_09_24.md",
