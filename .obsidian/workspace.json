@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ae1016b96eae642b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01 - ET/et_ah_gleichrichtung.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "et_ah_gleichrichtung"
+            }
+          },
+          {
             "id": "81e146d87c152af9",
             "type": "leaf",
             "state": {
@@ -34,19 +46,19 @@
         ]
       },
       {
-        "id": "48bbe9964279e4e6",
+        "id": "6f3445cda949ff91",
         "type": "tabs",
         "children": [
           {
-            "id": "ae1016b96eae642b",
+            "id": "b54ce93c07343a37",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "01 - ET/et_ah_gleichrichtung.pdf"
+                "file": "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "et_ah_gleichrichtung"
+              "title": "et_ah_glaetten_von_gleichspannungen"
             }
           }
         ]
@@ -206,10 +218,10 @@
   "active": "7cab3a7bc59a2c31",
   "lastOpenFiles": [
     "01 - ET/et_ab_gleichrichter_blatt2.pdf",
+    "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf",
     "01 - ET/et_brueckengleichrichtung.pdf",
     "01 - ET/et_ah_gleichrichtung.pdf",
     "01 - ET/et_brueckengleichrichtung.pdf.pdf",
-    "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf",
     "01 - ET/et_widerstand_berechnen_09_09_24.md",
     "01 - ET/et_szenario_netzwerk_testen_21_08_24.md",
     "01 - ET/et_szenario_22_08_24.pdf",
