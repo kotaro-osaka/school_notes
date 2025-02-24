@@ -4,61 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "28e901557b4eda4c",
+        "id": "8db62536f8362811",
         "type": "tabs",
         "children": [
           {
-            "id": "7cab3a7bc59a2c31",
+            "id": "c7d55d3c324d98e7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01 - ET/et_brueckengleichrichtung.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "et_brueckengleichrichtung"
-            }
-          },
-          {
-            "id": "ae1016b96eae642b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01 - ET/et_ah_gleichrichtung.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "et_ah_gleichrichtung"
-            }
-          },
-          {
-            "id": "81e146d87c152af9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01 - ET/et_ab_gleichrichter_blatt2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "et_ab_gleichrichter_blatt2"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6f3445cda949ff91",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b54ce93c07343a37",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "et_ah_glaetten_von_gleichspannungen"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -215,12 +171,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7cab3a7bc59a2c31",
+  "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
-    "01 - ET/et_ah_gleichrichtung.pdf",
-    "01 - ET/et_ab_gleichrichter_blatt2.pdf",
-    "01 - ET/et_brueckengleichrichtung.pdf",
+    "08 - Datenbanken/db_charsets_collations_unicode_02_09_24.md",
+    "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
     "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf",
+    "01 - ET/et_ab_gleichrichter_blatt2.pdf",
+    "01 - ET/et_ah_gleichrichtung.pdf",
+    "01 - ET/et_brueckengleichrichtung.pdf",
     "01 - ET/et_brueckengleichrichtung.pdf.pdf",
     "01 - ET/et_widerstand_berechnen_09_09_24.md",
     "01 - ET/et_szenario_netzwerk_testen_21_08_24.md",
@@ -237,7 +195,6 @@
     "00 - BSN/IT-Sec_USV-10.09_LM-Training_CI3O1_AUF+LSG.pdf",
     "00 - BSN/usv.md",
     "00 - BSN/IT-Sec_USV-10.09_LM-Training_CI3O1_AUF.pdf",
-    "00 - BSN/IT-Sec_Datenschutz-10.01_AUF+LSG.pdf",
     "11 - PPH/pph_nahost_konflikt_2025_13_01.md",
     "03 - Mathe/mathe_ggT_kgv_2025_15_01.md",
     "01 - ET/99 - archive/oszilloskop.md",
@@ -261,7 +218,6 @@
     "99 - misc/Pasted image 20240929190555.png",
     "99 - misc/Pasted image 20240929125235.png",
     "99 - misc/Pasted image 20240929182448.png",
-    "99 - misc/Pasted image 20240929125221.png",
-    "08 - Datenbanken/1 - archive/nachpruefung_vorbereitung.md"
+    "99 - misc/Pasted image 20240929125221.png"
   ]
 }
