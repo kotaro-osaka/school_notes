@@ -14,4 +14,5 @@ ___
 5. Man in the Middle-Angriffe
 	- Abfangen von Daten während der ungesicherten Übertragung/Kommunikation
 6. DDoS-Attacken
-	- "Distrub"
+	- "Distributed-Denial-of-Service" (verteilter DoS-Angriff)
+	- 
