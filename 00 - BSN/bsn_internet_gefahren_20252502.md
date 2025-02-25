@@ -32,10 +32,15 @@ ___
 	- Kombination aus Sicherheitsebenen (Firewalls, Virenfilter, Verschlüsselung, Antivirusprogramme, etc.)
 	- Überwachung von Zugriffen durch IAM (Identity Access Management)
 	- Mitarbeiter schulen und für Gefahren sensibilisieren
-### WPA3
+### WPA3 (WiFi Protected Access 3)
 - SAE = "Simultaneous Authentication of Equals"
 	- Basiert auf "Dragonfly-Handshake"-Protokoll
 	- Ermöglicht sicheren Austausch von Schlüsseln Passwort-basierter Authentifizierungsmethoden
 	- Ersetzt bisherige Methoden zur Aushandlung der Sitzungsschlüssel mit PSK (Pre-Shared Key)
 	- Kommt auch in WLAN-Mesh-Implementierungen zum Einsatz
-	- 
+	- Variante des RFC 7664 spezifizierten "Dragonfly-Key-Exchange"-Protokolls
+		- Basiert wiederum auf "Diffie-Hellmann"-Schlüsselaustausch
+	- Wird in WLAN-Mesh-Netzwerken nach IEEE 802-11s während Discovery-Prozess der Peers verwendet
+	- Verbessert Sicherheit des Schlüsselaustauschs im Handshake-Verfahren
+#### Funktionsweise
+- Nutzt übereinstimmende Passwörter, mit denen Clients Zugang zu
