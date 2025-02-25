@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "48fde41a6d440a52",
+        "id": "7e0d6b2a87205031",
         "type": "tabs",
         "children": [
           {
-            "id": "f7553e6122eaa368",
+            "id": "2ed813600753ea71",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "06 - Wirtschaft/wl_bip_20252502.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "wl_bip_20252502"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -173,7 +171,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f7553e6122eaa368",
+  "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
     "06 - Wirtschaft/wwl_investitionsrechnung_27_08_2024.md",
     "06 - Wirtschaft/wl_bip_20252502.pdf",
