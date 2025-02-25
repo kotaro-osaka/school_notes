@@ -23,4 +23,8 @@ ___
 	- Daten löschen stehlen, löschen oder manipulieren
 ## Schutzmaßnahmen
 - Advanced Persistent Threats
-	-> Gegenstrategie: Kombination aus Sicherheitsebenen (Firewalls, Virenfilter, Verschlüsselung, Antivirusprogramme, etc.)
+	-> Gegenstrategien:
+	- Kombination aus Sicherheitsebenen (Firewalls, Virenfilter, Verschlüsselung, Antivirusprogramme, etc.)
+	- Überwachung von Zugriffen durch IAM (Identity Access Management)
+	- Mitarbeiter schulen und für Gefahren sensibilisieren
+
