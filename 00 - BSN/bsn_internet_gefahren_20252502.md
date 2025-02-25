@@ -21,6 +21,8 @@ ___
 7. Insider-Bedrohungen
 	- Mitarbeiter oder Angestellte von IT-Dienstleistern nutzen Zugriffsmöglichkeiten aus
 	- Daten löschen stehlen, löschen oder manipulieren
+8. Vanity-URLs
+	- Manipulation von Links für Phisching-Zwecke
 ## Schutzmaßnahmen
 - Advanced Persistent Threats
 	-> Gegenstrategien:
