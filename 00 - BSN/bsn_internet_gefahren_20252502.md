@@ -15,4 +15,7 @@ ___
 	- Abfangen von Daten während der ungesicherten Übertragung/Kommunikation
 6. DDoS-Attacken
 	- "Distributed-Denial-of-Service" (verteilter DoS-Angriff)
-	- 
+	- Überlastung von IT-Infrastruktur
+	- Bsp.: UDP-Flood
+	- Angreifer-Geräte können 
+7. 
