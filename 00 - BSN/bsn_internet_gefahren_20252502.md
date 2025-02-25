@@ -26,6 +26,8 @@ ___
 9. reCaptcha-Abfragen
 	- "Completely Automated Public Turing test to tell Computers and Humans Apart"
 	- Phishing-Website durch Sicherheitsabfrage seriöser Unternehmen glaubwürdig wirken lassen
+10. Rootkit
+	
 ## Schutzmaßnahmen
 - Advanced Persistent Threats
 	-> Gegenstrategien:
@@ -43,4 +45,8 @@ ___
 	- Wird in WLAN-Mesh-Netzwerken nach IEEE 802-11s während Discovery-Prozess der Peers verwendet
 	- Verbessert Sicherheit des Schlüsselaustauschs im Handshake-Verfahren
 #### Funktionsweise
-- Nutzt übereinstimmende Passwörter, mit denen Clients Zugang zu
+- Nutzt übereinstimmende Passwörter, mit denen Clients Zugang zu WLAN erhalten
+- Aus Passwörtern wird eindeutiger und bei jedem Client wird anderer (PMK) Pairwise Master Key abgeleitet
+- Jeder Client erhält eigenen PMK trotz gleichen Passworts
+- Mittels 4-Way-Handshake zwischen WLAN-Client und Authentifikationsserver Ableitung von PTK (Pairwise Transient Keys)
+	- Eigentliche Verschlüsselung der Daten
