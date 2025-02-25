@@ -20,4 +20,6 @@ ___
 	- Angreifer können Botnet oder Zombie-Geräte (Ferngesteuerte infizierte Geräte) sein
 7. Insider-Bedrohungen
 	- Mitarbeiter oder Angestellte von IT-Dienstleistern nutzen Zugriffsmöglichkeiten aus
-	- Daten löschen stehlen, löschen oder manipulie
+	- Daten löschen stehlen, löschen oder manipulieren
+## Schutzmaßnahmen
+- Gegenstrategie:  
