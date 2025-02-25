@@ -23,10 +23,14 @@ ___
 	- Daten löschen stehlen, löschen oder manipulieren
 8. Vanity-URLs
 	- Manipulation von Links für Phisching-Zwecke
+9. reCaptcha-Abfragen
+	- "Completely Automated Public Turing test to tell Computers and Humans Apart"
+	- Phishing-Website durch Sicherheitsabfrage seriöser Unternehmen glaubwürdig wirken lassen
 ## Schutzmaßnahmen
 - Advanced Persistent Threats
 	-> Gegenstrategien:
 	- Kombination aus Sicherheitsebenen (Firewalls, Virenfilter, Verschlüsselung, Antivirusprogramme, etc.)
 	- Überwachung von Zugriffen durch IAM (Identity Access Management)
 	- Mitarbeiter schulen und für Gefahren sensibilisieren
-
+### WPA3
+- SAE = "Simultaneo"
