@@ -22,4 +22,5 @@ ___
 	- Mitarbeiter oder Angestellte von IT-Dienstleistern nutzen Zugriffsmöglichkeiten aus
 	- Daten löschen stehlen, löschen oder manipulieren
 ## Schutzmaßnahmen
-- Gegenstrategie:  
+- Advanced Persistent Threats
+	-> Gegenstrategie: Kombination aus Sicherheitsebenen (Firewalls, Virenfilter, Verschlüsselung, Antivirusprogramme, etc.)
