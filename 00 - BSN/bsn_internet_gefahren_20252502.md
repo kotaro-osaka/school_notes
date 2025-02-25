@@ -33,4 +33,9 @@ ___
 	- Überwachung von Zugriffen durch IAM (Identity Access Management)
 	- Mitarbeiter schulen und für Gefahren sensibilisieren
 ### WPA3
-- SAE = "Simultaneo"
+- SAE = "Simultaneous Authentication of Equals"
+	- Basiert auf "Dragonfly-Handshake"-Protokoll
+	- Ermöglicht sicheren Austausch von Schlüsseln Passwort-basierter Authentifizierungsmethoden
+	- Ersetzt bisherige Methoden zur Aushandlung der Sitzungsschlüssel mit PSK (Pre-Shared Key)
+	- Kommt auch in WLAN-Mesh-Implementierungen zum Einsatz
+	- 
