@@ -27,7 +27,8 @@ ___
 	- "Completely Automated Public Turing test to tell Computers and Humans Apart"
 	- Phishing-Website durch Sicherheitsabfrage seriöser Unternehmen glaubwürdig wirken lassen
 10. Rootkit
-	
+	- Malware wird mit gültigen digitalen Zertifikaten signiert
+	- Erkennung durch Sicherheitssoftware wird umgangen ohne Windows-Warnungen
 ## Schutzmaßnahmen
 - Advanced Persistent Threats
 	-> Gegenstrategien:
