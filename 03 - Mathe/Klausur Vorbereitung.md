@@ -8,7 +8,8 @@ ___
 
 **Primzahl**: Natürliche Zahl, die durch $1$ und sich selbst teilbar ist
 
-#### Primfaktorzerlegung: Darstellung Zahl $\mathbb{N}$ als Produkt aus Primzahlen $\mathbb{P}$
+#### Primfaktorzerlegung
+Darstellung Zahl $\mathbb{N}$ als Produkt aus Primzahlen $\mathbb{P}$
 
 **Bsp.**
 $120$
@@ -21,4 +22,6 @@ $$
 & \text{5 is already a prime (Stop)} &&
 \end{flalign}
 $$
+$120=2^3 \times 3 \times 5$
+Primzahlen multiplizieren und Exponenten (Anzahl der Verwendungen) anpassen
 
