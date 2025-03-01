@@ -9,4 +9,9 @@ ___
 **Primzahl**: Natürliche Zahl, die durch $1$ und sich selbst teilbar ist
 
 **Primfaktorzerlegung**: Darstellung Zahl $\mathbb{N}$ als Produkt aus Primzahlen $\mathbb{P}$
-
+$$
+\begin{flalign}
+& \text{Geg.: } 120 && \\
+& 1. & & \text{(smallest pti)} && \\
+\end{flalign}
+$$
