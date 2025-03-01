@@ -22,3 +22,5 @@ ___
 	- Ausfallsicherheit
 	- Konkurrenz (wirtschaftlich)
 		- Anbieter entwickeln das bestmögliche Produkt
+
+- **2-Stufige DMZ: Schutz vor externen und internen Angriffen**
