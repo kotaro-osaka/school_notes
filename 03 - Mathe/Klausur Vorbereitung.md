@@ -8,4 +8,5 @@ ___
 
 **Primzahl**: Natürliche Zahl, die durch $1$ und sich selbst teilbar ist
 
-**Primfaktorzerlegung**: 
+**Primfaktorzerlegung**: Darstellung Zahl $\mathbb{N}$ als Produkt aus Primzahlen $\mathbb{P}$
+
