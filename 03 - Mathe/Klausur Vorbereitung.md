@@ -39,13 +39,13 @@ $ggT(18, 48)=6$
 
 #### ggT Primfaktorzerlegung
 **Bsp.**
+1. Primfaktorzerlegung durchführen
 $ggT(36, 66)$
 $$
 \begin{flalign}
 & 36 \div 2 \rightarrow 18 & & \text{(smallest prime)} && \\
 & 18 \div 2 \rightarrow 9 & & \text{" "} && \\
 & 9 \div 3 \rightarrow 3 & & \text{" "} && \\
-& 3 \div 3 \rightarrow 1 & & \text{" "} && \\
 & \text{3 is already a prime (Stop)} &&
 \end{flalign}
 $$
@@ -54,13 +54,13 @@ $36=2^2 \times 3^2$
 $$
 \begin{flalign}
 & 66 \div 2 \rightarrow 33 & & \text{(smallest prime)} && \\
-& 33 \div 3 \rightarrow 10 & & \text{" "} && \\
-& 10 \div 2 \rightarrow 5 & & \text{" "} && \\
-& 5 \div 5 \rightarrow 1 & & \text{" "} && \\
-& \text{3 is already a prime (Stop)} &&
+& 33 \div 3 \rightarrow 11 & & \text{" "} && \\
+& \text{11 is already a prime (Stop)} &&
 \end{flalign}
 $$
-$36=2^2 \times 3^2$
+$36=2 \times 3 \times 11$
 
+2. Gemeinsame Primfaktoren bestimmen
+$$
 
 **kgV**= Kleinstes gemeinsames Vielfaches
