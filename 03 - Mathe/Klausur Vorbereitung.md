@@ -156,3 +156,13 @@ $$
 $48=2^4 \times 3$
 
 $13 \times 3 \times 2^4=624$
+
+##### 2. ggT bestimmen
+$$
+\begin{flalign}
+	& ggT(13, 48)=\frac{13 \times 48}{624} && \\
+	& ggT(13, 48)=\frac{624}{624} && \\
+	& \rightarrow ggT(13, 48)=1 &&
+\end{flalign}
+$$
+
