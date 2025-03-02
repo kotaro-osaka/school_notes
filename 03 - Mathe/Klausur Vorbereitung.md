@@ -179,6 +179,7 @@ $a \times 48+b \times 5=1$
 
 $$
 \begin{flalign}
-	a \times 48+b \times 5=1 & & , a, b \in && \\
+	& a \times 48+b \times 5=1 & a, b \in \mathbb{Z} && \\
+	& 48=9 \times 5+3 \rightarrow 3=48-9 \times 5 && \\
 \end{flalign}
 $$
