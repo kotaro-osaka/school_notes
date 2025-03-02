@@ -118,4 +118,20 @@ $\rightarrow ggT(36, 66)=6$
 $ggT(12, 27)$
 
 1. Größere durch kleinere Zahl teilen
-	$27 \div 12=2$ Rest 3
+	$27 \div 12=2$, Rest 3
+2. Nenner durch Rest teilen, bis kein Rest übrig bleibt
+	$12 \div 3=4$, Rest 0
+3. Nenner der letzten Rechnung ist der ggT
+	$\rightarrow 3$
+	$\rightarrow ggT(12, 27)=3$
+
+#### ggT mit kgV berechnen
+$$
+\begin{flalign}
+	ggT(a, b)=\frac{a \times b}{kgV(a, b)} &&
+\end{flalign}
+$$
+
+**Bsp.**
+$ggT(13, 48)$
+
