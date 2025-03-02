@@ -166,3 +166,7 @@ $$
 \end{flalign}
 $$
 
+#### Erweiterter Euklidischer Algorithmus
+$a \times x_1 + b \times y_1=ggT(x_1, y_1)$
+=> Lösung für $x_1$ und $y_1$ finden
+
