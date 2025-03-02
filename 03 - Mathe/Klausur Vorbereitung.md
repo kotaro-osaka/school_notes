@@ -170,3 +170,8 @@ $$
 $a \times x_1 + b \times y_1=ggT(x_1, y_1)$
 => Lösung für $x_1$ und $y_1$ finden
 
+**Bsp.**
+$x_1=48$
+$y_1=5$
+	$\rightarrow ggT=1$
+	
