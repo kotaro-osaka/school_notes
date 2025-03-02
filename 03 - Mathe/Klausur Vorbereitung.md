@@ -40,7 +40,7 @@ $kgV(6, 8)=24$
 #### kgV Primfaktorzerlegung
 **Bsp.**
 $ggT(54, 63)$
-1. Primfaktorzerlegung durchführen
+##### 1. Primfaktorzerlegung durchführen
 $$
 \begin{flalign}
 & 54 \div 2 \rightarrow 27 & & \text{(smallest prime)} && \\
@@ -60,13 +60,13 @@ $$
 $$
 $63=3^2 \times 7$
 
-2. Einmalig vorkommende Primfaktoren bestimmen
+##### 2. Einmalig vorkommende Primfaktoren bestimmen
 $\rightarrow 2, 7$
 
-3. Höhere Potenz finden
+##### 3. Höhere Potenz finden
 $3^3>3^2 \rightarrow 3^3$
 
-4. Schritt 2 und 3 Zusammenrechnen
+##### 4. Schritt 2 und 3 Zusammenrechnen
 $\rightarrow 2 \times 7 \times 3^3=378$
 $\rightarrow kgV(54, 63)=378$
 
@@ -86,7 +86,7 @@ $ggT(18, 48)=6$
 #### ggT Primfaktorzerlegung
 **Bsp.**
 $ggT(36, 66)$
-1. Primfaktorzerlegung durchführen
+##### 1. Primfaktorzerlegung durchführen
 $$
 \begin{flalign}
 & 36 \div 2 \rightarrow 18 & & \text{(smallest prime)} && \\
@@ -106,10 +106,10 @@ $$
 $$
 $36=2 \times 3 \times 11$
 
-2. Gemeinsame Primfaktoren bestimmen
+##### 2. Gemeinsame Primfaktoren bestimmen
 $\rightarrow 2, 3$
 
-3. Primfaktoren multiplizieren
+##### 3. Primfaktoren multiplizieren
 $\rightarrow 2 \times 3=6$
 $\rightarrow ggT(36, 66)=6$
 
@@ -135,3 +135,21 @@ $$
 **Bsp.**
 $ggT(13, 48)$
 
+##### 1. kgV berechnen
+$kgV(13, 48)$
+
+$$
+\begin{flalign}
+	13 \div 13 \rightarrow 1 &&
+\end{flalign}
+$$
+$13=$
+
+$$
+\begin{flalign}
+	48 \div 2 \rightarrow 24 && \\
+	24 \div 2 \rightarrow 12 && \\
+	12 \div 2 \rightarrow 6 && \\
+	6 \div 2 \rightarrow 3 && \\
+\end{flalign}
+$$
