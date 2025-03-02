@@ -54,17 +54,20 @@ $54=2 \times 3^3$
 $$
 \begin{flalign}
 & 63 \div 3 \rightarrow 21 & & \text{(smallest prime)} && \\
-& 21 \div 3 \rightarrow 11 & & \text{" "} && \\
-& \text{11 is already a prime (Stop)} &&
+& 21 \div 3 \rightarrow 7 & & \text{" "} && \\
+& \text{7 is already a prime (Stop)} &&
 \end{flalign}
 $$
-$36=2 \times 3 \times 11$
+$63=3^2 \times 7$
 
-1. Gemeinsame Primfaktoren bestimmen
-$\rightarrow 2, 3$
+2. Einmalig vorkommende Primfaktoren bestimmen
+$\rightarrow 2, 7$
 
-1. Primfaktoren multiplizieren
-$\rightarrow 2 \times 3=6$
+1. Höhere Potenz finden
+$3^3>3^2 \rightarrow 3^3$
+
+1. Schritt 2 und 3 Zusammenrechnen
+$\rightarrow 2 \times 7 \times 3^3=378$
 $\rightarrow ggT(36, 66)=6$
 
 
