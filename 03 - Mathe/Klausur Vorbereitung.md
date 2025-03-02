@@ -63,12 +63,12 @@ $63=3^2 \times 7$
 2. Einmalig vorkommende Primfaktoren bestimmen
 $\rightarrow 2, 7$
 
-1. Höhere Potenz finden
+3. Höhere Potenz finden
 $3^3>3^2 \rightarrow 3^3$
 
-1. Schritt 2 und 3 Zusammenrechnen
+4. Schritt 2 und 3 Zusammenrechnen
 $\rightarrow 2 \times 7 \times 3^3=378$
-$\rightarrow ggT(36, 66)=6$
+$\rightarrow kgV(54, 63)=378$
 
 
 **ggT**=Größter gemeinsamer Teiler (Größte Zahl durch die Ausgangszahlen geteilt werden können)
@@ -112,3 +112,10 @@ $\rightarrow 2, 3$
 3. Primfaktoren multiplizieren
 $\rightarrow 2 \times 3=6$
 $\rightarrow ggT(36, 66)=6$
+
+#### Euklidischer Algorithmus
+**Bsp.**
+$ggT(12, 27)$
+
+1. Größere durch kleinere Zahl teilen
+	$27 \div 12=2$ Rest 3
