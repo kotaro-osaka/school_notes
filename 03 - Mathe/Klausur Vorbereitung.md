@@ -173,7 +173,7 @@ $a \times x_1 + b \times y_1=ggT(x_1, y_1)$
 **Bsp.**
 $x_1=48$
 $y_1=5$
-	$\rightarrow ggT=1$
+$ggT(48, 5)=1$
 
 $a \times 48+b \times 5=1$
 
@@ -181,5 +181,8 @@ $$
 \begin{flalign}
 	& a \times 48+b \times 5=1 & a, b \in \mathbb{Z} && \\
 	& 48=9 \times 5+3 \rightarrow 3=48-9 \times 5 && \\
+	& 5=1 \times 3+2 & & \rightarrow 2=5-1 \times 3 && \\
+	& 3=1 \times 2+1 & & \rightarrow 1=3-1 \times 2 && \\
+	& 2=2 \times 1 &
 \end{flalign}
 $$
