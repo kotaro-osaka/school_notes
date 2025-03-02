@@ -26,11 +26,13 @@ Primzahlen multiplizieren und Exponenten (Anzahl der Verwendungen) anpassen
 # ggT, kgV & Euklidischer Algorithmus
 ___
 **ggT**=Größter gemeinsamer Teiler (Größte Zahl durch die Ausgangszahlen geteilt werden können)
+
 **Bsp.**
-$1$
+$ggT(18, 48)$
 $$
 \begin{flalign}
-&  && \\
+& 18=\{ 1, 2, 3, 6, 9, 18 \} && \\
+& 48=\{  \} &&
 \end{flalign}
 $$
 
