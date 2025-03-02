@@ -44,12 +44,23 @@ $$
 \begin{flalign}
 & 36 \div 2 \rightarrow 18 & & \text{(smallest prime)} && \\
 & 18 \div 2 \rightarrow 9 & & \text{" "} && \\
-& 30 \div 2 \rightarrow 15 & & \text{" "} && \\
-& 15 \div 3 \rightarrow 5 & & \text{" "} && \\
-& \text{5 is already a prime (Stop)} &&
+& 9 \div 3 \rightarrow 3 & & \text{" "} && \\
+& 3 \div 3 \rightarrow 1 & & \text{" "} && \\
+& \text{3 is already a prime (Stop)} &&
 \end{flalign}
 $$
-$120=2^3 \times 3 \times 5$
+$36=2^2 \times 3^2$
+
+$$
+\begin{flalign}
+& 66 \div 2 \rightarrow 33 & & \text{(smallest prime)} && \\
+& 33 \div 3 \rightarrow 10 & & \text{" "} && \\
+& 10 \div 2 \rightarrow 5 & & \text{" "} && \\
+& 5 \div 5 \rightarrow 1 & & \text{" "} && \\
+& \text{3 is already a prime (Stop)} &&
+\end{flalign}
+$$
+$36=2^2 \times 3^2$
 
 
 **kgV**= Kleinstes gemeinsames Vielfaches
