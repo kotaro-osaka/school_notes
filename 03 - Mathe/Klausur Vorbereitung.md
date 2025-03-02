@@ -71,7 +71,7 @@ $\rightarrow 2 \times 7 \times 3^3=378$
 $\rightarrow kgV(54, 63)=378$
 
 
-**ggT**=Größter gemeinsamer Teiler (Größte Zahl durch die Ausgangszahlen geteilt werden können)
+**ggT**=Größter gemeinsamer Teiler (Größte Zahl, durch die die Ausgangszahlen geteilt werden können)
 
 **Bsp.**
 $ggT(18, 48)$
