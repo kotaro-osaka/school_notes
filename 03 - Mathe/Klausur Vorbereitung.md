@@ -27,6 +27,15 @@ Primzahlen multiplizieren und Exponenten (Anzahl der Verwendungen) anpassen
 ___
 **kgV**= Kleinstes gemeinsames Vielfaches (Kleinste Zahl, die ein Vielfaches von Ausgangszahlen ist)
 
+**Bsp.**
+$kgV(6, 8)$
+$$
+\begin{flalign}
+& Z_6=\{ 6, 12, 18, 24, 30, ... \} && \\
+& 8=\{ 8, 16, 24, 32, ... \} && \\
+\end{flalign}
+$$
+$kgV(6, 8)=24$
 
 **ggT**=Größter gemeinsamer Teiler (Größte Zahl durch die Ausgangszahlen geteilt werden können)
 
