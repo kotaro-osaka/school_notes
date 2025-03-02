@@ -7,7 +7,6 @@ ___
 **Teilerfremd** $\bot$: Zwei natürliche Zahlen, die keinen gemeinsamen Teiler außer $1$ haben
 
 **Primzahl**: Natürliche Zahl, die durch $1$ und sich selbst teilbar ist
-
 #### Primfaktorzerlegung
 Darstellung Zahl $\mathbb{N}$ als Produkt aus Primzahlen $\mathbb{P}$
 
@@ -24,4 +23,15 @@ $$
 $$
 $120=2^3 \times 3 \times 5$
 Primzahlen multiplizieren und Exponenten (Anzahl der Verwendungen) anpassen
+# ggT, kgV & Euklidischer Algorithmus
+___
+**ggT**=Größter gemeinsamer Teiler (Größte Zahl durch die Ausgangszahlen geteilt werden können)
+**Bsp.**
+$1$
+$$
+\begin{flalign}
+&  && \\
+\end{flalign}
+$$
 
+**kgV**= Kleinstes gemeinsames Vielfaches
