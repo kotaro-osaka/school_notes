@@ -37,6 +37,37 @@ $$
 $$
 $kgV(6, 8)=24$
 
+#### kgV Primfaktorzerlegung
+**Bsp.**
+$ggT(54, 63)$
+1. Primfaktorzerlegung durchführen
+$$
+\begin{flalign}
+& 54 \div 2 \rightarrow 27 & & \text{(smallest prime)} && \\
+& 27 \div 3 \rightarrow 9 & & \text{" "} && \\
+& 9 \div 3 \rightarrow 3 & & \text{" "} && \\
+& \text{3 is already a prime (Stop)} &&
+\end{flalign}
+$$
+$54=2 \times 3^3$
+
+$$
+\begin{flalign}
+& 63 \div 3 \rightarrow 21 & & \text{(smallest prime)} && \\
+& 21 \div 3 \rightarrow 11 & & \text{" "} && \\
+& \text{11 is already a prime (Stop)} &&
+\end{flalign}
+$$
+$36=2 \times 3 \times 11$
+
+1. Gemeinsame Primfaktoren bestimmen
+$\rightarrow 2, 3$
+
+1. Primfaktoren multiplizieren
+$\rightarrow 2 \times 3=6$
+$\rightarrow ggT(36, 66)=6$
+
+
 **ggT**=Größter gemeinsamer Teiler (Größte Zahl durch die Ausgangszahlen geteilt werden können)
 
 **Bsp.**
