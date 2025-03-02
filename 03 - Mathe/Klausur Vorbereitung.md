@@ -32,8 +32,24 @@ $ggT(18, 48)$
 $$
 \begin{flalign}
 & 18=\{ 1, 2, 3, 6, 9, 18 \} && \\
-& 48=\{ 1, 2, 3, 4, 6, 8, 12,  \} &&
+& 48=\{ 1, 2, 3, 4, 6, 8, 12, 16, 24, 48 \} && \\
 \end{flalign}
 $$
+$ggT(18, 48)=6$
+
+#### ggT Primfaktorzerlegung
+**Bsp.**
+$ggT(36, 66)$
+$$
+\begin{flalign}
+& 36 \div 2 \rightarrow 18 & & \text{(smallest prime)} && \\
+& 18 \div 2 \rightarrow 9 & & \text{" "} && \\
+& 30 \div 2 \rightarrow 15 & & \text{" "} && \\
+& 15 \div 3 \rightarrow 5 & & \text{" "} && \\
+& \text{5 is already a prime (Stop)} &&
+\end{flalign}
+$$
+$120=2^3 \times 3 \times 5$
+
 
 **kgV**= Kleinstes gemeinsames Vielfaches
