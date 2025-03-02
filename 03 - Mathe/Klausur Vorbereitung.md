@@ -23,8 +23,11 @@ $$
 $$
 $120=2^3 \times 3 \times 5$
 Primzahlen multiplizieren und Exponenten (Anzahl der Verwendungen) anpassen
-# ggT, kgV & Euklidischer Algorithmus
+# kgV, ggT & Euklidischer Algorithmus
 ___
+**kgV**= Kleinstes gemeinsames Vielfaches (Kleinste Zahl, die ein Vielfaches von Ausgangszahlen ist)
+
+
 **ggT**=Größter gemeinsamer Teiler (Größte Zahl durch die Ausgangszahlen geteilt werden können)
 
 **Bsp.**
@@ -39,8 +42,8 @@ $ggT(18, 48)=6$
 
 #### ggT Primfaktorzerlegung
 **Bsp.**
-1. Primfaktorzerlegung durchführen
 $ggT(36, 66)$
+1. Primfaktorzerlegung durchführen
 $$
 \begin{flalign}
 & 36 \div 2 \rightarrow 18 & & \text{(smallest prime)} && \\
@@ -61,6 +64,8 @@ $$
 $36=2 \times 3 \times 11$
 
 2. Gemeinsame Primfaktoren bestimmen
-$$
+$\rightarrow 2, 3$
 
-**kgV**= Kleinstes gemeinsames Vielfaches
+3. Primfaktoren multiplizieren
+$\rightarrow 2 \times 3=6$
+$\rightarrow ggT(36, 66)=6$
