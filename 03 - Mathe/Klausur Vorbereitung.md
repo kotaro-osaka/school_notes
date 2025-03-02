@@ -143,7 +143,7 @@ $$
 	13 \div 13 \rightarrow 1 &&
 \end{flalign}
 $$
-$13=$
+$13=13 \times 1$
 
 $$
 \begin{flalign}
@@ -153,3 +153,6 @@ $$
 	6 \div 2 \rightarrow 3 && \\
 \end{flalign}
 $$
+$48=2^4 \times 3$
+
+$13 \times 3 \times 2^4=624$
