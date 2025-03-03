@@ -191,4 +191,4 @@ $$
 
 **Assoziativgesetz**: Klammersetzung bei **Addition** oder **Multiplikation**, ohne Ergebnis zu verändern, gilt **nicht** bei Subtraktion und Division
 
-**Abgeschlossenheit**: Zahlen aus einer Menge (Bsp. $\mathbb{N}$), verknüpft durch einen Operator (Bsp. $+$/$\times$) ergibt eine Zahl aus der gleichen Menge
+**Abgeschlossenheit**: Zahlen aus einer Menge (Bsp. $\mathbb{N}$), verknüpft durch eine Verknüpfung (Bsp. $+$/$\times$) ergibt eine Zahl aus der gleichen Menge, 
