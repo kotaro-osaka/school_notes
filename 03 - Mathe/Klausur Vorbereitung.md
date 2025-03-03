@@ -190,3 +190,5 @@ $$
 **Kommutativgesetz**: Reihenfolge von Zahlen bei **Addition** oder **Multiplikation** vertauschbar ohne Ergebnis zu verändern, gilt **nicht** bei Subtraktion und Division
 
 **Assoziativgesetz**: Klammersetzung bei **Addition** oder **Multiplikation**, ohne Ergebnis zu verändern, gilt **nicht** bei Subtraktion und Division
+
+**Abgeschlossenheit**: Zahlen aus einer Menge (Bsp. $\mathbb{N}$), verknüpft durch einen Operator (Bsp. $+$/$\times$) ergibt eine Zahl aus der gleichen Menge
