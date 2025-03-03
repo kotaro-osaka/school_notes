@@ -198,7 +198,6 @@ $$
 **Gruppe**:
 1. Menge $M$ bezüglich $\circ$ abgeschlossen (Zwei Elemente aus $M$, verknüpft mit $\circ$ ergibt Element aus $M$)
 2. Assoziativgesetz (Klammersetzung verändert nicht das Ergebnis)
-3. Neutralelement gegeben (Bsp. $\mathbb{N}_0$)
+3. Neutralelement gegeben (Bsp. $(\mathbb{N}_0, +)$ ($+0$) oder $(\mathbb{N}, \times)$ ($\times 1$), **nicht** $(\mathbb{N}, +)$)
 
-> https://www.youtube.com/watch?v=vrh1y9bwhls
-> https://youtu.be/LyFCkZXkly0
+https://youtube.com/playlist?list=PLLTAHuUj-zHgrxnm5NRR_vXH-pJ9ZrrvD&si=M1DyPBT-ttv4_e48
