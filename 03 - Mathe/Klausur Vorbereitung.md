@@ -195,9 +195,11 @@ $$
 
 **Neutralelement/Neutrales Element/Einselement**: Jedes Element wird durch die Verknüpfung mit dem Neutralelement auf sich selbst abgebildet (Ein Element hat, wie $0$, keine Auswirkung)
 
+**Inverses Element**: Verknüpft man ein Element aus $M$ mit seinem Inversen, erhält man das Neutrale Element (Bsp. $(\mathbb{Z}, +) \rightarrow 7+(-7)=0$)
+
 **Gruppe**:
 1. Menge $M$ bezüglich $\circ$ abgeschlossen (Zwei Elemente aus $M$, verknüpft mit $\circ$ ergibt Element aus $M$)
 2. Assoziativgesetz (Klammersetzung verändert nicht das Ergebnis)
 3. Neutralelement gegeben (Bsp. $(\mathbb{N}_0, +)$ ($+0$) oder $(\mathbb{N}, \times)$ ($\times 1$), **nicht** $(\mathbb{N}, +)$)
 
-https://youtube.com/playlist?list=PLLTAHuUj-zHgrxnm5NRR_vXH-pJ9ZrrvD&si=M1DyPBT-ttv4_e48
+> https://youtube.com/playlist?list=PLLTAHuUj-zHgrxnm5NRR_vXH-pJ9ZrrvD&si=M1DyPBT-ttv4_e48
