@@ -186,3 +186,7 @@ $$
 	& 2=2 \times 1 &
 \end{flalign}
 $$
+# Algebraische Strukturen
+**Kommutativgesetz**: Reihenfolge von Zahlen bei **Addition** oder **Multiplikation** vertauschbar, gilt **nicht** bei Subtraktion und Division
+
+
