@@ -187,6 +187,6 @@ $$
 \end{flalign}
 $$
 # Algebraische Strukturen
-**Kommutativgesetz**: Reihenfolge von Zahlen bei **Addition** oder **Multiplikation** vertauschbar, gilt **nicht** bei Subtraktion und Division
+**Kommutativgesetz**: Reihenfolge von Zahlen bei **Addition** oder **Multiplikation** vertauschbar ohne Ergebnis zu verändern, gilt **nicht** bei Subtraktion und Division
 
-
+**Assoziativgesetz**: Klammersetzung bei **Addition** oder **Multiplikation**, ohne Ergebnis zu verändern, gilt **nicht** bei Subtraktion und Division
