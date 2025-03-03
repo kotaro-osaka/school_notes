@@ -197,6 +197,11 @@ $$
 
 **Inverses Element**: Verknüpft man ein Element aus $M$ mit seinem Inversen, erhält man das Neutrale Element (Bsp. $(\mathbb{Z}, +) \rightarrow 7+(-7)=0$)
 
+**Halbgruppe**:
+1. Abgeschlossen
+2. Assoziativ
+(3. Wenn auch Kommutativ, dann **Kommutative Halbgruppe**)
+
 **Gruppe**:
 1. Menge $M$ bezüglich $\circ$ abgeschlossen (Zwei Elemente aus $M$, verknüpft mit $\circ$ ergibt Element aus $M$)
 2. Assoziativgesetz (Klammersetzung verändert nicht das Ergebnis)
