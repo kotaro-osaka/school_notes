@@ -193,11 +193,12 @@ $$
 
 **Abgeschlossenheit**: Zahlen aus einer Menge (Bsp. $\mathbb{N}$), verknüpft durch eine Verknüpfung (Bsp. $+$/$\times$) ergibt eine Zahl aus der gleichen Menge (=> *Abgeschlossen*, sonst *nicht abgeschlossen* wie bei $\div$/$-$)
 
-**Neutralelement/Neutrales Element/Einselement**: Jedes Element wird durch die Verknüpfung mit dem Neutralelement auf sich selbst abgebildet ($a \circ =$ )
+**Neutralelement/Neutrales Element/Einselement**: Jedes Element wird durch die Verknüpfung mit dem Neutralelement auf sich selbst abgebildet (Ein Element hat, wie $0$, keine Auswirkung)
 
 **Gruppe**:
 1. Menge $M$ bezüglich $\circ$ abgeschlossen (Zwei Elemente aus $M$, verknüpft mit $\circ$ ergibt Element aus $M$)
 2. Assoziativgesetz (Klammersetzung verändert nicht das Ergebnis)
+3. Neutralelement gegeben (Bsp. $\mathbb{N}_0$)
 
 > https://www.youtube.com/watch?v=vrh1y9bwhls
 > https://youtu.be/LyFCkZXkly0
