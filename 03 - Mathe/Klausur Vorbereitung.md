@@ -201,5 +201,7 @@ $$
 1. Menge $M$ bezüglich $\circ$ abgeschlossen (Zwei Elemente aus $M$, verknüpft mit $\circ$ ergibt Element aus $M$)
 2. Assoziativgesetz (Klammersetzung verändert nicht das Ergebnis)
 3. Neutralelement gegeben (Bsp. $(\mathbb{N}_0, +)$ ($+0$) oder $(\mathbb{N}, \times)$ ($\times 1$), **nicht** $(\mathbb{N}, +)$)
+4. Es gibt zu jedem Element ein Inverses (benötigt Neutralelement)
+(5. Wenn auch Kommutativ, dann **Abelsche Gruppe**)
 
 > https://youtube.com/playlist?list=PLLTAHuUj-zHgrxnm5NRR_vXH-pJ9ZrrvD&si=M1DyPBT-ttv4_e48
