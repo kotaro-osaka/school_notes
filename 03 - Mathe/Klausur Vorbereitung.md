@@ -39,7 +39,7 @@ $kgV(6, 8)=24$
 
 #### kgV Primfaktorzerlegung
 **Bsp.**
-$ggT(54, 63)$
+$kgV(54, 63)$
 ##### 1. Primfaktorzerlegung durchführen
 $$
 \begin{flalign}
