@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ef9abaca026cec3",
+        "id": "7e0d6b2a87205031",
         "type": "tabs",
         "children": [
           {
-            "id": "1e7fca17ecb8dcc3",
+            "id": "2ed813600753ea71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "03 - Mathe/Klausur Vorbereitung.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bgp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "praktikum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for praktikum"
+              "title": "Backlinks"
             }
           },
           {
@@ -115,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "praktikum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from praktikum"
+              "title": "Outgoing links"
             }
           },
           {
@@ -141,11 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "praktikum.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of praktikum"
+              "title": "Outline"
             }
           },
           {
@@ -171,63 +166,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "1e7fca17ecb8dcc3",
+  "active": "2ed813600753ea71",
   "lastOpenFiles": [
-    "Untitled.md",
     "03 - Mathe/Klausur Vorbereitung.md",
-    "11 - PPH/pph__2025_24_02.md",
-    "11 - PPH/Völkergemeinschaft und Frieden.pdf",
+    "06 - Wirtschaft/wwl_investitionsrechnung_27_08_2024.md",
     "06 - Wirtschaft/wl_bip_20252502.pdf",
-    "01 - ET/et_gleichspannungen_glaetten_2025_19_02.md",
-    "01 - ET/et_brueckengleichrichtung.pdf",
-    "01 - ET/et_ah_gleichrichtung.pdf",
-    "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf",
-    "01 - ET/et_ab_gleichrichter_blatt2.pdf",
-    "00 - BSN/bsn_internet_gefahren_20252502.md",
     "00 - BSN/Internet-Gefahren_DOC-2_LM-Sammlung.pdf",
     "00 - BSN/Internet-Gefahren_DOC-1_Cisco-ITN.pdf",
-    "01 - ET/et_daempfung_2025_08_01.md",
-    "03 - Mathe/mathe-erweiterter-euklidischer-algoirthmus-2025-14-02.md",
-    "01 - ET/et_04_09_24.md",
-    "01 - ET/et__18_09_24.md",
-    "03 - Mathe/mathe_ggT_kgv_2025_16_01.md",
-    "03 - Mathe/07_mgk_ggt-kgv.pdf",
-    "00 - BSN/IT-Sec_USV-10.09_LM-Training_CI3O1_AUF+LSG.pdf",
-    "03 - Mathe/vektoren.md",
-    "01 - ET/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
-    "01 - ET/oszilloskop.md",
+    "00 - BSN/bsn_internet_gefahren_20252502.md",
+    "00 - BSN/1 - glossary/1.0 - misc/dmz.md",
+    "11 - PPH/Völkergemeinschaft und Frieden.pdf",
+    "11 - PPH/pph__2025_24_02.md",
+    "08 - Datenbanken/db_charsets_collations_unicode_02_09_24.md",
+    "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
+    "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf",
+    "01 - ET/et_ab_gleichrichter_blatt2.pdf",
+    "01 - ET/et_ah_gleichrichtung.pdf",
+    "01 - ET/et_brueckengleichrichtung.pdf",
+    "01 - ET/et_brueckengleichrichtung.pdf.pdf",
     "01 - ET/et_widerstand_berechnen_09_09_24.md",
     "01 - ET/et_szenario_netzwerk_testen_21_08_24.md",
+    "01 - ET/et_szenario_22_08_24.pdf",
     "01 - ET/et_kondensator_kapazitaet_13_09_24.md",
     "01 - ET/et_induktivitaet_27_09_24.md",
-    "01 - ET/et_fehlerarten_23_08_24.md",
-    "test.md",
+    "01 - ET/et_gleichspannungen_glaetten_2025_19_02.md",
+    "01 - ET/et_daempfung_2025_08_01.md",
+    "03 - Mathe/mathe_ggT_kgv_2025_16_01.md",
+    "03 - Mathe/mathe-erweiterter-euklidischer-algoirthmus-2025-14-02.md",
+    "00 - BSN/usv.md",
     "11 - PPH/pph_nahost_konflikt_2025_13_01.md",
+    "03 - Mathe/mathe_ggT_kgv_2025_15_01.md",
     "01 - ET/99 - archive/oszilloskop.md",
+    "01 - ET/99 - archive/et__18_09_24.md",
     "01 - ET/99 - archive/et_widerstand_berechnen_09_09_24.md",
     "01 - ET/99 - archive/et_szenario_netzwerk_testen_21_08_24.md",
     "01 - ET/99 - archive/et_kondensator_kapazitaet_13_09_24.md",
     "01 - ET/99 - archive/et_induktivitaet_27_09_24.md",
     "01 - ET/99 - archive/et_fehlerarten_23_08_24.md",
-    "99 - misc/Pasted image 20240929190555.png",
-    "99 - misc/Pasted image 20240929182448.png",
+    "01 - ET/99 - archive/et_04_09_24.md",
+    "99 - misc/zwei_punkte_berechnen_bsp.png",
     "99 - misc/videoframe_162647.png",
+    "99 - misc/vektorrechnung.png",
+    "99 - misc/vektoren_durch_zwei_punkte_berechnen.png",
+    "99 - misc/vektoren_3d.png",
+    "99 - misc/vektoren_1.png",
+    "99 - misc/Pasted image 20240929190555.png",
     "99 - misc/Pasted image 20240929125235.png",
-    "99 - misc/Pasted image 20240929125221.png",
-    "99 - misc/Pasted image 20240929122203.png",
-    "09 - Software/favoritenliste.png",
-    "99 - misc/Pasted image 20240915205143.png",
-    "99 - misc/Pasted image 20240915204259.png",
-    "99 - misc/Pasted image 20240909122430.png"
+    "99 - misc/Pasted image 20240929182448.png",
+    "99 - misc/Pasted image 20240929125221.png"
   ]
 }
