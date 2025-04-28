@@ -9,8 +9,12 @@ ___
 	- Bewegung zur Freiheit Palästinas
 
 ## Februar 1969: Jassir Arafat PLO Führung
+- Gründer der AL-Fatah übernahm die Führung der PLO
+- Sein traditionelles Kopftuch wurde zum Symbol für Befreiungskampf der Palästinenser
 
-
+## Attentate
+- PLO bzw. Splittergruppen der Bewegung verüben immer wieder Attentate
+- 
 
 
 ## 1987–1993: Erste Intifada – Massenproteste und Aufstände gegen Besatzung
