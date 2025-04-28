@@ -14,12 +14,10 @@ ___
 
 ## Attentate
 - PLO bzw. Splittergruppen der Bewegung verüben immer wieder Attentate
-- 
-
-
-## 1987–1993: Erste Intifada – Massenproteste und Aufstände gegen Besatzung
-
-## 1993: Oslo-Abkommen zwischen Israel und PLO
+- Kämpfen für ihre Belangen
+## 08.12.1987 – 13.09.1993: Erste Intifada – Massenproteste und Aufstände gegen Besatzung
 
 ## Quellen
-- https://www.tessloff.com/was-ist-was/archiv/Geschichte/1900-und-spa%CC%88ter/1-juni-1964-plo-wird-gegruendet.html
+
+
+Libanon krieg - 1. intifada
