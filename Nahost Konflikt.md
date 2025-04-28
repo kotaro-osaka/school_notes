@@ -1,10 +1,12 @@
 # Palästinensische Bewegung und Erste Intifada (1964–1993)
 ___
 ## 1. Juni 1964: Gründung der PLO
-- Erster Palästinensischer Nationalrat beschloss am 1. Juni 1964 in Jerusalem die PLO zu gründen
-- 
-- 
-- PLO = "Palestine Liberation Organization" (Palästinensische Befreiungsorganisation)
+- Erster Palästinensischer Nationalrat beschloss am 1. Juni 1964 in Jerusalem die PLO ("Palestine Liberation Organization") zu gründen
+- Vorsitzender: UN-Diplomat Ahmed Shukeiry
+- PLO sieht sich als Widerstandskämpfer gegen Staat Israel
+- Wichtigste Organisation innerhalb PLO: Al-Fatah
+	- Bewegung
+
 - Politische Vertretung der palästinensischen Araber, die die Rückgabe ihrer Heimat vom Staat Israel fordern
 - 
 
