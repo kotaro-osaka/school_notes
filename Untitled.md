@@ -1,0 +1,1 @@
+usammenbruch des osmanischen reiches
