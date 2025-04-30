@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
+                "file": "00 - BSN/1 - glossary/1.99 - physical devices/switch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "osi_model"
+              "title": "switch"
             }
           }
         ]
@@ -178,9 +178,9 @@
   },
   "active": "92c26087a445473d",
   "lastOpenFiles": [
+    "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
     "00 - BSN/1 - glossary/Untitled.md",
     "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
-    "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
     "99 - misc/Pasted image 20250430102206.png",
     "00 - BSN/1 - glossary/1.4 - vlan",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",

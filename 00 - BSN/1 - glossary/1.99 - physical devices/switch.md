@@ -17,3 +17,6 @@ ___
 - Forwards traffic based on IP addresses
 - More advanced routing capabilities
 - Can be used in larger networks
+
+## Cut through // Store forward
+- 
