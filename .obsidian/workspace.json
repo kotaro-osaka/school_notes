@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bgp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +193,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "30371d551635a3d2",
+  "active": "be2e4aabaca33dac",
   "lastOpenFiles": [
     "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_analysis.md",
     "Nahost Konflikt.md",
