@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7f8da01918218ab8",
+        "id": "3c1a6f81d0e9c712",
         "type": "tabs",
         "children": [
           {
-            "id": "152aa2ed5334a56c",
+            "id": "1a5f1e6489dd07b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_analysis.md",
+                "file": "90 - CI3M1/00 - BSN/datenintegrität-02-06-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ipv4_analysis"
-            }
-          },
-          {
-            "id": "30371d551635a3d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nahost Konflikt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Nahost Konflikt"
+              "title": "datenintegrität-02-06-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bgp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,16 +176,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "be2e4aabaca33dac",
+  "active": "1a5f1e6489dd07b7",
   "lastOpenFiles": [
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_analysis.md",
-    "Nahost Konflikt.md",
-    "99 - misc/Pasted image 20250430102206.png",
+    "90 - CI3M1/00 - BSN/datenintegrität-02-06-2025.md",
+    "90 - CI3M1/00 - BSN",
+    "90 - CI3M1",
+    "00 - BSN/90 - m1",
+    "00 - BSN/1 - glossary/1.99 - physical devices/switch.md",
     "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
+    "00 - BSN/1 - glossary/Untitled.md",
+    "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
+    "99 - misc/Pasted image 20250430102206.png",
     "00 - BSN/1 - glossary/1.4 - vlan",
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_header.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_address_types.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
+    "Nahost Konflikt.md",
     "03 - Mathe/Klausur Vorbereitung.md",
     "06 - Wirtschaft/wwl_investitionsrechnung_27_08_2024.md",
     "06 - Wirtschaft/wl_bip_20252502.pdf",
@@ -216,9 +203,6 @@
     "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
     "01 - ET/et_ah_glaetten_von_gleichspannungen.pdf",
     "01 - ET/et_ab_gleichrichter_blatt2.pdf",
-    "01 - ET/et_ah_gleichrichtung.pdf",
-    "01 - ET/et_brueckengleichrichtung.pdf",
-    "01 - ET/et_brueckengleichrichtung.pdf.pdf",
     "01 - ET/et_widerstand_berechnen_09_09_24.md",
     "01 - ET/et_szenario_netzwerk_testen_21_08_24.md",
     "01 - ET/et_kondensator_kapazitaet_13_09_24.md",
@@ -239,7 +223,6 @@
     "99 - misc/vektoren_3d.png",
     "99 - misc/vektoren_1.png",
     "99 - misc/Pasted image 20240929190555.png",
-    "99 - misc/Pasted image 20240929125235.png",
-    "99 - misc/Pasted image 20240929182448.png"
+    "99 - misc/Pasted image 20240929125235.png"
   ]
 }
