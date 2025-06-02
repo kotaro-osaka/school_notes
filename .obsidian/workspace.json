@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f77c60259969dde",
+        "id": "1b0efe1449100f54",
         "type": "tabs",
         "children": [
           {
-            "id": "b1eb7c2fe516a003",
+            "id": "85cc7d7ee7b45f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -176,7 +177,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b1eb7c2fe516a003",
+  "active": "85cc7d7ee7b45f3f",
   "lastOpenFiles": [
     "90 - CI3M1/00 - BSN/wlan-02-06-2025.md",
     "90 - CI3M1/00 - BSN/datenintegrität-02-06-2025.md",
