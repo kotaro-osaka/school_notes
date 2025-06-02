@@ -11,10 +11,15 @@
             "id": "b1eb7c2fe516a003",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "90 - CI3M1/00 - BSN/wlan-02-06-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "wlan-02-06-2025"
             }
           }
         ]
