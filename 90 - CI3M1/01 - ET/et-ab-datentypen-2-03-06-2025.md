@@ -1,5 +1,9 @@
 # AB Datentypen 2
 ___
+```c
+int a = 5;
+i
+```
 
 1. `!`
 2. `*, /, %`
@@ -11,10 +15,9 @@ ___
 ```c
 char a = 0x3A; // 58 or 00111010 (:)
 char b = 0x76; // 118 or 01110110 (v)
-char c = ~a; // 11000101 
-char d = a|b; // 01111110
-char e = a&b; // 00110010
-char f = a^b; // 01001100
+char c = ~a; // 11000101 or 197 (extended ASCII: Å)
+	char d = a|b; // 01111110 or 126 (~)
+char e = a&b; // 00110010 or 50 (2)
+char f = a^b; // 01001100 or 76 (L)
 ```
 
-128 64 32 16 8 4 2 1
