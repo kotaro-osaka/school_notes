@@ -29,15 +29,12 @@
             "id": "c05bf1c78e7498c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "90 - CI3M1/01 - ET/et-ab-datentypen-2-03-06-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "90 - CI3M1/01 - ET/et-ab-datentypen.pdf"
               },
-              "icon": "lucide-file",
-              "title": "et-ab-datentypen-2-03-06-2025"
+              "icon": "lucide-file-text",
+              "title": "et-ab-datentypen"
             }
           }
         ]
@@ -196,9 +193,9 @@
   },
   "active": "c05bf1c78e7498c5",
   "lastOpenFiles": [
+    "90 - CI3M1/01 - ET/et-ab-datentypen-2-03-06-2025.md",
     "90 - CI3M1/01 - ET/et-ab-datentypen-2.pdf",
     "90 - CI3M1/01 - ET/et-ab-datentypen.pdf",
-    "90 - CI3M1/01 - ET/et-ab-datentypen-2-03-06-2025.md",
     "90 - CI3M1/01 - ET/~$beitsblattDatentypen2.docx",
     "90 - CI3M1/01 - ET/ArbeitsblattDatentypen2.docx",
     "90 - CI3M1/01 - ET",
