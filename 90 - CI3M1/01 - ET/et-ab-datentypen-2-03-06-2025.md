@@ -21,9 +21,27 @@ bool n = (a == 4); // false
 ```
 
 ```c
-unsigned char a = 7; // unsigned doesn't work for type char and char can't hold integer
+unsigned char a = 7; // char is 1 byte integer
 int b = 100;
-int c = a * b / b; // *
+int c = a * b / b; // 7
+int d = 10000;
+int e = a * d / d; // 7
+```
+
+```c
+signed char a = 7;
+signed char b = 100;
+int c = a * b; // 700
+int d = 700;
+int e = 100;
+long f = d * e; // 70000
+```
+
+```c
+int a = 5;
+int b = 4;
+int c = 8;
+int d = a + b * c*
 ```
 
 1. `!`
