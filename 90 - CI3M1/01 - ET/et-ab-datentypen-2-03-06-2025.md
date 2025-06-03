@@ -41,7 +41,7 @@ long f = d * e; // 70000
 int a = 5;
 int b = 4;
 int c = 8;
-int d = a + b * c*
+int d = a + b * c; // 37
 ```
 
 1. `!`
