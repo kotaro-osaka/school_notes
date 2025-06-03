@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "9a2e500052fc1845",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5097681db282bc6d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "90 - CI3M1/01 - ET/et-ab-datentypen-2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "et-ab-datentypen-2"
-            }
-          }
-        ]
-      },
-      {
         "id": "627fdb1fc1780001",
         "type": "tabs",
         "children": [
