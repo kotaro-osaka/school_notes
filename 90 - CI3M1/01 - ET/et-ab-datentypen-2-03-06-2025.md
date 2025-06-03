@@ -2,7 +2,28 @@
 ___
 ```c
 int a = 5;
-i
+int b = 3;
+int c = 5/3; // 1
+```
+
+```c
+int a = 5;
+int b = 4;
+int c = 8;
+int d = a+b*c; // 37
+```
+
+```c
+int a = 5;
+bool k = false;
+bool m = (a > 4); // true
+bool n = (a == 4); // false
+```
+
+```c
+unsigned char a = 7; // unsigned doesn't work for type char and char can't hold integer
+int b = 100;
+int c = a * b / b; // *
 ```
 
 1. `!`
