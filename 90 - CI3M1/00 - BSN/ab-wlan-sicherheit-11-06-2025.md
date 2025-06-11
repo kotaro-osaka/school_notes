@@ -54,3 +54,15 @@ ___
 >> WPA/WPA2-Personal (Pre-shared key)
 >> WPA/WPA2/WPA3-Enterprize (802.1X + RADIUS)
 > **Verschlüsselung**
+>> WPA: TKIP
+>> WPA2: AES (CCMP)
+>> WPA3: AES mit SAE
+> IEEE 802.11i
+>> Authentifizierung (802.1X, PSK)
+>> Verschlüsselung (CCMP/AES)
+>> Schlüsselmanagement
+
+10. Was ist der Unterschied zwischen WPA, WPA2 und WPA3?
+> **WPA**: Erste Verbesserung zu WEP, aber noch unsicher
+> **WPA2**: Aktueller Standard mit starker AES-Verschlüsselung.
+> **WPA3**: Modern, sicherer, schützt besser vor Passwort-Angriffen und Abhören.
