@@ -37,6 +37,17 @@ ___
 > Netzwerkdienst zur **Authentifizierung**, **Autorisierung** und **Abrechnung** (AAA)
 
 8. Nenne Eigenschaften von Verschlüsselungsverfahren im WLAN-Umfeld.
-> **Vertraulichkeit** (Hashing)
-> **Datenintegrität** (Verifizierung vollständiger und unveränderter Daten)
-> **Authentifizierung** ()
+> **Vertraulichkeit**
+>> Hashing
+> **Datenintegrität**
+>> Verifizierung vollständiger und unveränderter Daten
+> **Authentifizierung**
+>> Prüfung der Berechtigung
+>**Schlüsselmanagement**
+>> Regelung der Erzeugung, Verteilung & Erneuerung
+> **Sitzungssicherheit**
+>> Jede Verbindung neu verschlüsselt mit dynamischen Schlüsseln
+
+9. Gibt es Standards im Bereich WLAN, welche für die Authentifizierung und die Verschlüsselung gleichzeitig verantwortlich sind?
+> WPA / WPA2 / WPA3
+>> Auth: WPA
