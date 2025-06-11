@@ -50,4 +50,7 @@ ___
 
 9. Gibt es Standards im Bereich WLAN, welche für die Authentifizierung und die Verschlüsselung gleichzeitig verantwortlich sind?
 > WPA / WPA2 / WPA3
->> Auth: WPA
+> **Authentifizierung**
+>> WPA/WPA2-Personal (Pre-shared key)
+>> WPA/WPA2/WPA3-Enterprize (802.1X + RADIUS)
+> **Verschlüsselung**
