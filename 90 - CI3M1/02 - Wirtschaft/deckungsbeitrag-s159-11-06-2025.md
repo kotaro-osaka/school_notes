@@ -28,4 +28,4 @@ e) $Fixkosten \div Deckungsbeitrag= \text{Break-even-point}$
 
 Fixe Kosten: Miete, Zinsen, Leasingraten, Werbung, Reparatur
 
-Variable Kosten: Verpackungsmaterial, Materialverbrauch
+Variable Kosten: Verpackungsmaterial, Materialverbrauch, Meistergehalt
