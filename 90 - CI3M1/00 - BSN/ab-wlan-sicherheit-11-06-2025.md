@@ -32,4 +32,11 @@ ___
 > MICHAEL (Verschlüsselung) - "Message Integrity Code Hashed Message Authentication Code"
 > EAP (Authentisierung) - "Extensible Authentication Protocol"
 
-7. Welche Aufgabe hat ein RADIUS-Server
+7. Welche Aufgabe hat ein RADIUS-Server in einem lokalen Netzwerk?
+> "Remote Authentication Dial-In User Service"
+> Netzwerkdienst zur **Authentifizierung**, **Autorisierung** und **Abrechnung** (AAA)
+
+8. Nenne Eigenschaften von Verschlüsselungsverfahren im WLAN-Umfeld.
+> **Vertraulichkeit** (Hashing)
+> **Datenintegrität** (Verifizierung vollständiger und unveränderter Daten)
+> **Authentifizierung** ()
