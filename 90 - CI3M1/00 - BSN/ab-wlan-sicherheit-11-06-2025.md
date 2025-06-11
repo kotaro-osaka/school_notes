@@ -29,4 +29,7 @@ ___
 > IEEE 802.1x (Authentisierung) - Zugangsprotokoll
 > TKIP (Verschlüsselung) - WPA
 > AES (Verschlüsselung) - "Advanced Encryption Standard"; WPA2 & WPA3
-> MICHAEL ()
+> MICHAEL (Verschlüsselung) - "Message Integrity Code Hashed Message Authentication Code"
+> EAP (Authentisierung) - "Extensible Authentication Protocol"
+
+7. Welche Aufgabe hat ein RADIUS-Server
