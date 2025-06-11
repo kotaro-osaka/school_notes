@@ -63,6 +63,14 @@ ___
 >> Schlüsselmanagement
 
 10. Was ist der Unterschied zwischen WPA, WPA2 und WPA3?
-> **WPA**: Erste Verbesserung zu WEP, aber noch unsicher
-> **WPA2**: Aktueller Standard mit starker AES-Verschlüsselung.
-> **WPA3**: Modern, sicherer, schützt besser vor Passwort-Angriffen und Abhören.
+> **WPA**
+>> Erste Verbesserung zu WEP, aber noch unsicher
+> **WPA2**
+>> Aktueller Standard mit starker AES-Verschlüsselung
+> **WPA3**
+>> Modern, sicherer, schützt besser vor Passwort-Angriffen und Abhören
+
+11. Erkläre das Verfahren der "Pre shared keys".
+> Festgelegtes Passwort, um Nutzer zu Authentifizieren
+
+12. Sie beraten einen Kunden bzgl. des Kaufs eines Accesspoints
