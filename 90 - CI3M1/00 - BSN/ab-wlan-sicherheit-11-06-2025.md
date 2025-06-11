@@ -25,4 +25,8 @@ ___
 > Veraltete und unsichere art der Verschlüsselung
 > RC4: Verschlüsselungsverfahren
 
-6. Im WLAN-Standard 
+6. Im WLAN-Standard wird nach Authentisierungsmethode und Verschlüsselungsmethode unterschieden. Welche der folgenden Begriffe beziehen sich auf die Authentisierung, welche auf die Verschlüsselung?
+> IEEE 802.1x (Authentisierung) - Zugangsprotokoll
+> TKIP (Verschlüsselung) - WPA
+> AES (Verschlüsselung) - "Advanced Encryption Standard"; WPA2 & WPA3
+> MICHAEL ()
