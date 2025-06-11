@@ -11,15 +11,33 @@
             "id": "14013bd0dd655bb2",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "90 - CI3M1/00 - BSN/WLAN_Sicherheit_Aufgaben_2021.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "WLAN_Sicherheit_Aufgaben_2021"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e6e2233c8ad800a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "086d27377e67211e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "90 - CI3M1/00 - BSN/wlan-02-06-2025.md",
+                "file": "90 - CI3M1/00 - BSN/ab-wlan-sicherheit-11-06-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "wlan-02-06-2025"
+              "title": "ab-wlan-sicherheit-11-06-2025"
             }
           }
         ]
@@ -176,8 +194,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "14013bd0dd655bb2",
+  "active": "086d27377e67211e",
   "lastOpenFiles": [
+    "90 - CI3M1/00 - BSN/wlan-02-06-2025.md",
+    "90 - CI3M1/00 - BSN/ab-wlan-sicherheit-11-06-2025.md",
+    "90 - CI3M1/00 - BSN/WLAN_Sicherheit_Aufgaben_2021.pdf",
     "90 - CI3M1/02 - Wirtschaft/deckungsbeitrag-s159-11-06-2025.md",
     "90 - CI3M1/02 - Wirtschaft",
     "90 - CI3M1/01 - ET/et-ab-datentypen.pdf",
@@ -186,7 +207,6 @@
     "90 - CI3M1/01 - ET/~$beitsblattDatentypen2.docx",
     "90 - CI3M1/01 - ET/ArbeitsblattDatentypen2.docx",
     "90 - CI3M1/01 - ET",
-    "90 - CI3M1/00 - BSN/wlan-02-06-2025.md",
     "90 - CI3M1/00 - BSN/datenintegrität-02-06-2025.md",
     "90 - CI3M1/00 - BSN/autentifizierung-02-06-2025.md",
     "90 - CI3M1/00 - BSN",
@@ -197,7 +217,6 @@
     "00 - BSN/1 - glossary/Untitled.md",
     "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
     "99 - misc/Pasted image 20250430102206.png",
-    "00 - BSN/1 - glossary/1.4 - vlan",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "Nahost Konflikt.md",
     "03 - Mathe/Klausur Vorbereitung.md",
@@ -214,8 +233,6 @@
     "01 - ET/et_gleichspannungen_glaetten_2025_19_02.md",
     "01 - ET/et_daempfung_2025_08_01.md",
     "03 - Mathe/mathe_ggT_kgv_2025_16_01.md",
-    "03 - Mathe/mathe-erweiterter-euklidischer-algoirthmus-2025-14-02.md",
-    "00 - BSN/usv.md",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
     "99 - misc/videoframe_162647.png",
     "99 - misc/vektorrechnung.png",
