@@ -4,9 +4,6 @@ ___
 
 > Nr.3
 
-|     |     |
-| --- | --- |
-|     |     |
 Deckungsbeitrag pro Stück: $270€$
 Deckungsbeitrag gesamt: $210.600€$
 
@@ -21,7 +18,12 @@ e) $Fixkosten \div Deckungsbeitrag= \text{Break-even-point}$
 > [!info] Break-even-point
 > Das ist die Gewinnschwelle, also die Menge an Produkten, bei der der Gewinn bei 0€ liegt.
 
-Gesetz der Massenproduktion
-> Je n
+> [!info] Gesetz der Massenproduktion
+> Je höher die Anzahl der hergestellten Produkte, desto niedriger die Fixkosten
 
-Preisuntergrenze
+> [!info] Preisuntergrenze
+> Der niedrigste Preis, zu dem ein Unternehmen ein Produkt oder eine Dienstleistung verkaufen kann, um nicht zu verlieren
+
+> Nr. 1
+
+Fixe Kosten: 
