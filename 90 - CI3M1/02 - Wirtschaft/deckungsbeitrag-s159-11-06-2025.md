@@ -21,3 +21,7 @@ e) $Fixkosten \div Deckungsbeitrag= \text{Break-even-point}$
 > [!info] Break-even-point
 > Das ist die Gewinnschwelle, also die Menge an Produkten, bei der der Gewinn bei 0€ liegt.
 
+Gesetz der Massenproduktion
+> Je n
+
+Preisuntergrenze
