@@ -22,4 +22,7 @@ ___
 5. Ein Benutzer konfiguriert den Zugang seines WLANs mit der Einstellung WEP. Welche der folgenden Sicherheitsaspekte wird mit WEP eingestellt?
 > Vertraulichkeit der Daten
 > "Wired equivalent privacy"
-> 
+> Veraltete und unsichere art der Verschlüsselung
+> RC4: Verschlüsselungsverfahren
+
+6. Im WLAN-Standard 
