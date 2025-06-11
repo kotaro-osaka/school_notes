@@ -73,4 +73,22 @@ ___
 11. Erkläre das Verfahren der "Pre shared keys".
 > Festgelegtes Passwort, um Nutzer zu Authentifizieren
 
-12. Sie beraten einen Kunden bzgl. des Kaufs eines Accesspoints
+12. Sie beraten einen Kunden bzgl. des Kaufs eines Accesspoints. Der Kunde fragt sie nach den Sicherheitseinstellungen für sein WLAN. Welche Einstellungen empfehlen sie dem Kunden?
+> **Verschlüsselung**  
+>> WPA3 verwenden, falls unterstützt; sonst WPA2 (AES/CCMP)  
+>> WEP und WPA (TKIP) vermeiden, da unsicher.
+> **Authentifizierung**  
+>> WPA3-Personal (SAE) oder WPA2-Personal (PSK) für Privatkunden
+>> Für Unternehmen WPA2/WPA3-Enterprise mit 802.1X und RADIUS.
+> **WPS**  
+>> Deaktivieren, da oft unsicher.
+> **SSID**  
+>> Öffentlich ausstrahlen (Verbergen bringt wenig Sicherheit).
+> **Passwort** 
+>> Starkes, langes und zufälliges Passwort wählen.
+> **Firmware**
+>> Regelmäßig Updates des Accesspoints einspielen.
+> **Zusätzliche Optionen**  
+>> Gäste-WLAN mit eigenem Passwort und isoliertem Netzwerk.  
+    MAC-Filterung als ergänzende Maßnahme, aber nicht als Hauptschutz.
+
