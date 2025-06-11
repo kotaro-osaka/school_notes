@@ -13,9 +13,13 @@ ___
 
 4. Wie kann man unbekannten Hosts den Zugang zu einem WLAN sperren und wie kann dieser Schutz umgangen werden?
 > WPA2- / WPA3-Verschlüsselung mit Passwort
->> 
+>> Evil Twin (Rogue AP)
 > MAC filter (Whitelist)
 >> Mac spoofing (Übernahme von MAC eines Geräts)
 > SSID verstecken
 > VLAN Isolation
+
+5. Ein Benutzer konfiguriert den Zugang seines WLANs mit der Einstellung WEP. Welche der folgenden Sicherheitsaspekte wird mit WEP eingestellt?
+> Vertraulichkeit der Daten
+> "Wired equivalent privacy"
 > 
