@@ -9,4 +9,13 @@ ___
 > Sniffing (3rd party fängt unverschlüsselten Datenverkehr ab)
 
 3. Was versteht man unter einem "closed wired system"?
+> Ein System, das nicht mit öffentlichen Netzwerken verbunden ist
+
+4. Wie kann man unbekannten Hosts den Zugang zu einem WLAN sperren und wie kann dieser Schutz umgangen werden?
+> WPA2- / WPA3-Verschlüsselung mit Passwort
+>> 
+> MAC filter (Whitelist)
+>> Mac spoofing (Übernahme von MAC eines Geräts)
+> SSID verstecken
+> VLAN Isolation
 > 
