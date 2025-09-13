@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9c59d28a3a2ce04",
+        "id": "07f87ce5c6adcd3d",
         "type": "tabs",
         "children": [
           {
-            "id": "dd2bd212e9733468",
+            "id": "c87cd92f72357937",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,6 +177,7 @@
   },
   "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
+    "11 - PPH/pph__2025_24_02.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled 2.base",
@@ -193,7 +194,6 @@
     "90 - CI3M1/01 - ET",
     "90 - CI3M1/00 - BSN/datenintegrität-02-06-2025.md",
     "90 - CI3M1/00 - BSN/autentifizierung-02-06-2025.md",
-    "90 - CI3M1/00 - BSN",
     "00 - BSN/1 - glossary/1.99 - physical devices/switch.md",
     "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
     "00 - BSN/1 - glossary/Untitled.md",
@@ -205,7 +205,6 @@
     "06 - Wirtschaft/wwl_investitionsrechnung_27_08_2024.md",
     "00 - BSN/bsn_internet_gefahren_20252502.md",
     "00 - BSN/1 - glossary/1.0 - misc/dmz.md",
-    "11 - PPH/pph__2025_24_02.md",
     "08 - Datenbanken/db_charsets_collations_unicode_02_09_24.md",
     "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
     "01 - ET/et_widerstand_berechnen_09_09_24.md",
