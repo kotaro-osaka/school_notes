@@ -5,7 +5,7 @@ ___
 2024:
 - 5 products enabled individuals, cities and other partners to collectively reduce ~26 Mil. $t^2$
 
-→ Apple
+## → [Apple](https://www.apple.com/environment/)
 
 → Amazon
 
