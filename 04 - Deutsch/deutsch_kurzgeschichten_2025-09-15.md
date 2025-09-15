@@ -34,4 +34,6 @@ ___
 	5. Erscheinungsjahr
 	→ *Die Kurzgeschichte “Heimkehr, verfasst von Franz Kafka und im Jahr 1920 erschienen, handelt von …*
 2. **Inhaltsangabe**
-	1. Sinnabschnitte
+	1. Sinnabschnitte (Bsp.: Vor & nach Wendepunkt)
+	2. Chronologische Wiedergabe
+	3. 
