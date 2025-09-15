@@ -11,3 +11,9 @@ ___
 - Produkte werden durch dritte unabhängige Instanz auf Konformität geprüft
 - Produkte sind herstellerübergreifend kompatibel (**Interworking**)
 - Endkunden können auf Netz von Fachhandwerkern mit fundierten KNX Kenntnissen zurückgreifen
+	- Deren Qualifikation wird durch KNX zertifizierte Schulungsstätten sichergestellt
+- Software Tool **ETS** erlaubt *Planung*, *Projektierung* und *Inbetriebnahme* aller KNX zertifizierter Produkte unabhängig vom Hersteller
+- Unterstützt alle Übertragungsmedien:
+	- TP (Separates Zweidraht-Buskabel)
+	- PL (Stromleitung)
+	- RF
