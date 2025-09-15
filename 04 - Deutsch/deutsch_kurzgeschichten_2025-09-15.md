@@ -41,5 +41,9 @@ ___
 	2. (**Belegen**) (→ Zitat/Textstelle)
 	3. **Allgemeine Eigenschaft**
 	4. **Wirkung**
-	→ *Ein typisches Merkmal der Kurzgeschichte ist die knappe, präzise Sprache. Zum Beispiel findet man in d*
-4. 
+	→ *Ein typisches Merkmal der Kurzgeschichte ist die knappe, präzise Sprache. Zum Beispiel findet man in *
+
+
+## Zitieren
+1. **Wörtliches Zitat** (kurz): *Die Hauptfigur wirkt “sehr angespannt” (Z. 14).*
+2. **Wörtliches Zitat** (lang): *Die Autorin beschreibt die Stimmung mit den Worten: “Alles war still. Niemand rührte sich*
