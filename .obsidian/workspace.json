@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d039961acb3c5626",
+        "id": "068c8bbf3fe51199",
         "type": "tabs",
         "children": [
           {
-            "id": "417d64ec41f06199",
+            "id": "b428ab7b14d933cb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,6 +177,9 @@
   },
   "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
+    "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
+    "02 - MMI/2 - archive/mmi_knx_26_08_24.md",
+    "02 - MMI/1 - glossar/feldbus.md",
     "07 - English/global-players_2025-09-15.md",
     "00 - BSN/250116_CI3O1_BSN.pdf",
     "11 - PPH/pph_nahost_konflikt_2025_13_01.md",
@@ -212,9 +215,6 @@
     "01 - ET/et_widerstand_berechnen_09_09_24.md",
     "01 - ET/et_szenario_netzwerk_testen_21_08_24.md",
     "01 - ET/et_kondensator_kapazitaet_13_09_24.md",
-    "01 - ET/et_induktivitaet_27_09_24.md",
-    "01 - ET/et_gleichspannungen_glaetten_2025_19_02.md",
-    "01 - ET/et_daempfung_2025_08_01.md",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
     "99 - misc/videoframe_162647.png",
     "99 - misc/vektorrechnung.png",
