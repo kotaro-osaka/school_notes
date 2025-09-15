@@ -26,9 +26,12 @@ ___
 ## Struktur
 > Einleitung → Inhaltsangabe → Merkmale → Perspektive → Schluss
 
-1. Einleitung
+1. **Einleitung**
 	1. Titel
-	2. Autor
+	2. Autor/Verfasser
 	3. Textart
 	4. Thema
 	5. Erscheinungsjahr
+	→ *Die Kurzgeschichte “Heimkehr, verfasst von Franz Kafka und im Jahr 1920 erschienen, handelt von …*
+2. **Inhaltsangabe**
+	1. Sinnabschnitte
