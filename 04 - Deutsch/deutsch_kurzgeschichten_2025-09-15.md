@@ -46,4 +46,5 @@ ___
 
 ## Zitieren
 1. **Wörtliches Zitat** (kurz): *Die Hauptfigur wirkt “sehr angespannt” (Z. 14).*
-2. **Wörtliches Zitat** (lang): *Die Autorin beschreibt die Stimmung mit den Worten: “Alles war still. Niemand rührte sich*
+2. **Wörtliches Zitat** (lang): *Die Autorin beschreibt die Stimmung mit den Worten: “Alles war still. Niemand rührte sich “ (Z. 22f.).*
+3. **Sinngemäßes Zitat** (indirekt): *Die Hauptfigur wirkt nervös, weil sie nicht weiß, was auf sie zukommt (vgl. Z. 10-12).*
