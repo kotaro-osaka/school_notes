@@ -31,5 +31,9 @@ ___
 ## Rechnet sich eine Businstallation?
 ![[99 - misc/Screenshot 2025-09-15 at 12.05.28.png]]
 > Studie “Energieeinsparpotenzial durch moderne Elektroinstallation”
- » Mit vernetzter Haus- und Gebäudesystemtechnik auf Basis von KNX sind Energiesparungen bis zu 50% möglich
+ » Mit vernetzter Haus- und Gebäudesystemtechnik auf Basis von KNX sind Energieeinsparungen bis zu 50% möglich
 
+### Argumente für
+- Einfacherer und kosteneffizientere Installation bei Anlagen mit umfangreichen Funktionswünschen  durch Kunden
+- Geringere Komplexität bei Anlagen mit umfangreichen Funktionswünschen durch Kunden
+- 
