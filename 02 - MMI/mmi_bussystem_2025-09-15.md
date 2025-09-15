@@ -1,6 +1,12 @@
 # Bussysteme
 ___
-## Zukunft & 
+## Zukunft & Vergangenheit
+- 
+## Nachholbedarf in der Elektroinstallation
+- 
+## Mehr Vernetzung
+### Konventionelle Möglichkeiten
+### Bustechnik
 
 ## Warum KNX?
 - Wird von vielen Herstellern unterstützt
@@ -48,3 +54,9 @@ ___
 	- Paniktaster mit Meldung über Telefon
 	- …
 - Anwendung meistens im Zweckbau (Schulen, Veranstaltungszentren, Bürogebäude, Hotels, Praxen, Kanzleien & Produktionsstätten)
+
+## Wieso heißt das System KNX
+
+## Was ist das KNX System
+
+## Wie groß kann das System werden?
