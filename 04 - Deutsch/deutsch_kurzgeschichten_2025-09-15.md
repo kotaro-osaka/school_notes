@@ -41,5 +41,5 @@ ___
 	2. (**Belegen**) (→ Zitat/Textstelle)
 	3. **Allgemeine Eigenschaft**
 	4. **Wirkung**
-	→ *Ein typisches Merkmal der Kurzgeschichte sind kurze*
+	→ *Ein typisches Merkmal der Kurzgeschichte ist die knappe, präzise Sprache. Zum Beispiel findet man in d*
 4. 
