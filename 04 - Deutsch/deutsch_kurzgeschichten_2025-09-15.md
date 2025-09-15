@@ -61,7 +61,9 @@ ___
 → *Ein typisches Merkmal der Kurzgeschichte ist die knappe, präzise Sprache. Zum Beispiel vermittelt der kurze Satz “Alles war still.” (Z. 13) eine ganz klare, eindringliche Stimmung.*
 ### 4.  Perspektive
 1. **Erzählstandort** (Außensicht/Innensicht)
-2. **Erzählform & -verhalten** ()
+2. **Erzählform & -verhalten** (Auktorial/Personal/Neutral/Ich-Form + Merkmale)
+→ *Größtenteils wird in d*
+→ *Die Erzählperspektive dieser Kurzgeschichte ist eine personale, da sie Elemente aus Ritas Gedanken und Intention abgreift. Dies wird beispielsweise in Z. 52 deutlich, wo neben der neutralen Anmerkung Ritas Lachens die versuchsweise Art dessen beschrieben wird.*
 ## Zitieren
 1. **Wörtliches Zitat** (kurz): *Die Hauptfigur wirkt “sehr angespannt” (Z. 14).*
 2. **Wörtliches Zitat** (lang): *Die Autorin beschreibt die Stimmung mit den Worten: “Alles war still. Niemand rührte sich “ (Z. 22f.).*
