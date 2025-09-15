@@ -36,10 +36,10 @@ ___
 	- **Ich-Form**
 		- Erzähler ist eine Figur der Handlung
 		- Rückblickende Erzählung (==*erlebendes / erzählendes Ich*==)
-		1. Auktoriale Ich-Erzählung
-			- Erzählend
-		2. Personale Ich-Erzählung
-			- Erlebend
+		1. ==Auktoriale Ich-Erzählung==
+			- **Erzählend**
+		2. ==Personale Ich-Erzählung==
+			- **Erlebend**
 ## Struktur
 > Einleitung → Inhaltsangabe → Merkmale → Perspektive → Schluss
 
@@ -61,6 +61,7 @@ ___
 → *Ein typisches Merkmal der Kurzgeschichte ist die knappe, präzise Sprache. Zum Beispiel vermittelt der kurze Satz “Alles war still.” (Z. 13) eine ganz klare, eindringliche Stimmung.*
 ### 4.  Perspektive
 1. **Erzählstandort** (Außensicht/Innensicht)
+2. **Erzählform & -verhalten** ()
 ## Zitieren
 1. **Wörtliches Zitat** (kurz): *Die Hauptfigur wirkt “sehr angespannt” (Z. 14).*
 2. **Wörtliches Zitat** (lang): *Die Autorin beschreibt die Stimmung mit den Worten: “Alles war still. Niemand rührte sich “ (Z. 22f.).*
