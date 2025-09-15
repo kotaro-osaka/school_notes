@@ -17,9 +17,11 @@ ___
 - **Alltagssprache**
 - **Objektive Sprache** (nicht wertend)
 - Viele **Metaphern** (Sprachliche Bilder) & **Leitmotive** (Wiederkehrende Elemente)
-- **Erzählerstandort**
-	- Außensicht (liegt räumlich und zeitlich außerhalb der erzählten Welt der Figuren)
-	- Innensicht (liegt räumlich und zeitlich innerhalb der erzählten Welt der Figuren)
+- **Erzählerstandort** (räumlich & zeitlich)
+	- Außensicht (außerhalb der erzählten Welt der Figuren)
+	- Innensicht (innerhalb der erzählten Welt der Figuren)
+- **Erzählform & -verhalten**
+	- Auktorial (allwissend, Außen- und Innensicht sind zugänglich)
 
 
 
