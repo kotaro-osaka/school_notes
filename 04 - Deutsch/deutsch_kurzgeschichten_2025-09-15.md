@@ -29,20 +29,21 @@ ___
 ### 1. **Einleitung**
 1. Titel
 2. Autor/Verfasser
-	1. Textart
-	2. Thema
-	3. Erscheinungsjahr
-	→ *Die Kurzgeschichte “Heimkehr, verfasst von Franz Kafka und im Jahr 1920 erschienen, handelt von …*
-3. **Inhaltsangabe**
-	1. Sinnabschnitte (Bsp.: Vor & nach Wendepunkt)
-	2. Chronologische Wiedergabe der Geschehen pro Sinnabschnitt (falls vorhanden)
-4. **Merkmale**
-	1. **Merkmal** nennen
-	2. (**Belegen**) (→ Zitat/Textstelle)
-	3. **Allgemeine Eigenschaft**
-	4. **Wirkung**
-	→ *Ein typisches Merkmal der Kurzgeschichte ist die knappe, präzise Sprache. Zum Beispiel vermittelt der kurze Satz “Alles war still.” (Z. 13) eine ganz klare, eindringliche Stimmung.*
-5. 
+3. Textart
+4. Thema
+5. Erscheinungsjahr
+→ *Die Kurzgeschichte “Heimkehr, verfasst von Franz Kafka und im Jahr 1920 erschienen, handelt von …*
+### 2. **Inhaltsangabe**
+1. Sinnabschnitte (Bsp.: Vor & nach Wendepunkt)
+2. Chronologische Wiedergabe der Geschehen pro Sinnabschnitt (falls vorhanden)
+### 3. **Merkmale**
+1. **Merkmal** nennen
+2. (**Belegen**) (→ Zitat/Textstelle)
+3. **Allgemeine Eigenschaft**
+4. **Wirkung**
+→ *Ein typisches Merkmal der Kurzgeschichte ist die knappe, präzise Sprache. Zum Beispiel vermittelt der kurze Satz “Alles war still.” (Z. 13) eine ganz klare, eindringliche Stimmung.*
+### 4.  Perspektive
+1. **Erzählstandort** (Außensicht/Innensicht)
 ## Zitieren
 1. **Wörtliches Zitat** (kurz): *Die Hauptfigur wirkt “sehr angespannt” (Z. 14).*
 2. **Wörtliches Zitat** (lang): *Die Autorin beschreibt die Stimmung mit den Worten: “Alles war still. Niemand rührte sich “ (Z. 22f.).*
