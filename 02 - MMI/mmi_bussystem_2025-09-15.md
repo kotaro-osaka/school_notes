@@ -26,4 +26,7 @@ ___
 	- ANSI/ASHRAE 135 (USA)
 - Mehr als 356 Mitglieder in 37 Ländern fertigen Produkte konform zum KNX Standard
 	- Untereinander kompatibel
-	- Spätere Änderungen/Erweite
+	- Spätere Änderungen/Erweiterungen der Installation sind problemlos möglich
+
+## Rechnet sich eine Businstallation?
+![[99 - misc/Screenshot 2025-09-15 at 12.05.28.png]]
