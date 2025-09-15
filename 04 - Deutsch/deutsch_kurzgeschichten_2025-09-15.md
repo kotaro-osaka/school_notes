@@ -37,4 +37,7 @@ ___
 	1. Sinnabschnitte (Bsp.: Vor & nach Wendepunkt)
 	2. Chronologische Wiedergabe der Geschehen pro Sinnabschnitt (falls vorhanden)
 3. Merkmale
-	1. 
+	1. Merkmal nennen
+	2. (Belegen)
+	3. Allgemeine Eigenschaft
+	4. Wirkung
