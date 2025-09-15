@@ -27,10 +27,16 @@ ___
 		- Kennt Hintergründe, Vergangenheit & Zukunft
 	- **Personal**
 		- Innensicht einer oder mehrerer Figuren
-		- Bewusstseinsprozesse, Gedanken & Gefüh
-
-
-
+		- Bewusstseinsprozesse, Gedanken & Gefühle
+		- Innere Monologe
+	- **Neutral**
+		- Objektiv & sachlich
+		- Strenge Außensicht
+		- *Szenische Darstellung* (direkte Rede)
+	- **Ich-Form**
+		- Erzähler ist eine Figur der Handlung
+		- Rückblickende Erzählung (*erlebendes*)
+		- 
 ## Struktur
 > Einleitung → Inhaltsangabe → Merkmale → Perspektive → Schluss
 
