@@ -6,14 +6,16 @@ ___
 2. 
 3. ****
 ### Personen
-- Hauptperson ist ein “Alltagsmen”
+- Hauptperson ist ein “**Alltagsmensch**”
 
 ### Aufbau & Struktur
+- **Keine Einleitung** (Direkter Einstieg in Handlung & Problematik)
 - **Offenes Ende** / **Pointe** (= besonderes Ende, wodurch anderer Blickwinkel deutlich wird)
-- Chronologische Reihenfolge der Geschehen
+- **Chronologische** Reihenfolge der Geschehen
 
 ### Erzählen & Erzähler
 - **Alltagssprache**
+- Viele **Metaphern** (Sprachliche Bilder) & **Leitmotive** (Wiederkehrende Elemente)
 - **Perspektiven**
 	- Ich
 
