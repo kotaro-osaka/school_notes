@@ -2,4 +2,4 @@
 ___
 ## Merkmale
 1. Kurz
-2. Offenes Ende / Pointe
+2. Offenes Ende / Pointe (= besonderes Ende, wodurch anderer Blickwinkel deutlich wird)
