@@ -11,7 +11,7 @@ ___
 - Hauptperson ist ein “**Alltagsmensch**”
 ### Aufbau & Struktur
 - **Keine Einleitung** (Direkter Einstieg in Handlung & Problematik)
-- **Offenes Ende** / **Pointe** (= besonderes Ende, wodurch anderer Blickwinkel deutlich wird)
+- **Offenes Ende** / **Pointe** (= Wendepunkt/besonderes Ende, wodurch anderer Blickwinkel deutlich wird)
 - **Chronologische** Reihenfolge der Geschehen
 ### Erzählen & Erzähler
 - **Alltagssprache**
