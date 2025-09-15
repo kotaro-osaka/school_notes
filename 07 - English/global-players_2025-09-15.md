@@ -7,5 +7,4 @@ ___
 
 ## → [Apple](https://www.apple.com/environment/)
 
-→ Amazon
-
+## → [Amazon](https://sustainability.aboutamazon.com/)
