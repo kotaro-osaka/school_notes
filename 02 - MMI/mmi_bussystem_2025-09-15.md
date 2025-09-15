@@ -24,4 +24,6 @@ ___
 	- ISO/IEC 13543-3 (International)
 	- GB/T 20965 (China)
 	- ANSI/ASHRAE 135 (USA)
-- Mehr als 356 Mitglieder in 37 Ländern fertigen 
+- Mehr als 356 Mitglieder in 37 Ländern fertigen Produkte konform zum KNX Standard
+	- Untereinander kompatibel
+	- Spätere Änderungen/Erweite
