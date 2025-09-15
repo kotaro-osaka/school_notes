@@ -33,7 +33,13 @@ ___
 > Studie “Energieeinsparpotenzial durch moderne Elektroinstallation”
  » Mit vernetzter Haus- und Gebäudesystemtechnik auf Basis von KNX sind Energieeinsparungen bis zu 50% möglich
 
-### Argumente für
+### Argumente für Businstallation
 - Einfacherer und kosteneffizientere Installation bei Anlagen mit umfangreichen Funktionswünschen  durch Kunden
 - Geringere Komplexität bei Anlagen mit umfangreichen Funktionswünschen durch Kunden
-- 
+- Fortlaufende Energieeinsparungen (Reduktion der Betriebskosten)
+- Komfortgewinn Erleichterungen um Alter/Altersgerechtes Wohnen
+- Zukunftssicherheit & Flexibilität der Installation
+- Sicherheit
+	- Anwesenheitsinstallation
+	- Alarmierung bei Einbruchsversuch
+	- Abtaualarm
