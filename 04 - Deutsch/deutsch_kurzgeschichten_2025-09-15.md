@@ -36,8 +36,10 @@ ___
 2. **Inhaltsangabe**
 	1. Sinnabschnitte (Bsp.: Vor & nach Wendepunkt)
 	2. Chronologische Wiedergabe der Geschehen pro Sinnabschnitt (falls vorhanden)
-3. Merkmale
-	1. Merkmal nennen
-	2. (Belegen)
-	3. Allgemeine Eigenschaft
-	4. Wirkung
+3. **Merkmale**
+	1. **Merkmal** nennen
+	2. (**Belegen**) (→ Zitat/Textstelle)
+	3. **Allgemeine Eigenschaft**
+	4. **Wirkung**
+	→ *Ein typisches Merkmal der Kurzgeschichte sind kurze*
+4. 
