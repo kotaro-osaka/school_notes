@@ -11,10 +11,12 @@
             "id": "92a6ca9fa7841dd3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "04 - Deutsch/kurzgeschichten_stationenlernen.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "kurzgeschichten_stationenlernen"
             }
           }
         ]
@@ -177,6 +179,7 @@
   },
   "active": "92a6ca9fa7841dd3",
   "lastOpenFiles": [
+    "04 - Deutsch/ABSCHLUSSKLAUSUR.md",
     "02 - MMI/KNX-Grundlagen.pdf",
     "02 - MMI/mmi_bussystem_2025-09-15.md",
     "s3.md",
