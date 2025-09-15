@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "068c8bbf3fe51199",
+        "id": "d782c1fe6a19f05a",
         "type": "tabs",
         "children": [
           {
-            "id": "b428ab7b14d933cb",
+            "id": "6b7b48cb56f9e6a4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "6b7b48cb56f9e6a4",
   "lastOpenFiles": [
     "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
     "02 - MMI/2 - archive/mmi_knx_26_08_24.md",
