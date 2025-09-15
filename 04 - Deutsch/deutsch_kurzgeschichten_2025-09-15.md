@@ -32,11 +32,14 @@ ___
 	- **Neutral**
 		- Objektiv & sachlich
 		- Strenge Außensicht
-		- *Szenische Darstellung* (direkte Rede)
+		- ==*Szenische Darstellung*== (direkte Rede)
 	- **Ich-Form**
 		- Erzähler ist eine Figur der Handlung
-		- Rückblickende Erzählung (*erlebendes*)
-		- 
+		- Rückblickende Erzählung (==*erlebendes / erzählendes Ich*==)
+		1. Auktoriale Ich-Erzählung
+			- Erzählend
+		2. Personale Ich-Erzählung
+			- Erlebend
 ## Struktur
 > Einleitung → Inhaltsangabe → Merkmale → Perspektive → Schluss
 
