@@ -21,7 +21,13 @@ ___
 	- Außensicht (außerhalb der erzählten Welt der Figuren)
 	- Innensicht (innerhalb der erzählten Welt der Figuren)
 - **Erzählform & -verhalten**
-	- Auktorial (allwissend, Außen- und Innensicht sind zugänglich)
+	- **Auktorial**
+		- Allwissend
+		- Außen- und Innensicht
+		- Kennt Hintergründe, Vergangenheit & Zukunft
+	- **Personal**
+		- Innensicht einer oder mehrerer Figuren
+		- Bewusstseinsprozesse, Gedanken & Gefüh
 
 
 
