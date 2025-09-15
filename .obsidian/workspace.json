@@ -11,10 +11,15 @@
             "id": "6b7b48cb56f9e6a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 - MMI/mmi_bussystem_2025-09-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "mmi_bussystem_2025-09-15"
             }
           }
         ]
@@ -74,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -177,6 +183,7 @@
   },
   "active": "6b7b48cb56f9e6a4",
   "lastOpenFiles": [
+    "02 - MMI/mmi_bussystem_2025-09-15.md",
     "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
     "02 - MMI/2 - archive/mmi_knx_26_08_24.md",
     "02 - MMI/1 - glossar/feldbus.md",
@@ -214,7 +221,6 @@
     "08 - Datenbanken/ABSCHLUSSKLAUSUR.md",
     "01 - ET/et_widerstand_berechnen_09_09_24.md",
     "01 - ET/et_szenario_netzwerk_testen_21_08_24.md",
-    "01 - ET/et_kondensator_kapazitaet_13_09_24.md",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
     "99 - misc/videoframe_162647.png",
     "99 - misc/vektorrechnung.png",
