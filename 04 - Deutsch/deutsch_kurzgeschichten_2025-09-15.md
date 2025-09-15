@@ -6,9 +6,11 @@ ___
 2. 
 3. ****
 ### Personen
+- Hauptperson ist ein “Alltagsmen”
 
 ### Aufbau & Struktur
 - **Offenes Ende** / **Pointe** (= besonderes Ende, wodurch anderer Blickwinkel deutlich wird)
+- Chronologische Reihenfolge der Geschehen
 
 ### Erzählen & Erzähler
 - **Alltagssprache**
@@ -16,3 +18,6 @@ ___
 	- Ich
 
 Einleitung → Inhaltsangabe → Merkmale → Perspektive → Schluss
+
+
+## Struktur
