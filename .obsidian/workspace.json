@@ -55,8 +55,7 @@
               "title": "s3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,7 +214,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7abed29c4b30909e",
+  "active": "6b7b48cb56f9e6a4",
   "lastOpenFiles": [
     "s3.md",
     "02 - MMI/mmi_bussystem_2025-09-15.md",
