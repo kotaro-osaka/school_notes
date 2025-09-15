@@ -42,4 +42,7 @@ ___
 - Sicherheit
 	- Anwesenheitsinstallation
 	- Alarmierung bei Einbruchsversuch
-	- Abtaualarm
+	- Abtaualarm der Gefriertruhe
+	- Paniktaster mit Meldung über Telefon
+	- …
+- Anwendung meistens im Zweckbau (Schulen, Veranstaltungszentren, Bürogebäude, Hotels, Praxen, Kanzlei)
