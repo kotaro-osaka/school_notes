@@ -25,3 +25,10 @@ ___
 
 ## Struktur
 > Einleitung → Inhaltsangabe → Merkmale → Perspektive → Schluss
+
+1. Einleitung
+	1. Titel
+	2. Autor
+	3. Textart
+	4. Thema
+	5. Erscheinungsjahr
