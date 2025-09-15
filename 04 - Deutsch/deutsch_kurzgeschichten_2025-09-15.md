@@ -4,9 +4,10 @@ ___
 ### Allgemeine Merkmale
 - **Kurz** (anders als ein Roman kann sie in einem Zug gelesen werden)
 -  **Einblick in bestimmten Lebensabschnitt**, der eine Kurze Zeitspanne umfasst
-- Konfliktreiche Situation mit Auswirkungen auf das gesamte Leben der Hauptperson
+- **Konfliktreiche Situation** mit Auswirkungen auf das gesamte Leben der Hauptperson
+- **Problemlösungen werden nicht gegeben** (Leser soll zum Nachdenken angeregt werden)
 ### Personen
-- Teil der Handlung
+- **Wenige Personen** sind Teil der Handlung
 - Hauptperson ist ein “**Alltagsmensch**”
 ### Aufbau & Struktur
 - **Keine Einleitung** (Direkter Einstieg in Handlung & Problematik)
@@ -14,6 +15,7 @@ ___
 - **Chronologische** Reihenfolge der Geschehen
 ### Erzählen & Erzähler
 - **Alltagssprache**
+- **Objektive Sprache** (nicht wertend)
 - Viele **Metaphern** (Sprachliche Bilder) & **Leitmotive** (Wiederkehrende Elemente)
 - **Perspektiven**
 	- Ich
