@@ -12,4 +12,7 @@ ___
 
 ### Erzählen & Erzähler
 - **Alltagssprache**
-- **Perspek**
+- **Perspektiven**
+	- Ich
+
+Einleitung → Inhaltsangabe → Merkmale → Perspektive → Schluss
