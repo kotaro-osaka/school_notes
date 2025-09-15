@@ -17,9 +17,9 @@ ___
 - **Alltagssprache**
 - **Objektive Sprache** (nicht wertend)
 - Viele **Metaphern** (Sprachliche Bilder) & **Leitmotive** (Wiederkehrende Elemente)
-- **Perspektiven**
-	- Ich
-	- 
+- **Erzählerstandort**
+	- Außensicht (liegt räumlich und zeitlich außerhalb der erzählten Welt der Figuren)
+	- Innensicht (liegt räumlich und zeitlich innerhalb der erzählten Welt der Figuren)
 
 
 
