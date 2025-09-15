@@ -65,8 +65,10 @@ ___
 → *Größtenteils wird in dieser Kurzgeschichte aus der neutralen Perspektive erzählt, da oft nur über objektive Aussagen und Tätigkeiten in einer dokumentierenden Art, ohne weitere Spekulation oder Wissen über Gedanken der Figuren erzählt wird. Dies wird deutlich an Textstellen, wie Z. (…)*
 → *Die Erzählperspektive dieser Kurzgeschichte ist eine personale, da sie Elemente aus Ritas Gedanken und Intention abgreift. Dies wird beispielsweise in Z. 52 deutlich, wo neben der neutralen Anmerkung Ritas Lachens die versuchsweise Art dessen beschrieben wird.*
 ### Schluss
-1. Wichtigste Erkenntnisse
-2. Hauptpunkte wiederholen
+- Wichtigste Erkenntnisse
+- Hauptpunkte wiederholen
+- Offene Fragen
+	→ *Zusammenfassend lässt sich sagen, dass die Analyse wichtige Einsichten geliefert hat, jedoch auch Fragen offen lässt, wie etwa die langfristige Wirkung der Handlung auf die Charaktere.*
 ## Zitieren
 1. **Wörtliches Zitat** (kurz): *Die Hauptfigur wirkt “sehr angespannt” (Z. 14).*
 2. **Wörtliches Zitat** (lang): *Die Autorin beschreibt die Stimmung mit den Worten: “Alles war still. Niemand rührte sich “ (Z. 22f.).*
