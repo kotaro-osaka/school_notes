@@ -29,7 +29,7 @@ ___
 	- Spätere Änderungen/Erweiterungen der Installation sind problemlos möglich
 
 ## Rechnet sich eine Businstallation?
-![[99 - misc/Screenshot 2025-09-15 at 12.05.28.png]]
+![[99 - misc/Screenshot 2025-09-15 at 12.05.28.png|500x500]]
 > Studie “Energieeinsparpotenzial durch moderne Elektroinstallation”
  » Mit vernetzter Haus- und Gebäudesystemtechnik auf Basis von KNX sind Energieeinsparungen bis zu 50% möglich
 
@@ -45,4 +45,4 @@ ___
 	- Abtaualarm der Gefriertruhe
 	- Paniktaster mit Meldung über Telefon
 	- …
-- Anwendung meistens im Zweckbau (Schulen, Veranstaltungszentren, Bürogebäude, Hotels, Praxen, Kanzlei)
+- Anwendung meistens im Zweckbau (Schulen, Veranstaltungszentren, Bürogebäude, Hotels, Praxen, Kanzleien & Produktionsstätten)
