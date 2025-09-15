@@ -16,4 +16,12 @@ ___
 - Unterstützt alle Übertragungsmedien:
 	- TP (Separates Zweidraht-Buskabel)
 	- PL (Stromleitung)
-	- RF
+	- RF (Funk)
+	- IP/Ethernet/WLAN
+- Weltweit standarisiert
+	- CENELEC EN 50090 (Europa)
+	- CEN 13321-1/2 (Europa)
+	- ISO/IEC 13543-3 (International)
+	- GB/T 20965 (China)
+	- ANSI/ASHRAE 135 (USA)
+- Mehr als 356 Mitglieder in 37 Ländern fertigen 
