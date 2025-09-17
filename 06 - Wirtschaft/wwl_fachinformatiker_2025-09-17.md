@@ -67,4 +67,6 @@ ___
 - Berufsschule → Theoretisches Wissen, Allgemeinbildung, Fachkunde
 - Abschluss: Staatlich anerkannter Ausbildungsberuf
 ## Berufsbildungsgesetz (BBiG)
-- R
+- Rechtliche Grundlage der beruflichen Ausbildung
+1. Abschluss & Inhalt von Ausbildungsverträgen
+2. Pflichten von Auszubildenen & Ausbildenen
