@@ -64,4 +64,5 @@ ___
 ## Duale Ausbildung
 - Kombination aus Betrieb & Berufsschule
 - Betrieb → Praktische Erfahrungen
-- Berufsschule → 
+- Berufsschule → Theoretisches Wissen, Allgemeinbildung, Fachkunde
+- Abschluss: Staatlich anerkannter Ausbildungsberuf
