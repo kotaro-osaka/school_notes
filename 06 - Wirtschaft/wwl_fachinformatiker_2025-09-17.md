@@ -67,6 +67,14 @@ ___
 - Berufsschule → Theoretisches Wissen, Allgemeinbildung, Fachkunde
 - Abschluss: Staatlich anerkannter Ausbildungsberuf
 ## Berufsbildungsgesetz (BBiG)
+> Schafft rechtlichen Rahmen für gesamte berufliche Bildung
 - Rechtliche Grundlage der beruflichen Ausbildung
 1. Abschluss & Inhalt von Ausbildungsverträgen
-2. Pflichten von Auszubildenen & Ausbildenen
+2. Pflichten von Auszubildenen & Ausbildenden
+3. Prüfungswesen & Zuständigkeit der Kammern
+4. Anerkennung von Ausbildungsberufen
+5. Weiterbildung & Umschulung
+## Probezeit
+- Anfangsphase der Ausbildung (1-4 Monate i.d.R.)
+- Azubi & Betrieb können **ohne Kündigungsfrist** Ausbildungsverhältnis beenden
+- 
