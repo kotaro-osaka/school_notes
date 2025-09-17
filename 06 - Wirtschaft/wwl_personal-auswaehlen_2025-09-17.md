@@ -28,3 +28,9 @@ ___
 | Anlagen aufführen                                                 |                                                                   |                |
 | Persönlich mit vollem Namen unterschrieben (~~Maschinenschrift~~) |                                                                   |                |
 ## Seitens des Betriebs
+- Passen **Alter**, **beruflicher & Lebenshintergrund** zum Unternehmen, Vorstellungen & Erwartungen der Belegschaft?
+- Entsprechen Qualifikationen den Anforderungen?
+- Enthält Lebenslauf Lücken?
+- Beruflicher Werdegang lückenlos nachvollziehbar?
+- Berufliche Weiterentwicklung erkennbar?
+- Anhaltende Bereitschaft zu Fort- & Weiterbildunge
