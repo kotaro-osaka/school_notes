@@ -50,3 +50,12 @@ ___
 - Hat einen Ausbildungsvertrag
 - Rechte (z.B. Ausbildung, Vergütung)
 - Pflichten (z.B. Lernpflicht)
+### Ausbildender
+- Vertragspartner des Auszubildenen (z.B. Unternehmen, Betrieb, Institution)
+- Trägt Verantwortung für Ausbildung
+- Kann juristische Person (Firma) oder natürliche Person sein
+### Ausbilder
+- Natürliche Person im Betrieb, die fachlich, persönlich und pädagogisch geeignet ist
+- Führt Ausbildung praktisch durch
+- Muss Eignung nach AEVO (Ausbildungseignungsverordnung) nachweisen
+- 
