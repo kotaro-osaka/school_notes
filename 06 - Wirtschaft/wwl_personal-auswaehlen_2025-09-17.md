@@ -40,4 +40,12 @@ ___
 ### Einfaches Arbeitszeugnis
 - Angaben zur Person
 - Art der Beschäftigung
-- Dauer des Beschäftigungsverhältniss
+- Dauer des Beschäftigungsverhältnisses
+- Beendigungsgründe
+- ~~Aussagen & Führung des Mitarbeiters~~
+### Qualifiziertes Arbeitszeugnis
+- Soll bescheinigen, in welcher Qualität Arbeitnehmer die gestellten Aufgaben bewältigt hat
+- Beurteilung des Verhaltens aus Arbeitgebersicht
+1. Überschrift (z.B. Arbeitszeugnis)
+2. Einleitung (Angaben zu Person, Tätigkeit & Beschäftigungsdauer)
+3. Tätigkeitsbeschreibung (Tätigkeiten, Verantwortung, berufliche Entwicklung innerhalb )
