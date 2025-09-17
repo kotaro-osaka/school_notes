@@ -66,3 +66,5 @@ ___
 - Betrieb → Praktische Erfahrungen
 - Berufsschule → Theoretisches Wissen, Allgemeinbildung, Fachkunde
 - Abschluss: Staatlich anerkannter Ausbildungsberuf
+## Berufsbildungsgesetz (BBiG)
+- R
