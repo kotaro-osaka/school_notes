@@ -11,19 +11,19 @@ ___
 8. Arbeitsproben
 ## Umgang mit Bewerbungsunterlagen
 
-| Anschreiben                                                       | Lebenslauf | Arbeitszeugnis |
-| ----------------------------------------------------------------- | ---------- | -------------- |
-| Adresse                                                           |            |                |
-| Telefonnummer                                                     |            |                |
-| Email                                                             |            |                |
-| Anrede (sehr geehrte Damen und Herren)                            |            |                |
-| Anlass der Bewerbung (z.B. Stellenangebot)                        |            |                |
-| Rechtschreib- & Grammatikfehler                                   |            |                |
-| Klare Gliederung (~~unübersichtlich~~)                            |            |                |
-| Überschreitung Zweckmäßigem Rahmens einer Seite                   |            |                |
-| Auseinandersetzung mit Anforderungen des Unternehmens             |            |                |
-| ~~Komplizierte Satzkonstruktionen~~                               |            |                |
-| ~~Übersteigerte Selbstdarstellung~~                               |            |                |
-| ~~Nichtssagende Floskeln~~ (standarisierte Redewendungen)         |            |                |
-| Anlagen aufführen                                                 |            |                |
-| Persönlich mit vollem Namen unterschrieben (~~Maschinenschrift~~) |            |                |
+| Anschreiben                                                       | Lebenslauf (Beruflicher Werdegang)                       | Arbeitszeugnis |
+| ----------------------------------------------------------------- | -------------------------------------------------------- | -------------- |
+| Adresse                                                           | Klar & Übersichtlich gegliedert (Chronologischer Aufbau) |                |
+| Telefonnummer                                                     | Foto                                                     |                |
+| Email                                                             | Persönliche Daten                                        |                |
+| Anrede (sehr geehrte Damen und Herren)                            | Angestrebte Position                                     |                |
+| Anlass der Bewerbung (z.B. Stellenangebot)                        | Schulbildung                                             |                |
+| Rechtschreib- & Grammatikfehler                                   | Hochschulstudium                                         |                |
+| Klare Gliederung (~~unübersichtlich~~)                            | Beruflicher Werdegang (inkl. Berufsausbildung)           |                |
+| Überschreitung Zweckmäßigem Rahmens einer Seite                   | Berufliche Weiterbildung                                 |                |
+| Auseinandersetzung mit Anforderungen des Unternehmens             | Besondere Kenntnisse                                     |                |
+| ~~Komplizierte Satzkonstruktionen~~                               | Interessen (wenn berufsrelevant)                         |                |
+| ~~Übersteigerte Selbstdarstellung~~                               | Ort & Datum (am E)                                       |                |
+| ~~Nichtssagende Floskeln~~ (standarisierte Redewendungen)         |                                                          |                |
+| Anlagen aufführen                                                 |                                                          |                |
+| Persönlich mit vollem Namen unterschrieben (~~Maschinenschrift~~) |                                                          |                |
