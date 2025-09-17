@@ -37,6 +37,7 @@ ___
 ## Arbeitszeugnis
 - Gemäß BGB § 630: Jeder Arbeitnehmer hat nach Beendigung des Arbeitsverhältnisses Recht auf **Arbeitszeugnis**
 	→ Arbeitnehmer kann zwischen **einfachen** und **qualifizierten Arbeitszeugnis** wählen
+- Arbeitgeber ist rechtlich gehalten, Arbeitnehmer wohlwollendes Zeugnis auszustellen
 ### Einfaches Arbeitszeugnis
 - Angaben zur Person
 - Art der Beschäftigung
@@ -48,4 +49,8 @@ ___
 - Beurteilung des Verhaltens aus Arbeitgebersicht
 1. Überschrift (z.B. Arbeitszeugnis)
 2. Einleitung (Angaben zu Person, Tätigkeit & Beschäftigungsdauer)
-3. Tätigkeitsbeschreibung (Tätigkeiten, Verantwortung, berufliche Entwicklung innerhalb )
+3. Tätigkeitsbeschreibung (Tätigkeiten, Verantwortung, berufliche Entwicklung innerhalb Unternehmens)
+4. Leistungsbereitschaft (z.B. Arbeitsbereitschaft, Arbeitsbefähigung, Arbeitsweise, Arbeitserfolg, zusammenfassende Zufriedenheitsbeurteilung)
+5. Verhaltensbeurteilung (gegenüber Vorgesetzten, Kollegen und Dritten, zusammenfassende Verhaltensbeurteilung)
+6. Abschluss (Gründe für Beendigung des Arbeitsverhältnisses)
+7. Dankes-Bedauern-Formel (Dank für geleistete Arbeit bzw. Zusammenarbeit, Zukunftswünsche)
