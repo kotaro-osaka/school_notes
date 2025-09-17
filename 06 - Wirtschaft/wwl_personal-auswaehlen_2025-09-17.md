@@ -33,4 +33,11 @@ ___
 - Enthält Lebenslauf Lücken?
 - Beruflicher Werdegang lückenlos nachvollziehbar?
 - Berufliche Weiterentwicklung erkennbar?
-- Anhaltende Bereitschaft zu Fort- & Weiterbildunge
+- Anhaltende Bereitschaft zu Fort- & Weiterbildungen zu erkennen?
+## Arbeitszeugnis
+- Gemäß BGB § 630: Jeder Arbeitnehmer hat nach Beendigung des Arbeitsverhältnisses Recht auf **Arbeitszeugnis**
+	→ Arbeitnehmer kann zwischen **einfachen** und **qualifizierten Arbeitszeugnis** wählen
+### Einfaches Arbeitszeugnis
+- Angaben zur Person
+- Art der Beschäftigung
+- Dauer des Beschäftigungsverhältniss
