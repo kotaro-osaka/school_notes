@@ -61,3 +61,7 @@ ___
 - Natürliche Person im Betrieb, die fachlich, persönlich und pädagogisch geeignet ist
 - Führt Ausbildung praktisch durch
 - Muss Eignung nach AEVO (Ausbildungseignungsverordnung) nachweisen
+## Duale Ausbildung
+- Kombination aus Betrieb & Berufsschule
+- Betrieb → Praktische Erfahrungen
+- Berufsschule → 
