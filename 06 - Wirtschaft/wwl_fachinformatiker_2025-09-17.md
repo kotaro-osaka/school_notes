@@ -45,6 +45,9 @@ ___
 - Berücksichtigt Betriebsabläufe, Abteilungen, Reihenfolge der Tätigkeiten
 - Individueller Fahrplan für Azubi
 ## Auszubildender, Ausbildender und Ausbilder
+> Azubi = Lernender
+> Ausbildender = Vertragspartner/Arbeitgeber
+> Ausbilder = Praktisch Lehrender
 ### Auszubildender
 - Person, die einen Beruf erlernt
 - Hat einen Ausbildungsvertrag
@@ -58,4 +61,3 @@ ___
 - Natürliche Person im Betrieb, die fachlich, persönlich und pädagogisch geeignet ist
 - Führt Ausbildung praktisch durch
 - Muss Eignung nach AEVO (Ausbildungseignungsverordnung) nachweisen
-- 
