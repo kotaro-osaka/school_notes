@@ -22,4 +22,6 @@ ___
 - Vermeiden & Beheben von Systemausfällen
 - Produktionstechnische Systeme, prozesstechnische Systeme, autonome Assistenz- und Transportsysteme und Logistiksysteme
 ## Ausbildungsordnung
-- Regelungen zur
+- Regelungen zur **Durchführung** der Berufsausbildung, **Prüfung** dessen **Bestehensregelungen**
+- Weitere Inhalte im **Ausbildungsrahmenplan**
+- Zuletzt 28.02.2020 mit Ausbildungsrahmen
