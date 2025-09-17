@@ -54,6 +54,10 @@ ___
 5. Verhaltensbeurteilung (gegenüber Vorgesetzten, Kollegen und Dritten, zusammenfassende Verhaltensbeurteilung)
 6. Abschluss (Gründe für Beendigung des Arbeitsverhältnisses)
 7. Dankes-Bedauern-Formel (Dank für geleistete Arbeit bzw. Zusammenarbeit, Zukunftswünsche)
-### Positive Formulierungen
+### Formulierungen
 1. Sprachliche Steigerung: “zur vollen Zufriedenheit” » “zur vollsten Zufriedenheit”
-2. 
+2. Zusätze: “stets” oder “jederzeit”
+3. **Unzureichende** Leistungen: 
+	- “erledigte im Großen und Ganzen seine Aufgaben zu unserer Zufriedenheit”
+	- “wurde den vielseitigen Aufgaben im Wesentlichen gerecht”
+	- “wurde den Erwartungen im Wesentlichen gerecht”
