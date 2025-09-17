@@ -4,4 +4,7 @@ ___
 - IT-Branche
 - Alle Wirtschaftsbereiche
 - Organisationen & Öffentlicher Dienst
-- **Anwendungsentwicklung**: Softwarelösungen für inter
+- Für **interne & externe Kunden**
+- **Anwendungsentwicklung**: Softwarelösungen entwickeln
+- **Systemintegration**: **Konzipieren**, **installieren** & **administrieren** von vernetzten IT-Systemen
+- 
