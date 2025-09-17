@@ -31,4 +31,17 @@ ___
 - **Fertigkeiten & Kenntnisse**, die vermittelt werden (**Ausbildungsberufsbild***)
 - **Ausbildungsrahmenplan**
 - **Prüfungsanforderungen**
-## Ausbildung
+## Zusammenhang - Ausbildungsordnung, Ausbildungsrahmenplan, betrieblicher Ausbildungsplan
+### Ausbildungsordnung
+- Gesetzliche Grundlage
+- Vom Staat erlassen
+- Regelt Dauer, Inhalte, Prüfungen, Ziel der Ausbildung
+### Ausbildungsrahmenplan
+- Bestandteil der Ausbildungsordnung
+- Sachliche & zeitliche Gliederung der Ausbildungsinhalte
+- Leitfaden für alle Betriebe
+### Betrieblicher Ausbildungsplan
+- Anpassung des Ausbildungsrahmenplans an Gegebenheiten im Betrieb
+- Berücksichtigt Betriebsabläufe, Abteilungen, Reihenfolge der Tätigkeiten
+- Individueller Fahrplan für Azubi
+- 
