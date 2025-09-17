@@ -15,4 +15,5 @@ ___
 ### Digitale Vernetzung
 - Netzwerkinfrastruktur
 - Vernetzung & Optimierung von Systemen
-- Daten
+- Datenzugriffsverwaltung
+- Vermeiden & Beheben von Systemausfällen
