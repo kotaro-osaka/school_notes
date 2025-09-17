@@ -11,4 +11,8 @@ ___
 - **Konzipieren**, **installieren** & **administrieren** von vernetzten IT-Systemen
 ### Daten- & Prozessanalyse
 - Verfügbarkeit, Qualität & Quantität von Daten sicherstellen
-- Lösungen für Digitale Produktions- & Geschäftsprozesse entwickeln 
+- Lösungen für Digitale Produktions- & Geschäftsprozesse entwickeln
+### Digitale Vernetzung
+- Netzwerkinfrastruktur
+- Vernetzung & Optimierung von Systemen
+- Daten
