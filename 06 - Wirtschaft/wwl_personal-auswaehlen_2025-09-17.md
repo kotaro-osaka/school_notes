@@ -37,7 +37,7 @@ ___
 ## Arbeitszeugnis
 - Gemäß BGB § 630: Jeder Arbeitnehmer hat nach Beendigung des Arbeitsverhältnisses Recht auf **Arbeitszeugnis**
 	→ Arbeitnehmer kann zwischen **einfachen** und **qualifizierten Arbeitszeugnis** wählen
-- Arbeitgeber ist rechtlich gehalten, Arbeitnehmer wohlwollendes Zeugnis auszustellen
+- Arbeitgeber ist rechtlich gehalten, Arbeitnehmer **wohlwollendes Zeugnis** auszustellen
 ### Einfaches Arbeitszeugnis
 - Angaben zur Person
 - Art der Beschäftigung
@@ -54,3 +54,6 @@ ___
 5. Verhaltensbeurteilung (gegenüber Vorgesetzten, Kollegen und Dritten, zusammenfassende Verhaltensbeurteilung)
 6. Abschluss (Gründe für Beendigung des Arbeitsverhältnisses)
 7. Dankes-Bedauern-Formel (Dank für geleistete Arbeit bzw. Zusammenarbeit, Zukunftswünsche)
+### Positive Formulierungen
+1. Sprachliche Steigerung: “zur vollen Zufriedenheit” » “zur vollsten Zufriedenheit”
+2. 
