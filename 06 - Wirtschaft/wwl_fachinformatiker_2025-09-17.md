@@ -44,4 +44,9 @@ ___
 - Anpassung des Ausbildungsrahmenplans an Gegebenheiten im Betrieb
 - Berücksichtigt Betriebsabläufe, Abteilungen, Reihenfolge der Tätigkeiten
 - Individueller Fahrplan für Azubi
-- 
+## Auszubildender, Ausbildender und Ausbilder
+### Auszubildender
+- Person, die einen Beruf erlernt
+- Hat einen Ausbildungsvertrag
+- Rechte (z.B. Ausbildung, Vergütung)
+- Pflichten (z.B. Lernpflicht)
