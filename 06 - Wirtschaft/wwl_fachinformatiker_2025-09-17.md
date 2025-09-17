@@ -77,4 +77,5 @@ ___
 ## Probezeit
 - Anfangsphase der Ausbildung (1-4 Monate i.d.R.)
 - Azubi & Betrieb können **ohne Kündigungsfrist** Ausbildungsverhältnis beenden
-- 
+- Dient dazu, **Eignung & Passung zu finden**
+- **Beobachtung** von Fähigkeiten, Motivation & Zusammenarbeit
