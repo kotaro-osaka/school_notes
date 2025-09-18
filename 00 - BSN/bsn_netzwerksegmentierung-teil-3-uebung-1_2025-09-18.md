@@ -6,4 +6,11 @@ Gegeben
 Gesucht
 - 5 Subnetze
 ### a) Erläutern Sie, welche Subnetzmaske verwendet werden muss.
-→ $2^$
+- $2^3=8$ Subnetze
+- $22+3=25$ Netzwerkbits
+→ `255.255.255.128` / `/25`
+### b) Tragen Sie die jeweiligen Werte für die ersten beiden Subnetze ein.
+
+| Subnetz | Netz-ID |
+| ------- | ------- |
+|         |         |
