@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - BSN/Untitled.md",
+                "file": "00 - BSN/bsn_netzwerksegmentierung-teil-3_2025-09-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "bsn_netzwerksegmentierung-teil-3_2025-09-18"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -184,7 +185,7 @@
   "active": "70bc6c08b0685291",
   "lastOpenFiles": [
     "00 - BSN/99 - archive/Internet-Gefahren_DOC-2_LM-Sammlung.pdf",
-    "00 - BSN/Untitled.md",
+    "00 - BSN/bsn_netzwerksegmentierung-teil-3_2025-09-18.md",
     "00 - BSN/99 - archive/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
     "00 - BSN/99 - archive/250116_CI3O1_BSN.pdf",
     "00 - BSN/ABSCHLUSSKLAUSUR.md",
