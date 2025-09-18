@@ -12,4 +12,10 @@ Gebraucht
 ### b) Wie viele Subnetze werden durch die Subnetzmaske erzeugt?
 → 8 werden erzeugt (6 ohne Broadcast & Router)
 ### c) Gebe die Netzadressen aller verfügbaren Subnetze in CIDR-Darstellung an.
-1. `192.168.35.0/27`
+1. `192.168.35.0/27` (`.000`)
+2. `192.168.35.32/27` (`.001`)
+3. `192.168.35.64/27` (`010`)
+4. `192.168.35.128/27` (`100`)
+5. `192.168.35.192/27` (`110`)
+6. `192.168.35.160/27` (`101`)
+7. `192.168.35.96/27` (``)
