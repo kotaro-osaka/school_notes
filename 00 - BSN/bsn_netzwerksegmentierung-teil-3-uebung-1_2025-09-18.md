@@ -6,4 +6,4 @@ Gegeben
 Gesucht
 - 5 Subnetze
 ### a) Erläutern Sie, welche Subnetzmaske verwendet werden muss.
-→ `255.255.252.0
+→ $2^$
