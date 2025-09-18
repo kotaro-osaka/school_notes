@@ -51,9 +51,11 @@ Gesucht
 - Mind. 500 Hosts pro Subnetz
 ### a) Bestimme die Subnetzmaske.
 - $2^9=512$
+	→ 9 Hostbits
+	→ 512 Hosts
 - $32-9=23$ Netzbits
 → `255.255.254.0`
 → `/23` (`.11111110`)
 ### b) Bestimme die Netzadressen der 6 Subnetze
 - $2^3=8$ Subnetze
-- 
+1. `172.16.`
