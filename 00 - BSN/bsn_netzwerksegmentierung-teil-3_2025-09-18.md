@@ -34,3 +34,4 @@ Gebraucht
 7. `192.168.35.223` (`.11011111`)
 8. `192.168.35.255` (`.11111111`)
 ### f) Gebe für jedes Subnetz die erste und letzte verwendbare IP-Adresse an.
+1. `192.168.35.1`
