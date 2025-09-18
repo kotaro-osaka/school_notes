@@ -26,4 +26,5 @@ Gebraucht
 - $32-2=30$ Nutzbare Adressen pro Subnetz
 ### e) Gebe für jedes Subnetz die Broadcastadresse an
 1. `192.168.35.31` (`.00011111`)
-2. 
+2. `192.168.35.63` (`.00111111`)
+3. 
