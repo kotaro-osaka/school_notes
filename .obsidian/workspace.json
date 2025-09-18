@@ -11,10 +11,15 @@
             "id": "70bc6c08b0685291",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - BSN/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -178,6 +183,11 @@
   },
   "active": "70bc6c08b0685291",
   "lastOpenFiles": [
+    "00 - BSN/99 - archive/Internet-Gefahren_DOC-2_LM-Sammlung.pdf",
+    "00 - BSN/Untitled.md",
+    "00 - BSN/99 - archive/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
+    "00 - BSN/99 - archive/250116_CI3O1_BSN.pdf",
+    "00 - BSN/ABSCHLUSSKLAUSUR.md",
     "Untitled.base",
     "Untitled.md",
     "06 - Wirtschaft/wwl_personal-auswaehlen_2025-09-17.md",
@@ -198,7 +208,6 @@
     "02 - MMI/2 - archive/mmi_knx_26_08_24.md",
     "02 - MMI/1 - glossar/feldbus.md",
     "07 - English/global-players_2025-09-15.md",
-    "00 - BSN/250116_CI3O1_BSN.pdf",
     "11 - PPH/pph_nahost_konflikt_2025_13_01.md",
     "11 - PPH/pph__2025_24_02.md",
     "Untitled 1.base",
@@ -212,9 +221,6 @@
     "90 - CI3M1/01 - ET/et-ab-datentypen-2-03-06-2025.md",
     "90 - CI3M1/00 - BSN/datenintegrität-02-06-2025.md",
     "90 - CI3M1/00 - BSN/autentifizierung-02-06-2025.md",
-    "00 - BSN/1 - glossary/1.99 - physical devices/switch.md",
-    "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
-    "00 - BSN/1 - glossary/Untitled.md",
     "99 - misc/Pasted image 20250430102206.png",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
