@@ -37,8 +37,7 @@
               "title": "wwl_personal-auswaehlen_2025-09-17"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -197,10 +197,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9e07ecd2168e028",
+  "active": "c86f3750b184e705",
   "lastOpenFiles": [
-    "06 - Wirtschaft/wwl_fachinformatiker_2025-09-17.md",
     "06 - Wirtschaft/wwl_personal-auswaehlen_2025-09-17.md",
+    "06 - Wirtschaft/wwl_fachinformatiker_2025-09-17.md",
     "s3.md",
     "Untitled 1.md",
     "04 - Deutsch/deutsch_kurzgeschichten_2025-09-15.md",
