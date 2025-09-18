@@ -21,3 +21,7 @@ Gebraucht
 7. `192.168.35.192/27` (`110`)
 8. `192.168.35.224/27` (`111`)
 ### d) Gebe die Anzahl nutzbarer Hostadressen pro Subnetz an.
+- **Differenz Bits**: $32-27=5$ Hostbits
+- $2^5=32$ Adressen pro Subnetz
+- $32-2=30$ Nutzbare Adressen pro Subnetz
+### e) Gebe für jedes Subnetz die Broadcastadresse an
