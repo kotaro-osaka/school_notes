@@ -86,9 +86,10 @@ Gesucht
 8. `172.16.254.1` - `172.16.255.254` - not used
 ## Aufgabe 3
 Gegeben
-- **Subnetzmaske**: 255.255.248.0
-- **Max. nutzbare IP-Adressen**: 65534
+- **Subnetzmaske**: `255.255.0.0` → `255.255.248.0`
+- **Max. nutzbare IP-Adressen**: $65534$
 ### Wie viele Subnetze sind verfügbar?
 -  $21-16=5$ zusätzliche Subnetzbits
-
+- $2^5=32$ Subnetze
 ### Wie viele IP-Adressen sind nach der Subnetzbildung insgesamt in jedem Netzwerk verfügbar?
+- $32-21$
