@@ -24,7 +24,7 @@ Gebraucht
 - **Differenz Bits**: $32-27=5$ Hostbits
 - $2^5=32$ Adressen pro Subnetz
 - $32-2=30$ Nutzbare Adressen pro Subnetz
-### e) Gebe für jedes Subnetz die Broadcastadresse an
+### e) Gebe für jedes Subnetz die Broadcastadresse an.
 1. `192.168.35.31` (`.00011111`)
 2. `192.168.35.63` (`.00111111`)
 3. `192.168.35.95` (`.01011111`)
@@ -56,7 +56,7 @@ Gesucht
 - $32-9=23$ Netzbits
 → `255.255.254.0`
 → `/23` (`.11111110`)
-### b) Bestimme die Netzadressen der 6 Subnetze
+### b) Bestimme die Netzadressen der 6 Subnetze.
 - $2^3=8$ Subnetze
 1. `172.16.240.0` (`.11110000`)
 2. `172.16.242.0` (`.11110010`)
@@ -64,4 +64,14 @@ Gesucht
 4. `172.16.246.0` (`.11110110`)
 5. `172.16.248.0` (`.11111000`)
 6. `172.16.250.0` (`.11111010`)
-7. `172.16.25.0` (`.11111100`)
+7. `172.16.252.0` (`.11111100`) - not used
+8. `172.16.254.0` (`.11111110`) - not used
+### c) Bestimme die Broadcastadressen der 6 Subnetze.
+1. `172.16.240.0` (`.11110001`)
+2. `172.16.242.0` (`.11110010`)
+3. `172.16.244.0` (`.11110100`)
+4. `172.16.246.0` (`.11110110`)
+5. `172.16.248.0` (`.11111000`)
+6. `172.16.250.0` (`.11111010`)
+7. `172.16.252.0` (`.11111100`) - not used
+8. `172.16.254.0` (`.11111110`) - not used
