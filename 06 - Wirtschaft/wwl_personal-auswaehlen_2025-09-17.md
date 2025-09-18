@@ -3,7 +3,7 @@ ___
 ## Möglichkeiten zur Auswahl
 1. Bewerbungsunterlagen
 2. Vorstellungsgespräch
-3. Assessment-Center
+3. Assessment-Center (Teamarbeit)
 4. Praktika / Probearbeiten
 5. Eignungstests (fachlich, psychologisch, kognitiv)
 6. Telefon- oder Videointerviews
