@@ -50,3 +50,6 @@ Gesucht
 - Mind. 6 Subnetze
 - Mind. 500 Hosts pro Subnetz
 ### a) Bestimme die Subnetzmaske.
+- $2^9=512$
+- $32-9=23$ Netzbits
+→ `255.255.`
