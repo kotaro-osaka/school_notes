@@ -55,3 +55,5 @@ Gesucht
 → `255.255.254.0`
 → `/23` (`.11111110`)
 ### b) Bestimme die Netzadressen der 6 Subnetze
+- $2^3=8$ Subnetze
+- 
