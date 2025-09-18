@@ -1,7 +1,7 @@
 1. Ausbildungsordnung
-	→ Durchführung, Prüfungsregelungen, Ausbildungsrahmenplan
+	→ Dauer, Inhalte, Prüfungen, Ziel der Ausbildung
 2. Ausbildungsrahmenplan
-	→ Bezeichnung, Dauer, Ausbildungsberufsbild (Fähigkeiten & Kenntnisse)
+	→ 
 3. Betrieblicher Ausbildungsplan
 4. Auszubildender, Ausbildender (Betrieb), Ausbilder
 5. Duale Ausbildung
