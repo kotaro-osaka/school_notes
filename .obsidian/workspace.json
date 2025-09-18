@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f3fdefe5487b087",
+        "id": "6796c1227d6f8a3b",
         "type": "tabs",
         "children": [
           {
-            "id": "a108436891aa32f3",
+            "id": "a8ce2e878b4213c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,10 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a108436891aa32f3",
+  "active": "a8ce2e878b4213c6",
   "lastOpenFiles": [
-    "00 - BSN/bsn_netzwerksegmentierung-teil-3-aufgabenblatt_2025-09-18.md",
     "00 - BSN/bsn_netzwerksegmentierung-teil-3-uebung-1_2025-09-18.md",
+    "00 - BSN/bsn_netzwerksegmentierung-teil-3-aufgabenblatt_2025-09-18.md",
     "00 - BSN/99 - archive/Internet-Gefahren_DOC-2_LM-Sammlung.pdf",
     "00 - BSN/99 - archive/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
     "00 - BSN/99 - archive/250116_CI3O1_BSN.pdf",
