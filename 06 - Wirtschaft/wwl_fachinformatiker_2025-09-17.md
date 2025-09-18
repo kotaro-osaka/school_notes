@@ -79,3 +79,6 @@ ___
 - Azubi & Betrieb können **ohne Kündigungsfrist** Ausbildungsverhältnis beenden
 - Dient dazu, **Eignung & Passung zu finden**
 - **Beobachtung** von Fähigkeiten, Motivation & Zusammenarbeit
+
+## Ausbildungsvertrag
+- 
