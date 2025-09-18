@@ -52,4 +52,6 @@ Gesucht
 ### a) Bestimme die Subnetzmaske.
 - $2^9=512$
 - $32-9=23$ Netzbits
-→ `255.255.`
+→ `255.255.254.0`
+→ `/23` (`.11111110`)
+### b) Bestimme die Netzadressen der 6 Subnetze
