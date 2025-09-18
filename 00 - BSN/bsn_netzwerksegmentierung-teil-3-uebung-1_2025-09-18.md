@@ -11,6 +11,7 @@ Gesucht
 → `255.255.255.128` / `/25`
 ### b) Tragen Sie die jeweiligen Werte für die ersten beiden Subnetze ein.
 
-| Subnetz | Netz-ID |
-| ------- | ------- |
-|         |         |
+| Subnetz | Netz-ID    | Hostbereich | Broadcast |
+| ------- | ---------- | ----------- | --------- |
+| #0      | 172.16.0.0 |             |           |
+| #1      |            |             |           |
