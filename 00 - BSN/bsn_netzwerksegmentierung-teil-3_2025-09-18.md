@@ -89,5 +89,6 @@ Gegeben
 - **Subnetzmaske**: 255.255.248.0
 - **Max. nutzbare IP-Adressen**: 65534
 ### Wie viele Subnetze sind verfügbar?
+-  $21-16=5$ zusätzliche Subnetzbits
 
 ### Wie viele IP-Adressen sind nach der Subnetzbildung insgesamt in jedem Netzwerk verfügbar?
