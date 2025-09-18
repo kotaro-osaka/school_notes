@@ -92,4 +92,6 @@ Gegeben
 -  $21-16=5$ zusätzliche Subnetzbits
 - $2^5=32$ Subnetze
 ### Wie viele IP-Adressen sind nach der Subnetzbildung insgesamt in jedem Netzwerk verfügbar?
-- $32-21$
+- $32-21=11$ Hostbits
+- $2^{11}=2048$ Verfügbare IP-Adressen pro Subnetz
+- $2046$ Nutzbare IP-Adressen pro Subnetz
