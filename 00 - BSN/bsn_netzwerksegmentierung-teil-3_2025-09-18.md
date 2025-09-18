@@ -44,4 +44,9 @@ Gebraucht
 8. `192.168.35.225` - `192.168.35.254`
 ## Aufgabe 2
 Gegeben
-- 
+- **Netzadresse**: `172.16.0.0`
+- **Subnetzmaske**: `255.255.0.0`
+Gesucht
+- Mind. 6 Subnetze
+- Mind. 500 Hosts pro Subnetz
+### a) Bestimme die Subnetzmaske.
