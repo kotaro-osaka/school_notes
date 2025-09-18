@@ -25,7 +25,7 @@ ___
 - Regelungen zur **Durchführung** der Berufsausbildung, **Prüfung** dessen **Bestehensregelungen**
 - Weitere Inhalte im **Ausbildungsrahmenplan**
 - Zuletzt 28.02.2020 mit Ausbildungsrahmenplan aktualisiert
-### Ausbildungsrahmenplan
+### Ausbildungsordnung
 - **Bezeichnung** des Ausbildungsberufs
 - **Ausbildungsdauer**
 - **Fertigkeiten & Kenntnisse**, die vermittelt werden (**Ausbildungsberufsbild***)
