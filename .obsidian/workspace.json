@@ -11,10 +11,12 @@
             "id": "6078b35656108bfc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "03 - Mathe/1 - archive/verhalten_an_raendern.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "verhalten_an_raendern"
             }
           }
         ]
@@ -186,10 +188,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "6078b35656108bfc",
   "lastOpenFiles": [
-    "Untitled.md",
+    "03 - Mathe/1 - archive/symmetrie.md",
+    "03 - Mathe/Klausur Vorbereitung.md",
     "06 - Wirtschaft/wwl_fachinformatiker_2025-09-17.md",
+    "Untitled.md",
     "s3.md",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
     "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
@@ -224,8 +228,6 @@
     "90 - CI3M1/02 - Wirtschaft/deckungsbeitrag-s159-11-06-2025.md",
     "90 - CI3M1/01 - ET/et-ab-datentypen-2-03-06-2025.md",
     "90 - CI3M1/00 - BSN/datenintegrität-02-06-2025.md",
-    "90 - CI3M1/00 - BSN/autentifizierung-02-06-2025.md",
-    "00 - BSN/1 - glossary/1.99 - physical devices/switch.md",
     "99 - misc/Pasted image 20250430102206.png",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
