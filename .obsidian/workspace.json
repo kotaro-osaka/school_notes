@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9d7f92dfdbbf0c0b",
+        "id": "a3044f7ebb2d789f",
         "type": "tabs",
         "children": [
           {
-            "id": "6078b35656108bfc",
+            "id": "921f12edf7e18de4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 - Mathe/1 - archive/verhalten_an_raendern.pdf"
+                "file": "06 - Wirtschaft/wwl_2025-09-22_vorstellungsgesoraech.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "verhalten_an_raendern"
+              "icon": "lucide-file",
+              "title": "wwl_2025-09-22_vorstellungsgesoraech"
             }
           }
         ]
@@ -92,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 - Deutsch/deutsch_kurzgeschichten_2025-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for deutsch_kurzgeschichten_2025-09-15"
             }
           },
           {
@@ -153,19 +157,8 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "350354cdf43e0d73",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,9 +167,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -185,47 +175,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6078b35656108bfc",
+  "active": "921f12edf7e18de4",
   "lastOpenFiles": [
-    "03 - Mathe/1 - archive/symmetrie.md",
-    "03 - Mathe/Klausur Vorbereitung.md",
+    "06 - Wirtschaft/wwl_2025-09-22_vorstellungsgesoraech.md",
     "06 - Wirtschaft/wwl_fachinformatiker_2025-09-17.md",
-    "Untitled.md",
-    "s3.md",
-    "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
-    "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
-    "07 - English/global-players_2025-09-15.md",
-    "07 - English/1 - archive/metaverse_pros_cons_12_09_24.md",
-    "07 - English/1 - archive/interview.txt",
-    "07 - English/1 - archive/en_metaverse_03_09_24.md",
-    "07 - English/1 - archive/en_comment_vr_integration_schools_17_09_24.md",
-    "04 - Deutsch/deutsch_kurzgeschichten_2025-09-15.md",
-    "04 - Deutsch/0 - archive/deutsch_wissenschaftliches_arbeiten_26_09_24.md",
-    "02 - MMI/mmi_bussystem_2025-09-15.md",
-    "02 - MMI/KNX-Grundlagen.pdf",
-    "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
-    "02 - MMI/2 - archive/mmi_knx_26_08_24.md",
     "00 - BSN/bsn_netzwerksegmentierung-teil-3-uebung-1_2025-09-18.md",
     "00 - BSN/bsn_netzwerksegmentierung-teil-3-aufgabenblatt_2025-09-18.md",
-    "00 - BSN/99 - archive/to_do.md",
-    "00 - BSN/99 - archive/bsn_internet_gefahren_20252502.md",
-    "00 - BSN/99 - archive/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
-    "00 - BSN/99 - archive/bsn_cidr_translation_20_09_24.txt",
-    "00 - BSN/99 - archive/MPDF_eBook_EUROPA_K7_Switching+Routing.pdf",
-    "00 - BSN/99 - archive/L2-Items-20.10_STP_AUF+LSG.pdf",
     "00 - BSN/99 - archive/Internet-Gefahren_DOC-2_LM-Sammlung.pdf",
-    "00 - BSN/99 - archive/Internet-Gefahren_DOC-1_Cisco-ITN.pdf",
-    "00 - BSN/99 - archive/IT-Sec_USV-10.09_LM-Training_CI3O1_AUF+LSG.pdf",
-    "00 - BSN/99 - archive/IT-Sec_Datenschutz-10.01_AUF+LSG.pdf",
-    "00 - BSN/99 - archive/IT-Sec-06.12_Backup+Restore_AUF.pdf",
+    "00 - BSN/99 - archive/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
+    "00 - BSN/99 - archive/250116_CI3O1_BSN.pdf",
+    "00 - BSN/ABSCHLUSSKLAUSUR.md",
+    "Untitled.base",
+    "Untitled.md",
     "06 - Wirtschaft/wwl_personal-auswaehlen_2025-09-17.md",
+    "s3.md",
+    "Untitled 1.md",
+    "04 - Deutsch/deutsch_kurzgeschichten_2025-09-15.md",
+    "06 - Wirtschaft/1 - archive/wwl_investitionsrechnung_27_08_2024.md",
+    "06 - Wirtschaft/1 - archive/wl_bip_20252502.pdf",
     "06 - Wirtschaft/1 - archive/klausur_themen.md",
+    "04 - Deutsch/kurzgeschichten_stationenlernen.pdf",
+    "04 - Deutsch/ABSCHLUSSKLAUSUR.md",
+    "02 - MMI/KNX-Grundlagen.pdf",
+    "02 - MMI/mmi_bussystem_2025-09-15.md",
+    "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
+    "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
+    "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
+    "02 - MMI/2 - archive/mmi_knx_26_08_24.md",
+    "02 - MMI/1 - glossar/feldbus.md",
+    "07 - English/global-players_2025-09-15.md",
+    "11 - PPH/pph_nahost_konflikt_2025_13_01.md",
+    "11 - PPH/pph__2025_24_02.md",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "90 - CI3M1/00 - BSN/WLAN_Sicherheit_Aufgaben_2021.pdf",
     "90 - CI3M1/00 - BSN/ab-wlan-sicherheit-11-06-2025.md",
     "90 - CI3M1/00 - BSN/wlan-02-06-2025.md",
     "90 - CI3M1/02 - Wirtschaft/deckungsbeitrag-s159-11-06-2025.md",
+    "90 - CI3M1/02 - Wirtschaft",
     "90 - CI3M1/01 - ET/et-ab-datentypen-2-03-06-2025.md",
     "90 - CI3M1/00 - BSN/datenintegrität-02-06-2025.md",
     "99 - misc/Pasted image 20250430102206.png",
