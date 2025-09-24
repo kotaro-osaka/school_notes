@@ -2,6 +2,7 @@
 ___
 **Gegeben**:
 $l_{is}$: $1mm$
+**Gesucht**: $l$
 
 **Rechnung**:
-$\rho=1 \times 10^{13}$
+$R= \frac{\rho \times l_{is}}{A}$ $$

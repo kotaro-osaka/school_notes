@@ -8,8 +8,8 @@ $A_{is}=b_{is} \times l$
 → $b_{is}$: Wirksame Breite
 → $l$: Leitungslänge
 
-![[99 - misc/Screenshot 2025-09-24 at 09.55.47.png|300x300]]
 ## [Isolationswiderstand](https://bk-ostvest.lms.schulon.org/mod/resource/view.php?id=47265) $R_{is}$
+![[99 - misc/Screenshot 2025-09-24 at 09.55.47.png|300x300]]
 $R_{is}= \frac{l_{is} \times \rho}{A_{is}}$
 → $l$: Leitungslänge
 → $\rho$: Spezifischer Durchgangswiderstand
@@ -19,4 +19,4 @@ $R_{is}= \frac{l_{is} \times \rho}{A_{is}}$
 > Maßeinheit: Simens $S$
 
 $G= \frac{1}{R_{is}}$
-$[G]= \frac{}{}$
+$[G]= \frac{1}{\ohm} =S$

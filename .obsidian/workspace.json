@@ -37,7 +37,8 @@
               "title": "et_2025-09-24_isolationswiderstand"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -196,11 +198,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c95849c263dd66c9",
+  "active": "669bc56cba760176",
   "lastOpenFiles": [
+    "01 - ET/formeln.md",
     "01 - ET/et_2025-09-24_isolationswiderstand.md",
     "01 - ET/et_.md",
-    "01 - ET/formeln.md",
     "99 - misc/Screenshot 2025-09-24 at 09.55.47.png",
     "01 - ET/99 - archive/oszilloskop 1.md",
     "01 - ET/99 - archive/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
