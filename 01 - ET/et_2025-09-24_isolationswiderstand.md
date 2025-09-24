@@ -48,7 +48,7 @@ $$
 \\ \\
 & l=\frac{1 \times 10^{17} \frac{\ohm \times mm^2}{1,5mm}}{100k\ohm \times 0,025m}!!! &&
 \\ \\
-& l= \frac{1 \times 10^{15} \frac{\ohm \times mm^{2}}{m}1 \times 10^{-3}m}{1 \times 10^6 \times 1mm} &&
+& l= \frac{1 \times 10^{17} \frac{\ohm \times mm^{2}}{m}1 \times 10^{-3}m}{1 \times 10^6 \times 1mm} &&
 \\ \\
 & l=1 \times 10^6mm &&
 \\ \\
