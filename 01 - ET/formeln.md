@@ -1,6 +1,11 @@
 # Formeln
 ___
-**Leitungswiderstand**
+## Leitungswiderstand
 $R=\frac{\rho \times l}{A}$
-**Isolationswiderstand**
-$R_$
+→ $\rho$: Spezifischer Widerstand
+
+## Isolationswiderstand
+$A_{is}=b_{is} \times l$
+$R_{is}= \frac{l_{is} \times \rho}{A_{is}}$
+→ $l$: Leitungslänge
+→ $\rho$: 
