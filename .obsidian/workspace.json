@@ -37,8 +37,7 @@
               "title": "formeln"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,11 +196,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "94a546427bad7ca0",
+  "active": "a91d4e4a0b12ebc2",
   "lastOpenFiles": [
+    "01 - ET/formeln.md",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
     "01 - ET/0 - res/Screenshot 2025-09-24 at 09.55.47.png",
-    "01 - ET/formeln.md",
     "01 - ET/et_2025-09-24_isolationswiderstand.md",
     "03 - Mathe/Klausur Vorbereitung.md",
     "03 - Mathe/mathe_ggT_kgv_2025_16_01.md",
@@ -243,7 +242,6 @@
     "99 - misc/zwei_punkte_berechnen_bsp.png",
     "99 - misc/videoframe_162647.png",
     "99 - misc/vektorrechnung.png",
-    "99 - misc/vektoren_durch_zwei_punkte_berechnen.png",
-    "99 - misc/vektoren_3d.png"
+    "99 - misc/vektoren_durch_zwei_punkte_berechnen.png"
   ]
 }
