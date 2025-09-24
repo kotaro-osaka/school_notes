@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a3044f7ebb2d789f",
+        "id": "f1b6a739f6016f15",
         "type": "tabs",
         "children": [
           {
-            "id": "921f12edf7e18de4",
+            "id": "c95849c263dd66c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Wirtschaft/wwl_2025-09-22_vorstellungsgesoraech.md",
+                "file": "01 - ET/et_2025-09-24_isolationswiderstand.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "wwl_2025-09-22_vorstellungsgesoraech"
+              "title": "et_2025-09-24_isolationswiderstand"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -182,8 +181,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "921f12edf7e18de4",
+  "active": "c95849c263dd66c9",
   "lastOpenFiles": [
+    "01 - ET/99 - archive/oszilloskop 1.md",
+    "01 - ET/et_2025-09-24_isolationswiderstand.md",
+    "01 - ET/99 - archive/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
+    "01 - ET/99 - archive/Europa - Rechenbuch Elektrotechnik S_219 - Dämpfungsmaß_2025_08_01.pdf",
+    "01 - ET/99 - archive/et_widerstand_berechnen_09_09_24 1.md",
+    "01 - ET/99 - archive/et_szenario_netzwerk_testen_21_08_24 1.md",
+    "01 - ET/99 - archive/et_szenario_22_08_24.pdf",
+    "01 - ET/99 - archive/et_kondensator_kapazitaet_13_09_24 1.md",
+    "01 - ET/99 - archive/et_gleichspannungen_glaetten_2025_19_02.md",
+    "01 - ET/99 - archive/et_daempfung_2025_08_01.md",
+    "01 - ET/99 - archive/et_brueckengleichrichtung.pdf",
     "06 - Wirtschaft/wwl_2025-09-22_vorstellungsgesoraech.md",
     "06 - Wirtschaft/wwl_fachinformatiker_2025-09-17.md",
     "00 - BSN/bsn_netzwerksegmentierung-teil-3-uebung-1_2025-09-18.md",
@@ -211,17 +221,6 @@
     "02 - MMI/2 - archive/mmi_knx_26_08_24.md",
     "02 - MMI/1 - glossar/feldbus.md",
     "07 - English/global-players_2025-09-15.md",
-    "11 - PPH/pph_nahost_konflikt_2025_13_01.md",
-    "11 - PPH/pph__2025_24_02.md",
-    "Untitled 1.base",
-    "Untitled 2.base",
-    "90 - CI3M1/00 - BSN/WLAN_Sicherheit_Aufgaben_2021.pdf",
-    "90 - CI3M1/00 - BSN/ab-wlan-sicherheit-11-06-2025.md",
-    "90 - CI3M1/00 - BSN/wlan-02-06-2025.md",
-    "90 - CI3M1/02 - Wirtschaft/deckungsbeitrag-s159-11-06-2025.md",
-    "90 - CI3M1/02 - Wirtschaft",
-    "90 - CI3M1/01 - ET/et-ab-datentypen-2-03-06-2025.md",
-    "90 - CI3M1/00 - BSN/datenintegrität-02-06-2025.md",
     "99 - misc/Pasted image 20250430102206.png",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
