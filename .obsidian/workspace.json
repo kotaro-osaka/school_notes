@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -200,8 +199,12 @@
   },
   "active": "669bc56cba760176",
   "lastOpenFiles": [
-    "01 - ET/formeln.md",
+    "03 - Mathe/Klausur Vorbereitung.md",
+    "03 - Mathe/mathe_ggT_kgv_2025_16_01.md",
+    "03 - Mathe/mathe-erweiterter-euklidischer-algoirthmus-2025-14-02.md",
+    "03 - Mathe/07_mgk_ggt-kgv.pdf",
     "01 - ET/et_2025-09-24_isolationswiderstand.md",
+    "01 - ET/formeln.md",
     "01 - ET/et_.md",
     "99 - misc/Screenshot 2025-09-24 at 09.55.47.png",
     "01 - ET/99 - archive/oszilloskop 1.md",
@@ -232,12 +235,9 @@
     "06 - Wirtschaft/1 - archive/klausur_themen.md",
     "04 - Deutsch/kurzgeschichten_stationenlernen.pdf",
     "04 - Deutsch/ABSCHLUSSKLAUSUR.md",
-    "02 - MMI/KNX-Grundlagen.pdf",
     "02 - MMI/mmi_bussystem_2025-09-15.md",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
     "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
-    "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
-    "02 - MMI/2 - archive/mmi_knx_26_08_24.md",
     "99 - misc/Pasted image 20250430102206.png",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
