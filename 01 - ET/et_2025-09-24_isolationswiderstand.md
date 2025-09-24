@@ -21,7 +21,7 @@ $$
 \\ \\
 & l=\frac{1 \times 10^{15} \frac{\ohm \times mm^2}{l_{is}}}{1M\ohm \times b_{is}} &&
 \\ \\
-& \frac{}{} &&
+& l= \frac{1 \times 10^{15} \frac{\ohm \times mm^2{m} 1 \times 10^{-3}m}{1 \times 10^6\ohm \times 1mm} &&
 
 \end{flalign}
 $$

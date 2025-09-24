@@ -37,7 +37,8 @@
               "title": "et_2025-09-24_isolationswiderstand"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,14 +198,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c95849c263dd66c9",
+  "active": "669bc56cba760176",
   "lastOpenFiles": [
+    "01 - ET/formeln.md",
     "01 - ET/et_2025-09-24_isolationswiderstand.md",
     "03 - Mathe/Klausur Vorbereitung.md",
     "03 - Mathe/mathe_ggT_kgv_2025_16_01.md",
     "03 - Mathe/mathe-erweiterter-euklidischer-algoirthmus-2025-14-02.md",
     "03 - Mathe/07_mgk_ggt-kgv.pdf",
-    "01 - ET/formeln.md",
     "01 - ET/et_.md",
     "99 - misc/Screenshot 2025-09-24 at 09.55.47.png",
     "01 - ET/99 - archive/oszilloskop 1.md",
