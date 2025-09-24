@@ -6,7 +6,7 @@ $$\begin{flalign} & A_{is}=b_{is} \times l && \end{flalign}$$
 → $l$: Leitungslänge
 ___
 ## Isolationswiderstand $R_{is}$
-![[99 - misc/Screenshot 2025-09-24 at 09.55.47.png|300x300]]
+![[01 - ET/0 - res/Screenshot 2025-09-24 at 09.55.47.png|300x300]]
 
 $$\begin{flalign} & R_{is}= \frac{l_{is} \times \rho}{A_{is}} && \end{flalign}$$
 → $l_{is}$: Abstand zwischen Leitern a und b
