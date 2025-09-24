@@ -21,7 +21,13 @@ $$
 \\ \\
 & l=\frac{1 \times 10^{15} \frac{\ohm \times mm^2}{l_{is}}}{1M\ohm \times b_{is}} &&
 \\ \\
-& l= \frac{1 \times 10^{15} \frac{\ohm \times mm^2{m} 1 \times 10^{-3}m}{1 \times 10^6\ohm \times 1mm} &&
+& l= \frac{1 \times 10^{15} \frac{\ohm \times mm^{2}}{m}1 \times 10^{-3}m}{1 \times 10^6 \times 1mm} &&
+\\ \\
+& l=1 \times 10^6mm &&
+\\ \\
+& l=1 \times 10^3m &&
+\\ \\
+& l=1km &&
 
 \end{flalign}
 $$
