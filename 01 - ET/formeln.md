@@ -15,5 +15,8 @@ $R_{is}= \frac{l_{is} \times \rho}{A_{is}}$
 → $\rho$: Spezifischer Durchgangswiderstand
 ## Leitwert $G$
 > Kehrwert des Isolationswiderstandswertes
-> “Ableitung”
+> “Ableitung” (Leitet einen Querstrom $I_{is}$ ab)
+> Maßeinheit: Simens $S$
+
 $G= \frac{1}{R_{is}}$
+$[G]= \frac{}{}$
