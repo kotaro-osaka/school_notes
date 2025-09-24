@@ -14,7 +14,7 @@ $A=b_{is} \times l$
 $$\begin{flalign} & l= \frac{\rho \times l_{is}}{R \times b_{is}} && \end{flalign}$$
 ___
 $$\begin{flalign}&
-l=\frac{(1 \times 10^{15}) \times (1 \times 10^{-3})}{l_{is}}}{1M\ohm \times b_{is}} &&\end{flalign}$$
+l=\frac{(1 \times 10^{15}) \times (1 \times 10^{-3})}{} &&\end{flalign}$$
 $$
 \begin{flalign}
 
