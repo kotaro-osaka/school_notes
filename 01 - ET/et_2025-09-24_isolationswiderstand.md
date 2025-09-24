@@ -1,19 +1,18 @@
 ## Isolationswiderstand
 ___
-**Gegeben**:
+### Gegeben
 $\rho = 1 \times 10^{15} \frac{\ohm \times mm^2}{m}$
 $l_{is}$: $1mm$
 $R_{is}=1M\ohm$
 $b_{is}=1mm$
-
-**Gesucht**:
+### Gesucht
 Kabellänge $l$
 
-**Rechnung**:
+### Rechnung
 $R= \frac{\rho \times l_{is}}{A}$$=\frac{\rho \times l_{is}}{l \times b_{is}}$
 $A=b_{is} \times l$
 $$\begin{flalign} & l= \frac{\rho \times l_{is}}{R \times b_{is}} && \end{flalign}$$
-
+___
 $$ \begin{flalign} & l=\frac{1 \times 10^{15} \frac{\ohm \times mm^2}{l_{is}}}{1M\ohm \times b_{is}} && \end{flalign}$$
 $$
 \begin{flalign}
@@ -33,7 +32,7 @@ $$
 \end{flalign}
 $$
 ___
-**Gegeben**:
+### Gegeben
 $\rho = 1 \times 10^{17} \frac{\ohm \times mm^2}{m}$
 $l_{is}$: $1,5mm$
 $R_{is}=100k\ohm$
