@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - ET/et_2025-09-24_isolationswiderstand.md",
+                "file": "01 - ET/formeln.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "et_2025-09-24_isolationswiderstand"
+              "title": "formeln"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "c95849c263dd66c9",
   "lastOpenFiles": [
-    "01 - ET/99 - archive/oszilloskop 1.md",
     "01 - ET/et_2025-09-24_isolationswiderstand.md",
+    "01 - ET/formeln.md",
+    "01 - ET/99 - archive/oszilloskop 1.md",
     "01 - ET/99 - archive/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
     "01 - ET/99 - archive/Europa - Rechenbuch Elektrotechnik S_219 - Dämpfungsmaß_2025_08_01.pdf",
     "01 - ET/99 - archive/et_widerstand_berechnen_09_09_24 1.md",
@@ -220,7 +221,6 @@
     "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
     "02 - MMI/2 - archive/mmi_knx_26_08_24.md",
     "02 - MMI/1 - glossar/feldbus.md",
-    "07 - English/global-players_2025-09-15.md",
     "99 - misc/Pasted image 20250430102206.png",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
