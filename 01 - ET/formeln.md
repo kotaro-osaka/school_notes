@@ -2,7 +2,7 @@
 ___
 ## Isolationsfläche $A_{is}$
 $$\begin{flalign} & A_{is}=b_{is} \times l && \end{flalign}$$
-→ $b_{is}$: Wirksame Breite
+→ Wirksame Breite $b_{is}$
 → $l$: Leitungslänge
 ___
 ## Isolationswiderstand $R_{is}$
