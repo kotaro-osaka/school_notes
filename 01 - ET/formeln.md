@@ -1,11 +1,11 @@
 # Formeln
 ___
 ## Isolationsfläche $A_{is}$
-$A_{is}=b_{is} \times l$
+$$\begin{flalign} & A_{is}=b_{is} \times l && \end{flalign}$$
 → $b_{is}$: Wirksame Breite
 → $l$: Leitungslänge
-## Leitungswiderstand $R$
-$R=\frac{\rho \times l}{A}$
+## Isolationswiderstand $R_{is}$
+$$\begin{flalign} & R_{is}=\frac{l_{is} \times \rho}{A_{is}} && \end{flalign}$$
 → $\rho$: Spezifischer Widerstand
 → $l$: Leitungslänge
 → $A$: Isolationsfläche
