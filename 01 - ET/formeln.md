@@ -3,6 +3,7 @@ ___
 ## Leitungswiderstand $R$
 $R=\frac{\rho \times l}{A}$
 → $\rho$: Spezifischer Widerstand
+→ 
 ## Isolationsfläche $A_{is}$
 $A_{is}=b_{is} \times l$
 → $b_{is}$: Wirksame Breite

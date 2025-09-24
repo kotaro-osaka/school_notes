@@ -37,8 +37,7 @@ $\rho = 1 \times 10^{17} \frac{\ohm \times mm^2}{m}$
 $l_{is}$: $1,5mm$
 $R_{is}=100k\ohm$
 $b_{is}=0,025m$
-
-**Gesucht**:
+### Gesucht
 Kabellänge $l$
 
 **Rechnung**:
