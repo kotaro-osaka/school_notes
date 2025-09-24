@@ -11,9 +11,9 @@ $$\begin{flalign} & R_{is}= \frac{l_{is} \times \rho}{A_{is}} && \end{flalign}$$
 → $\rho$: Spezifischer Durchgangswiderstand
 → $A_{is}$: Isolationsfläche
 ## Leitwert $G$
-> Kehrwert des Isolationswiderstandswertes
-> “Ableitung” (Leitet einen Querstrom $I_{is}$ ab)
-> Maßeinheit: Simens $S$
+→ Kehrwert des Isolationswiderstandswertes
+→ “Ableitung” (Leitet einen Querstrom $I_{is}$ ab)
+→ Maßeinheit: **Simens $S$**
 
-$G= \frac{1}{R_{is}}$
-$[G]= \frac{1}{\ohm} =S$
+$$G= \frac{1}{R_{is}}$$
+$$\begin{flalign}& [G]= \frac{1}{\ohm} =S\end{flalign}$$
