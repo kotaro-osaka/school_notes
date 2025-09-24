@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -183,6 +184,7 @@
   },
   "active": "c95849c263dd66c9",
   "lastOpenFiles": [
+    "99 - misc/Screenshot 2025-09-24 at 09.55.47.png",
     "01 - ET/et_2025-09-24_isolationswiderstand.md",
     "01 - ET/formeln.md",
     "01 - ET/99 - archive/oszilloskop 1.md",
@@ -220,7 +222,6 @@
     "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
     "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
     "02 - MMI/2 - archive/mmi_knx_26_08_24.md",
-    "02 - MMI/1 - glossar/feldbus.md",
     "99 - misc/Pasted image 20250430102206.png",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
