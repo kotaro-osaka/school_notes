@@ -15,4 +15,5 @@ ___
 > Die unbefugte Eingabe, Kenntnisnahme, Veränderung oder Löschung ist zu verhindern.
 
 5. *Gebe an, welche technischen Maßnahmen die **Speicherkontrolle** im Netzwerk des Unternehmens KnowIT sicherstellen können.*
-> 
+> Zugriffsrechte, Rollenverwaltung, Verschlüsselung, Protokollierung, Monitoring, Backups, etc.
+
