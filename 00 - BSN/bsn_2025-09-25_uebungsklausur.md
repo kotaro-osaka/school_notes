@@ -33,4 +33,8 @@ ___
 2. *Wie viele Subnetze werden insgesamt benötigt? Gebe die neue Subnetzmaske für alle Netzwerke an.*
 > Es werden 3 Subnetze benötigt (rot, grün, blau).
 > `172.16.192.0/18`
-> $2^2=4$ Subnet
+> $2^2=4$ Subnetze  (2 Subnetzbits)
+> Subnetzmaske: `255.255.240.0/20`
+
+3. *Lege für alle Subnetze eine Netzwerkadresse fest.*
+> 
