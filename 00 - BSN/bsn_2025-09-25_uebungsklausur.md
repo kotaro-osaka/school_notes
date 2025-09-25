@@ -18,3 +18,6 @@ ___
 > Zugriffsrechte, Rollenverwaltung, Verschlüsselung, Protokollierung, Monitoring, Backups, etc.
 
 ## Aufgabe 2
+___
+3. *Welche Aufgabe hat der Router im geteilten Netzwerk?*
+> Der Router leitet Pakete von externen Netzwerken an das Ziel(sub)netz.
