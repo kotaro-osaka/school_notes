@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9d7f92dfdbbf0c0b",
+        "id": "d08fc1e74254aa2f",
         "type": "tabs",
         "children": [
           {
-            "id": "6078b35656108bfc",
+            "id": "639b908a94f45aa7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03 - Mathe/1 - archive/verhalten_an_raendern.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "verhalten_an_raendern"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -188,7 +186,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6078b35656108bfc",
+  "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
     "03 - Mathe/1 - archive/symmetrie.md",
     "03 - Mathe/Klausur Vorbereitung.md",
