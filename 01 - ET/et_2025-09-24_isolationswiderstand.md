@@ -47,9 +47,9 @@ $$
 
 & l= \frac{\rho \times l_{is}}{R \times b_{is}} &&
 \\ \\
-& l=\frac{1 \times 10^{17} \frac{\ohm \times mm^2}{1,5mm}}{1 \times 10^4\ohm \times 25mm}!!! &&
+& l=\frac{1 \times 10^{17} \frac{\ohm \times mm^2}{m} \times 0,0015m}{1 \times 10^4\ohm \times 25mm} &&
 \\ \\
-& l= \frac{1 \times 10^{17} \frac{\ohm \times mm^{2}}{m}1 \times 10^{-3}m}{1 \times 10^6 \times 1mm} &&
+& l= \frac{1 \times 10^{14} \ohm \times mm^{2}}{1 \times 10^6 \times 1mm} &&
 \\ \\
 & l=1 \times 10^6mm &&
 \\ \\
