@@ -8,4 +8,6 @@ ___
 3. *Das Unternehmen möchte für Werbezwecke die gespeicherten eMail-Adressen der Kunden an ein anderes Unternehmen weitergeben. Ist das erlaubt?*
 	→ Dies ist nur erlaubt, wenn die betroffene Person dem zustimmt und die Datenübermittlung vertraglich abgesichert ist, damit die dritte Partei die Datenschutzanforderungen einhält.
 4. *Zu den Pflichten eines Betreibers von DV-Anlagen, auf dem personenbezogene Daten gespeichert sind gehört die **Speicherkontrolle**. Beschreibe kurz, was man im Rahmen des Datenschutzes unter dieser Pflicht versteht.*
+	→ Die unbefugte Eingabe, Kenntnisnahme, Veränderung oder Löschung ist zu verhindern.
+5. *Gebe an, welche technischen Maßnahmen die **Speicherkontrolle** im Netzwerk des Unternehmens KnowIT sicherstellen können.*
 	→ 
