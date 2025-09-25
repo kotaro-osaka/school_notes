@@ -28,4 +28,9 @@ ___
 ## Aufgabe 3
 ___
 1. *Warum müssen Subnetze unterschiedliche Netzwerkadressen erhalten?*
-> Subnetze müssen unterschiedliche Netzadressen erhalten, weil sie eindeutig voneinander getrennt werden sollen und es sonst zu Adressk
+> Subnetze müssen unterschiedliche Netzadressen erhalten, weil sie eindeutig voneinander getrennt werden sollen und es sonst zu Adresskonflikten kommen könnte.
+
+2. *Wie viele Subnetze werden insgesamt benötigt? Gebe die neue Subnetzmaske für alle Netzwerke an.*
+> Es werden 3 Subnetze benötigt (rot, grün, blau).
+> `172.16.192.0/18`
+> $2^2=4$ Subnet
