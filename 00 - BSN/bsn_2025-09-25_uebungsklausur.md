@@ -21,3 +21,6 @@ ___
 ___
 3. *Welche Aufgabe hat der Router im geteilten Netzwerk?*
 > Der Router leitet Pakete von externen Netzwerken an das Ziel(sub)netz.
+
+4. *Bestimme die Anzahl der IP-Adressen, welche in deinem Netzwerk benötigt werden, damit alle Geräte im Netzwerk entsprechend ihrer Aufgabe kommunizieren können.*
+> $10 PCs + 1 Server + 3A$
