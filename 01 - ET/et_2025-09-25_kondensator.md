@@ -9,5 +9,7 @@ $\epsilon_0$: Elektrische Feldkonstante ($=8,85 \times 10^{-12} \frac{As}{Vm}$)
 ___
 ## Gegeben
 $l=1km$
-$$
+$\varnothing=0,6mm$
+$\epsilon_r=100$
 ## Gesucht
+$C$
