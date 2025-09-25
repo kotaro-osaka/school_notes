@@ -42,3 +42,5 @@ ___
 > 3. `172.16.224.0/20`
 > 4. `172.16.240.0/20`
 
+4. *Bestimme für jedes Subnetz die Broadcastadresse.*
+> 1. `172.16.192.0`
