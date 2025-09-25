@@ -18,5 +18,7 @@ Kapazität $C$
 $$\begin{flalign}
 & C= \epsilon_0 \times \epsilon_r \times \frac{A}{r} &&
 \\ \\
-& C= 8,85 \times 10^{-12} \frac{As}{Vm} \times 100 \times \frac{2\pi \times 1mm}{1mm} &&
+& C= 8,85 \times 10^{-12} \frac{As}{Vm} \times 100 \times \frac{2\pi \times 0,001m \times 1000m}{1mm} &&
+\\ \\
+& C=  &&
 \end{flalign}$$
