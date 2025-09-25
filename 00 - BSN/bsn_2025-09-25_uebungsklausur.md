@@ -49,5 +49,7 @@ ___
 > 4. `172.16.255.255` (`.11`)
 
 5. *Bestimme die Anzahl möglicher IP-Geräte in jedem Subnetz.*
-> $8^{12}=68.719.476.736$
-> 
+> $2^{12}=4.096$
+
+6. *Gebe den IP-Adressbereich für jedes Subnetz an.*
+> 1. 
