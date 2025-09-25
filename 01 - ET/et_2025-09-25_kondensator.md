@@ -18,5 +18,5 @@ Kapazität $C$
 $$\begin{flalign}
 & C= \epsilon_0 \times \epsilon_r \times \frac{A}{r} &&
 \\ \\
-& C= 8,85 \times 10^{-12} \frac{As}{Vm} \times  &&
+& C= 8,85 \times 10^{-12} \frac{As}{Vm} \times 100 \times \frac{}{} &&
 \end{flalign}$$
