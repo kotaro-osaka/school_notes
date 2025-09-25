@@ -23,4 +23,7 @@ ___
 > Der Router leitet Pakete von externen Netzwerken an das Ziel(sub)netz.
 
 4. *Bestimme die Anzahl der IP-Adressen, welche in deinem Netzwerk benötigt werden, damit alle Geräte im Netzwerk entsprechend ihrer Aufgabe kommunizieren können.*
-> $10 PCs + 1 Server + 3A$
+> $10 \text{ PCs} + 1 \text{ Server} + 3 \text{ Routeranschlüsse}=14 \text{ IP-Adressen}$
+
+## Aufgabe 3
+___
