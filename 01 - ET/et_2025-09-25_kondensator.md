@@ -3,5 +3,5 @@ ___
 $A$: Plattenfläche
 $d$: Plattenabstand
 **Permativität**
-$\epsilon_r$: Relative Permativität (Luft$=1$)
-$\epsilon$
+$\epsilon_r$: Relative Permativität (*Dielektrikum* Luft$=1$)
+$\epsilon_0$: 
