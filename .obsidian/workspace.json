@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -212,12 +213,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ad8a6d8fc356f6f",
+  "active": "1e12c423e9811914",
   "lastOpenFiles": [
+    "02 - MMI/mmi_2025-09-15_knx-bussystem.md",
+    "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
     "02 - MMI/mmi_2025-09-29_knx.md",
     "07 - English/english_2025-09-29_exam-recap.md",
-    "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
-    "02 - MMI/mmi_2025-09-15_knx-bussystem.md",
     "02 - MMI/KNX-Grundlagen.pdf",
     "00 - BSN/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
     "00 - BSN/bsn_2025-09-25_uebungsklausur.md",

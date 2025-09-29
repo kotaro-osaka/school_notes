@@ -70,4 +70,4 @@ Das KNX System ist ein Bussystem für die Gebäudesteuerung. Alle Geräte benutz
 ## Wie groß kann das System werden?
 Die Größe des Bussystems kann auf dem Bedarf angepasst werden und sind beliebig erweiterbar. Das Kleinste System verbindet einen Sensor mit einen Aktor. Beim weiteren Ausbau fügt man so viele Geräte zu, die für die Steuerungsaufgaben notwending sind. Die Erweiterung einer Anlage muss einer vorgeschriebenen Topologie folgen.
 ## Welche Übertragungsmedien gibt es?
-Das KNX System verwended viele Übertragungsmedien. KNX Twisted Pair (KNX TP): Übertragung über verdrillte Zweidrahtdatenleitung (Busleitung) KNX Powerline (KNX PL): Übertragung über das 230 Volt-Netz KNX Radio Frequency (KNX RF): Übertragung über Funk KNX IP: Übertragung über Ethernet
+Das KNX System verwendet viele Übertragungsmedien. KNX Twisted Pair (KNX TP): Übertragung über verdrillte Zweidraht-Datenleitung (Busleitung) KNX Powerline (KNX PL): Übertragung über das 230 Volt-Netz KNX Radio Frequency (KNX RF): Übertragung über Funk KNX IP: Übertragung über Ethernet
