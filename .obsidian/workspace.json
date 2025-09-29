@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "02 - MMI/mmi_2025-09-15_knx-bussystem.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,10 +213,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e12c423e9811914",
+  "active": "0ad8a6d8fc356f6f",
   "lastOpenFiles": [
-    "02 - MMI/mmi_2025-09-15_knx-bussystem.md",
     "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
+    "02 - MMI/mmi_2025-09-15_knx-bussystem.md",
     "02 - MMI/mmi_2025-09-29_knx.md",
     "07 - English/english_2025-09-29_exam-recap.md",
     "02 - MMI/KNX-Grundlagen.pdf",
