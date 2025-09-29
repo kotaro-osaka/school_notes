@@ -10,5 +10,5 @@ Even this approach could be perceived as unsustainable, because the company is s
 Apple, for example, is a company, which relies on the satisfaction of their customers, who carry the product with them at all times and are always reminded of the company behind it.
 If they do not pay careful attention to their customers’ growing demand for powerful companies like them taking responsibility, they might slowly loose customers.
 The resilience of economies is currently being put to the test and so is people’s willingness to buy certain products rather than buying a cheaper version or even one, which was sourced or produced more ethically and sustainably.
-This also touches on the sub-topic of social sustainability, which deals with societies’ investments towards a more inclusive and equal 
+This also touches on the sub-topic of social sustainability, which deals with societies’ investments towards more inclusive and equal communities, regardless of people’s socioeconomic background. Therefore, if people feel like they are marginalized
 and economic sustainability, which
