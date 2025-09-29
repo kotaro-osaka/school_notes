@@ -7,7 +7,12 @@ ___
 ## Mehr Vernetzung
 ### Konventionelle Möglichkeiten
 ### Bustechnik
-Bussysteme ist überall in vielen arten sichtbar. - Bussysteme ist laut der pdf alle Sensoren, ein Kabel, sodass jeder sensor kommunizieren kann. - man kann alles Bedenkbare einbeziehen. - eine gute Lösung ist so etwas als Sternenverkabelung auszuführen, d.h.: 1. alle Lichtschalter mit 5 drahtiger NYM-Leitung auf einer zentralen Verteilung zu verdrahten, 2. Die Leitung mit Schützen, Schaltrelais und einer SPS die logischen Beziehungen flexibel per Programm herzustellen. - jedoch ist es deutlich besser: 1. alle Sensoren und Aktoren im Gebäude über einer Datenleitung zu verbinden. Sodass jedes gerät verbunden miteinander kommunizieren kann.
+- Bussysteme ist überall in vielen arten sichtbar. 
+- Bussysteme ist laut der pdf alle Sensoren, ein Kabel, sodass jeder sensor kommunizieren kann
+- man kann alles Denkbare einbeziehen. 
+- eine gute Lösung ist so etwas als Sternverkabelung auszuführen, d.h.: 1. alle Lichtschalter mit 5 drahtiger NYM-Leitung auf einer zentralen Verteilung zu verdrahten, 2. Die Leitung mit Schützen, Schaltrelais und einer SPS die logischen Beziehungen flexibel per Programm herzustellen. 
+- jedoch ist es deutlich besser: 
+	1. alle Sensoren und Aktoren im Gebäude über einer Datenleitung zu verbinden. Sodass jedes gerät verbunden miteinander kommunizieren kann.
 ## Warum KNX?
 - Wird von vielen Herstellern unterstützt
 - Alle starken Marked der Gebäudeinstallation treiben KNX voran
