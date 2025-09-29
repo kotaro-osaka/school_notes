@@ -1,10 +1,13 @@
 # Bussysteme
 ___
 ## Zukunft & Vergangenheit
-- 
+- Fortschrittliche Technologien im Alltag: Kommunikation, Unterhaltung und Auto sind stark von modernen Technologien geprägt, die unseren Alltag vereinfachen und effizienter gestalten
+- Veraltete Technologien im Gebäudebau: Im Gegensatz dazu hinken Gebäudetechnologien hinterher, wobei konventionelle Lösungen und mangelnde Automatisierung vorherrschen
+- Energieverschwendung im Haushalt: Mangelnde Automatisierung und Steuerung führen zu Energieverschwendung, da beispielsweise die Heizung die Temperatur hält, auch wenn Fenster offen stehen
 ## Nachholbedarf in der Elektroinstallation
-- 
+- Elektroinstallationen in bestehenden Gebäuden benötigen Nachrüstung, da Vernetzung und Flexibilität für zukünftige Anpassungen wichtig sind.
 ## Mehr Vernetzung
+- Intelligentes Gebäude → Sensoren, Aktoren und deren Vernetzung
 ### Konventionelle Möglichkeiten
 ### Bustechnik
 - Bussysteme ist überall in vielen arten sichtbar. 
