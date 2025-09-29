@@ -8,5 +8,7 @@ Global companies cannot simply choose to stay unaffected by resource shortages o
 Nowadays, global players, who consume and process in unsustainable manners are frowned upon and if such companies do not solely produce products or offer services to other companies with aligned interests, it can be difficult for them to not only find business opportunities, but also people willing to work for a company so focused on profit over the well-being of future generations. 
 Even this approach could be perceived as unsustainable, because the company is so focused on the present turnover, that they sacrifice their future means of turning profit, because their current strategy will probably not be viable later on.
 Apple, for example, is a company, which relies on the satisfaction of their customers, who carry the product with them at all times and are always reminded of the company behind it.
-If they do not pay careful attention to their customers’ growing demand for more 
+If they do not pay careful attention to their customers’ growing demand for powerful companies like them taking responsibility, they might slowly loose customers.
 The resilience of economies is currently being put to the test and so is people’s willingness to buy certain products rather than buying a cheaper version or even one, which was sourced or produced more ethically and sustainably.
+This also touches on the sub-topic of social sustainability, which deals with the 
+and economic sustainability, which
