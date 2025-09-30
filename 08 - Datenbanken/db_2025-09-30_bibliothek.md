@@ -7,7 +7,12 @@ ___
 	2. Redundante Daten werden an einem Ort aktualisiert, aber nicht an anderen, wodurch inkonsistente Informationen auftreten
 	3. Das Löschen von Daten löscht unabsichtlich andere Daten mit, die noch gebraucht werden
 3. Erstelle ein ERD zu der Tabelle
-	1. 
+	1. Buch
+	2. (Autor)
+	3. Verlag
+	4. Ausleiher
+	5. PLZ
+	6. Ort
 4. Wandel das ERD in Relationen um.
 5. Prüfe, ob sich das ERD in der 3. Normalform befindet.
 6. Erstelle eine Datenbank “Bibliothek” und implementiere die Tabellen “Buch” und “Verlag”
