@@ -23,6 +23,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "c768a7d258c55367",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ab11640b354edd0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "08 - Datenbanken/bibliothek.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "bibliothek"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +203,8 @@
   "active": "19b3ad71ee15142c",
   "lastOpenFiles": [
     "08 - Datenbanken/bibliothek.pdf",
-    "08 - Datenbanken/1 - archive/db_charsets_collations_unicode_02_09_24.md",
     "08 - Datenbanken/db_2025-09-30_bibliothek.md",
+    "08 - Datenbanken/1 - archive/db_charsets_collations_unicode_02_09_24.md",
     "07 - English/english_2025-09-29_exam-recap.md",
     "02 - MMI/mmi_2025-09-15_knx-bussystem.md",
     "02 - MMI/mmi_2025-09-29_knx.md",
@@ -221,7 +239,6 @@
     "00 - BSN/99 - archive/Internet-Gefahren_DOC-2_LM-Sammlung.pdf",
     "00 - BSN/99 - archive/bsn_datenschutz_vs_datensicherheit_2025_14_01.md",
     "00 - BSN/99 - archive/250116_CI3O1_BSN.pdf",
-    "Untitled.base",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
     "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
     "99 - misc/Pasted image 20250430102206.png",
