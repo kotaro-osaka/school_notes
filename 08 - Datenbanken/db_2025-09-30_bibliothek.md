@@ -9,9 +9,10 @@ ___
 3. Erstelle ein ERD zu der Tabelle
 	1. Buch
 	2. (Autor)
-	3. Verlag
-	4. Ausleiher
-	5. Ort
+	3. Buch_Autor (ZT für Ausleihdatum)
+	4. Verlag
+	5. Ausleiher
+	6. Ort
 4. Wandel das ERD in Relationen um.
 5. Prüfe, ob sich das ERD in der 3. Normalform befindet.
 6. Erstelle eine Datenbank “Bibliothek” und implementiere die Tabellen “Buch” und “Verlag”
