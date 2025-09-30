@@ -11,8 +11,7 @@ ___
 	2. (Autor)
 	3. Verlag
 	4. Ausleiher
-	5. PLZ
-	6. Ort
+	5. Ort
 4. Wandel das ERD in Relationen um.
 5. Prüfe, ob sich das ERD in der 3. Normalform befindet.
 6. Erstelle eine Datenbank “Bibliothek” und implementiere die Tabellen “Buch” und “Verlag”
