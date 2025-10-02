@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "edb56bddb2792686",
+        "id": "7164678a69a12a7b",
         "type": "tabs",
         "children": [
           {
-            "id": "540428fcfd5114cd",
+            "id": "5ebadd2a6cc4a71d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "06 - Wirtschaft/wwl_personal-auswaehlen_2025-09-17.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "wwl_personal-auswaehlen_2025-09-17"
             }
           }
         ]
@@ -176,8 +181,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "540428fcfd5114cd",
+  "active": "5ebadd2a6cc4a71d",
   "lastOpenFiles": [
+    "06 - Wirtschaft/wwl_fachinformatiker_2025-09-17.md",
+    "00 - BSN/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
+    "00 - BSN/bsn_2025-09-25_uebungsklausur.md",
+    "00 - BSN/bsn_2025-09-18_netzwerksegmentierung-teil-3-uebung-1.md",
+    "00 - BSN/bsn_2025-09-18_netzwerksegmentierung-teil-3-aufgabenblatt.md",
     "03 - Mathe/mathe_2025-01-16_ggT-kgv.md",
     "03 - Mathe/Klausur Vorbereitung.md",
     "04 - Deutsch/0 - archive/deutsch_kurzgeschichten_stationenlernen.pdf",
@@ -185,10 +195,8 @@
     "05 - Politik/globalisierung.md",
     "06 - Wirtschaft/wwl_2025-09-22_vorstellungsgesoraech.md",
     "06 - Wirtschaft/wwl_personal-auswaehlen_2025-09-17.md",
-    "06 - Wirtschaft/wwl_fachinformatiker_2025-09-17.md",
     "s3.md",
     "06 - Wirtschaft/Untitled.md",
-    "00 - BSN/bsn_2025-09-25_uebungsklausur.md",
     "08 - Datenbanken/bibliothek.pdf",
     "08 - Datenbanken/db_2025-09-30_bibliothek.md",
     "08 - Datenbanken/1 - archive/db_charsets_collations_unicode_02_09_24.md",
@@ -197,7 +205,6 @@
     "02 - MMI/mmi_2025-09-29_knx.md",
     "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
     "02 - MMI/KNX-Grundlagen.pdf",
-    "00 - BSN/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
     "01 - ET/et_2025-09-25_kondensator.md",
     "01 - ET/et_2025-09-24_isolationswiderstand.md",
     "01 - ET/formeln.md",
@@ -210,9 +217,7 @@
     "01 - ET/99 - archive/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
     "01 - ET/99 - archive/Europa - Rechenbuch Elektrotechnik S_219 - Dämpfungsmaß_2025_08_01.pdf",
     "01 - ET/99 - archive/et_widerstand_berechnen_09_09_24 1.md",
-    "01 - ET/99 - archive/et_szenario_netzwerk_testen_21_08_24 1.md",
     "01 - ET/99 - archive/et_szenario_22_08_24.pdf",
-    "01 - ET/99 - archive/et_kondensator_kapazitaet_13_09_24 1.md",
     "01 - ET/99 - archive/et_brueckengleichrichtung.pdf",
     "00 - BSN/99 - archive/Internet-Gefahren_DOC-2_LM-Sammlung.pdf",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
