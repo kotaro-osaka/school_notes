@@ -4,40 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6bec3ec5b23e1852",
+        "id": "181fd2d856fe89af",
         "type": "tabs",
         "children": [
           {
-            "id": "19b3ad71ee15142c",
+            "id": "7e10dbe20c479080",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Datenbanken/db_2025-09-30_bibliothek.md",
+                "file": "00 - BSN/bsn_2025-09-25_uebungsklausur.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "db_2025-09-30_bibliothek"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c768a7d258c55367",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1ab11640b354edd0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "08 - Datenbanken/bibliothek.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "bibliothek"
+              "title": "bsn_2025-09-25_uebungsklausur"
             }
           }
         ]
@@ -97,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -200,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19b3ad71ee15142c",
+  "active": "7e10dbe20c479080",
   "lastOpenFiles": [
     "08 - Datenbanken/bibliothek.pdf",
     "08 - Datenbanken/db_2025-09-30_bibliothek.md",
