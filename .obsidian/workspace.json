@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7164678a69a12a7b",
+        "id": "49f73be71dedd581",
         "type": "tabs",
         "children": [
           {
-            "id": "5ebadd2a6cc4a71d",
+            "id": "2131f27492f6e115",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Wirtschaft/wwl_personal-auswaehlen_2025-09-17.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "wwl_personal-auswaehlen_2025-09-17"
+              "title": "New tab"
             }
           }
         ]
@@ -181,8 +176,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ebadd2a6cc4a71d",
+  "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
+    "07 - English/klausur CI3O1 sustain.docx",
+    "07 - English/Sustainability_Exam_Worksheet.pdf",
+    "06 - Wirtschaft/wwl_personal-auswaehlen_2025-09-17.md",
     "06 - Wirtschaft/wwl_fachinformatiker_2025-09-17.md",
     "00 - BSN/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
     "00 - BSN/bsn_2025-09-25_uebungsklausur.md",
@@ -194,7 +192,6 @@
     "04 - Deutsch/deutsch_2025-09-15_kurzgeschichten.md",
     "05 - Politik/globalisierung.md",
     "06 - Wirtschaft/wwl_2025-09-22_vorstellungsgesoraech.md",
-    "06 - Wirtschaft/wwl_personal-auswaehlen_2025-09-17.md",
     "s3.md",
     "06 - Wirtschaft/Untitled.md",
     "08 - Datenbanken/bibliothek.pdf",
@@ -219,7 +216,6 @@
     "01 - ET/99 - archive/et_widerstand_berechnen_09_09_24 1.md",
     "01 - ET/99 - archive/et_szenario_22_08_24.pdf",
     "01 - ET/99 - archive/et_brueckengleichrichtung.pdf",
-    "00 - BSN/99 - archive/Internet-Gefahren_DOC-2_LM-Sammlung.pdf",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
     "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
     "99 - misc/Pasted image 20250430102206.png",
