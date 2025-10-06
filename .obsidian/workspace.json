@@ -11,10 +11,12 @@
             "id": "2131f27492f6e115",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "02 - MMI/KNX-Grundlagen.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "KNX-Grundlagen"
             }
           }
         ]
@@ -176,7 +178,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "2131f27492f6e115",
   "lastOpenFiles": [
     "07 - English/klausur CI3O1 sustain.docx",
     "07 - English/Sustainability_Exam_Worksheet.pdf",
