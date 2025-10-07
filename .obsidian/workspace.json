@@ -37,8 +37,7 @@
               "title": "et_2025-09-25_kondensator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,11 +207,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ef2d89a4c7c40f24",
+  "active": "f8864e47227ce3a8",
   "lastOpenFiles": [
+    "01 - ET/et_2025-09-25_kondensator.md",
     "Untitled.md",
     "01 - ET/formeln.md",
-    "01 - ET/et_2025-09-25_kondensator.md",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
     "01 - ET/et_2025-09-24_isolationswiderstand.md",
     "08 - Datenbanken/normalisierung.md",
