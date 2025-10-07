@@ -16,11 +16,11 @@ $\epsilon_r=100$
 Kapazität $C$
 ## Rechnung
 $$\begin{flalign}
-& C= \epsilon_0 \times \epsilon_r \times \frac{A}{r} &&
+& C= \epsilon_0 \cdot \epsilon_r \cdot \frac{A}{r} &&
 \\
-& \text{Zylinder:} d \times \pi \times l &&
+& \text{Zylinder:} d \cdot \pi \cdot l &&
 \\
-& C= 8,85 \times 10^{-12} \frac{As}{Vm} \times 100 \times \frac{2\pi \times 1000m}{1mm} &&
+& C= 8,85 \cdot 10^{-12} \frac{As}{Vm} \cdot 100 \cdot \frac{2\pi \cdot 1000m}{1mm} &&
 \\ \\
 & C=  &&
 \end{flalign}$$
