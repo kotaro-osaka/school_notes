@@ -5,4 +5,7 @@ ___
 
 `255.255.0.0`
 
-## Au
+## Aufgabe 2
+1. Neue Subnetzmaske: `255.255.192.0` / `/18`
+2. Netzwerk- & Broadcastadressen
+	1. `172.23.`
