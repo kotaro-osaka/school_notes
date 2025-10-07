@@ -15,10 +15,17 @@ $$A_{is}=b_{is}\cdot l$$
 $$R=\frac{0,004m\cdot10^{15}\ohm\frac{mm^2}{m}\cdot10^{-6}}{0,006m\cdot2000m}$$
 $$3,3\cdot10^5\ohm$$
 
+Gegeben
+$b=0,003m$
+$l=1000$
+$\rho=1 \cdot 10^{13}\ohm\cdot mm^2/m$
 
-GESUCHT: l
+$$
+
+
+GESUCHT: l_is
 $$R=\frac{l_{is}\cdot\rho}{l\cdot b_{is}}$$
-$\cdot l$
+$\cdot lis$
 $$R\cdot l=\frac{\rho \cdot}{b_{is}}$$
 $\div R$
 
