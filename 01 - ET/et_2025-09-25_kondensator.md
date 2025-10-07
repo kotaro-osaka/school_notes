@@ -22,7 +22,7 @@ $$\begin{flalign}
 \\
 & C= 8,85 \times 10^{-12} \frac{As}{Vm} \times 100 \times \frac{2\pi \times 1000m}{1mm} &&
 \\ \\
-& C= !!!! &&
+& C=  &&
 \end{flalign}$$
 
 
