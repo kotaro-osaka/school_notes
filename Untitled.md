@@ -6,4 +6,10 @@ $lis=4mm$ = $0,004m$
 $b_{is}=6mm$ = $0,006m$
 $\rho=1\cdot10^{15}\ohm\frac{mm^2}{m}$ 
 
-ges: 
+ges: R
+
+$$R=\frac{l_{is}\cdot\rho}{A_{is}}$$
+
+$$A_{is}=b_{}$$
+
+$$R=\frac{0,004m\cdot10^{15}\ohm\frac{mm^2}{m}}{}$$
