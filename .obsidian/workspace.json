@@ -4,40 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9f97f025512e8a4a",
+        "id": "fc7c3e14bd07c8f7",
         "type": "tabs",
         "children": [
           {
-            "id": "2f355e82a7eea927",
+            "id": "46988601de7b4a6b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2a3f14916f885223",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "097e686cabb1fe77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - BSN/bsn_2025-10-07_netzwerksegmentierung-teil-4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "bsn_2025-10-07_netzwerksegmentierung-teil-4"
+              "title": "New tab"
             }
           }
         ]
@@ -199,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "097e686cabb1fe77",
+  "active": "46988601de7b4a6b",
   "lastOpenFiles": [
     "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf",
     "00 - BSN/bsn_2025-10-07_netzwerksegmentierung-teil-4.md",
