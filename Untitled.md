@@ -10,6 +10,7 @@ ges: R
 
 $$R=\frac{l_{is}\cdot\rho}{A_{is}}$$
 
-$$A_{is}=b_{}$$
+$$A_{is}=b_{is}\cdot l$$
 
-$$R=\frac{0,004m\cdot10^{15}\ohm\frac{mm^2}{m}}{}$$
+$$R=\frac{0,004m\cdot10^{15}\ohm\frac{mm^2}{m}}{0,006m\cdot2000m}$$
+$$$$
