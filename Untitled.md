@@ -17,4 +17,9 @@ $$3,3\cdot10^5\ohm$$
 
 
 GESUCHT: l
-$$R=\frac{l_{is}\cdot\rho}{A_{is}}$$
+$$R=\frac{l_{is}\cdot\rho}{l\cdot b_{is}}$$
+$\cdot l$
+$$R\cdot l=\frac{\rho \cdot}{b_{is}}$$
+$\div R$
+
+$$l=$$
