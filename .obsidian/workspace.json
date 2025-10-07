@@ -11,10 +11,12 @@
             "id": "46988601de7b4a6b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung"
             }
           }
         ]
@@ -74,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -178,8 +181,8 @@
   },
   "active": "46988601de7b4a6b",
   "lastOpenFiles": [
-    "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf",
     "00 - BSN/bsn_2025-10-07_netzwerksegmentierung-teil-4.md",
+    "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf",
     "00 - BSN/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
     "02 - MMI/KNX-Grundlagen.pdf",
     "07 - English/klausur CI3O1 sustain.docx",
