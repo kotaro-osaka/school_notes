@@ -12,5 +12,9 @@ $$R=\frac{l_{is}\cdot\rho}{A_{is}}$$
 
 $$A_{is}=b_{is}\cdot l$$
 
-$$R=\frac{0,004m\cdot10^{15}\ohm\frac{mm^2}{m}}{0,006m\cdot2000m}$$
-$$\frac{}{12m^2}$$
+$$R=\frac{0,004m\cdot10^{15}\ohm\frac{mm^2}{m}\cdot10^{-6}}{0,006m\cdot2000m}$$
+$$3,3\cdot10^5\ohm$$
+
+
+GESUCHT: l
+$$R=\frac{l_{is}\cdot\rho}{A_{is}}$$
