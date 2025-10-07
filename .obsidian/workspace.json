@@ -21,7 +21,13 @@
               "icon": "lucide-file",
               "title": "formeln"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2d421e0e149f5f07",
+        "type": "tabs",
+        "children": [
           {
             "id": "c37002dc00b5e2b6",
             "type": "leaf",
@@ -221,10 +227,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8fefff1f56bc9b90",
+  "active": "c37002dc00b5e2b6",
   "lastOpenFiles": [
-    "01 - ET/et_2025-09-24_isolationswiderstand.md",
     "01 - ET/formeln.md",
+    "01 - ET/et_2025-09-24_isolationswiderstand.md",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
     "01 - ET/et_2025-09-25_kondensator.md",
     "08 - Datenbanken/normalisierung.md",
