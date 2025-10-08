@@ -14,4 +14,4 @@ ___
 	→ Wird meist für Internetverbindung verwendet
 	→ Ist die Adresse, die verwendet wird, wenn andere nicht erreichbar sind oder nicht zur gewünschten Zieladresse führen
 6. Wie findet der Router den Weg zu einer Ziel-IP-Adresse (z.B. im Internet), wenn der Router nicht direkt mit dem zugehörigen Netzwerk verbunden ist?
-	→ 
+	→ Er entpackt das Frame bis auf die Netzwerkebene und liest aus dem IP-Header des Pakets, von welchem Port an welche Gateway das
