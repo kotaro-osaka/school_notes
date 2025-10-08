@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
+                "file": "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "encapsulation"
+              "title": "bsn_2025-10-09_aufgabe-5-komplexes-routing"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -193,6 +194,8 @@
   },
   "active": "6412f2ead7c4336c",
   "lastOpenFiles": [
+    "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
+    "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
     "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
     "00 - BSN/1 - glossary/1.3 - routing/route_poisoning.md",
     "00 - BSN/1 - glossary/1.3 - routing/IP-Netze-07.30_Routing_NetIT-Exkurs_DOC.pdf",
@@ -228,8 +231,6 @@
     "04 - Deutsch/deutsch_2025-09-15_kurzgeschichten.md",
     "03 - Mathe/mathe_2025-01-16_ggT-kgv.md",
     "00 - BSN/bsn_2025-10-07_netzwerksegmentierung-teil-4.md",
-    "00 - BSN/bsn_2025-09-18_netzwerksegmentierung-teil-3-uebung-1.md",
-    "00 - BSN/bsn_2025-09-18_netzwerksegmentierung-teil-3-aufgabenblatt.md",
     "01 - ET/0 - res/Screenshot 2025-09-24 at 09.55.47.png",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
     "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
