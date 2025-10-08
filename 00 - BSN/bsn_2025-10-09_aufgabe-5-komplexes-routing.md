@@ -10,4 +10,8 @@ ___
 	3. Protokoll bestimmt welche Route basierend auf Metrik Bedingungen verwendet wird
 4. Wozu benötigt jeder Host eine Routingtabelle (`route print`)
 	→ Wenn er Pakete an externe Netze versenden möchte, muss er Zieladresse, Standard Gateway, Subnetzmaske, Interface und Metrik kennen und interpretieren
-5. Welche Aufgabe hat der Eintrag “Default Ro”
+5. Welche Aufgabe hat der Eintrag “Default Route”?
+	→ Wird meist für Internetverbindung verwendet
+	→ Ist die Adresse, die verwendet wird, wenn andere nicht erreichbar sind oder nicht zur gewünschten Zieladresse führen
+6. Wie findet der Router den Weg zu einer Ziel-IP-Adresse (z.B. im Internet), wenn der Router nicht direkt mit dem zugehörigen Netzwerk verbunden ist?
+	→ 
