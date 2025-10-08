@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "480519cc348c8d14",
+        "id": "ecc510ddb578b858",
         "type": "tabs",
         "children": [
           {
-            "id": "818b1b72ce1cd95c",
+            "id": "f8959d7bcfa3c779",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,10 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "f8959d7bcfa3c779",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-10-08 11.27.58.excalidraw.md",
+    "Untitled Diagram.svg",
     "07 - English/english_2025-10-08_internship.md",
+    "Excalidraw/Drawing 2025-10-08 11.27.58.excalidraw.md",
     "Excalidraw/Drawing 2025-10-08 11.27.50.excalidraw.md",
     "Excalidraw",
     "Untitled.md",
@@ -217,7 +218,6 @@
     "02 - MMI/mmi_2025-09-15_knx-bussystem.md",
     "02 - MMI/mmi_2025-09-29_knx.md",
     "02 - MMI/2 - archive/mmi_knx_topologie_praesentation.md",
-    "01 - ET/et_2025-09-25_kondensator.md",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
     "01 - ET/0 - res/Screenshot 2025-09-24 at 09.55.47.png",
     "03 - Mathe/07_mgk_ggt-kgv.pdf",
@@ -227,7 +227,6 @@
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
     "99 - misc/videoframe_162647.png",
-    "99 - misc/vektorrechnung.png",
-    "99 - misc/vektoren_durch_zwei_punkte_berechnen.png"
+    "99 - misc/vektorrechnung.png"
   ]
 }
