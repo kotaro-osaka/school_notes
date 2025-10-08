@@ -17,4 +17,6 @@ ___
 > → Ist die Adresse, die verwendet wird, wenn andere nicht erreichbar sind oder nicht zur gewünschten Zieladresse führen
 #### 6. Wie findet der Router den Weg zu einer Ziel-IP-Adresse (z.B. im Internet), wenn der Router nicht direkt mit dem zugehörigen Netzwerk verbunden ist?
 > Er entpackt das Frame bis auf die Netzwerkebene und liest aus dem IP-Header des Frames, die Zieladresse, sucht nach dessen Netzwerkadresse in der Routingtabelle, worin steht, von welchem Interface an welche Gateway das Frame versendet werden muss, um dahin zu gelangen
-#### 7. Ein Router 1 hat zwei Netzkarten eingebaut, welche folgendermaßen konfiguriert sind:[](00%20-%20BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf#page=2&selection=31,0,31,2)
+#### 7. Ein Router 1 hat zwei Netzkarten eingebaut, welche folgendermaßen konfiguriert sind:[Netzwerk](00%20-%20BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf#page=2&selection=31,0,31,2)
+##### 1. Welche IP-Adresse muss in diesem Rechner als Standardgateway eingetragen werden?
+> `192.168.33.1/24`
