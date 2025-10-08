@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "english_2025-10-08_interview"
             }
+          },
+          {
+            "id": "09a0af236b2f74d9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,13 +186,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "818b1b72ce1cd95c",
+  "active": "09a0af236b2f74d9",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Untitled.md",
+    "09 - Software/pflichtenheft.md",
+    "08 - Datenbanken/normalisierung.md",
     "07 - English/english_2025-10-08_interview.md",
+    "Untitled.base",
     "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf",
     "00 - BSN/bsn_2025-10-07_netzwerksegmentierung-teil-4.md",
     "00 - BSN/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
@@ -213,9 +230,7 @@
     "01 - ET/formeln.md",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
     "01 - ET/0 - res/Screenshot 2025-09-24 at 09.55.47.png",
-    "03 - Mathe/mathe-erweiterter-euklidischer-algoirthmus-2025-14-02.md",
     "03 - Mathe/07_mgk_ggt-kgv.pdf",
-    "01 - ET/et_.md",
     "01 - ET/99 - archive/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
     "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",

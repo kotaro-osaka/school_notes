@@ -15,7 +15,7 @@ $$\begin{flalign} & A_{is}=b_{is} \times l && \end{flalign}$$
 ## Leitwert $G$
 → Kehrwert des Isolationswiderstandswertes
 → “Ableitung” (Leitet einen Querstrom $I_{is}$ ab)
-→ Maßeinheit: **Simens $S$**
+→ Maßeinheit: **Siemens $S$**
 $$\begin{flalign}& G= \frac{1}{R_{is}} &&\end{flalign}$$
 $$\begin{flalign}& [G]= \frac{1}{\ohm} =S &&\end{flalign}$$
 *[mehr](01%20-%20ET/0%20-%20res/AH%20Isolationswiderstand.jpg)*
