@@ -20,3 +20,8 @@ ___
 #### 7. Ein Router 1 hat zwei Netzkarten eingebaut, welche folgendermaßen konfiguriert sind:[Netzwerk](00%20-%20BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf#page=2&selection=31,0,31,2)
 ##### 1. Welche IP-Adresse muss in diesem Rechner als Standardgateway eingetragen werden?
 > `192.168.33.1/24`
+##### 2. Welche Informationen werden vom Router 1 benötigt, damit dieser das Datenpaket an den Empfänger weiterleiten kann?
+> 1. Zielnetzwerk
+> 2. Subnetzmaske
+> 3. Interface
+> 4. Gateway
