@@ -25,3 +25,5 @@ ___
 > 2. Subnetzmaske
 > 3. Interface
 > 4. Gateway
+#### 3. Was muss mit der privaten IP-Adresse des Absenders passieren, damit www.ostvest.de ein Antwortpaket zum Rechner 192.168.33.10/24 zurücksenden kann?
+> Sie muss mithilfe der NAT-Tabelle in Router 2 in die zugehörige öffentliche Adresse verwandelt übersetzt werden.
