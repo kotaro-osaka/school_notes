@@ -7,5 +7,7 @@ ___
 3. Beschreibe wesentliche Merkmale des statischen Routings
 	1. Routen sind fest vorgeschrieben
 	2. RIP Protokoll
-	3. Protokoll bestimmt welche Route basierend auf vorgegebenen Bedingungen wie Next-hop, length, latency, etc.
-4. Wozu benötigt jeder Host eine Routingtabelle (`ro`)
+	3. Protokoll bestimmt welche Route basierend auf Metrik Bedingungen verwendet wird
+4. Wozu benötigt jeder Host eine Routingtabelle (`route print`)
+	→ Wenn er Pakete an externe Netze versenden möchte, muss er Zieladresse, Standard Gateway, Subnetzmaske, Interface und Metrik kennen und interpretieren
+5. Welche Aufgabe hat der Eintrag “Default Ro”
