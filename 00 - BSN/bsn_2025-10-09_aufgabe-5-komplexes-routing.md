@@ -27,3 +27,8 @@ ___
 > 4. Gateway
 #### 3. Was muss mit der privaten IP-Adresse des Absenders passieren, damit www.ostvest.de ein Antwortpaket zum Rechner 192.168.33.10/24 zurücksenden kann?
 > Sie muss mithilfe der NAT-Tabelle in Router 2 in die zugehörige öffentliche Adresse verwandelt übersetzt werden.
+#### 4. Der Rechner 192.168.43.10/24 möchte mit Rechnern im Netzwerk 192.168.33.0/24 kommunizieren und gleichzeitig eine Webseite im Internet aufrufen. Gebe für beide Ziele an, welcher der folgenden Einträge in die Routingtabelle des Rechners eingefügt werden muss:
+1. Netzroute in ein angrenzendes Netzwerk
+2. Netzroute in ein entferntes Netzwerk
+3. Default route
+4. Hostroute
