@@ -1,11 +1,12 @@
 # Internship
 ___
-- Fundamentals
+- Learn fundamentals
 - Refresh knowledge
 - Niche insights (company-specific)
 - Stay up to date on company-field and current regional topics
 - Communicate with coworkers
 - Make yourself likable, integrate into team
 - friendships/connections
+- Know team’s company role
 
-- Return offer
+- Goal: Return offer or Experience
