@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "11d0709c0089d924",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddf8c90cef74961",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00 - BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer"
+            }
+          }
+        ]
+      },
+      {
         "id": "1143dc2045ae921f",
         "type": "tabs",
         "children": [
@@ -194,9 +212,9 @@
   "active": "6412f2ead7c4336c",
   "lastOpenFiles": [
     "00 - BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf",
+    "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
     "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
     "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
-    "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
     "00 - BSN/1 - glossary/1.3 - routing/route_poisoning.md",
     "00 - BSN/1 - glossary/1.3 - routing/IP-Netze-07.30_Routing_NetIT-Exkurs_DOC.pdf",
     "01 - ET/Oszilloskop.pdf",
@@ -212,7 +230,6 @@
     "90 - 2023-2024/02 - Wirtschaft/deckungsbeitrag-s159-11-06-2025.md",
     "90 - 2023-2024/02 - Wirtschaft",
     "90 - 2023-2024/01 - ET/et-ab-datentypen.pdf",
-    "90 - 2023-2024/01 - ET/et-ab-datentypen-2.pdf",
     "90 - 2023-2024/01 - ET/et-ab-datentypen-2-03-06-2025.md",
     "90 - 2023-2024/00 - BSN/wlan-02-06-2025.md",
     "90 - 2023-2024/00 - BSN/ab-wlan-sicherheit-11-06-2025.md",
