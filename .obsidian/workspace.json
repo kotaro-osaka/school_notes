@@ -4,40 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "11d0709c0089d924",
+        "id": "911d4aad678a5114",
         "type": "tabs",
         "children": [
           {
-            "id": "dddf8c90cef74961",
+            "id": "00bad99b6558b999",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00 - BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1143dc2045ae921f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6412f2ead7c4336c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "bsn_2025-10-09_aufgabe-5-komplexes-routing"
+              "title": "New tab"
             }
           }
         ]
@@ -209,7 +186,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6412f2ead7c4336c",
+  "active": "00bad99b6558b999",
   "lastOpenFiles": [
     "00 - BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf",
     "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
