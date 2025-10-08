@@ -9,4 +9,4 @@ ___
 - friendships/connections
 - Know team’s company role
 
-- Goal: Return offer or Experience
+- Goal: Return offer or Experience for future applications
