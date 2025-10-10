@@ -11,10 +11,15 @@
             "id": "00bad99b6558b999",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - ET/et_2025-09-25_kondensator.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "et_2025-09-25_kondensator"
             }
           }
         ]
@@ -188,13 +193,15 @@
   },
   "active": "00bad99b6558b999",
   "lastOpenFiles": [
+    "01 - ET/Oszilloskop.pdf",
+    "01 - ET/formeln.md",
+    "01 - ET/et_2025-09-24_isolationswiderstand.md",
     "00 - BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf",
     "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
     "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
     "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
     "00 - BSN/1 - glossary/1.3 - routing/route_poisoning.md",
     "00 - BSN/1 - glossary/1.3 - routing/IP-Netze-07.30_Routing_NetIT-Exkurs_DOC.pdf",
-    "01 - ET/Oszilloskop.pdf",
     "Untitled.md",
     "91 - 2024-2025/11 - PPH/pph_nahost_konflikt_2025_13_01.md",
     "91 - 2024-2025/11 - PPH/pph__2025_24_02.md",
@@ -216,9 +223,7 @@
     "00 - BSN/1 - glossary/1.0 - misc/dual-stack.md",
     "00 - BSN/0 - res/bsn-2023-11-20.md",
     "01 - ET/et_2025-09-25_kondensator.md",
-    "01 - ET/formeln.md",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
-    "01 - ET/et_2025-09-24_isolationswiderstand.md",
     "08 - Datenbanken/normalisierung.md",
     "09 - Software/pflichtenheft.md",
     "Untitled 2.md",
