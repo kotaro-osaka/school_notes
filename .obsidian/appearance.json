@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "cssTheme": "GitHub Theme",
-  "theme": "moonstone",
+  "theme": "system",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "Colored Sidebar Items",
