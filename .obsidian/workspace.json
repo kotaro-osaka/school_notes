@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "911d4aad678a5114",
+        "id": "0b3fe406eb15fad6",
         "type": "tabs",
         "children": [
           {
-            "id": "00bad99b6558b999",
+            "id": "d97c115341836088",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - ET/et_2025-09-25_kondensator.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "et_2025-09-25_kondensator"
+              "title": "New tab"
             }
           }
         ]
@@ -191,8 +186,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "00bad99b6558b999",
+  "active": "d97c115341836088",
   "lastOpenFiles": [
+    "01 - ET/et_2025-09-25_kondensator.md",
     "01 - ET/Oszilloskop.pdf",
     "01 - ET/formeln.md",
     "01 - ET/et_2025-09-24_isolationswiderstand.md",
@@ -222,7 +218,6 @@
     "07 - English/english_2025-09-08_global-players.md",
     "00 - BSN/1 - glossary/1.0 - misc/dual-stack.md",
     "00 - BSN/0 - res/bsn-2023-11-20.md",
-    "01 - ET/et_2025-09-25_kondensator.md",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
     "08 - Datenbanken/normalisierung.md",
     "09 - Software/pflichtenheft.md",
