@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b3fe406eb15fad6",
+        "id": "3e41a33bf9f90e48",
         "type": "tabs",
         "children": [
           {
-            "id": "d97c115341836088",
+            "id": "3125ad146754a612",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,8 +186,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d97c115341836088",
+  "active": "3125ad146754a612",
   "lastOpenFiles": [
+    "Untitled Diagram.svg",
     "Excalidraw/Drawing 2025-11-16 23.49.43.excalidraw.md",
     "Excalidraw",
     "01 - ET/et_2025-09-25_kondensator.md",
@@ -224,7 +225,6 @@
     "09 - Software/pflichtenheft.md",
     "Untitled 2.md",
     "04 - Deutsch/deutsch_2025-09-15_kurzgeschichten.md",
-    "03 - Mathe/mathe_2025-01-16_ggT-kgv.md",
     "01 - ET/0 - res/Screenshot 2025-09-24 at 09.55.47.png",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
     "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
