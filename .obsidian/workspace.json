@@ -11,10 +11,12 @@
             "id": "ca72cd7235d2afe8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF"
             }
           }
         ]
@@ -178,6 +180,7 @@
   },
   "active": "ca72cd7235d2afe8",
   "lastOpenFiles": [
+    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
     "00 - BSN/1 - glossary/1.1 - protocols/telnet.md",
     "00 - BSN/1 - glossary/1.1 - protocols/pptp.md",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
@@ -210,7 +213,6 @@
     "Excalidraw",
     "Untitled.md",
     "09 - Software/pflichtenheft.md",
-    "08 - Datenbanken/normalisierung.md",
     "Untitled.base",
     "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf",
     "00 - BSN/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
