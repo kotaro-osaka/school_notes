@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d8a326e01a326ac6",
+        "id": "32c934a7f69b1da4",
         "type": "tabs",
         "children": [
           {
-            "id": "ca72cd7235d2afe8",
+            "id": "89fc3128556e9242",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -178,8 +176,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca72cd7235d2afe8",
+  "active": "89fc3128556e9242",
   "lastOpenFiles": [
+    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf",
     "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
     "00 - BSN/1 - glossary/1.1 - protocols/telnet.md",
     "00 - BSN/1 - glossary/1.1 - protocols/pptp.md",
@@ -212,7 +211,6 @@
     "Excalidraw/Drawing 2025-10-08 11.27.50.excalidraw.md",
     "Excalidraw",
     "Untitled.md",
-    "09 - Software/pflichtenheft.md",
     "Untitled.base",
     "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf",
     "00 - BSN/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
