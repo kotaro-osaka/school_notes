@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32c934a7f69b1da4",
+        "id": "3e41a33bf9f90e48",
         "type": "tabs",
         "children": [
           {
-            "id": "89fc3128556e9242",
+            "id": "3125ad146754a612",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Deutsch/deutsch_kurzgeschichten_2025-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for deutsch_kurzgeschichten_2025-09-15"
+              "title": "Backlinks"
             }
           },
           {
@@ -152,8 +151,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "350354cdf43e0d73",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -162,6 +172,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -170,58 +183,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "89fc3128556e9242",
+  "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
-    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf",
-    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
-    "00 - BSN/1 - glossary/1.1 - protocols/telnet.md",
-    "00 - BSN/1 - glossary/1.1 - protocols/pptp.md",
-    "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
-    "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
+    "08 - Datenbanken/Aufgabenblatt_Indices.docx",
     "Untitled Diagram.svg",
-    "01 - ET/Oszilloskop.pdf",
-    "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
-    "00 - BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf",
-    "07 - English/english_2025-10-08_internship.md",
-    "Untitled.canvas",
-    "09 - Software/ABSCHLUSSKLAUSUR.md",
-    "91 - 2024-2025",
-    "00 - BSN/1 - glossary/1.0 - misc/dual-stack.md",
-    "98 - Daily Notes/2024-29-01.md",
-    "98 - Daily Notes/2024-22-01.md",
-    "98 - Daily Notes/2024-09-01.md",
-    "98 - Daily Notes/2024-08-01.md",
-    "00 - BSN/0 - res/bsn-2023-11-20.md",
-    "98 - Daily Notes/2024-05-02.md",
-    "98 - Daily Notes/27-09-2023.md",
-    "98 - Daily Notes/26-09-2023.md",
-    "98 - Daily Notes/22-09-2023.md",
-    "98 - Daily Notes/2025-10-08.md",
-    "98 - Daily Notes/19-09-2023.md",
-    "98 - Daily Notes/16-11-2023.md",
-    "98 - Daily Notes/15-11-2023.md",
-    "98 - Daily Notes/06-11-2023.md",
-    "Excalidraw/Drawing 2025-10-08 11.27.58.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-08 11.27.50.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-16 23.49.43.excalidraw.md",
     "Excalidraw",
+    "01 - ET/et_2025-09-25_kondensator.md",
+    "01 - ET/Oszilloskop.pdf",
+    "01 - ET/formeln.md",
+    "01 - ET/et_2025-09-24_isolationswiderstand.md",
+    "00 - BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf",
+    "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
+    "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
+    "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
+    "00 - BSN/1 - glossary/1.3 - routing/route_poisoning.md",
+    "00 - BSN/1 - glossary/1.3 - routing/IP-Netze-07.30_Routing_NetIT-Exkurs_DOC.pdf",
     "Untitled.md",
-    "Untitled.base",
-    "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf",
-    "00 - BSN/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
-    "02 - MMI/KNX-Grundlagen.pdf",
-    "07 - English/klausur CI3O1 sustain.docx",
-    "07 - English/Sustainability_Exam_Worksheet.pdf",
+    "91 - 2024-2025/11 - PPH/pph_nahost_konflikt_2025_13_01.md",
+    "91 - 2024-2025/11 - PPH/pph__2025_24_02.md",
+    "91 - 2024-2025/11 - PPH/Völkergemeinschaft und Frieden.pdf",
+    "91 - 2024-2025/10 - IMT/0 - archive/zahl_raten_flowchart.md",
+    "91 - 2024-2025/10 - IMT/0 - archive",
+    "91 - 2024-2025/11 - PPH",
+    "91 - 2024-2025/10 - IMT",
+    "91 - 2024-2025",
+    "90 - 2023-2024/02 - Wirtschaft/deckungsbeitrag-s159-11-06-2025.md",
+    "90 - 2023-2024/02 - Wirtschaft",
+    "90 - 2023-2024/01 - ET/et-ab-datentypen-2-03-06-2025.md",
+    "90 - 2023-2024/00 - BSN/wlan-02-06-2025.md",
+    "90 - 2023-2024/00 - BSN/ab-wlan-sicherheit-11-06-2025.md",
+    "90 - 2023-2024/00 - BSN/datenintegrität-02-06-2025.md",
+    "07 - English/english_2025-10-08_internship.md",
+    "07 - English/english_2025-09-08_global-players.md",
+    "00 - BSN/1 - glossary/1.0 - misc/dual-stack.md",
+    "00 - BSN/0 - res/bsn-2023-11-20.md",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
+    "08 - Datenbanken/normalisierung.md",
+    "09 - Software/pflichtenheft.md",
+    "Untitled 2.md",
+    "04 - Deutsch/deutsch_2025-09-15_kurzgeschichten.md",
     "01 - ET/0 - res/Screenshot 2025-09-24 at 09.55.47.png",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
     "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
     "99 - misc/Pasted image 20250430102206.png",
+    "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
     "99 - misc/videoframe_162647.png",
     "99 - misc/vektorrechnung.png"
