@@ -1,9 +1,9 @@
 # Oral Exam
 ___
-**Possible talking points**
+## Possible talking points
 1. Introduce your company
 	- BlueSens gas sensor GmbH
-	- Specializes in manufacturing gas sensors
+	- Specializes in manufacturing gas sensors for off-gas analysis (technique to monitor gas composition from industrial processes like fermentation)
 2. Outline your duties
 3. Give short rundown of an average day
 4. What did you learn during your internship?
