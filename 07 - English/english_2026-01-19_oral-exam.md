@@ -36,7 +36,8 @@ ___
 	- As you know, my time in this company will be coming to an end soon and I think we can both agree, that my work here was successful, would you mind providing me with a certificate of completion of my internship in your company?
 10. What would your ideal internship be? You can be creative.
 	- A company that represents a desirable workplace for me in the future
-	- I would like ti
+	- I would like it to follow a structured procedure so I’d always have something to work on rather than sitting around and wasting my time
+	- 
 
 //
 - Can you describe the company or organization where you did your internship?
