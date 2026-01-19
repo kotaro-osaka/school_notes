@@ -13,8 +13,8 @@ ___
 	- Lunch break (clock out)
 	- Work until around 4pm
 4. What did you learn during your internship?
-	- New programming lang: C#
-	- 
+	- New programming langs: C# (windows desktop app dev), Swift (apple ecosystem app dev)
+	- *Know your worth* - much was asked of me, and i delivered and developed multiple tools, but 
 5. Are internships really useful?
 6. If you could change anything, what would it be?
 7. Should internships be paid?
