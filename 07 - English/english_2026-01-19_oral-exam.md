@@ -29,7 +29,9 @@ ___
 	- I liked that I had my own workspace in contrast to my last internship experience
 	- I liked, that the first weeks were structured and pre-planned
 	- I disliked, that the last weeks were less to not planned at all, because there was nothing left for me to do
+	- I disliked, that I had to work with an outdated language and tool like C# and VisualStudio (Text/code editor), which isn’t industry standard anymore and doesn’t promote modern and best practices, which I was looking forward to getting to know
 	- I did like, that I was allowed to learn swift on my own during those idle times, which is actually something I am interested in and a skill that I will make use of in either my career or as a part of personal projects
+	- I did not like, that I wasn’t paid at the end of my internship, because I did so much for the company and they spoke so high of me
 9. Imagine your partner is your boss. Ask him for a certificate of your internship.
 10. What would be your ideal internship? You can be creative.
 
