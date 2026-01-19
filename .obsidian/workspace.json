@@ -11,10 +11,15 @@
             "id": "89fc3128556e9242",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "07 - English/english_2026-01-19_oral-exam.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "english_2026-01-19_oral-exam"
             }
           }
         ]
@@ -178,6 +183,8 @@
   },
   "active": "89fc3128556e9242",
   "lastOpenFiles": [
+    "Untitled Diagram.svg",
+    "07 - English/english_2026-01-19_oral-exam.md",
     "08 - Datenbanken/Aufgabenblatt_Indices.docx",
     "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf",
     "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
@@ -185,7 +192,6 @@
     "00 - BSN/1 - glossary/1.1 - protocols/pptp.md",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
-    "Untitled Diagram.svg",
     "01 - ET/Oszilloskop.pdf",
     "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
     "00 - BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf",
@@ -211,12 +217,10 @@
     "Excalidraw/Drawing 2025-10-08 11.27.58.excalidraw.md",
     "Excalidraw/Drawing 2025-10-08 11.27.50.excalidraw.md",
     "Excalidraw",
-    "Untitled.md",
     "Untitled.base",
     "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf",
     "00 - BSN/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
     "02 - MMI/KNX-Grundlagen.pdf",
-    "07 - English/klausur CI3O1 sustain.docx",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
     "01 - ET/0 - res/Screenshot 2025-09-24 at 09.55.47.png",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
