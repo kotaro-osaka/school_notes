@@ -22,7 +22,8 @@ ___
 	- I wouldn’t have such high hopes to lessen the letdown
 	- 
 7. Should internships be paid?
-	- Wage should be based on time spent at the company and most importantly whether 
+	- Wage should be based on time spent at the company and most importantly whether you helped develop something for the company, which would have usually costed them money
+		=> My case: I created multiple tools they asked me to develop for company-internal purposes like better data overview
 8. What do you like/dislike about your partner’s internship?
 9. Imagine your partner is your boss. Ask him for a certificate of your internship.
 10. What would be your ideal internship? You can be creative.
