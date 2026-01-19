@@ -37,7 +37,7 @@ ___
 10. What would your ideal internship be? You can be creative.
 	- A company that represents a desirable workplace for me in the future
 	- I would like it to follow a structured procedure so I’d always have something to work on rather than sitting around and wasting my time
-	- 
+	- interview
 
 //
 - Can you describe the company or organization where you did your internship?
