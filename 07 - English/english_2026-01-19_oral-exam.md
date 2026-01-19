@@ -33,8 +33,10 @@ ___
 	- I did like, that I was allowed to learn swift on my own during those idle times, which is actually something I am interested in and a skill that I will make use of in either my career or as a part of personal projects
 	- I did not like, that I wasn’t paid at the end of my internship, because I did so much for the company and they spoke so high of me and acknowledged my work but also kept pushing for me to work on projects until the last hours of the internship even though we agreed upon giving me some time to work on my reports about the internship for school, which I found was a very audacious way to act for not compensating me
 9. Imagine your partner is your boss. Ask him for a certificate of your internship.
-	- As you know, my time in this company will be coming to an end soon and I think we can both agree, that my work here was successful, would you mind providing me with a certificate of completion of 
-10. What would be your ideal internship? You can be creative.
+	- As you know, my time in this company will be coming to an end soon and I think we can both agree, that my work here was successful, would you mind providing me with a certificate of completion of my internship in your company?
+10. What would your ideal internship be? You can be creative.
+	- A company that represents a desirable workplace for me in the future
+	- I would like ti
 
 //
 - Can you describe the company or organization where you did your internship?
