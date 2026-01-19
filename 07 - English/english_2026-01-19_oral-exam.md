@@ -3,8 +3,10 @@ ___
 ## Possible talking points
 1. Introduce your company
 	- BlueSens gas sensor GmbH
-	- Specializes in manufacturing gas sensors for off-gas analysis (technique to monitor gas composition from industrial processes like fermentation)
+	- Specializes in manufacturing gas sensors for off-gas analysis (technique to monitor gas composition from industrial processes like fermentation - yeast to optimize yields and detects changes)
 2. Outline your duties
+	- Clocking in and out at start/end of day and for lunch break
+	- Keep superior updated on progress
 3. Give short rundown of an average day
 4. What did you learn during your internship?
 5. Are internships really useful?
