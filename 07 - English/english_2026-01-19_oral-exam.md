@@ -8,7 +8,13 @@ ___
 	- Clocking in and out at start/end of day and for lunch break
 	- Keep superior updated on progress
 3. Give short rundown of an average day
+	- Clock in between 8-9am
+	- Work on unfinished tasks or inquire about next task
+	- Lunch break (clock out)
+	- Work until around 4pm
 4. What did you learn during your internship?
+	- New programming lang: C#
+	- 
 5. Are internships really useful?
 6. If you could change anything, what would it be?
 7. Should internships be paid?
