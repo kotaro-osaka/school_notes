@@ -26,10 +26,15 @@
             "id": "cff2cc84b7e60f9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "mmi_2026-01-19_mqtt-seven-segment-display.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "mmi_2026-01-19_mqtt-seven-segment-display"
             }
           }
         ],
@@ -195,6 +200,7 @@
   },
   "active": "cff2cc84b7e60f9b",
   "lastOpenFiles": [
+    "mmi_2026-01-19_mqtt-seven-segment-display.md",
     "02 - MMI/mmi_2026-01-19_mqtt.md",
     "Untitled Diagram.svg",
     "07 - English/english_2026-01-19_oral-exam.md",
@@ -228,7 +234,6 @@
     "98 - Daily Notes/15-11-2023.md",
     "98 - Daily Notes/06-11-2023.md",
     "Excalidraw/Drawing 2025-10-08 11.27.58.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-08 11.27.50.excalidraw.md",
     "Excalidraw",
     "Untitled.base",
     "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf",
