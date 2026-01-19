@@ -16,7 +16,11 @@ ___
 	- New programming langs: C# (windows desktop app dev), Swift (apple ecosystem app dev)
 	- *Know your worth* - much was asked of me, I delivered and developed multiple tools, but I was barely shown any sort of appreciation and certainly no compensation => If it was a company I’d consider working at, I’d work hard, but otherwise, if I have nothing further to gain, I wouldn’t put in so much effort again  
 5. Are internships really useful?
+	- Always useful for getting to know the industry and the types of people who work in it
+	- Less useful when they turn out to not be prepared or experienced in dealing with interns
 6. If you could change anything, what would it be?
+	- I wouldn’t have such high hopes to lessen the letdown
+	- 
 7. Should internships be paid?
 8. What do you like/dislike about your partner’s internship?
 9. Imagine your partner is your boss. Ask him for a certificate of your internship.
