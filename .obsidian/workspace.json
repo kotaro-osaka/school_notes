@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "mmi_2026-01-19_mqtt"
             }
+          },
+          {
+            "id": "cff2cc84b7e60f9b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +193,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b88b9e340d729d15",
+  "active": "cff2cc84b7e60f9b",
   "lastOpenFiles": [
     "02 - MMI/mmi_2026-01-19_mqtt.md",
     "Untitled Diagram.svg",
