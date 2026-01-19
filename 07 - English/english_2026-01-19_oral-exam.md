@@ -22,9 +22,11 @@ ___
 	- I wouldn’t have such high hopes to lessen the letdown
 	- 
 7. Should internships be paid?
-	- Wage should be based on time spent at the company and most importantly whether you helped develop something for the company, which would have usually costed them money
-		=> My case: I created multiple tools they asked me to develop for company-internal purposes like better data overview
+	- Wage should be based on time spent at the company and most importantly whether you helped develop something for the company, which would have otherwise costed them money
+		=> My case: I created multiple tools they asked me to develop for company-internal purposes like better data overview and network design and integrated myself well into their workflow in those projects
 8. What do you like/dislike about your partner’s internship?
+	- I liked the flexibility of being able to clock in between 8-9am and taking my lunch break at a flexible time - which is also representative of most IT-companies nowadays
+	- I liked that I had my own workspace in contrast to my last internship experien
 9. Imagine your partner is your boss. Ask him for a certificate of your internship.
 10. What would be your ideal internship? You can be creative.
 
