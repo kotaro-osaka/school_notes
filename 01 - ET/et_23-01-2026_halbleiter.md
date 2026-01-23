@@ -22,4 +22,4 @@ ___
 ## p-n-Übergang
 
 ## Rekombination
-- Raumladungszone
+=> Entstehung von Raumladungszone
