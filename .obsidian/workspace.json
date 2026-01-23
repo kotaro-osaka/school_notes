@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bgp",
+                "query": "diode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,6 +197,7 @@
   },
   "active": "2c2669fe52b3d799",
   "lastOpenFiles": [
+    "01 - ET/99 - archive/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
     "01 - ET/et_23-01-2026_halbleiter.md",
     "01 - ET/99 - archive/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
     "02 - MMI/mmi_2026-01-19_mqtt.md",
@@ -231,7 +233,6 @@
     "98 - Daily Notes/19-09-2023.md",
     "98 - Daily Notes/16-11-2023.md",
     "98 - Daily Notes/15-11-2023.md",
-    "98 - Daily Notes/06-11-2023.md",
     "Excalidraw",
     "Untitled.base",
     "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf",

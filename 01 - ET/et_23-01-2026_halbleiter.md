@@ -19,3 +19,7 @@ ___
 
 ## Verbindungshalbleiter
 
+## p-n-Übergang
+
+## Rekombination
+- Raumladungszone
