@@ -3,7 +3,7 @@ ___
 - Stoff, dessen Leitfähigkeit zwischen der eines Leiters und eines Isolators liegt
 - Leitfähigkeit ist stark temperaturabhängig
 - Leitfähigkeit steigt mit Temperatur
-- Durch gezielte Verunreinigungen kann man steuern, wie gut er den Strom leitet
+- Durch gezielte Verunreinigungen kann man steuern, wie gut der Strom geleitet wird
 - Diese Verunreinig nennt man **Dotierung**
 
 ## Dotierung
