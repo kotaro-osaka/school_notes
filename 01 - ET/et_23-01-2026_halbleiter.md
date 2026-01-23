@@ -16,3 +16,6 @@ ___
 ## Verwendete Stoffe
 - Silicium (Si)
 - Germanium (Ge)
+
+## Verbindungshalbleiter
+
