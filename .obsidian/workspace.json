@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,7 +194,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c2669fe52b3d799",
+  "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
     "01 - ET/99 - archive/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
     "01 - ET/et_23-01-2026_halbleiter.md",
