@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - ET/et_.md",
+                "file": "01 - ET/et_23-01-2026_halbleiter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "et_"
+              "title": "et_23-01-2026_halbleiter"
             }
           }
         ],
@@ -196,7 +196,7 @@
   },
   "active": "2c2669fe52b3d799",
   "lastOpenFiles": [
-    "01 - ET/et_.md",
+    "01 - ET/et_23-01-2026_halbleiter.md",
     "01 - ET/99 - archive/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
     "02 - MMI/mmi_2026-01-19_mqtt.md",
     "02 - MMI/mmi_2026-01-19_mqtt-seven-segment-display.md",
