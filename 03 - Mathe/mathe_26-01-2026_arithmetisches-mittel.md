@@ -13,10 +13,11 @@ $$\begin{flalign}
 $$
 \begin{flalign}
 & \bar{x} = \frac{1}{40} \cdot \sum_{i=1}^{40} x_i &&
-\\ & \bar{x} = \frac{1}{40} \cdot &&
+\\ & \bar{x} = \frac{1}{40} \cdot (5+7+20+15+...+30+35+4) &&
+\\ & \ \ = \frac{1}{40} \cdot 640 &
+\\ & \ \ = 16
 \end{flalign}
 $$
-
 
 |     |     |
 | --- | --- |
