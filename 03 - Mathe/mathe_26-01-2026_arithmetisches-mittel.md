@@ -13,7 +13,7 @@ $$\begin{flalign}
 $$
 \begin{flalign}
 & \bar{x} = \frac{1}{40} \cdot \sum_{i=1}^{40} x_i &&
-& = &&
+\\ & \ \ =  &&
 \end{flalign}
 $$
 
