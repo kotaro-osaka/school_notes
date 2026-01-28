@@ -1,3 +1,6 @@
+# Sentences for observation
+___
+
 1. I ==have not seen== you yesterday. → I didn’t see you yesterday.
 2. I saw white ==wolves== in the forest. → I saw white wolfs in the forest.
 3. When she lived in London, she ==has watched== a lot of movies. → When she lived in London, she watched a lot of movies.
@@ -17,4 +20,6 @@
 17. She said she does not know about this fact. → She said, she does not know about this fact.
 18. The police says that… → The police say, that…
 19. My family is ==really== cool. → My family is very cool. (colloquial language)
-20. I was working on that project for 20 long hours. It is not finished → I was working on that project for 20 l
+20. I was working on that project for 20 long hours. It is not finished → I was working on that project for 20 long hours. It is not finished. (punctuation)
+21. I ==wasn’t== to the USA yet. → I haven’t been to the USA yet.
+22. What do you do for a living? → ??
