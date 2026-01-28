@@ -21,10 +21,10 @@ No mistake
 **Correction:** Who have you invited to your party?
 
 #### I look forward to ==meet== you.
-**Error:** Verb pattern 
+**Error:** Verb pattern (look forward to + gerund)
 **Correction:** I look forward to meeting you.
 
-> ==It gives== a lot of languages. → A lot of languages exist.
+#### ==It gives== a lot of languages. → A lot of languages exist.
 
 > It gives me the chills. → It’s giving me the chills. ??
 
