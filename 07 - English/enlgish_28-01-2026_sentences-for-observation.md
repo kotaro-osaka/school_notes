@@ -14,11 +14,15 @@ No mistake
 
 #### Never ==he has== been to China. → He has never been to China.
 **Error:** Word order (negative adverb inversion)
-**Correction:** Never has he been to China.
+**Correction:** Never has he been to China. / He has never been to China.
 
-> Who ==has== you invited to your party? → Who have you invited to your party?
+#### Who ==has== you invited to your party?
+**Error:** Wrong word order
+**Correction:** Who have you invited to your party?
 
-> ==I look== forward to ==meet== you. → I’m looking forward to meeting you.
+#### I look forward to ==meet== you.
+**Error:** Verb pattern 
+**Correction:** I look forward to meeting you.
 
 > ==It gives== a lot of languages. → A lot of languages exist.
 
