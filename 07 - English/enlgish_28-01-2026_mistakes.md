@@ -12,4 +12,8 @@
 12. They have ==being== trying really hard. → They have been trying really hard.
 13. Only then ==she wanted to== go see a doctor. → Only then would she go see a doctor.
 14. You need to ==seen== a doctor. → You need to see a doctor.
-15. The car ==what== is ==really== powerful was expensive. → The car, which is 
+15. The car ==what== is ==really== powerful was expensive. → The car, which is very powerful, was expensive.
+16. He said that he doesn’t understand anything. → He said, that he doesn’t understand anything.
+17. She said she does not know about this fact. → She said, she does not know about this fact.
+18. The police says that… → The police says, that…
+19. My family is ==really== cool. → My family is very cool. ()
