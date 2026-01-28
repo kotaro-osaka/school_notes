@@ -1,8 +1,9 @@
 # Sentences for observation
 ___
 
-> I ==have not seen== you yesterday. 
-	→ I did not see you yesterday. (Tense error: present perfect + specific past time)
+#### I ==have not seen== you yesterday. 
+**Error:** Tense error (present perfect + specific past time)
+**Correction:** I did not see you yesterday.
 
 > I saw white wolves in the forest.
 
