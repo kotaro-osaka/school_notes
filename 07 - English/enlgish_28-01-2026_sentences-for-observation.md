@@ -2,9 +2,9 @@
 ___
 
 > I ==have not seen== you yesterday. 
-	→ I didn’t see you yesterday.
+	→ I did not see you yesterday. (Tense error: present perfect + specific past time)
 
-> I saw white ==wolves== in the forest. → I saw white wolfs in the forest.
+> I saw white wolves in the forest.
 
 > When she lived in London, she ==has watched== a lot of movies. → When she lived in London, she watched a lot of movies.
 
