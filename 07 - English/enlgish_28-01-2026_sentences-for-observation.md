@@ -57,3 +57,22 @@ ___
 *Pronouns must agree with each other.*
 > Once one has read the article, you have to answer the questions. → Once one has read the article, one has to answer the questions.
 
+## Comma splices
+*Joining two independent clauses with only a comma creates a comma splice. Adding periods, semicolons, a comma and a coordinating conjunction, or a semicolon and a conjunctive adverb can fix a comma splice.*
+
+**Common coordinating conjunctions:**
+- and
+- but
+- or
+
+**Common conjunctive adverbs:**
+- also
+- then
+- finally
+- therefore
+- however
+- consequently
+- furthermore
+- otherwise
+
+## Word choice
