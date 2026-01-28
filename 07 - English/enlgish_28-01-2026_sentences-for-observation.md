@@ -56,7 +56,7 @@ No mistake
 
 #### The car ==what== is ==really== powerful was expensive.
 **Error:** Relative pronoun, sentence structure
-**Correction:** The car that is very powerful, was expensive. (punctuation, )
+**Correction:** The car that is very powerful, was expensive.
 
 > He said that he doesn’t understand anything. → He said, that he doesn’t understand anything.
 
