@@ -76,3 +76,6 @@ ___
 - otherwise
 
 ## Word choice
+*Sometimes words have different meanings depending on the context in which they are used.*
+> An examination of the current literature will help ==distill== this myth. → An examination of the current literature will help ==dispel== this myth.
+
