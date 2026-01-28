@@ -54,8 +54,8 @@ No mistake
 **Error:** Verb form
 **Correction:** You need to see a doctor.
 
-#### The car ==what== is ==really== powerful was expensive.
-**Error:** Relative pronoun, sentence structure
+#### The car ==what== is really powerful was expensive.
+**Error:** Relative pronoun
 **Correction:** The car that is very powerful, was expensive.
 
 > He said that he doesn’t understand anything. → He said, that he doesn’t understand anything.
