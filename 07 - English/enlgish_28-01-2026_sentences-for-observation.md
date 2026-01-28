@@ -43,14 +43,20 @@ No mistake
 No mistake
 
 #### They have ==being== trying really hard.
-**Error:**
+**Error:** Verb form
 **Correction:** They have been trying really hard.
 
-> Only then ==she wanted to== go see a doctor. → Only then would she go see a doctor.
+#### Only then ==she wanted== to go see a doctor.
+**Error:** Word order
+**Correction:** Only then did she want to go see a doctor.
 
-> You need to ==seen== a doctor. → You need to see a doctor.
+#### You need to ==seen== a doctor.
+**Error:** Verb form
+**Correction:** You need to see a doctor.
 
-> The car ==what== is ==really== powerful was expensive. → The car, which is very powerful, was expensive. (punctuation, )
+#### The car ==what== is ==really== powerful was expensive.
+**Error:** Relative pronoun, sentence structure
+**Correction:** The car that is very powerful, was expensive. (punctuation, )
 
 > He said that he doesn’t understand anything. → He said, that he doesn’t understand anything.
 
