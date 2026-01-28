@@ -2,14 +2,14 @@
 ___
 
 #### I ==have not seen== you yesterday. 
-**Error:** Tense error (present perfect + specific past time)
+**Error:** Tense error
 **Correction:** I did not see you yesterday.
 
 #### I saw white wolves in the forest.
 No mistake
 
 #### When she lived in London, she ==has watched== a lot of movies.
-**Error:** Tense inconsistency (past simple + present perfect)
+**Error:** Tense error
 **Correction:** When she lived in London, she watched a lot of movies.
 
 #### Never ==he has== been to China. → He has never been to China.
