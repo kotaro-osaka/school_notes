@@ -10,4 +10,6 @@
 10. While she was writing something, ==suddenly there has been== a bang on the door. → While she was writing something, there suddenly was a bang on the door.
 11. You are ==being== funny! → You are funny. / You are being silly.
 12. They have ==being== trying really hard. → They have been trying really hard.
-13. Only then she wanted to go see a doctor.
+13. Only then ==she wanted to== go see a doctor. → Only then would she go see a doctor.
+14. You need to ==seen== a doctor. → You need to see a doctor.
+15. The car ==what== is ==really== powerful was expensive. → The car, which is 
