@@ -36,7 +36,8 @@ ___
 
 > She said she does not know about this fact. → She said, she does not know about this fact.
 
-> The police says that… → The police say, that…
+> The police says that…
+	→ The police say, that… (Agreement error)
 
 > My family is ==really== cool. → My family is very cool. (colloquial language)
 
@@ -45,3 +46,10 @@ ___
 > I ==wasn’t== to the USA yet. → I haven’t been to the USA yet.
 
 > What do you do for a living? → ??
+
+## Agreement Error
+*The subject and verb in a sentence must agree in number and person.*
+> The books in the box is for sale → The books in the box are for sale.
+
+*Pronouns must agree with their antecedents.*
+> Each student club collected their attendance list. → Each student club 
