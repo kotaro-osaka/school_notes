@@ -4,4 +4,7 @@
 4. ==Never he has== been to China. → He has never been to China.
 5. Who ==has== you invited to your party? → Who have you invited to your party?
 6. ==I look== forward to ==meet== you. → I’m looking forward to meeting you.
-7. It ==gives== a lot of languages. → 
+7. ==It gives== a lot of languages. → A lot of languages exist.
+8. It gives me the chills. ??
+9. My plan is, ==I will== travel to the US. → My plan is to travel to the US.
+10. While she was writing somethi
