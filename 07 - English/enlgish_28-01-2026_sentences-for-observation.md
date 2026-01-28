@@ -37,7 +37,7 @@ ___
 > She said she does not know about this fact. → She said, she does not know about this fact.
 
 > The police says that…
-	→ The police say, that… (Agreement error)
+	→ The police say, that… ()
 
 > My family is ==really== cool. → My family is very cool. (colloquial language)
 
@@ -52,4 +52,8 @@ ___
 > The books in the box is for sale → The books in the box are for sale.
 
 *Pronouns must agree with their antecedents.*
-> Each student club collected their attendance list. → Each student club 
+> Each student club collected their attendance list. → Each student club collected its attendance list.
+
+*Pronouns must agree with each other.*
+> Once one has read the article, you have to answer the questions. → Once one has read the article, one has to answer the questions.
+
