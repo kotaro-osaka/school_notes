@@ -39,10 +39,12 @@ No mistake
 **Error:** Tense error, word order
 **Correction:** While she was writing something, there was suddenly a bang on the door.
 
-#### You are ==being== funny!
+#### You are being funny!
 No mistake
 
-> They have ==being== trying really hard. → They have been trying really hard.
+#### They have ==being== trying really hard.
+**Error:**
+**Correction:** They have been trying really hard.
 
 > Only then ==she wanted to== go see a doctor. → Only then would she go see a doctor.
 
