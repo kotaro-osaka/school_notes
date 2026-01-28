@@ -13,26 +13,34 @@ No mistake
 **Correction:** When she lived in London, she watched a lot of movies.
 
 #### Never ==he has== been to China. → He has never been to China.
-**Error:** Word order (negative adverb inversion)
+**Error:** Word order
 **Correction:** Never has he been to China. / He has never been to China.
 
 #### Who ==has== you invited to your party?
-**Error:** Wrong word order
+**Error:** Word order
 **Correction:** Who have you invited to your party?
 
 #### I look forward to ==meet== you.
-**Error:** Verb pattern (look forward to + gerund)
+**Error:** Verb pattern
 **Correction:** I look forward to meeting you.
 
-#### ==It gives== a lot of languages. → A lot of languages exist.
+#### ==It gives== a lot of languages.
+**Error:** Word choice
+**Correction:** There are a lot of languages.
 
-> It gives me the chills. → It’s giving me the chills. ??
+#### It gives me the chills.
+No mistake
 
-> My plan is, ==I will== travel to the US. → My plan is to travel to the US.
+#### My plan is, ==I will== travel to the US.
+**Error:** Punctuation
+**Correction:** My plan is to travel to the US.
 
-> While she was writing something, ==suddenly there has been== a bang on the door. → While she was writing something, there suddenly was a bang on the door.
+#### While she was writing something, ==suddenly there has been== a bang on the door.
+**Error:** Tense error, word order
+**Correction:** While she was writing something, there was suddenly a bang on the door.
 
-> You are ==being== funny! → You are funny. / You are being silly.
+#### You are ==being== funny!
+No mistake
 
 > They have ==being== trying really hard. → They have been trying really hard.
 
