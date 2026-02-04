@@ -71,3 +71,7 @@ $$
 
 **Spannweite:** $45-1=44$
 
+**Modalwert:** $15$
+
+**Median:** $\frac{12+15}{2} = 21$
+
