@@ -11,10 +11,15 @@
             "id": "c7437196795cee02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03 - Mathe/mathe_26-01-2026_arithmetisches-mittel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "mathe_26-01-2026_arithmetisches-mittel"
             }
           }
         ]
