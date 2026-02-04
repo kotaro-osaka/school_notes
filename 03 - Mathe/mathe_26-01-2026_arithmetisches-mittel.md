@@ -66,3 +66,5 @@ $$
 **Varianz:** $\frac{5466}{40} = 136,65$
 
 **Standardabweichung:** $\sqrt{136,65}=11,69$
+
+**Spannweite:** $45-1=44$
