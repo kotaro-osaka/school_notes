@@ -19,6 +19,8 @@ $$
 \end{flalign}
 $$
 
-|     |     |
-| --- | --- |
-|     |     |
+| Verspätung (min) | Abweichung vom Mittelwert | Quadrat der Abweichung |
+| ---------------- | ------------------------- | ---------------------- |
+| $x$              | $(x-\bar{x})$             | $(x-\bar{x})^2$        |
+|                  |                           |                        |
+|                  |                           |                        |
