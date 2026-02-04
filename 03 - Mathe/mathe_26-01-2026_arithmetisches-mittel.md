@@ -63,6 +63,6 @@ $$
 | 4                | -12                       | 144                    |
 **Summe der Quadrate:** $5466$
 
-**Varianz:** $\frac{5466}{40} = 136.65$
+**Varianz:** $\frac{5466}{40} = 136,65$
 
-**Standardabweichung:** $$
+**Standardabweichung:** $\sqrt{136,65}=11,69$
