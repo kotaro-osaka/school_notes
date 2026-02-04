@@ -67,7 +67,7 @@ $$
 
 **Varianz:** $\frac{5472}{40} = 136,8$
 
-**Standardabweichung:** $\sqrt{136,8}=11,69$
+**Standardabweichung:** $\sqrt{136,8} \approx 11,695$
 
 **Spannweite:** $45-1=44$
 
