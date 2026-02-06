@@ -17,6 +17,7 @@ CREATE USER 'benutzername'@'host';
 
 - **`CREATE USER`**: Erstellt einen neuen MySQL/MariaDB-Benutzer
 - **`'benutzername'`**: Name des Benutzers
+- `@`: Trennzeichen
 - **`'host'`**: Gibt an, von wo der Benutzer sich verbinden darf:
     - `'localhost'` → nur vom lokalen Rechner (wo die Datenbank läuft)
     - `'%'` → von beliebigen Hosts / IP-Adressen
@@ -45,4 +46,8 @@ SET PASSWORD FOR 'benutzername'@'host' = PASSWORD('passwort');
 ALTER USER 'benutzername'@'host' IDENTIFIED BY 'passwort';
 ```
 
-Beispiel:
+### Berechtigungen zuteilen
+
+```sql
+
+```
