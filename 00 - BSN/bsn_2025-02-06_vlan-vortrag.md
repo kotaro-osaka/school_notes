@@ -1,5 +1,8 @@
 # VLAN
 ___
+> BSN
+> Kotaro Osaka
+> 
 ## Einleitung
 - VLAN = “Virtual Local Area Network”
 - Logische Trennung eines physischen Netzwerks
