@@ -4,7 +4,8 @@ ___
 - Logical networking
 - Security
 ## Tagging
-- Tagged / Untagged ports
+- Tagged (4-byte id)
+- Untagged ()
 
 ### VLAN Tag
 ![[99 - misc/Pasted image 20250430102206.png]]
