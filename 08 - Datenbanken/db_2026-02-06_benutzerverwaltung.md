@@ -63,18 +63,31 @@ GRANT rechte ON datenbank.tabelle TO 'benutzername'@'host';
 
 Beispiele:
 ```sql
-
-```
-
 GRANT ALL PRIVILEGES ON *.* TO 'root_localhost'@'localhost';
 
 GRANT SELECT, INSERT ON fahrschule.fahrstunden TO 'fahrlehrer'@'%';
 
 GRANT SELECT (kfznr, kennzeichen, typ, marke) ON fahrschule.kfz TO 'fahrschueler'@'%';
+```
 
 - `root_localhost` → Vollzugriff auf alle Datenbanken
-    
 - `fahrlehrer` → Darf nur in `fahrstunden` lesen und schreiben, sowie `fahrschueler` lesen
-    
 - `fahrschueler` → Darf nur bestimmte Spalten (`kfznr, kennzeichen, typ, marke`) der Tabelle `kfz` lesen
-###
+
+**Man kann Rechte auf einzelne Spalten beschränken:**
+```sql
+GRANT SELECT (splate1, spalte2) ON db.tabelle TO 'benutzer'@'host';
+```
+
+(Nützlich, wenn persönliche Daten geschützt werden sollen)
+
+### Änderungen wirksam machen
+
+```sql
+FLUSH PRIVILEGES;
+```
+
+- MySQL speichert Berechtigungen im Speicher für Performance.
+    
+- Nach Änderungen (Benutzer erstellen, Rechte ändern) sorgt `FLUSH PRIVILEGES` dafür, dass MySQL die Änderungen sofort übernimmt.
+- **Moderne MySQL-Versionen:** Bei Verwendung von `CREATE USER` / `GRANT` automatisch, also oft nicht nötig.
