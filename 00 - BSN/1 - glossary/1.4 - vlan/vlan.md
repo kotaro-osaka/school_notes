@@ -8,7 +8,7 @@ ___
 - Untagged access port (remove tags, sending traffic directly to end-user-hosts that cannot understand VLAN headers)
 
 ## Trunking
-Allows multiple v
+Allows multiple VLANs to traverse single physical link between switches
 
 ### VLAN Tag
 ![[99 - misc/Pasted image 20250430102206.png]]
