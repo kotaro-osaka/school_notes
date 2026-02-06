@@ -1,8 +1,6 @@
 # VLAN
 ___
-> BSN
-> Kotaro Osaka
-> 
+> BSN | 06.02.2026 | Kotaro Osaka
 ## Einleitung
 - VLAN = “Virtual Local Area Network”
 - Logische Trennung eines physischen Netzwerks
@@ -20,6 +18,9 @@ ___
 	oder
 	- per Tagging über Trunks
 - Routing zwischen VLANS durch Router / L3-Switch
+
+Notes:
+- Jeder Switch-Port wird einem VLAN zugewiesen (Alles, was darüber ankommt, gehört zu dem VLAN)
 ## Portbasierte vs. Protokollbasierte VLANs
 
 | Portbasiert                              | Protokollbasiert                          |
