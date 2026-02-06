@@ -1,6 +1,7 @@
 # VLAN
 ___
 ## Einleitung
+- VLAN = “Virtual Lo”
 
 ## VLAN-ID
 
@@ -8,9 +9,9 @@ ___
 
 ## Portbasiert vs. Protokollbasiert
 
-## Auswirkungen auf Verteilung von Broadcast-Anfragen
+## Auswirkungen auf Broadcast-Domänen
 
-## Tagging
+## Tagging und Trunk-Ports
 
 ## Inter-VLAN-Routing
 
