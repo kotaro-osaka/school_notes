@@ -88,9 +88,21 @@ GRANT SELECT (splate1, spalte2) ON db.tabelle TO 'benutzer'@'host';
 FLUSH PRIVILEGES;
 ```
 
-- MySQL speichert Berechtigungen im Speicher für Performance.
-    
-- Nach Änderungen (Benutzer erstellen, Rechte ändern) sorgt `FLUSH PRIVILEGES` dafür, dass MySQL die Änderungen sofort übernimmt.
-- **Moderne MySQL-Versionen:** Bei Verwendung von `CREATE USER` / `GRANT` automatisch, also oft nicht nötig.
+- MySQL speichert Berechtigungen im Speicher für Performance
+- Nach Änderungen (Benutzer erstellen, Rechte ändern) sorgt `FLUSH PRIVILEGES` dafür, dass MySQL die Änderungen sofort übernimmt
+- **Moderne MySQL-Versionen:** Bei Verwendung von `CREATE USER` / `GRANT` automatisch, also oft nicht nötig
 
 ### Benutzer löschen
+```sql
+DROP USER 'benutzername'@'host';
+```
+
+- **`DROP USER`**: Entfernt einen Benutzer aus der Datenbank komplett
+- **`'benutzername'`**: Name des Benutzers, der gelöscht werden soll
+- **`'host'`**: Muss genau der Host sein, der bei `CREATE USER` angegeben wurde
+
+Beispiele:
+```sql
+DROP USER 'root_localhost'@'localhost';
+DROP USER 'fahrschueler'@'%';
+```
