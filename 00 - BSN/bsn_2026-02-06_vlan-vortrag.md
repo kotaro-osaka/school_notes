@@ -40,7 +40,7 @@ Notes:
 - VLAN-Zugehörigkeit im Frame gespeichert
 - 802.1Q-Standard fügt VLAN-Tag hinzu
 - Tag enthält VLAN-ID
-- Ermöglicht VLAN-Zuordnung ohne Endgeräteport (Tag setzt fest, statt verwendeten port bzw)
+- Ermöglicht VLAN-Zuordnung ohne Endgeräteport (Tag setzt fest, statt verwendeten port bzw. Protokoll)
 ## Trunk-Ports
 - Trunk-Port verbindet Switches
 - Transportieren mehrere VLANs gleichzeitig
@@ -65,6 +65,12 @@ Notes:
 ## Fazit
 - VLANs strukturieren Netzwerke logisch
 - Trennung ohne zusätzlicher Hardware
+- Zuordnungsarten:
+
+| Portbasiert                      | Protokollbasiert                         | Tagged VLAN / Trunk-Port        |
+| -------------------------------- | ---------------------------------------- | ------------------------------- |
+| Über Port, an dem Endgerät hängt | Über Protokoll im Frame (z.B. IPv4/IPv6) | Über VLAN-Tag (802.1Q) im Frame |
+
 - Standard in modernen Netzwerken
 - Grundlage für Sicherheit & Skalierbarkeit
 ## Quellen
