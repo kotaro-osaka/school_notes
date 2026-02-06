@@ -53,12 +53,15 @@ ___
 | --------------------------------- | ------------------------------------------- |
 | Bessere Sicherheit                | Höherer Konfigurationsaufwand               |
 | Weniger Broadcasts                | Fehleranfälliger bei falscher Konfiguration |
-| Flexible Netzwerkstruktur         |                                             |
+| Flexible Netzwerkstruktur         | VLAN-ID                                     |
 | Logische Trennung von Abteilungen |                                             |
+| Kostengünstiger                   |                                             |
 ## Fazit
 - VLANs strukturieren Netzwerke logisch
 - Trennung ohne zusätzlicher Hardware
 - Standard in modernen Netzwerken
 - Grundlage für Sicherheit & Skalierbarkeit
 ## Quellen
+- https://en.wikipedia.org/wiki/VLAN
+- https://www.geeksforgeeks.org/computer-networks/virtual-lan-vlan/
 - 
