@@ -8,5 +8,14 @@ ___
 
 ## Portbasiert vs. Protokollbasiert
 
-## Auswirkung auf Verteilung von Broadcast-Anfragen
+## Auswirkungen auf Verteilung von Broadcast-Anfragen
 
+## Tagging
+
+## Inter-VLAN-Routing
+
+## Vor- und Nachteile
+
+## Fazit
+
+## Quellen
