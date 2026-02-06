@@ -11,4 +11,3 @@ ___
 	- Four-way handshake for connection termination
 - Use Cases: Guaranteed delivery requirement, ordered data transmission (web browsing, email, file transfer)
 - ![[tcp_header.png]]
-- 
