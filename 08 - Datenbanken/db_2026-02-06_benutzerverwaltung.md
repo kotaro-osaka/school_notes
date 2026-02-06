@@ -27,6 +27,22 @@ Beispiele:
 CREATE USER 'root_localhost'@'localhost';
 CREATE USER 'root_ip'@'%';
 ```
-> `root_localhost` darf sich nur lokal verbinden
-> `root_ip` darf sich von überall verbinden
 
+- `root_localhost` darf sich nur lokal verbinden
+- `root_ip` darf sich von überall verbinden
+
+### Passwörter festlegen
+
+```sql
+SET PASSWORD FOR 'benutzername'@'host' = PASSWORD('passwort');
+```
+
+- **`SET PASSWORD FOR`**: Legt Passwort für einen vorhandenen Benutzer fest
+- **`PASSWORD('wert')`**: Verschlüsselt das Passwort intern in MySQL (==Veraltet==)
+- MySQL-Versionen (8+):
+
+```sql
+ALTER USER 'benutzername'@'host' IDENTIFIED BY 'passwort';
+```
+
+Beispiel:
