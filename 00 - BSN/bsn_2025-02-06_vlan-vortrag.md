@@ -7,9 +7,16 @@ ___
 - Struktur, Sicherheit, Übersichtlichkeit
 ## VLAN-ID
 - Regelung von VLAN-Zugehörigkeit über VLAN-ID
-- VLAN-ID = eindeutige
-## Anwendungsbereiche
-
+- VLAN-ID = eindeutige Nummer (1-4094)
+- Frame-Zuordnung anhand der VLAN-ID
+- Geräte im selben VLAN → gleiche Broadcast-Domäne
+## Einrichtung im Netzwerk
+- Konfiguration auf Switches
+- Zuordnung:
+	- Ports → VLANs
+	oder
+	- per Tagging über Trunks
+- Routing zwischen VLANS durch 
 ## Portbasiert vs. Protokollbasiert
 
 ## Auswirkungen auf Broadcast-Domänen
