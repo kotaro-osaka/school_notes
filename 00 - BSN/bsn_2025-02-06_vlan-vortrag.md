@@ -36,9 +36,17 @@ ___
 - Tag enthält VLAN-ID
 - Ermöglicht VLAN-Zuordnung ohne Endgeräteport
 ## Trunk-Ports
-
+- Trunk-Port verbindet Switches
+- Transportieren mehrere VLANs gleichzeitig
+- Frames sind:
+	- getaggt (mehrere VLANs)
+	- untagged → Native VLAN
+- Voraussetzung für VLAN-übergreifende Netze
 ## Inter-VLAN-Routing
-
+- VLANs sind logisch getrennt
+- Kommunikation nur über Layer 3
+- Per Router oder L3-Switch
+- Routing entscheidet, welches VLAN erreicht wird
 ## Vor- und Nachteile
 
 ## Fazit
