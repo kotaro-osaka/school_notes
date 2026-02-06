@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -193,8 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "391509ed34ff5de6",
+  "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
+    "00 - BSN/bsn_2025-02-06_VLAN_Aufgabe_2023.pdf",
+    "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf",
     "00 - BSN/bsn_2026-02-06_vlan-vortrag.md",
     "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
     "Untitled.base",
@@ -228,7 +229,6 @@
     "Untitled Diagram.svg",
     "07 - English/english_2026-01-19_oral-exam.md",
     "08 - Datenbanken/Aufgabenblatt_Indices.docx",
-    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.pdf",
     "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
     "00 - BSN/1 - glossary/1.1 - protocols/telnet.md",
     "00 - BSN/1 - glossary/1.1 - protocols/pptp.md",
