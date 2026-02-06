@@ -20,7 +20,7 @@ CREATE USER 'benutzername'@'host';
 - `@`: Trennzeichen
 - **`'host'`**: Gibt an, von wo der Benutzer sich verbinden darf:
     - `'localhost'` → nur vom lokalen Rechner (wo die Datenbank läuft)
-    - `'%'` → von beliebigen Hosts / IP-Adressen
+    - `'%'` → von beliebigen Hosts / IP-Adressen (“Wildcard“)
     - `'192.168.1.%'` → Beispiel für ein ganzes Subnetz
 
 Beispiele:
@@ -39,7 +39,7 @@ SET PASSWORD FOR 'benutzername'@'host' = PASSWORD('passwort');
 ```
 
 - **`SET PASSWORD FOR`**: Legt Passwort für einen vorhandenen Benutzer fest
-- **`PASSWORD('wert')`**: Verschlüsselt das Passwort intern in MySQL (==Veraltet==)
+- **`PASSWORD('wert')`**: Verschlüsselt das Passwort intern in MySQL (==Depricated==)
 - MySQL-Versionen (8+):
 
 ```sql
@@ -49,5 +49,32 @@ ALTER USER 'benutzername'@'host' IDENTIFIED BY 'passwort';
 ### Berechtigungen zuteilen
 
 ```sql
+GRANT rechte ON datenbank.tabelle TO 'benutzername'@'host';
+```
+
+- **`rechte`**: Welche Operationen erlaubt sind:
+    - `ALL PRIVILEGES` → Alle Rechte (SELECT, INSERT, UPDATE, DELETE, etc.)
+    - Einzelne Rechte z.B. `SELECT`, `INSERT`, `UPDATE`, `DELETE`
+- **`datenbank.tabelle`**:
+    - `*.*` → Alle Datenbanken und Tabellen
+    - `fahrschule.*` → Alle Tabellen der Datenbank `fahrschule`
+    - `fahrschule.fahrschueler` → Nur diese Tabelle
+- **`TO 'benutzername'@'host'`**: Wer Rechte bekommt
+
+Beispiele:
+```sql
 
 ```
+
+GRANT ALL PRIVILEGES ON *.* TO 'root_localhost'@'localhost';
+
+GRANT SELECT, INSERT ON fahrschule.fahrstunden TO 'fahrlehrer'@'%';
+
+GRANT SELECT (kfznr, kennzeichen, typ, marke) ON fahrschule.kfz TO 'fahrschueler'@'%';
+
+- `root_localhost` → Vollzugriff auf alle Datenbanken
+    
+- `fahrlehrer` → Darf nur in `fahrstunden` lesen und schreiben, sowie `fahrschueler` lesen
+    
+- `fahrschueler` → Darf nur bestimmte Spalten (`kfznr, kennzeichen, typ, marke`) der Tabelle `kfz` lesen
+###
