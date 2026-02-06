@@ -28,7 +28,9 @@ Notes:
 | Port ist festem VLAN zugeordnet          | VLAN-Zuordnung durch Protokolle (z.B. IP) |
 | Einfach, übersichtlich & weit verbreitet | Flexibler, aber komplexer                 |
 |                                          | weniger verbreitet                        |
-
+Notes:
+- Protokollbasiert: Verwendetes Protokoll entscheidet, zu welchem VLAN ein Frame gehört
+- Port kann mehrere VLANs bedienen, je nach Protokoll
 ## Auswirkungen auf Broadcast-Domänen
 - Jedes VLAN bildet eigene Broadcast-Domäne
 - Broadcasts bleiben innerhalb VLANs
