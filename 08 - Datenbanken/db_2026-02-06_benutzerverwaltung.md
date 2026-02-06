@@ -7,3 +7,7 @@ ___
 - `INSERT`
 - `UPDATE`
 - `DELETE`
+
+## SQL-Syntax
+1. Benutzer erstellen: `CREATE USER 'username@'host';`
+	- `CREATE USER`

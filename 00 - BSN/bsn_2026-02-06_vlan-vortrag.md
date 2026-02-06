@@ -72,7 +72,6 @@ Notes:
 | Über Port, an dem Endgerät hängt | Über Protokoll im Frame (z.B. IPv4/IPv6) | Über VLAN-Tag (802.1Q) im Frame |
 
 - Standard in modernen Netzwerken
-- Grundlage für Sicherheit & Skalierbarkeit
 ## Quellen
 - https://en.wikipedia.org/wiki/VLAN
 - https://www.geeksforgeeks.org/computer-networks/virtual-lan-vlan/
