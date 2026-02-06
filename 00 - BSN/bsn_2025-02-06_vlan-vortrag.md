@@ -49,6 +49,16 @@ ___
 - Routing entscheidet, welches VLAN erreicht wird
 ## Vor- und Nachteile
 
+| Vorteile                          | Nachteile                                   |
+| --------------------------------- | ------------------------------------------- |
+| Bessere Sicherheit                | Höherer Konfigurationsaufwand               |
+| Weniger Broadcasts                | Fehleranfälliger bei falscher Konfiguration |
+| Flexible Netzwerkstruktur         |                                             |
+| Logische Trennung von Abteilungen |                                             |
 ## Fazit
-
+- VLANs strukturieren Netzwerke logisch
+- Trennung ohne zusätzlicher Hardware
+- Standard in modernen Netzwerken
+- Grundlage für Sicherheit & Skalierbarkeit
 ## Quellen
+- 
