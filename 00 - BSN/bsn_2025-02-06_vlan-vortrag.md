@@ -16,11 +16,17 @@ ___
 	- Ports → VLANs
 	oder
 	- per Tagging über Trunks
-- Routing zwischen VLANS durch 
-## Portbasiert vs. Protokollbasiert
+- Routing zwischen VLANS durch Router / L3-Switch
+## Portbasierte vs. Protokollbasierte VLANs
+
+| Portbasiert                              | Protokollbasiert                          |
+| ---------------------------------------- | ----------------------------------------- |
+| Port ist festem VLAN zugeordnet          | VLAN-Zuordnung durch Protokolle (z.B. IP) |
+| Einfach, übersichtlich & weit verbreitet | Flexibler, aber komplexer                 |
+|                                          | weniger verbreitet                        |
 
 ## Auswirkungen auf Broadcast-Domänen
-
+- Jedes VLAN bildet eigene Broadcast-Domä
 ## Tagging und Trunk-Ports
 
 ## Inter-VLAN-Routing
