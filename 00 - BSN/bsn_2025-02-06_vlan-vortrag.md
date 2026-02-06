@@ -26,9 +26,15 @@ ___
 |                                          | weniger verbreitet                        |
 
 ## Auswirkungen auf Broadcast-Domänen
-- Jedes VLAN bildet eigene Broadcast-Domä
-## Tagging und Trunk-Ports
-
+- Jedes VLAN bildet eigene Broadcast-Domäne
+- Broadcasts bleiben innerhalb VLANs
+- Weniger Broadcast-Verkehr
+- Bessere Netzwerk-Performance & Stabilität
+## VLAN-Tagging und Trunk-Ports
+- Verteiler-Switch hat keine Endgerät
+- VLAN-Zugehörigkeit über 802.1Q-Tag
+- Tag enthält VLAN-ID
+- 
 ## Inter-VLAN-Routing
 
 ## Vor- und Nachteile
