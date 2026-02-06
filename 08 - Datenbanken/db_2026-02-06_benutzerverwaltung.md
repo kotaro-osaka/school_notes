@@ -56,7 +56,8 @@ GRANT rechte ON datenbank.tabelle TO 'benutzername'@'host';
     - `ALL PRIVILEGES` → Alle Rechte (SELECT, INSERT, UPDATE, DELETE, etc.)
     - Einzelne Rechte z.B. `SELECT`, `INSERT`, `UPDATE`, `DELETE`
 - **`datenbank.tabelle`**:
-    - `*.*` → Alle Datenbanken und Tabellen
+    - `*.` → Alle Datenbanken
+    - `*` → Alle Tabellen
     - `fahrschule.*` → Alle Tabellen der Datenbank `fahrschule`
     - `fahrschule.fahrschueler` → Nur diese Tabelle
 - **`TO 'benutzername'@'host'`**: Wer Rechte bekommt
@@ -91,3 +92,5 @@ FLUSH PRIVILEGES;
     
 - Nach Änderungen (Benutzer erstellen, Rechte ändern) sorgt `FLUSH PRIVILEGES` dafür, dass MySQL die Änderungen sofort übernimmt.
 - **Moderne MySQL-Versionen:** Bei Verwendung von `CREATE USER` / `GRANT` automatisch, also oft nicht nötig.
+
+### Benutzer löschen
