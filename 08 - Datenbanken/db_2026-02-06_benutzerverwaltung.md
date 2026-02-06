@@ -106,3 +106,21 @@ Beispiele:
 DROP USER 'root_localhost'@'localhost';
 DROP USER 'fahrschueler'@'%';
 ```
+
+- `root_localhost` wird nur vom lokalen Rechner gelöscht
+- `fahrschueler` wird überall gelöscht, weil er sich von allen Hosts verbinden darf (`'%'`)
+
+### Berechtigungen entziehen
+
+```sql
+REVOKE rechte ON datenbank.tabelle FROM 'benutzername'@'host';
+```
+
+- **`REVOKE`**: Entzieht einem Benutzer bestimmte Rechte, die vorher mit `GRANT` vergeben wurden
+- **`rechte`**: Welche Rechte entzogen werden sollen (z. B. `SELECT`, `INSERT`, `UPDATE`, `DELETE`, oder `ALL PRIVILEGES`)
+- **`datenbank.tabelle`**:
+    - `*.*` → Alle Datenbanken und Tabellen
+    - `fahrschule.*` → Alle Tabellen der Datenbank `fahrschule`
+    - `fahrschule.fahrschueler` → Nur diese Tabelle
+- **`FROM 'benutzername'@'host'`**: An welchen Benutzer das Entziehen erfolgt
+
