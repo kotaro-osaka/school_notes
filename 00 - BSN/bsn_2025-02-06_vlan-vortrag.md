@@ -30,11 +30,13 @@ ___
 - Broadcasts bleiben innerhalb VLANs
 - Weniger Broadcast-Verkehr
 - Bessere Netzwerk-Performance & Stabilität
-## VLAN-Tagging und Trunk-Ports
-- Verteiler-Switch hat keine Endgerät
-- VLAN-Zugehörigkeit über 802.1Q-Tag
+## Tagging (IEEE 802.1Q)
+- VLAN-Zugehörigkeit im Frame gespeichert
+- 802.1Q fügt VLAN-Tag hinzu
 - Tag enthält VLAN-ID
-- 
+- Ermöglicht VLAN-Zuordnung ohne Endgeräteport
+## Trunk-Ports
+
 ## Inter-VLAN-Routing
 
 ## Vor- und Nachteile
