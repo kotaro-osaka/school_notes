@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
+                "file": "00 - BSN/bsn_2025-02-06_vlan-vortrag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vlan"
+              "title": "bsn_2025-02-06_vlan-vortrag"
             }
           }
         ]
@@ -195,6 +195,8 @@
   },
   "active": "391509ed34ff5de6",
   "lastOpenFiles": [
+    "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
+    "00 - BSN/bsn_2025-02-06_vlan-vortrag.md",
     "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
     "00 - BSN/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
     "00 - BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf",
@@ -228,13 +230,11 @@
     "00 - BSN/1 - glossary/1.1 - protocols/telnet.md",
     "00 - BSN/1 - glossary/1.1 - protocols/pptp.md",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
-    "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
     "01 - ET/Oszilloskop.pdf",
     "07 - English/english_2025-10-08_internship.md",
     "Untitled.canvas",
     "09 - Software/ABSCHLUSSKLAUSUR.md",
     "91 - 2024-2025",
-    "00 - BSN/1 - glossary/1.0 - misc/dual-stack.md",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
     "01 - ET/0 - res/Screenshot 2025-09-24 at 09.55.47.png",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
