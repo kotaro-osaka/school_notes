@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -192,7 +193,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "391509ed34ff5de6",
   "lastOpenFiles": [
     "00 - BSN/bsn_2025-02-06_VLAN_Aufgabe_2023.pdf",
     "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf",
