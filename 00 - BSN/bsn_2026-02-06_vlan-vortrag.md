@@ -34,13 +34,13 @@ Notes:
 ## Auswirkungen auf Broadcast-Domänen
 - Jedes VLAN bildet eigene Broadcast-Domäne
 - Broadcasts bleiben innerhalb VLANs
-- Weniger Broadcast-Verkehr
+- Weniger Broadcast-Verkehr (note: statt an alle am Switch angeschlossenen Geräte)
 - Bessere Netzwerk-Performance & Stabilität
 ## Tagging (IEEE 802.1Q)
 - VLAN-Zugehörigkeit im Frame gespeichert
-- 802.1Q fügt VLAN-Tag hinzu
+- 802.1Q-Standard fügt VLAN-Tag hinzu
 - Tag enthält VLAN-ID
-- Ermöglicht VLAN-Zuordnung ohne Endgeräteport
+- Ermöglicht VLAN-Zuordnung ohne Endgeräteport (Tag setzt fest, statt verwendeten port bzw)
 ## Trunk-Ports
 - Trunk-Port verbindet Switches
 - Transportieren mehrere VLANs gleichzeitig
