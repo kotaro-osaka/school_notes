@@ -11,10 +11,12 @@
             "id": "3125ad146754a612",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
             }
           }
         ]
@@ -186,7 +188,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "3125ad146754a612",
   "lastOpenFiles": [
     "08 - Datenbanken/Aufgabenblatt_Indices.docx",
     "Untitled Diagram.svg",
