@@ -18,8 +18,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.4"
             }
+          },
+          {
+            "id": "961f18119da1d20c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +201,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3125ad146754a612",
+  "active": "961f18119da1d20c",
   "lastOpenFiles": [
     "08 - Datenbanken/Aufgabenblatt_Indices.docx",
     "Untitled Diagram.svg",
