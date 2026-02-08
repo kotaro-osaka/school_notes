@@ -28,3 +28,7 @@ ___
 	2. Europäische Wirtschaftsgemeinschaft - EWG (was es umfasst)
 	3. EURATOM (was es umfasst)
 7. Der gemeinsame Markt (Titelfolie)
+	1. Bedeutung (Waren, Personen, Dienstleistungen und Kapital sollen sich frei bewegen dürfen; ?)
+	2. Resultate (Nationale Grenzen verloren wirtschaftlich an Bedeutung; Unternehmen konnten europaweit produzieren und handeln; Stärkung des wirtschaftlichen Wachstums der Mitgliedstaaten)
+8. Von der Wirtschaft zur politischen Zusammenarbeit (Titelfolie)
+9. 
