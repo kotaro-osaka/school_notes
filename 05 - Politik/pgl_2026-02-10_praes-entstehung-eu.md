@@ -31,4 +31,5 @@ ___
 	1. Bedeutung (Waren, Personen, Dienstleistungen und Kapital sollen sich frei bewegen dürfen; ?)
 	2. Resultate (Nationale Grenzen verloren wirtschaftlich an Bedeutung; Unternehmen konnten europaweit produzieren und handeln; Stärkung des wirtschaftlichen Wachstums der Mitgliedstaaten)
 8. Von der Wirtschaft zur politischen Zusammenarbeit (Titelfolie)
-9. 
+	1. Auslöser (Wirtschaftliche Zusammenarbeit reichten allein nicht mehr aus (warum?); Entstehung neuer Politikfelder (Umwelt & Verbraucherschutz - Bedeutung für EU?))
+	2. Die Europäische Gemeinschaft - EG (Unterschiede: wuchs politisch enger zusammen; ?)
