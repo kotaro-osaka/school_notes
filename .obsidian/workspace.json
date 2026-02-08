@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e4bb6aa2c707950c",
+        "id": "d736ec48d28b6db0",
         "type": "tabs",
         "children": [
           {
-            "id": "391509ed34ff5de6",
+            "id": "6d339273191b9d93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "db_2026-02-06_benutzerverwaltung"
-            }
-          },
-          {
-            "id": "b8dfd14c982577fc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -206,7 +187,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8dfd14c982577fc",
+  "active": "6d339273191b9d93",
   "lastOpenFiles": [
     "05 - Politik/pgl_2026-02-10_praes-entstehung-eu.md",
     "00 - BSN/bsn_2025-02-06_VLAN_Aufgabe_2023.pdf",
