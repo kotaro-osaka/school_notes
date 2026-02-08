@@ -36,5 +36,8 @@ ___
 	3. Erweiterung der Gemeinschaft (1) (Ab 1970er-Jahren: Weitere Staaten traten bei (welche); Erfolg der EG machte Mitgliedschaft Attraktiv; Erweiterungen stärkten politische & wirtschaftliche Bedeutung Europas)
 9. Der Vertrag von Maastricht - 1992 (Offizielle Entstehung der EU; Ausweiterung der Zusammenarbeit auf neue Bereiche (welche?); Einführung der Unionsbürgerschaft; Vertrag bereitete Einführung gemeinsamer Währung vor)
 10. Die Einführung des Euro (Titelfolie)
-	1. Neuerungen (Einführung 1999; Ab 2002 als Bargeld genutzt; Erleichter)
-	2. Herausforderungen
+	1. Neuerungen (Einführung 1999; Ab 2002 als Bargeld genutzt; Erleichterung von Handel & Reisen; Entfall von Wechselkursrisiken innerhalb EU)
+	2. Herausforderungen (welche?)
+11. Die Osterweiterung der EU (Titelfolie)
+	1. Bedeutung (Ab 2004; Ziel: Stabilität & Demokratie in Europa sichern)
+	2. Herausforderungen (Politisch wichtig, wirtschaftlich anspruchs)
