@@ -33,4 +33,4 @@ ___
 8. Von der Wirtschaft zur politischen Zusammenarbeit (Titelfolie)
 	1. Auslöser (Wirtschaftliche Zusammenarbeit reichten allein nicht mehr aus (warum?); Entstehung neuer Politikfelder (Umwelt & Verbraucherschutz - Bedeutung für EU?))
 	2. Die Europäische Gemeinschaft - EG (Unterschiede: wuchs politisch enger zusammen; ?)
-	3. Erweiterung der Gemeinschaft (Ab 1970er-Jahren: Weitere Staaten traten bei; Erfolg der EG machte sie Attraktiv; Erweiterungen stärken )
+	3. Erweiterung der Gemeinschaft (Ab 1970er-Jahren: Weitere Staaten traten bei (welche); Erfolg der EG machte Mitgliedschaft Attraktiv; Erweiterungen stärkten politische & wirtschaftliche Bedeutung Europas)
