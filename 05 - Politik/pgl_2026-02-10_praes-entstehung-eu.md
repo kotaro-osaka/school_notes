@@ -43,4 +43,5 @@ ___
 	2. Herausforderungen (Politisch wichtig, wirtschaftlich anspruchsvoll (warum?); Unterschiede zwischen Mitgliedsstaaten wurden deutlicher (inwiefern?))
 12. Die Europäische Union heute (Zusammenschluss souveräner Staaten; Besitzt gemeinsame Institutionen (Parlament (?), Kommission (?)); Einfluss vieler Bereiche des Alltags (welche?); Entscheidungen entstehen durch Kompromisse zwischen Mitgliedsstaaten)
 13. Kritik und Herausforderungen (wird oft als bürokratisch vorgenommen (inwiefern?); Entscheidungen dauern lange (Auswirkungen?); Nationale Interessen stehen manchmal im Konflikt mit EU-Zielen (Auswirkungen?); Brexit zeigte, dass Mitgliedschaft nicht selbstverständlich ist (?))
-14. Fazit (Erste Form der EU Entstand aus Wunsch nach Frieden; Wirtschaftliche Zusa)
+14. Fazit (Erste Form der EU Entstand aus Wunsch nach Frieden; Wirtschaftliche Zusammenarbeit zeigte Potenzial für Einstieg in politische Einheit; EU ist fortlaufender Prozess, statt fertiges Projekt; Entwicklung ist eng mit Geschichte Europas verbunden (wie?))
+Diese Struktur gefällt mir in den meisten bereichen, aber an ein paar stellen fehlen noch inhalte und klarstellungen, die ich wissen muss oder mir nebenbei notien werde. 
