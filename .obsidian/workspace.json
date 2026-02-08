@@ -30,9 +30,24 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.5"
             }
+          },
+          {
+            "id": "253c72c594bb944e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,8 +216,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "961f18119da1d20c",
+  "active": "253c72c594bb944e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "99 - misc/Pasted image 20260119121134.png",
+    "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
+    "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf",
+    "07 - English/enlgish_28-01-2026_sentences-for-observation.md",
+    "07 - English/english_2026-01-19_oral-exam.md",
+    "03 - Mathe/mathe_26-01-2026_arithmetisches-mittel.md",
+    "02 - MMI/mmi_2026-01-19_mqtt.md",
+    "02 - MMI/mmi_2026-01-19_mqtt-seven-segment-display.md",
+    "01 - ET/et_23-01-2026_halbleiter.md",
+    "00 - BSN/bsn_2026-02-06_vlan-vortrag.md",
+    "00 - BSN/bsn_2025-02-06_VLAN_Aufgabe_2023.pdf",
     "08 - Datenbanken/Aufgabenblatt_Indices.docx",
     "Untitled Diagram.svg",
     "Excalidraw/Drawing 2025-11-16 23.49.43.excalidraw.md",
@@ -217,37 +244,24 @@
     "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
     "00 - BSN/1 - glossary/1.3 - routing/route_poisoning.md",
     "00 - BSN/1 - glossary/1.3 - routing/IP-Netze-07.30_Routing_NetIT-Exkurs_DOC.pdf",
-    "Untitled.md",
     "91 - 2024-2025/11 - PPH/pph_nahost_konflikt_2025_13_01.md",
     "91 - 2024-2025/11 - PPH/pph__2025_24_02.md",
     "91 - 2024-2025/11 - PPH/Völkergemeinschaft und Frieden.pdf",
     "91 - 2024-2025/10 - IMT/0 - archive/zahl_raten_flowchart.md",
     "91 - 2024-2025/10 - IMT/0 - archive",
     "91 - 2024-2025/11 - PPH",
-    "91 - 2024-2025/10 - IMT",
-    "91 - 2024-2025",
     "90 - 2023-2024/02 - Wirtschaft/deckungsbeitrag-s159-11-06-2025.md",
-    "90 - 2023-2024/02 - Wirtschaft",
     "90 - 2023-2024/01 - ET/et-ab-datentypen-2-03-06-2025.md",
     "90 - 2023-2024/00 - BSN/wlan-02-06-2025.md",
     "90 - 2023-2024/00 - BSN/ab-wlan-sicherheit-11-06-2025.md",
     "90 - 2023-2024/00 - BSN/datenintegrität-02-06-2025.md",
-    "07 - English/english_2025-10-08_internship.md",
-    "07 - English/english_2025-09-08_global-players.md",
-    "00 - BSN/1 - glossary/1.0 - misc/dual-stack.md",
-    "00 - BSN/0 - res/bsn-2023-11-20.md",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
-    "08 - Datenbanken/normalisierung.md",
-    "09 - Software/pflichtenheft.md",
-    "Untitled 2.md",
-    "04 - Deutsch/deutsch_2025-09-15_kurzgeschichten.md",
     "01 - ET/0 - res/Screenshot 2025-09-24 at 09.55.47.png",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
     "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
     "99 - misc/Pasted image 20250430102206.png",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
-    "99 - misc/videoframe_162647.png",
-    "99 - misc/vektorrechnung.png"
+    "99 - misc/videoframe_162647.png"
   ]
 }
