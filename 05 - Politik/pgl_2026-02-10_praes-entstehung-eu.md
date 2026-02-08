@@ -21,4 +21,4 @@ ___
 5. Kohle und Stahl im Mittelpunkt (Titelfolie)
 	1. Bedeutung der Rohstoffe (Industrie, Waffenproduktion, Aufbaumöglichkeiten von militärischer Macht)
 	2. Sicherheitsgarantien? (Gemeinsame Verwaltung um heimliche Aufrüstung zu vermeiden; Spannungen zwischen Frankreich und Deutschland abbauen)
-	3. Die Europäische Gemeinschaft für 
+	3. Die Europäische Gemeinschaft für Kohle und Stahl (Gründung von EGKS (Montanunion) 1951; [Mitgliedstaaten], Abgabe Teil der Entscheidungsgewalt an gemeinsame Institution; Erster Schritt einer überstaatlichen europäischen Zusammenarbeit)
