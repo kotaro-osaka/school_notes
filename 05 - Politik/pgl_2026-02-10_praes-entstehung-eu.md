@@ -3,6 +3,8 @@ ___
 ## Quellen
 - [EU-Flagge](https://unsplash.com/photos/a-blue-flag-with-stars-1X3li7TGf6o?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 - [Karte 1945](https://omniatlas.com/maps/europe/19450514/)
+- https://european-union.europa.eu/principles-countries-history/history-eu_en
+- 
 
 
 1. Titelfolie (Die Entstehung der Europäischen Union)

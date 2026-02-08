@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91e027cb95431597",
+        "id": "d736ec48d28b6db0",
         "type": "tabs",
         "children": [
           {
-            "id": "1028ad7b07bece8c",
+            "id": "6d339273191b9d93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bgp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -96,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 - Deutsch/deutsch_kurzgeschichten_2025-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for deutsch_kurzgeschichten_2025-09-15"
             }
           },
           {
@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "350354cdf43e0d73",
+            "id": "617e9a84655823b8",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -178,9 +178,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -189,55 +186,59 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1028ad7b07bece8c",
+  "active": "6d339273191b9d93",
   "lastOpenFiles": [
     "05 - Politik/pgl_2026-02-10_praes-entstehung-eu.md",
-    "Untitled.md",
-    "99 - misc/Pasted image 20260119121134.png",
-    "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
-    "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf",
-    "07 - English/enlgish_28-01-2026_sentences-for-observation.md",
-    "07 - English/english_2026-01-19_oral-exam.md",
-    "03 - Mathe/mathe_26-01-2026_arithmetisches-mittel.md",
-    "02 - MMI/mmi_2026-01-19_mqtt.md",
-    "02 - MMI/mmi_2026-01-19_mqtt-seven-segment-display.md",
-    "01 - ET/et_23-01-2026_halbleiter.md",
-    "00 - BSN/bsn_2026-02-06_vlan-vortrag.md",
     "00 - BSN/bsn_2025-02-06_VLAN_Aufgabe_2023.pdf",
-    "08 - Datenbanken/Aufgabenblatt_Indices.docx",
-    "Untitled Diagram.svg",
-    "Excalidraw/Drawing 2025-11-16 23.49.43.excalidraw.md",
-    "Excalidraw",
-    "01 - ET/et_2025-09-25_kondensator.md",
-    "01 - ET/Oszilloskop.pdf",
-    "01 - ET/formeln.md",
-    "01 - ET/et_2025-09-24_isolationswiderstand.md",
+    "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf",
+    "00 - BSN/bsn_2026-02-06_vlan-vortrag.md",
+    "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
+    "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
+    "00 - BSN/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
     "00 - BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf",
     "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
+    "00 - BSN/bsn_2025-10-07_netzwerksegmentierung-teil-4.md",
+    "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf",
+    "00 - BSN/bsn_2025-09-18_netzwerksegmentierung-teil-3-uebung-1.md",
+    "00 - BSN/bsn_2025-09-25_uebungsklausur.md",
+    "00 - BSN/bsn_2025-09-18_netzwerksegmentierung-teil-3-aufgabenblatt.md",
     "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
-    "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
-    "00 - BSN/1 - glossary/1.3 - routing/route_poisoning.md",
-    "00 - BSN/1 - glossary/1.3 - routing/IP-Netze-07.30_Routing_NetIT-Exkurs_DOC.pdf",
-    "91 - 2024-2025/11 - PPH/pph_nahost_konflikt_2025_13_01.md",
-    "91 - 2024-2025/11 - PPH/pph__2025_24_02.md",
-    "91 - 2024-2025/11 - PPH/Völkergemeinschaft und Frieden.pdf",
-    "91 - 2024-2025/10 - IMT/0 - archive/zahl_raten_flowchart.md",
-    "91 - 2024-2025/10 - IMT/0 - archive",
-    "91 - 2024-2025/11 - PPH",
-    "90 - 2023-2024/02 - Wirtschaft/deckungsbeitrag-s159-11-06-2025.md",
-    "90 - 2023-2024/01 - ET/et-ab-datentypen-2-03-06-2025.md",
-    "90 - 2023-2024/00 - BSN/wlan-02-06-2025.md",
-    "90 - 2023-2024/00 - BSN/ab-wlan-sicherheit-11-06-2025.md",
-    "90 - 2023-2024/00 - BSN/datenintegrität-02-06-2025.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/tcp.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv4/ipv4_header.md",
+    "00 - BSN/1 - glossary/1.3 - routing/1.3.0 - routing protocols/rip.md",
+    "03 - Mathe/mathe_26-01-2026_arithmetisches-mittel.md",
+    "07 - English/enlgish_28-01-2026_sentences-for-observation.md",
+    "07 - English/Untitled",
+    "03 - Mathe/mathe_2025-01-16_ggT-kgv.md",
+    "03 - Mathe/Klausur Vorbereitung.md",
+    "03 - Mathe/07_mgk_ggt-kgv.pdf",
+    "01 - ET/et_23-01-2026_halbleiter.md",
+    "01 - ET/99 - archive/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
+    "01 - ET/99 - archive/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
+    "02 - MMI/mmi_2026-01-19_mqtt.md",
+    "02 - MMI/mmi_2026-01-19_mqtt-seven-segment-display.md",
+    "99 - misc/Pasted image 20260119121134.png",
+    "Untitled Diagram.svg",
+    "07 - English/english_2026-01-19_oral-exam.md",
+    "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/telnet.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/pptp.md",
+    "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
+    "Untitled.canvas",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
     "01 - ET/0 - res/Screenshot 2025-09-24 at 09.55.47.png",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
     "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
     "99 - misc/Pasted image 20250430102206.png",
-    "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "99 - misc/zwei_punkte_berechnen_bsp.png",
     "99 - misc/videoframe_162647.png"
   ]
