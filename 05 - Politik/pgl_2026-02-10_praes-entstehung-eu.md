@@ -24,4 +24,5 @@ ___
 	3. Die Europäische Gemeinschaft für Kohle und Stahl (EGKS) (Gründung von EGKS (Montanunion) 1951; [Mitgliedstaaten], Abgabe Teil der Entscheidungsgewalt an gemeinsame Institution; Erster Schritt einer überstaatlichen europäischen Zusammenarbeit)
 	4. Bedeutung der Montanunion (Verbindung wirtschaftlicher Interessen mit politischen Zielen; Krieg zwischen Mitgliedstaaten praktisch unmöglich; Vertrauensschaffung; Grundstein heutiger EU)
 6. Die Römischen Verträge - 1957 (Titelfolie)
-	1. Inhalte und Ziele (EWG; EURATOM; Gemeinsamer Markt ohne Zölle & Handlungshemmnisse; )
+	1. Inhalte und Ziele? (Mitgliedstaaten; Gemeinsamer Markt ohne Zölle & Handlungshemmnisse; Hintergrundgedanke: Wirtschaftlicher Erfolg → Frieden langfristig sichern)
+	2. Europäische Wirtschaftsgemeinschaft - EWG ()
