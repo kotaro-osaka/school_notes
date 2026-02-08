@@ -6,5 +6,5 @@ ___
 
 1. Titelfolie
 2. Europa vor der EU (titelfolie)
-	1. Politische Situation vor 1945 (kontinent der konflikte; etc.)
-	2. 
+	1. Politische Situation vor 1945 (Kontinent der Konflikte; Rivalitäten; etc.)
+	2. Nationalstaaten und Machtkonflikte ()
