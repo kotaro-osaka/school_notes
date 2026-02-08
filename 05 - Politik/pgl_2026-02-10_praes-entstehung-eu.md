@@ -33,4 +33,5 @@ ___
 8. Von der Wirtschaft zur politischen Zusammenarbeit (Titelfolie)
 	1. Auslöser (Wirtschaftliche Zusammenarbeit reichten allein nicht mehr aus (warum?); Entstehung neuer Politikfelder (Umwelt & Verbraucherschutz - Bedeutung für EU?))
 	2. Die Europäische Gemeinschaft - EG (Unterschiede: wuchs politisch enger zusammen; ?)
-	3. Erweiterung der Gemeinschaft (Ab 1970er-Jahren: Weitere Staaten traten bei (welche); Erfolg der EG machte Mitgliedschaft Attraktiv; Erweiterungen stärkten politische & wirtschaftliche Bedeutung Europas)
+	3. Erweiterung der Gemeinschaft (1) (Ab 1970er-Jahren: Weitere Staaten traten bei (welche); Erfolg der EG machte Mitgliedschaft Attraktiv; Erweiterungen stärkten politische & wirtschaftliche Bedeutung Europas)
+9. Der Vertrag von Maastricht - 1992 (Offizielle Entstehung der EU; Ausweiterung der Zusammenarbeit auf neue Bereiche (welche?); Einführung der Unionsbürgerschaft)
