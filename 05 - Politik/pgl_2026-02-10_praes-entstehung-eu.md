@@ -40,4 +40,6 @@ ___
 	2. Herausforderungen (welche?)
 11. Die Osterweiterung der EU (Titelfolie)
 	1. Bedeutung (Ab 2004; Ziel: Stabilität & Demokratie in Europa sichern)
-	2. Herausforderungen (Politisch wichtig, wirtschaftlich anspruchs)
+	2. Herausforderungen (Politisch wichtig, wirtschaftlich anspruchsvoll (warum?); Unterschiede zwischen Mitgliedsstaaten wurden deutlicher (inwiefern?))
+12. Die Europäische Union heute
+	1. Attribute (Zusammenschluss souveräner Staaten; Besitzt gemeinsame Institutionen (Parlament (?), Kommission (?)); Einfluss vieler Bereiche des Alltags (welche?); Entscheidungen entstehen)
