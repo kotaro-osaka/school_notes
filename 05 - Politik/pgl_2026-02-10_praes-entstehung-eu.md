@@ -19,5 +19,6 @@ ___
 	3. Entstehung erster internationaler Organisationen (Europarat, etc.)
 	4. Vorerst gemeinsame Lösungen für gemeinsame Probleme suchen (welche?)
 5. Kohle und Stahl im Mittelpunkt (Titelfolie)
-	1. Relevanz der Rohstoffe (Industrie, Waffenproduktion, Aufbaumöglichkeiten von militärischer Macht)
-	2. Sicherheitsgarantien (Gemeinsame Verwaltung um heimliche Aufrüstung zu vermeiden; )
+	1. Bedeutung der Rohstoffe (Industrie, Waffenproduktion, Aufbaumöglichkeiten von militärischer Macht)
+	2. Sicherheitsgarantien? (Gemeinsame Verwaltung um heimliche Aufrüstung zu vermeiden; Spannungen zwischen Frankreich und Deutschland abbauen)
+	3. Die Europäische Gemeinschaft für 
