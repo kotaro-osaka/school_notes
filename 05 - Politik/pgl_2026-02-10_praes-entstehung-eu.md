@@ -15,7 +15,7 @@ ___
 	3. Zusammenarbeit wichtiger als nationale Konkurrenz (einander stärken)
 4. Erste Schritte zur Zusammenarbeit (Titelfolie)
 	1. Marschallplan (wirtschaftlicher Wiederaufbau Europas)
-	2. Hilfen an Zusammenarbeit gebunden (welche hilfen, welche zusammenarbteit?)
+	2. Hilfen an Zusammenarbeit gebunden (welche Hilfen, welche Zusammenarbeit?)
 	3. Entstehung erster internationaler Organisationen (Europarat, etc.)
 	4. Vorerst gemeinsame Lösungen für gemeinsame Probleme suchen (welche?)
 5. Kohle und Stahl im Mittelpunkt (Titelfolie)
@@ -34,4 +34,7 @@ ___
 	1. Auslöser (Wirtschaftliche Zusammenarbeit reichten allein nicht mehr aus (warum?); Entstehung neuer Politikfelder (Umwelt & Verbraucherschutz - Bedeutung für EU?))
 	2. Die Europäische Gemeinschaft - EG (Unterschiede: wuchs politisch enger zusammen; ?)
 	3. Erweiterung der Gemeinschaft (1) (Ab 1970er-Jahren: Weitere Staaten traten bei (welche); Erfolg der EG machte Mitgliedschaft Attraktiv; Erweiterungen stärkten politische & wirtschaftliche Bedeutung Europas)
-9. Der Vertrag von Maastricht - 1992 (Offizielle Entstehung der EU; Ausweiterung der Zusammenarbeit auf neue Bereiche (welche?); Einführung der Unionsbürgerschaft)
+9. Der Vertrag von Maastricht - 1992 (Offizielle Entstehung der EU; Ausweiterung der Zusammenarbeit auf neue Bereiche (welche?); Einführung der Unionsbürgerschaft; Vertrag bereitete Einführung gemeinsamer Währung vor)
+10. Die Einführung des Euro (Titelfolie)
+	1. Neuerungen (Einführung 1999; Ab 2002 als Bargeld genutzt; Erleichter)
+	2. Herausforderungen
