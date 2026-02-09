@@ -12,9 +12,10 @@ ___
 - https://www.planet-wissen.de/geschichte/deutsche_geschichte/nachkriegszeit/index.html
 - https://european-union.europa.eu/principles-countries-history/history-eu_en
 - https://www.eiz.uzh.ch/wp-content/uploads/2024/10/Churchill_Booklet.pdf
+- https://european-union.europa.eu/principles-countries-history/history-eu/1945-59/schuman-declaration-may-1950_de
 
 
-- https://oe1.orf.at/i/intro/b9/a1/b9a1dde575542cf4d7ef890f3a2ce27322a1e0d5.jpg](https://oe1.orf.at/artikel/671026/Der-Marshall-Plan-Teil-1)
+- https://oe1.orf.at/artikel/671026/Der-Marshall-Plan-Teil-1
 - https://www.konrad-adenauer.de/seite/gruendung-der-europaeischen-gemeinschaft-fuer-kohle-und-stahl/
 - https://www.wiwo.de/politik/europa/die-geburt-der-eu-papst-mahnt-europa-zu-solidaritaet-und-zusammenhalt/19566230.html
 - https://www.europarl.europa.eu/about-parliament/de/in-the-past/the-parliament-and-the-treaties/merger-treaty
