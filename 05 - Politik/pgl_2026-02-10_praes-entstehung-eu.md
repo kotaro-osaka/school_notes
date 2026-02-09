@@ -50,3 +50,6 @@ ___
 12. Die Europäische Union heute (Zusammenschluss souveräner Staaten; Besitzt gemeinsame Institutionen (Parlament (?), Kommission (?)); Einfluss vieler Bereiche des Alltags (welche?); Entscheidungen entstehen durch Kompromisse zwischen Mitgliedsstaaten)
 13. Kritik und Herausforderungen (wird oft als bürokratisch vorgenommen (inwiefern?); Entscheidungen dauern lange (Auswirkungen?); Nationale Interessen stehen manchmal im Konflikt mit EU-Zielen (Auswirkungen?); Brexit zeigte, dass Mitgliedschaft nicht selbstverständlich ist (?))
 14. Fazit (Erste Form der EU Entstand aus Wunsch nach Frieden; Wirtschaftliche Zusammenarbeit zeigte Potenzial für Einstieg in politische Einheit; EU ist fortlaufender Prozess, statt fertiges Projekt; Entwicklung ist eng mit Geschichte Europas verbunden (wie?))
+
+https://de.wikipedia.org/wiki/Zwischenkriegszeit
+https://www.bpb.de/themen/erster-weltkrieg-weimar/krieg-der-traeume-1918-1938/301631/historischer-hintergrund/
