@@ -19,7 +19,7 @@ ___
 - https://european-union.europa.eu/principles-countries-history/history-eu/1945-59/schuman-declaration-may-1950_de
 - https://www.wiwo.de/politik/europa/die-geburt-der-eu-papst-mahnt-europa-zu-solidaritaet-und-zusammenhalt/19566230.html
 - https://eur-lex.europa.eu/collection/eu-law/treaties/treaties-founding.html
-- 
+- https://european-union.europa.eu/principles-countries-history/eu-countries_en
 - https://www.europarl.europa.eu/about-parliament/de/in-the-past/the-parliament-and-the-treaties/merger-treaty
 - https://www.hdg.de/lemo/bestand/objekt/dokument-vertrag-von-maastricht.html
 - https://www.morgenpost.de/wirtschaft/article240903554/Warum-heisst-der-Euro-eigentlich-Euro-25-Fakten-zum-Jubilaeum.html
