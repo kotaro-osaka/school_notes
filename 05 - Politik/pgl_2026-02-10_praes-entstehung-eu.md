@@ -5,6 +5,10 @@ ___
 - https://omniatlas.com/maps/europe/19450514/
 - https://de.wikipedia.org/wiki/Zwischenkriegszeit
 - https://www.bpb.de/themen/erster-weltkrieg-weimar/krieg-der-traeume-1918-1938/301631/historischer-hintergrund/
+- https://www.lpb-bw.de/kriegsende-1945undheute
+- https://www.demokratiewebstatt.at/thema/thema-der-zweite-weltkrieg/folgen-des-zweiten-weltkrieges/politische-verhaeltnisse-nach-kriegsende
+- https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/der-zweite-weltkrieg/202284/kriegsfolgen/
+- https://de.wikipedia.org/wiki/Zweiter_Weltkrieg
 
 - https://european-union.europa.eu/principles-countries-history/history-eu_en
 - https://oe1.orf.at/i/intro/b9/a1/b9a1dde575542cf4d7ef890f3a2ce27322a1e0d5.jpg
