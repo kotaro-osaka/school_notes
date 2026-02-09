@@ -17,8 +17,8 @@ ___
 - https://oe1.orf.at/artikel/671026/Der-Marshall-Plan-Teil-1
 - https://www.konrad-adenauer.de/seite/gruendung-der-europaeischen-gemeinschaft-fuer-kohle-und-stahl/
 - https://european-union.europa.eu/principles-countries-history/history-eu/1945-59/schuman-declaration-may-1950_de
-- https://eur-lex.europa.eu/collection/eu-law/treaties/treaties-founding.html
 - https://www.wiwo.de/politik/europa/die-geburt-der-eu-papst-mahnt-europa-zu-solidaritaet-und-zusammenhalt/19566230.html
+- https://eur-lex.europa.eu/collection/eu-law/treaties/treaties-founding.html
 - 
 - https://www.europarl.europa.eu/about-parliament/de/in-the-past/the-parliament-and-the-treaties/merger-treaty
 - https://www.hdg.de/lemo/bestand/objekt/dokument-vertrag-von-maastricht.html
@@ -63,6 +63,3 @@ ___
 11. Die Europäische Union heute (Zusammenschluss souveräner Staaten; Besitzt gemeinsame Institutionen (Parlament (?), Kommission (?)); Einfluss vieler Bereiche des Alltags (welche?); Entscheidungen entstehen durch Kompromisse zwischen Mitgliedsstaaten)
 12. Kritik und Herausforderungen (wird oft als bürokratisch vorgenommen (inwiefern?); Entscheidungen dauern lange (Auswirkungen?); Nationale Interessen stehen manchmal im Konflikt mit EU-Zielen (Auswirkungen?); Brexit zeigte, dass Mitgliedschaft nicht selbstverständlich ist (?))
 13. Fazit (Erste Form der EU Entstand aus Wunsch nach Frieden; Wirtschaftliche Zusammenarbeit zeigte Potenzial für Einstieg in politische Einheit; EU ist fortlaufender Prozess, statt fertiges Projekt; Entwicklung ist eng mit Geschichte Europas verbunden (wie?))
-
-
-
