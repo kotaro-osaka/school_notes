@@ -10,6 +10,7 @@ ___
 - https://www.europarl.europa.eu/about-parliament/de/in-the-past/the-parliament-and-the-treaties/merger-treaty
 - https://www.hdg.de/lemo/bestand/objekt/dokument-vertrag-von-maastricht.html
 - https://www.morgenpost.de/wirtschaft/article240903554/Warum-heisst-der-Euro-eigentlich-Euro-25-Fakten-zum-Jubilaeum.html
+- https://www.herder.de/cig/cig-ausgaben/archiv/2025/5-2025/zitat-der-woche/?utm_source=chatgpt.com
 
 
 1. Titelfolie (Die Entstehung der Europäischen Union)
