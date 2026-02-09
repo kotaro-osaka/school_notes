@@ -11,10 +11,15 @@
             "id": "6d339273191b9d93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "05 - Politik/pgl_2026-02-10_praes-entstehung-eu.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "pgl_2026-02-10_praes-entstehung-eu"
             }
           }
         ]
@@ -187,9 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "6d339273191b9d93",
   "lastOpenFiles": [
     "05 - Politik/pgl_2026-02-10_praes-entstehung-eu.md",
+    "Untitled.md",
     "00 - BSN/bsn_2025-02-06_VLAN_Aufgabe_2023.pdf",
     "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf",
     "00 - BSN/bsn_2026-02-06_vlan-vortrag.md",
@@ -226,7 +232,6 @@
     "07 - English/english_2026-01-19_oral-exam.md",
     "00 - BSN/2 - aufgaben/IP-Netze-07.50_Routing_LM-Aufgabensammlung_AUF.md",
     "00 - BSN/1 - glossary/1.1 - protocols/telnet.md",
-    "00 - BSN/1 - glossary/1.1 - protocols/pptp.md",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "Untitled.canvas",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
