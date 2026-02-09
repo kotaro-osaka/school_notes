@@ -9,6 +9,7 @@ ___
 - https://www.wiwo.de/politik/europa/die-geburt-der-eu-papst-mahnt-europa-zu-solidaritaet-und-zusammenhalt/19566230.html
 - https://www.europarl.europa.eu/about-parliament/de/in-the-past/the-parliament-and-the-treaties/merger-treaty
 - https://www.hdg.de/lemo/bestand/objekt/dokument-vertrag-von-maastricht.html
+- https://www.morgenpost.de/wirtschaft/article240903554/Warum-heisst-der-Euro-eigentlich-Euro-25-Fakten-zum-Jubilaeum.html
 
 
 1. Titelfolie (Die Entstehung der Europäischen Union)
