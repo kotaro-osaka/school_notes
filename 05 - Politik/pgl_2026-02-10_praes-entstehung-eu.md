@@ -1,8 +1,8 @@
 # Entstehung der EU
 ___
 ## Quellen
-- [EU-Flagge](https://unsplash.com/photos/a-blue-flag-with-stars-1X3li7TGf6o?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-- [Karte 1945](https://omniatlas.com/maps/europe/19450514/)
+- https://unsplash.com/photos/a-blue-flag-with-stars-1X3li7TGf6o?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+- https://omniatlas.com/maps/europe/19450514/
 - https://european-union.europa.eu/principles-countries-history/history-eu_en
 - https://oe1.orf.at/i/intro/b9/a1/b9a1dde575542cf4d7ef890f3a2ce27322a1e0d5.jpg
 - https://www.konrad-adenauer.de/seite/gruendung-der-europaeischen-gemeinschaft-fuer-kohle-und-stahl/
