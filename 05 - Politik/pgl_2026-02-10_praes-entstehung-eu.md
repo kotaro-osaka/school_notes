@@ -18,8 +18,6 @@ ___
 - https://www.konrad-adenauer.de/seite/gruendung-der-europaeischen-gemeinschaft-fuer-kohle-und-stahl/
 - https://european-union.europa.eu/principles-countries-history/history-eu/1945-59/schuman-declaration-may-1950_de
 - https://eur-lex.europa.eu/collection/eu-law/treaties/treaties-founding.html
-
->>>>>>> c78ba13944e1522d037c60ffa55d94a460a7e8fe
 - https://www.wiwo.de/politik/europa/die-geburt-der-eu-papst-mahnt-europa-zu-solidaritaet-und-zusammenhalt/19566230.html
 - 
 - https://www.europarl.europa.eu/about-parliament/de/in-the-past/the-parliament-and-the-treaties/merger-treaty
