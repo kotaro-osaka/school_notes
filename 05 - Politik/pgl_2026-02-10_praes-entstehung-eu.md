@@ -5,6 +5,7 @@ ___
 - [Karte 1945](https://omniatlas.com/maps/europe/19450514/)
 - https://european-union.europa.eu/principles-countries-history/history-eu_en
 - https://oe1.orf.at/i/intro/b9/a1/b9a1dde575542cf4d7ef890f3a2ce27322a1e0d5.jpg
+- https://www.konrad-adenauer.de/seite/gruendung-der-europaeischen-gemeinschaft-fuer-kohle-und-stahl/
 
 
 1. Titelfolie (Die Entstehung der Europäischen Union)
