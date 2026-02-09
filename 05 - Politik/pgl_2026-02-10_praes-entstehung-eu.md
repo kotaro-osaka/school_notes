@@ -14,8 +14,8 @@ ___
 - https://www.eiz.uzh.ch/wp-content/uploads/2024/10/Churchill_Booklet.pdf
 - https://european-union.europa.eu/principles-countries-history/history-eu/1945-59/schuman-declaration-may-1950_de
 - https://www.marshallfoundation.org/the-marshall-plan/
-
 - https://oe1.orf.at/artikel/671026/Der-Marshall-Plan-Teil-1
+- 
 - https://www.konrad-adenauer.de/seite/gruendung-der-europaeischen-gemeinschaft-fuer-kohle-und-stahl/
 - https://www.wiwo.de/politik/europa/die-geburt-der-eu-papst-mahnt-europa-zu-solidaritaet-und-zusammenhalt/19566230.html
 - https://www.europarl.europa.eu/about-parliament/de/in-the-past/the-parliament-and-the-treaties/merger-treaty
