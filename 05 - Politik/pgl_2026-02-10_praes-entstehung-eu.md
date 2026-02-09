@@ -3,6 +3,9 @@ ___
 ## Quellen
 - https://unsplash.com/photos/a-blue-flag-with-stars-1X3li7TGf6o?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 - https://omniatlas.com/maps/europe/19450514/
+- https://de.wikipedia.org/wiki/Zwischenkriegszeit
+- https://www.bpb.de/themen/erster-weltkrieg-weimar/krieg-der-traeume-1918-1938/301631/historischer-hintergrund/
+
 - https://european-union.europa.eu/principles-countries-history/history-eu_en
 - https://oe1.orf.at/i/intro/b9/a1/b9a1dde575542cf4d7ef890f3a2ce27322a1e0d5.jpg
 - https://www.konrad-adenauer.de/seite/gruendung-der-europaeischen-gemeinschaft-fuer-kohle-und-stahl/
@@ -51,5 +54,5 @@ ___
 13. Kritik und Herausforderungen (wird oft als bürokratisch vorgenommen (inwiefern?); Entscheidungen dauern lange (Auswirkungen?); Nationale Interessen stehen manchmal im Konflikt mit EU-Zielen (Auswirkungen?); Brexit zeigte, dass Mitgliedschaft nicht selbstverständlich ist (?))
 14. Fazit (Erste Form der EU Entstand aus Wunsch nach Frieden; Wirtschaftliche Zusammenarbeit zeigte Potenzial für Einstieg in politische Einheit; EU ist fortlaufender Prozess, statt fertiges Projekt; Entwicklung ist eng mit Geschichte Europas verbunden (wie?))
 
-https://de.wikipedia.org/wiki/Zwischenkriegszeit
-https://www.bpb.de/themen/erster-weltkrieg-weimar/krieg-der-traeume-1918-1938/301631/historischer-hintergrund/
+
+
