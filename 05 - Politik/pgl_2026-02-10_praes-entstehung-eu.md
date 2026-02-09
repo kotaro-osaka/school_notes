@@ -8,6 +8,7 @@ ___
 - https://www.konrad-adenauer.de/seite/gruendung-der-europaeischen-gemeinschaft-fuer-kohle-und-stahl/
 - https://www.wiwo.de/politik/europa/die-geburt-der-eu-papst-mahnt-europa-zu-solidaritaet-und-zusammenhalt/19566230.html
 - https://www.europarl.europa.eu/about-parliament/de/in-the-past/the-parliament-and-the-treaties/merger-treaty
+- https://www.hdg.de/lemo/bestand/objekt/dokument-vertrag-von-maastricht.html
 
 
 1. Titelfolie (Die Entstehung der Europäischen Union)
