@@ -8,7 +8,7 @@ ___
 	- Nur möglich bei Switch ←→ Switch
 
 ## Aufgabe 2
-- 1000 MBit/s (Muss Verkehr aller VLANs Richtung Core-Switch bündeln)
+- 1000 MBit/s (Muss Verkehr aller VLANs Richtung Core-Switch bündeln - Uplink)
 - Meist letzter Port
 
 ## Aufgabe 3
