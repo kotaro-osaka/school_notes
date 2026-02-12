@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "0a707a1a86319e67",
+        "id": "03fa7aef84651a36",
         "type": "tabs",
         "children": [
           {
-            "id": "6b2c01dbde5859f1",
+            "id": "dc63788f395e6eaa",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "01 - ET/et_2026-02-05_brueckengleichrichtung-2.png"
-              },
-              "icon": "lucide-image",
-              "title": "et_2026-02-05_brueckengleichrichtung-2"
-            }
-          },
-          {
-            "id": "a1cd1110cdd4177f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - ET/1 - lexicon/gleichrichterschaltungen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "gleichrichterschaltungen"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,56 +187,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "bfa2761dcbf0ead0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "992bf19ed816dd64",
-        "type": "window",
-        "children": [
-          {
-            "id": "d626e8cd826d6485",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c457a38d1ba78f0c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "00 - BSN/bsn_2026-02-06_vlan-vortrag.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "bsn_2026-02-06_vlan-vortrag"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 39,
-        "width": 855,
-        "height": 992,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c457a38d1ba78f0c",
+  "active": "dc63788f395e6eaa",
   "lastOpenFiles": [
-    "01 - ET/1 - lexicon/gleichrichterschaltungen.md",
-    "00 - BSN/bsn_2026-02-06_vlan-vortrag.md",
+    "05 - Politik/pgl_2026-02-10_praes-entstehung-eu.md",
     "01 - ET/et_2026-02-05_brueckengleichrichtung.md",
     "01 - ET/et_2026-02-05_brueckengleichrichtung-2.png",
-    "05 - Politik/pgl_2026-02-10_praes-entstehung-eu.md",
+    "01 - ET/1 - lexicon/gleichrichterschaltungen.md",
     "Untitled.md",
     "00 - BSN/bsn_2025-02-06_VLAN_Aufgabe_2023.pdf",
     "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf",
+    "00 - BSN/bsn_2026-02-06_vlan-vortrag.md",
     "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
     "Untitled.base",
     "Untitled 1.base",
