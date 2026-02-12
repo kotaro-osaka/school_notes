@@ -11,10 +11,15 @@
             "id": "dc63788f395e6eaa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - BSN/bsn_2026-02-12_aufgabe-10-vlan-einrichten.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "bsn_2026-02-12_aufgabe-10-vlan-einrichten"
             }
           }
         ]
@@ -189,6 +194,7 @@
   },
   "active": "dc63788f395e6eaa",
   "lastOpenFiles": [
+    "00 - BSN/bsn_2026-02-12_aufgabe-10-vlan-einrichten.md",
     "05 - Politik/pgl_2026-02-10_praes-entstehung-eu.md",
     "01 - ET/et_2026-02-05_brueckengleichrichtung.md",
     "01 - ET/et_2026-02-05_brueckengleichrichtung-2.png",
@@ -227,7 +233,6 @@
     "02 - MMI/mmi_2026-01-19_mqtt-seven-segment-display.md",
     "99 - misc/Pasted image 20260119121134.png",
     "Untitled Diagram.svg",
-    "07 - English/english_2026-01-19_oral-exam.md",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "Untitled.canvas",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
