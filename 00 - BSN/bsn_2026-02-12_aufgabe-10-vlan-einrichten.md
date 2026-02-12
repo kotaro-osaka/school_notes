@@ -35,4 +35,6 @@ ___
 
 ## Aufgabe 5
 1. Inter-VLAN-Routing einrichten
-2. Router/L3-Switch
+2. Router/L3-Switch verwenden
+3. Subnetz pro VLAN zuweisen
+4. Standard-Gateway für VLANs konfigurieren
