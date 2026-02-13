@@ -34,6 +34,12 @@ CREATE ROLE
 
 ### Benutzer anlegen
 ```sql
-CREATE USER 'geschaeftsfuehrer'@'localhost' IDENTIFIED BY 'pwd';
-CREATE USER 'hrmitarbeiter'@'localhost' IDENTIFIED BY 'pwd';
+CREATE USER 'geschaeftsfuehrer'@'localhost';
+CREATE USER 'hr_mitarbeiter'@'localhost';
+CREATE USER 'buchhaltung_mitarbeiter'@'localhost';
+CREATE USER 'projektmanager'@'localhost';
+CREATE USER 'entwickler'@'localhost';
+CREATE USER 'vertriebsmitarbeiter'@'localhost';
+CREATE USER 'praktikant'@'localhost';
 ```
+
