@@ -11,10 +11,15 @@
             "id": "55a0d1258c62945e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "db_2026-02-13_benutzerrechte"
             }
           }
         ]
@@ -187,8 +192,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "55a0d1258c62945e",
   "lastOpenFiles": [
+    "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
     "00 - BSN/bsn_2026-02-12_aufgabe-10-vlan-einrichten.md",
     "00 - BSN/bsn_2026-02-12_VLAN_AufgabeUmsetzung_2023.pdf",
     "05 - Politik/pgl_2026-02-10_praes-entstehung-eu.md",
