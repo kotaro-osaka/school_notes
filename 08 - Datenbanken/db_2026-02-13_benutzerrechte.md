@@ -65,5 +65,20 @@ ON techsolutions.mitarbeiter
 TO role_hr;
 
 -- Buchhaltung
-GRANT SELECT ON techsolutions.mitarbeiter TO role_
+GRANT SELECT ON techsolutions.mitarbeiter TO role_accounting;
+GRANT SELECT ON techsolutions.kunden TO role_accounting;
+GRANT SELECT ON techsolutions.projekte TO role_accounting;
+GRANT SELECT, INSERT, UPDATE ON techsolutions.rechnungen TO role_accounting;
+
+-- Projektmanager
+GRANT SELECT ON techsolutions.mitarbeiter TO role_project_manager;
+GRANT SELECT ON techsolutions.kunden TO role_project_manager;
+GRANT SELECT, INSERT, UPDATE ON techsolutions.projekte TO role_project_manager;
+
+-- Entwickler
+GRANT SELECT ON techsolutions.mitarbeiter TO role_developer;
+GRANT SELECT, UPDATE ON techsolutions.projekte TO role_developer;
+
+-- Vertrieb
+GRANT SELECT, INSERT, UPDATE ON techsolutions.kunden TO ro
 ```
