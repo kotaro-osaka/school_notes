@@ -33,5 +33,5 @@ CREATE ROLE role_intern;
 
 ### Benutzer anlegen
 ```sql
-CREATE USER 
+CREATE USER "geschaeftsfuehrer" IDENTIFIED
 ```
