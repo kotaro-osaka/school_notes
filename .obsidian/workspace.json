@@ -37,8 +37,7 @@
               "title": "db_2026-02-06_benutzerverwaltung"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,8 +207,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66b77b190e663e25",
+  "active": "55a0d1258c62945e",
   "lastOpenFiles": [
+    "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
     "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf",
     "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
     "00 - BSN/bsn_2026-02-12_aufgabe-10-vlan-einrichten.md",
@@ -221,7 +221,6 @@
     "Untitled.md",
     "00 - BSN/bsn_2025-02-06_VLAN_Aufgabe_2023.pdf",
     "00 - BSN/bsn_2026-02-06_vlan-vortrag.md",
-    "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
     "Untitled.base",
     "Untitled 1.base",
     "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",

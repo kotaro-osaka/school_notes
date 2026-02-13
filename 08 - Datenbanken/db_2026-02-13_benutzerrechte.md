@@ -22,16 +22,18 @@ ___
 ## Aufgabe 3
 ### Rollen anlegen
 ```sql
-CREATE ROLE role_management;
-CREATE ROLE role_hr;
-CREATE ROLE role_accounting;
-CREATE ROLE role_project_manager;
-CREATE ROLE role_developer;
-CREATE ROLE role_sales;
-CREATE ROLE role_intern;
+CREATE ROLE
+	role_management,
+	role_hr,
+	role_accounting,
+	role_project_manager,
+	role_developer,
+	role_sales,
+	role_intern;
 ```
 
 ### Benutzer anlegen
 ```sql
-CREATE USER "geschaeftsfuehrer" IDENTIFIED
+CREATE USER 'geschaeftsfuehrer'@'localhost' IDENTIFIED BY 'pwd';
+CREATE USER 'hrmitarbeiter'@'localhost' IDENTIFIED BY 'pwd';
 ```
