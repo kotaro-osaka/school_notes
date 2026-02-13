@@ -11,8 +11,11 @@ ___
 
 ## Aufgabe 2
 
-| Rolle           | mitarbeiter                            | kunden                                 | projekte                               | rechnungen                             |
-| --------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- |
-| role_management | `SELECT`, `INSERT`, `UPDATE`, `DELETE` | `SELECT`, `INSERT`, `UPDATE`, `DELETE` | `SELECT`, `INSERT`, `UPDATE`, `DELETE` | `SELECT`, `INSERT`, `UPDATE`, `DELETE` |
-| role_hr         | `SELECT`, `INSERT`, `UPDATE`           | -                                      | -                                      | -                                      |
-| role_accounting | `SELECT`                               | `SELECT`                               | `SELECT`                               |                                        |
+| Rolle                | mitarbeiter                            | kunden                                 | projekte                               | rechnungen                             |
+| -------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- |
+| role_management      | `SELECT`, `INSERT`, `UPDATE`, `DELETE` | `SELECT`, `INSERT`, `UPDATE`, `DELETE` | `SELECT`, `INSERT`, `UPDATE`, `DELETE` | `SELECT`, `INSERT`, `UPDATE`, `DELETE` |
+| role_hr              | `SELECT`, `INSERT`, `UPDATE`           | -                                      | -                                      | -                                      |
+| role_accounting      | `SELECT`                               | `SELECT`                               | `SELECT`                               | `SELECT`, `INSERT`, `UPDATE`           |
+| role_project_manager | `SELECT`                               | `SELECT`                               | `SELECT`, `INSERT`, `UPDATE`           | -                                      |
+| role_developer       | `SELECT`                               | -                                      | `SELECT`, `UPDATE`                     | -                                      |
+| role_sales           | -                                      | `SELECT`, `INSERT`, `UPDATE`           | `SELECT`                               |                                        |
