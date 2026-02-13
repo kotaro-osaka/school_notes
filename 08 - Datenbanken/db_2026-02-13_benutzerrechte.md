@@ -34,13 +34,13 @@ CREATE ROLE
 
 ### Benutzer anlegen
 ```mysql
-CREATE USER 'geschaeftsfuehrer'@'localhost';
-CREATE USER 'hr_mitarbeiter'@'localhost';
-CREATE USER 'buchhaltung_mitarbeiter'@'localhost';
-CREATE USER 'projektmanager'@'localhost';
-CREATE USER 'entwickler'@'localhost';
-CREATE USER 'vertriebsmitarbeiter'@'localhost';
-CREATE USER 'praktikant'@'localhost';
+CREATE USER 'geschaeftsfuehrer'@'localhost' IDENTIFIED BY "Passwort123";
+CREATE USER 'hr_mitarbeiter'@'localhost' IDENTIFIED BY "Passwort123";
+CREATE USER 'buchhaltung_mitarbeiter'@'localhost' IDENTIFIED BY "Passwort123";
+CREATE USER 'projektmanager'@'localhost' IDENTIFIED BY "Passwort123";
+CREATE USER 'entwickler'@'localhost' IDENTIFIED BY "Passwort123";
+CREATE USER 'vertriebsmitarbeiter'@'localhost' IDENTIFIED BY "Passwort123";
+CREATE USER 'praktikant'@'localhost' IDENTIFIED BY "Passwort123";
 ```
 
 ### Rollen zuweisen
@@ -60,9 +60,7 @@ GRANT role_intern TO 'praktikant'@'localhost';
 GRANT ALL PRIVILEGES ON techsolutions.* TO role_management;
 
 -- Personalabteilung
-GRANT SELECT, INSERT, UPDATE
-ON techsolutions.mitarbeiter
-TO role_hr;
+GRANT SELECT, INSERT, UPDATE ON techsolutions.mitarbeiter TO role_hr;
 
 -- Buchhaltung
 GRANT SELECT ON techsolutions.mitarbeiter TO role_accounting;
@@ -80,5 +78,10 @@ GRANT SELECT ON techsolutions.mitarbeiter TO role_developer;
 GRANT SELECT, UPDATE ON techsolutions.projekte TO role_developer;
 
 -- Vertrieb
-GRANT SELECT, INSERT, UPDATE ON techsolutions.kunden TO ro
+GRANT SELECT, INSERT, UPDATE ON techsolutions.kunden TO role_sales;
+GRANT SELECT ON techsolutions.projekte TO role_sales;
+GRANT SELECT ON techsolutions.rechnungen TO role_sales;
+
+-- Praktikanten
+GRANT SELECT ON techsolutions.projekte TO role_intern;
 ```
