@@ -1,6 +1,6 @@
 # Benutzerrechte
 ___
-## Aufgabe 1
+## Aufgabe I
 - Geschäftsführer -> `role_management`
 - Personalabteilung -> `role_hr`
 - Buchhaltung -> `role_accounting`
@@ -8,7 +8,7 @@ ___
 - Entwickler -> `role_developer`
 - Vertriebsmitarbeiter -> `role_sales`
 - Externe Praktikanten -> `role_intern`
-## Aufgabe 2
+## Aufgabe II
 
 | Rolle                | mitarbeiter                            | kunden                                 | projekte                               | rechnungen                             |
 | -------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- |
@@ -19,7 +19,7 @@ ___
 | role_developer       | `SELECT`                               | -                                      | `SELECT`, `UPDATE`                     | -                                      |
 | role_sales           | -                                      | `SELECT`, `INSERT`, `UPDATE`           | `SELECT`                               | `SELECT`                               |
 | role_intern          | -                                      | -                                      | `SELECT`                               | -                                      |
-## Aufgabe 3
+## Aufgabe III
 ### Rollen anlegen
 ```mysql
 CREATE ROLE
@@ -54,4 +54,16 @@ GRANT role_sales TO 'vertriebsmitarbeiter'@'localhost';
 GRANT role_intern TO 'praktikant'@'localhost';
 ```
 
-## Aufgabe 4
+## Aufgabe IV
+```mysql
+-- Geschäftsführer
+GRANT ALL PRIVILEGES ON techsolutions.* TO role_management;
+
+-- Personalabteilung
+GRANT SELECT, INSERT, UPDATE
+ON techsolutions.mitarbeiter
+TO role_hr;
+
+-- Buchhaltung
+GRANT SELECT ON techsolutions.mitarbeiter TO role_
+```
