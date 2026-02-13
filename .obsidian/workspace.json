@@ -26,18 +26,16 @@
             "id": "66b77b190e663e25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf"
               },
-              "icon": "lucide-file",
-              "title": "db_2026-02-06_benutzerverwaltung"
+              "icon": "lucide-file-text",
+              "title": "db_2026-02-06_L6_2_Information"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +205,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55a0d1258c62945e",
+  "active": "66b77b190e663e25",
   "lastOpenFiles": [
     "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
     "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
