@@ -53,3 +53,5 @@ GRANT role_developer TO 'entwickler'@'localhost';
 GRANT role_sales TO 'vertriebsmitarbeiter'@'localhost';
 GRANT role_intern TO 'praktikant'@'localhost';
 ```
+
+## Aufgabe 4
