@@ -72,4 +72,17 @@ ___
 4.1 Datenbank implementieren
 4.2 Funktion Favoritenverwaltung
 	4.2.1 Favorit hinzufügen
-	4
+	4.2.2 Favorit löschen
+	4.2.3 Reihenfolge ändern
+	4.2.4 Mehrere Listen verwalten
+4.3 Benutzerverwaltung anbinden
+4.4 GUI umsetzen
+### 5) Testphase
+5.1 Funktionen testen
+5.2 Integration mit Datenbank testen
+5.3 Sicherheitstest (Authentifizierung)
+5.4 Fehlerbehebung
+### 6) Einführung
+6.1 Funktion in AmNetPrime integrieren
+6.2 Dokumentation erstellen
+6.3 Abnahme
