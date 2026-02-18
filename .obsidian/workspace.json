@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7b5a900c93b9531d",
+        "id": "26ca09640aa25296",
         "type": "tabs",
         "children": [
           {
-            "id": "3fc3f457bea9928d",
+            "id": "aaef0649a1c4bd1c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00 - BSN/bsn_2026-02-12_VLAN_AufgabeUmsetzung_2023.pdf"
+                "file": "09 - Software/software_pflichtenheft.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "bsn_2026-02-12_VLAN_AufgabeUmsetzung_2023"
+              "icon": "lucide-file",
+              "title": "software_pflichtenheft"
             }
           }
         ]
@@ -76,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -189,12 +193,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fc3f457bea9928d",
+  "floating": {
+    "id": "bfa2761dcbf0ead0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "78d451851ca808c5",
+        "type": "window",
+        "children": [
+          {
+            "id": "6c81e5fb3d19bb41",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5457204265e9007e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "09 - Software/sw_2026-02-18_favoritenliste.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "sw_2026-02-18_favoritenliste"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 854,
+        "y": 40,
+        "width": 855,
+        "height": 992,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5457204265e9007e",
   "lastOpenFiles": [
+    "09 - Software/software_pflichtenheft.md",
+    "09 - Software/sw_2026-02-18_favoritenliste.md",
+    "09 - Software/favoritenliste.png",
+    "09 - Software/ABSCHLUSSKLAUSUR.md",
+    "00 - BSN/bsn_2026-02-12_VLAN_AufgabeUmsetzung_2023.pdf",
     "Untitled.md",
     "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
     "00 - BSN/bsn_2026-02-12_aufgabe-10-vlan-einrichten.md",
-    "00 - BSN/bsn_2026-02-12_VLAN_AufgabeUmsetzung_2023.pdf",
     "01 - ET/et_2026-02-05_brueckengleichrichtung-2.png",
     "00 - BSN/bsn_2026-02-06_vlan-vortrag.md",
     "01 - ET/1 - lexicon/gleichrichterschaltungen.md",
@@ -223,11 +271,7 @@
     "07 - English/enlgish_28-01-2026_sentences-for-observation.md",
     "07 - English/Untitled",
     "03 - Mathe/mathe_2025-01-16_ggT-kgv.md",
-    "03 - Mathe/Klausur Vorbereitung.md",
     "03 - Mathe/07_mgk_ggt-kgv.pdf",
-    "01 - ET/et_23-01-2026_halbleiter.md",
-    "01 - ET/99 - archive/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
-    "02 - MMI/mmi_2026-01-19_mqtt.md",
     "99 - misc/Pasted image 20260119121134.png",
     "Untitled Diagram.svg",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
@@ -236,7 +280,6 @@
     "01 - ET/0 - res/Screenshot 2025-09-24 at 09.55.47.png",
     "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
     "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
-    "99 - misc/Pasted image 20250430102206.png",
-    "99 - misc/zwei_punkte_berechnen_bsp.png"
+    "99 - misc/Pasted image 20250430102206.png"
   ]
 }
