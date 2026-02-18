@@ -46,25 +46,30 @@ ___
 - Onboarding von neuen Devs ist trotzdem einfach, da dies nicht die Dokumentation ersetzt
 ## PSP
 ### 1) Projektmanagement
-1. Projektplanung
-2. Ressourcenplanung
-3. Zeitplanung
-4. Projektdokumentation
-5. Abnahme Vorbereiten
+1.1 Projektplanung
+1.2 Ressourcenplanung
+1.3 Zeitplanung
+1.4 Projektdokumentation
+1.5 Abnahme Vorbereiten
 ### 2) Analysephase
-1. Anforderungen analysieren
-2. Funktionale Anforderungen definieren
-3. Nicht-funktionale Anforderungen definieren
-4. Use Cases erstellen
-5. Pflichtenheft erstellen
+2.1 Anforderungen analysieren
+2.2 Funktionale Anforderungen definieren
+2.3 Nicht-funktionale Anforderungen definieren
+2.4 Use Cases erstellen
+2.5 Pflichtenheft erstellen
 ### 3) Systementwurf
-1. Architektur festlegen
-2. Datenbankstruktur entwerfen
-	1. Benutzer
-	2. Filme
-	3. Favoritenlisten
-3. GUI entwerfen
-	1. Auswahl Favoritenliste
-	2. Hinzufügen & Entfernen Favoritenlisten
-	3. Hinzufügen & Entfernen Favoriten
-	4. 
+3.1 Architektur festlegen
+3.2 Datenbankstruktur entwerfen
+	3.2.1. Benutzer
+	3.2.2 Filme
+	3.3.3 Favoritenlisten
+3.3 GUI entwerfen
+	3.3.1 Auswahl Favoritenliste
+	3.3.2. Hinzufügen & Entfernen Favoritenlisten
+	3.3.3 Hinzufügen & Entfernen Favoriten
+	3.3.4 Sortierfunktion
+### 4) Implementierung
+4.1 Datenbank implementieren
+4.2 Funktion Favoritenverwaltung
+	4.2.1 Favorit hinzufügen
+	4
