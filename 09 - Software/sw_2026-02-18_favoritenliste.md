@@ -45,3 +45,4 @@ ___
 - Später Kann man immer noch problemlos zu anderen Vorgehensmodellen migrieren
 - Onboarding von neuen Devs ist trotzdem einfach, da dies nicht die Dokumentation ersetzt
 ## PSP
+1. Projektmanagement
