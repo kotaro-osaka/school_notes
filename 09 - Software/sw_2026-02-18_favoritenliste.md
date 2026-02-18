@@ -2,7 +2,11 @@
 ___
 ## Funktionale & Nicht-Funktionale Anforderungen
 ### Funktionale Anforderungen
-1. Filme zu Favoriten hinzufügen
-2. Favoriten entfernen
-3. Reihenfolge der Favoriten festlegen (ASC / DESC)
-4. Mehrere Favoritenlisten an
+- Filme zu Favoriten hinzufügen
+- Favoriten entfernen
+- Reihenfolge der Favoriten festlegen (ASC / DESC)
+- Mehrere Favoritenlisten anlegen
+- Login mit UserID + Passwort
+- Individuelle Favoriten pro Benutzer
+- Zentrale SQL-Datenbank
+### Nicht
