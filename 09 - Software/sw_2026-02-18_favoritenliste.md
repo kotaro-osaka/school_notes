@@ -55,4 +55,16 @@ ___
 1. Anforderungen analysieren
 2. Funktionale Anforderungen definieren
 3. Nicht-funktionale Anforderungen definieren
-4. Use 
+4. Use Cases erstellen
+5. Pflichtenheft erstellen
+### 3) Systementwurf
+1. Architektur festlegen
+2. Datenbankstruktur entwerfen
+	1. Benutzer
+	2. Filme
+	3. Favoritenlisten
+3. GUI entwerfen
+	1. Auswahl Favoritenliste
+	2. Hinzufügen & Entfernen Favoritenlisten
+	3. Hinzufügen & Entfernen Favoriten
+	4. 
