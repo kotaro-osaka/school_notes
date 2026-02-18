@@ -9,4 +9,10 @@ ___
 - Login mit UserID + Passwort
 - Individuelle Favoriten pro Benutzer
 - Zentrale SQL-Datenbank
-### Nicht
+### Nicht-funktionale Anforderungen
+- Authentifizierung
+- Einfache Bedienung
+- Konsistenz
+- Erweiterbar
+### Weitere Punkte
+- Systemabgrenzung: Teil
