@@ -17,6 +17,9 @@ ___
 - **Skalierbarkeit**: Muss für viele Benutzer gleichzeitig funktionieren
 - **Wartbarkeit**: Erweiterbar für spätere Funktionen
 ### Weitere Punkte
+- (Ausgangssituation & Zielsetzung)
+- (Lebenszyklus des Gesamtsystems)
+- ()
 - **Systemabgrenzung**: Teil von AmNetPrime
 - **Use Cases**
 	- Favorit hinzufügen
@@ -24,10 +27,10 @@ ___
 	- Login
 - **Datenmodell**
 	- User (user_id, password)
-	- Film (film_id, filmname)
-	- Favoritenliste (liste_id, user_id, filmname)
-- **Randbedingungen**
-	- Funktion muss in erster Version enthalten sein
+	- Film (film_id, film_name)
+	- Favoritenliste (liste_id, user_id, liste_name, film_name)
+- **Schnittstellenübersicht**: Datenbank 
+- **Randbedingungen**: Funktion muss in erster Version enthalten sein
 - **Abnahmekriterien**
 	- Persistente Speicherung von Favoriten
 	- Zugriff ohne Login nicht möglich
