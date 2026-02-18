@@ -15,4 +15,15 @@ ___
 - Konsistenz
 - Erweiterbar
 ### Weitere Punkte
-- Systemabgrenzung: Teil
+- Systemabgrenzung: Teil von AmNetPrime
+- Use Cases
+	- Favorit hinzufügen
+	- Favoriten sortieren
+	- Login
+- Datenmodell
+	- 
+- Randbedingungen
+	- Funktion muss in erster Version enthalten sein
+- Abnahmekriterien
+	- Persistente Speicherung von Favoriten
+	- Zugriff ohne Login nicht möglich
