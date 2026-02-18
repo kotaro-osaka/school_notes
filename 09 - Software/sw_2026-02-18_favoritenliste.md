@@ -29,8 +29,9 @@ ___
 	- User (user_id, password)
 	- Film (film_id, film_name)
 	- Favoritenliste (liste_id, user_id, liste_name, film_name)
-- **Schnittstellenübersicht**: Datenbank 
+- **Schnittstellenübersicht**: Datenbank ←→ GUI
 - **Randbedingungen**: Funktion muss in erster Version enthalten sein
+- (Qualitätskriterien: Reaktionszeiten, Fehlertoleranz, Datenschutzanforderungen)
 - **Abnahmekriterien**
 	- Persistente Speicherung von Favoriten
 	- Zugriff ohne Login nicht möglich
