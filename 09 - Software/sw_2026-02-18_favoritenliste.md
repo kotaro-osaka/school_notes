@@ -12,20 +12,22 @@ ___
 ### Nicht-funktionale Anforderungen
 - **Sicherheit**: Authentifizierung
 - **Performance**: Favoriten schnell laden, Datenbankzugriffe optimieren
-- Benutzerfreundlichkeit: Einfache Bedienung, Klare Rückmeldung bei Aktionen
-- Zuverlässigkeit: Keine Datenverluste, Konsistenz zwischen Favoriten und Filmen
+- **Benutzerfreundlichkeit**: Einfache Bedienung, Klare Rückmeldung bei Aktionen
+- **Zuverlässigkeit**: Keine Datenverluste, Konsistenz zwischen Favoriten und Filmen
+- **Skalierbarkeit**: Muss für viele Benutzer gleichzeitig funktionieren
+- **Wartbarkeit**: Erweiterbar für spätere Funktionen
 ### Weitere Punkte
-- Systemabgrenzung: Teil von AmNetPrime
-- Use Cases
+- **Systemabgrenzung**: Teil von AmNetPrime
+- **Use Cases**
 	- Favorit hinzufügen
 	- Favoriten sortieren
 	- Login
-- Datenmodell
-	- User (user_id, passwort)
+- **Datenmodell**
+	- User (user_id, password)
 	- Film (film_id, filmname)
 	- Favoritenliste (liste_id, user_id, filmname)
-- Randbedingungen
+- **Randbedingungen**
 	- Funktion muss in erster Version enthalten sein
-- Abnahmekriterien
+- **Abnahmekriterien**
 	- Persistente Speicherung von Favoriten
 	- Zugriff ohne Login nicht möglich
