@@ -11,10 +11,12 @@
             "id": "3fc3f457bea9928d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "00 - BSN/bsn_2026-02-12_VLAN_AufgabeUmsetzung_2023.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "bsn_2026-02-12_VLAN_AufgabeUmsetzung_2023"
             }
           }
         ]
@@ -189,12 +191,15 @@
   },
   "active": "3fc3f457bea9928d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
+    "00 - BSN/bsn_2026-02-12_aufgabe-10-vlan-einrichten.md",
+    "00 - BSN/bsn_2026-02-12_VLAN_AufgabeUmsetzung_2023.pdf",
     "01 - ET/et_2026-02-05_brueckengleichrichtung-2.png",
     "00 - BSN/bsn_2026-02-06_vlan-vortrag.md",
     "01 - ET/1 - lexicon/gleichrichterschaltungen.md",
     "01 - ET/et_2026-02-05_brueckengleichrichtung.md",
     "05 - Politik/pgl_2026-02-10_praes-entstehung-eu.md",
-    "Untitled.md",
     "00 - BSN/bsn_2025-02-06_VLAN_Aufgabe_2023.pdf",
     "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf",
     "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
@@ -222,9 +227,7 @@
     "03 - Mathe/07_mgk_ggt-kgv.pdf",
     "01 - ET/et_23-01-2026_halbleiter.md",
     "01 - ET/99 - archive/pn_uebergang_halbleiterdiode_2025_13_01_2025.md",
-    "01 - ET/99 - archive/Halbleiter_ Das Wichtigste_2025_09.01.pdf",
     "02 - MMI/mmi_2026-01-19_mqtt.md",
-    "02 - MMI/mmi_2026-01-19_mqtt-seven-segment-display.md",
     "99 - misc/Pasted image 20260119121134.png",
     "Untitled Diagram.svg",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
