@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Software/software_pflichtenheft.md",
+                "file": "09 - Software/software_vorgehensmodelle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "software_pflichtenheft"
+              "title": "software_vorgehensmodelle"
             }
           }
         ]
@@ -224,7 +224,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 854,
         "y": 40,
         "width": 855,
         "height": 992,
@@ -235,6 +235,7 @@
   },
   "active": "5457204265e9007e",
   "lastOpenFiles": [
+    "09 - Software/software_vorgehensmodelle.md",
     "09 - Software/software_pflichtenheft.md",
     "09 - Software/sw_2026-02-18_favoritenliste.md",
     "09 - Software/favoritenliste.png",

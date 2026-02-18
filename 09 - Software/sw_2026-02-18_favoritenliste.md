@@ -35,3 +35,8 @@ ___
 - **Abnahmekriterien**
 	- Persistente Speicherung von Favoriten
 	- Zugriff ohne Login nicht möglich
+## Vorgehensmodell
+### Trial and Error
+- Einfaches Phasenmodell (Coding → Fehlersuche & -beseitigung 🔁)
+- Ich als alleiniger Developer halte das Projekt für sehr übersichtlich
+- Habe weitgehende
