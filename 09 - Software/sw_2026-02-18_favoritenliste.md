@@ -10,10 +10,10 @@ ___
 - Individuelle Favoriten pro Benutzer
 - Zentrale SQL-Datenbank
 ### Nicht-funktionale Anforderungen
-- Authentifizierung
-- Einfache Bedienung
-- Konsistenz
-- Erweiterbar
+- **Sicherheit**: Authentifizierung
+- **Performance**: Favoriten schnell laden, Datenbankzugriffe optimieren
+- Benutzerfreundlichkeit: Einfache Bedienung, Klare Rückmeldung bei Aktionen
+- Zuverlässigkeit: Keine Datenverluste, Konsistenz zwischen Favoriten und Filmen
 ### Weitere Punkte
 - Systemabgrenzung: Teil von AmNetPrime
 - Use Cases
