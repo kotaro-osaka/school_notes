@@ -39,4 +39,7 @@ ___
 ### Trial and Error
 - Einfaches Phasenmodell (Coding → Fehlersuche & -beseitigung 🔁)
 - Ich als alleiniger Developer halte das Projekt für sehr übersichtlich
-- Habe weitgehende
+- Habe gute Vorstellungen von der Umsetzung
+- Bin überzeugt, dass andere Modelle nur unnötig Zeit kosten würden
+- Für eine erste Version ausreichend
+- Später Kann man immer noch problemlos zu anderen Vorgehensmodellen migrieren
