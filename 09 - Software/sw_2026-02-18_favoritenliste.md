@@ -45,4 +45,14 @@ ___
 - Später Kann man immer noch problemlos zu anderen Vorgehensmodellen migrieren
 - Onboarding von neuen Devs ist trotzdem einfach, da dies nicht die Dokumentation ersetzt
 ## PSP
-1. Projektmanagement
+### 1) Projektmanagement
+1. Projektplanung
+2. Ressourcenplanung
+3. Zeitplanung
+4. Projektdokumentation
+5. Abnahme Vorbereiten
+### 2) Analysephase
+1. Anforderungen analysieren
+2. Funktionale Anforderungen definieren
+3. Nicht-funktionale Anforderungen definieren
+4. Use 
