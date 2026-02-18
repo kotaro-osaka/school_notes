@@ -21,7 +21,9 @@ ___
 	- Favoriten sortieren
 	- Login
 - Datenmodell
-	- 
+	- User (user_id, passwort)
+	- Film (film_id, filmname)
+	- Favoritenliste (liste_id, user_id, filmname)
 - Randbedingungen
 	- Funktion muss in erster Version enthalten sein
 - Abnahmekriterien
