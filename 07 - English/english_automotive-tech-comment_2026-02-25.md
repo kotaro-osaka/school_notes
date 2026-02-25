@@ -6,7 +6,7 @@ ___
 
 Technology has been evolving and expanding at exponentially faster rates over the last decades and one of the primary motivators behind the rapid developments is the strive for a better and easier life for the individual and for companies to be profitable. Cars are a big part of everyone’s everyday life, whether they own one themselves, or not, encountering vehicles is close to inevitable in most populated places.
 This begs the question if EV’s have the potential to completely replace petrol cars due to their rising relevance.
-Based on the previously mentioned motivators, one can assume, that companies will continue to innovate in this sector to benefit from the publicity around EV’s, which increases sales. People’s view on EV’s being environmentally sustainable is also a highly disputed, yet big talking point now and seek profits
+Based on the previously mentioned motivators, one can assume, that companies will continue to innovate in this sector to benefit from the publicity around EV’s, which increases sales. People’s view on EV’s being environmentally sustainable is also a highly disputed claim that nevertheless brings in many potential customers.
 
 laws
 china + futuristic thinking because longevity
