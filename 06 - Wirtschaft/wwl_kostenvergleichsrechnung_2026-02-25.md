@@ -1,8 +1,6 @@
 # Kostenvergleichsrechnung
 ___
 **Kosten:** $K = K_f + K_v$
-**Fixe Kosten $K_f$:** Unabhängig
+	**Fixe Kosten $K_f$:** Unabhängig
+	**Variable Kosten $K_v$:** 
 
-- jährliche gesamt ermittelt & verglichen
-- fix: jährlich, miete, versicherungsbeiträge (unabhängig von prod menge)
-- 
