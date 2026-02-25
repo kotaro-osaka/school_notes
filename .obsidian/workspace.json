@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "26ca09640aa25296",
+        "id": "119b09021f34f712",
         "type": "tabs",
         "children": [
           {
-            "id": "aaef0649a1c4bd1c",
+            "id": "47d8ee2c42ba0c78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09 - Software/software_vorgehensmodelle.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "software_vorgehensmodelle"
-            }
-          },
-          {
-            "id": "5457204265e9007e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09 - Software/sw_2026-02-18_favoritenliste.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "sw_2026-02-18_favoritenliste"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -209,11 +187,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5457204265e9007e",
+  "active": "47d8ee2c42ba0c78",
   "lastOpenFiles": [
     "09 - Software/software_vorgehensmodelle.md",
-    "09 - Software/software_pflichtenheft.md",
     "09 - Software/sw_2026-02-18_favoritenliste.md",
+    "09 - Software/software_pflichtenheft.md",
     "09 - Software/favoritenliste.png",
     "09 - Software/ABSCHLUSSKLAUSUR.md",
     "00 - BSN/bsn_2026-02-12_VLAN_AufgabeUmsetzung_2023.pdf",
