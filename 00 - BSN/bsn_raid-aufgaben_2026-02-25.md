@@ -9,8 +9,12 @@ ___
 
 ## Aufgabe 2
 
-| RAID-Level |     |     |
-| ---------- | --- | --- |
-| RAID 0     |     |     |
-| RAID 1     |     |     |
-| RAID 5     |     |     |
+| RAID-Level | Nutzbare Kapazität | Erklärung               |
+| ---------- | ------------------ | ----------------------- |
+| RAID 0     | 4 TB               | Nutzung aller Platten   |
+| RAID 1     | 1 TB               | Komplette Spiegelung    |
+| RAID 5     | 3 TB               | Eine Platte für Parität |
+- RAID 0 = $n \times \text{Größe}$
+- RAID 1 = *Größe einer Platte*
+- RAID 5 = $(n-1) \times \text{Größe}$
+
