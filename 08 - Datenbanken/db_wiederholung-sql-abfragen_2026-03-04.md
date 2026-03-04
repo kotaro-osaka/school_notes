@@ -28,5 +28,6 @@ LEFT JOIN Belegung ON Studierender.MatrikelNr = Belegung.MatrikelNr;
 -- Studierende, die gleichen Namen und E-Mail-Adresse haben
 
 SELECT * FROM Studierender
-WHERE Name 
+WHERE Studierender.Name IS NOT UNIQUE &&
+	Studierender.Email IS NOT UNIQUE
 ```
