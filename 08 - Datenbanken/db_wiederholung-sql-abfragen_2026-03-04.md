@@ -31,3 +31,4 @@ SELECT * FROM Studierender
 WHERE Studierender.Name  &&
 	Studierender.Email
 ```
+
