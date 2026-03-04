@@ -7,4 +7,5 @@ ___
 
 SELECT * FROM Studierender
 WHERE 
+JOIN Belegung ON 
 ```
