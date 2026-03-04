@@ -13,5 +13,12 @@ LEFT JOIN Belegung ON Studierender.MatrikelNr = Belegung.MatrikelNr;
 ```mysql
 -- Überprüfe, ob diese Studierenden mehr Lehrveranstaltungen bestanden haben, als der Durchschnitt aller Studierenden
 
-SELECT 
+SELECT * FROM Studierender
+WHERE Belegung.Note > 1.5 &&
+	Belegung.Status = 'Bestanden'
+LEFT JOIN Belegung ON Studierender.MatrikelNr = Belegung.MatrikelNr;
+```
+
+```mysql
+-- Auflistung aller "verdächtigen"
 ```
