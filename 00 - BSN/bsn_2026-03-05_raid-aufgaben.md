@@ -31,5 +31,11 @@ ___
 - **Use case:** Large arrays, archival, high-reliability needs
 ### RAID 10 (1+0) - Mirror then Stripe
 - Drives mirrored in pairs first, then those mirrors are striped
+- **Performance:** Excellent read/write
+- **Redundancy:** Survives one failure per mirrored pair
+- **Min drives:** 4
+- **Use case:** Databases, high-traffic applications
+### RAID 01 (0+1) - Stripe then Mirror
+- Drives striped first into groups, then those stripes are mirrored
 - **Performance:** Excellent read/write (similar to RAID 10)
-- 
+- **Redundancy:** Weaker 
