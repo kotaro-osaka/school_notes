@@ -18,6 +18,18 @@ ___
 ### RAID 5 - Striping with Parity
 - Data + parity spread across all drives
 - **Performance:** Good reads, decent writes
-- **Redundancy:** Survives 1 drive failu
+- **Redundancy:** Survives 1 drive failure
+- **Min drives:** 3
+- **Use case:** File servers, NAS, general storage
 
 > **How parity works:** For every chunk of data written across drives, a mathematical checksum (the parity block) is calculated and stored on a different drive. If one drive dies, the controller uses the remaining data and the parity block to reconstruct the missing data — like solving for a missing variable: if you know `A + B = C`, and you lose `A`, you can recover it from `B` and `C`. Parity rotates across all drives so no single disk becomes a bottleneck.
+### RAID 6 - Striping with Double Parity
+- RAID 5 but with two parity blocks
+- **Performance:** Good reads, slower writes
+- **Redundancy:** Survives 2 drive failure
+- **Min drives:** 4
+- **Use case:** Large arrays, archival, high-reliability needs
+### RAID 10 (1+0) - Mirror then Stripe
+- Drives mirrored in pairs first, then those mirrors are striped
+- **Performance:** Excellent read/write (similar to RAID 10)
+- 
