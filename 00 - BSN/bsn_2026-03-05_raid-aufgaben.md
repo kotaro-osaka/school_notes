@@ -58,7 +58,12 @@ ___
 
 ## Comparison
 
-| Level | Min Drives | Fault Tolerance | Speed | Usable Capacity |
-| ----- | ---------- | --------------- | ----- | --------------- |
-| 0     | 2          | None            | ⚡⚡⚡   | 100%            |
-| 1     | 2          | 1≤ drives       |       |                 |
+| Level | Min Drives | Fault Tolerance    | Speed | Usable Capacity |
+| ----- | ---------- | ------------------ | ----- | --------------- |
+| 0     | 2          | None               | ⚡⚡⚡   | 100%            |
+| 1     | 2          | 1≤ drives          | ⚡⚡    | 50%             |
+| 5     | 3          | 1 drive            | ⚡⚡    | (n-1)/n         |
+| 6     | 4          | 2 drives           | ⚡     | (n-2)/n         |
+| 01    | 4          | 1 drive            | ⚡⚡⚡   | 50%             |
+| 10    | 4          | 1 per mirror pair  | ⚡⚡⚡   | 50%             |
+| 50    | 6          | 1 per RAID 5 group | ⚡⚡⚡   | (n-groups)/n    |
