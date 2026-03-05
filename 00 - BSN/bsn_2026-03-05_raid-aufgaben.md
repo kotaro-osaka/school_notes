@@ -52,3 +52,13 @@ ___
 ### RAID 50 (5+0) - RAID 5 Arrays Striped
 - Multiple RAID 5 groups striped together
 - **Performance:** Better read/write than plain RAID 5, scales well
+- **Redundancy:** Each RAID 5 group tolerates 1 failure; if 2 drives fail in the same group, all data is lost
+- **Min drives:** 6 (two groups of 3)
+- **Use case:** Large enterprise storage, high-throughput file servers, video production
+
+## Comparison
+
+| Level | Min Drives | Fault Tolerance | Speed | Usable Capacity |
+| ----- | ---------- | --------------- | ----- | --------------- |
+| 0     | 2          | None            | ⚡⚡⚡   | 100%            |
+| 1     | 2          | 1≤ drives       |       |                 |
