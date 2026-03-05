@@ -51,4 +51,4 @@ ___
 
 ### RAID 50 (5+0) - RAID 5 Arrays Striped
 - Multiple RAID 5 groups striped together
-- **Performance:** Better read/write than plain RAID 5, s
+- **Performance:** Better read/write than plain RAID 5, scales well
