@@ -64,4 +64,5 @@ VI & VFD: Nur im Notbetrieb
 | Frequenzschwankung       | ❌   | ❌         | ✅   |
 | Oberwellen (Harmonische) | ❌   | ❌         | ✅   |
 | Rauschen (Störimpulse)   | ❌   | ❌         | ✅   |
-> VI/
+- VI/Spannungsregler schützt gegen langsame, moderate Schwankungen
+- Bei extremen oder sehr schnellen Ereignissen ist der Spannungsregler überfordert

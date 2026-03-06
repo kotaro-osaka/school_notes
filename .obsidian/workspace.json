@@ -37,7 +37,8 @@
               "title": "bsn_usv-aufgaben_2026-03-06"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +209,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7549239353dbf6b0",
+  "active": "e2e23ea7c34cc4c9",
   "lastOpenFiles": [
-    "00 - BSN/bsn_usv-aufgaben_2026-03-06.md",
     "00 - BSN/bsn_2026-03-06_usv.md",
+    "00 - BSN/bsn_usv-aufgaben_2026-03-06.md",
     "00 - BSN/bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau.pdf",
     "00 - BSN/bsn_2026-03-05_raid-aufgaben.md",
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf",
