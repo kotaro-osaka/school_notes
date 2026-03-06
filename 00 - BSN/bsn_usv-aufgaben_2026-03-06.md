@@ -69,15 +69,19 @@ VI & VFD: Nur im Notbetrieb
 
 ## 9.
 
-|                                                                                              | VFD           | VI            | VFI                     |
-| -------------------------------------------------------------------------------------------- | ------------- | ------------- | ----------------------- |
-| Anschaffungskosten                                                                           | ✅ Günstig     | ✅ Mittel      | ❌ Teuer                 |
-| Stromkosten                                                                                  | ✅ Niedrig     | ✅ Niedrig     | ❌ Hoch (+10% dauerhaft) |
-| Umschaltzeit**Geeignet für**✅ PCs, Heimgeräte✅ Server, KMU✅ Rechenzentren, kritische Systeme | ❌ 4–20 ms     | ❌ 2–10 ms     | ✅ 0 ms                  |
-| Schutz gegen Stromausfall                                                                    | ✅             | ✅             | ✅                       |
-| Schutz gegen Spannungsschwankungen                                                           | ❌ Nein        | ✅ Ja (AVR)    | ✅ Ja                    |
-| Schutz gegen Frequenzstörungen                                                               | ❌ Nein        | ❌ Nein        | ✅ Ja                    |
-| Schutz gegen Oberwellen/Rauschen                                                             | ❌ Nein        | ❌ Nein        | ✅ Ja                    |
-| Galvanische Trennung vom Netz                                                                | ❌ Nein        | ❌ Nein        | ✅ Ja                    |
-| Wirkungsgrad                                                                                 | ✅ Hoch (~99%) | ✅ Hoch (~97%) | ❌ Niedriger (~94%)      |
-| Komplexität / Wartung                                                                        | ✅ Einfach     | ✅ Mittel      |                         |
+|                                    | VFD               | VI            | VFI                                |
+| ---------------------------------- | ----------------- | ------------- | ---------------------------------- |
+| Anschaffungskosten                 | ✅ Günstig         | ✅ Mittel      | ❌ Teuer                            |
+| Stromkosten                        | ✅ Niedrig         | ✅ Niedrig     | ❌ Hoch (+10% dauerhaft)            |
+| Umschaltzeit                       | ❌ 4–20 ms         | ❌ 2–10 ms     | ✅ 0 ms                             |
+| Schutz gegen Stromausfall          | ✅                 | ✅             | ✅                                  |
+| Schutz gegen Spannungsschwankungen | ❌ Nein            | ✅ Ja (AVR)    | ✅ Ja                               |
+| Schutz gegen Frequenzstörungen     | ❌ Nein            | ❌ Nein        | ✅ Ja                               |
+| Schutz gegen Oberwellen/Rauschen   | ❌ Nein            | ❌ Nein        | ✅ Ja                               |
+| Galvanische Trennung vom Netz      | ❌ Nein            | ❌ Nein        | ✅ Ja                               |
+| Wirkungsgrad                       | ✅ Hoch (~99%)     | ✅ Hoch (~97%) | ❌ Niedriger (~94%)                 |
+| Komplexität / Wartung              | ✅ Einfach         | ✅ Mittel      | ❌ Komplex                          |
+| Geeignet für                       | ✅ PCs, Heimgeräte | ✅ Server, KMU | ✅ Rechenzentren, kritische Systeme |
+- VFD → Billigste Lösung, nur Basisschutz
+- VI → Guter Kompromiss für die meisten Anwendungen
+- VFI → Maximaler Schutz, aber höchste Kosten & Verbrauch
