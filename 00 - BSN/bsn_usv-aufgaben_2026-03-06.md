@@ -7,4 +7,9 @@ ___
 
 ## 3. Warum kann man einen Server nicht direkt mit einer Batterie/Akku betreiben?
 => Server brauchen AC (Wechselstrom), Akkus liefern DC (Gleichstrom)
-=> 
+=> Begrenzte Kapazität (nicht für Dauerbetrieb geeignet)
+
+## 4.
+- VFI Normalbetrieb:
+	- Batterie wird über den Gleichrichter mit Strom aus Stromnetz geladen
+	- 
