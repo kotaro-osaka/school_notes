@@ -8,13 +8,16 @@ ___
 - **Performance:** Excellent read/write
 - **Redundancy:** None - one drive fails, all data lost
 - **Min drives:** 2
+- **Capacity Formula:** $num \times size$
 - **Use case:** Video editing, temp data, speed-critical workloads
+
 
 ### RAID 1 - Mirroring
 - Exact copy of data on each drive
 - **Performance:** Good reads, normal writes
 - **Redundancy:** Can lose all but one drive
 - **Min drives:** 2
+- **Capacity Formula:** $size$
 - **Use case:** OS drives, small servers, critical data
 
 ### RAID 5 - Striping with Parity
@@ -22,6 +25,7 @@ ___
 - **Performance:** Good reads, decent writes
 - **Redundancy:** Survives 1 drive failure
 - **Min drives:** 3
+- **Capacity Formula:** $(num-1)\times size$
 - **Use case:** File servers, NAS, general storage
 
 > **How parity works:** For every chunk of data written across drives, a mathematical checksum (the parity block) is calculated and stored on a different drive. If one drive dies, the controller uses the remaining data and the parity block to reconstruct the missing data — like solving for a missing variable: if you know `A + B = C`, and you lose `A`, you can recover it from `B` and `C`. Parity rotates across all drives so no single disk becomes a bottleneck.
