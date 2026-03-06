@@ -15,4 +15,20 @@ Normalbetrieb:
 - Gerät wird aus der Steckdose mit Strom versorgt
 - Batterie wird über den Gleichrichter mit Strom aus dem Stromnetz geladen
 Notbetrieb:
-	
+- Gerät wird über den Wechselrichter mit Strom versorgt
+
+### VI (Line-Interactive)
+Normalbetrieb:
+- Gerät wird über einen Spannungsregler mit Strom aus der Steckdose versorgt
+- Batterie wird über den Gleichrichter mit Strom aus dem Stromnetz geladen
+Notbetrieb:
+- Gerät wird über den Wechselrichter mit Strom versorgt
+
+### VFI (Online)
+Normalbetrieb:
+- Batterie wird über den Gleichrichter mit Strom aus dem Stromnetz geladen
+- Gerät wird über den Wechselrichter mit Strom versorgt
+Notbetrieb:
+- Gerät wird über den Wechselrichter mit Strom versorgt
+
+## 5.
