@@ -32,3 +32,9 @@ Notbetrieb:
 - Gerät wird über den Wechselrichter mit Strom versorgt
 
 ## 5.
+Bei **VFD** und **VI** ist ein Umschalter verbaut.
+Nachteil: Umschaltzeit:
+1. Ausfall erkennen
+2. Umschalten
+3. Wechselrichter übernimmt
+4. 
