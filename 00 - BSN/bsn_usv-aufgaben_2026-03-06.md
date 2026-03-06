@@ -48,4 +48,14 @@ VI & VFD: Nur im Notbetrieb
 1. Spannungsunterbrechungen (Stromausfall, Kurzzeitunterbrechung)
 2. Spannungsabweichungen (Unterspannung, Überspannung, Spannungsspitze/Surge, Spannungseinbruch/Sag)
 3. Frequenzstörungen (Frequenzabweichung, Frequenzschwankung)
-4. Wellenformstörungen (Oberwellen/Harmoni)
+4. Wellenformstörungen (Oberwellen/Harmonische, Rauschen/Störimpulse)
+
+## 8.
+
+| Störung               | VFD | VI  | VFI |
+| --------------------- | --- | --- | --- |
+| Stromausfall          | ✅   | ✅   | ✅   |
+| Kurzzeitunterbrechung | ✅   | ✅   | ✅   |
+| Unterspannung         | ❌   | ✅   | ✅   |
+| Überspannung          | ❌   | ✅   | ✅   |
+| Spannungsspitze       | ❌   | ⚠️  | ✅   |
