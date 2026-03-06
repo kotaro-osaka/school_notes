@@ -10,6 +10,9 @@ ___
 => Begrenzte Kapazität (nicht für Dauerbetrieb geeignet)
 
 ## 4.
-- VFI Normalbetrieb:
-	- Batterie wird über den Gleichrichter mit Strom aus Stromnetz geladen
-	- 
+### VFD (Offline)
+Normalbetrieb:
+- Gerät wird aus der Steckdose mit Strom versorgt
+- Batterie wird über den Gleichrichter mit Strom aus dem Stromnetz geladen
+Notbetrieb:
+	
