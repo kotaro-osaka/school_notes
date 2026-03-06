@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "27fee985e1592674",
+        "id": "aaef3bba81ced366",
         "type": "tabs",
         "children": [
           {
-            "id": "59cf8b5937e5d3b7",
+            "id": "7549239353dbf6b0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "bsn_2026-03-05_raid-uebungen"
-            }
-          },
-          {
-            "id": "d4586f330bf059e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - BSN/bsn_2026-03-05_raid-aufgaben.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "bsn_2026-03-05_raid-aufgaben"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -206,7 +187,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4586f330bf059e5",
+  "active": "0f5c7bd669d58100",
   "lastOpenFiles": [
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf",
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf.sb-27e28954-tuSl5S",
