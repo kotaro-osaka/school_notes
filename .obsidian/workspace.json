@@ -11,10 +11,15 @@
             "id": "7549239353dbf6b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - BSN/bsn_usv_2026-03-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "bsn_usv_2026-03-06"
             }
           }
         ]
@@ -187,13 +192,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "7549239353dbf6b0",
   "lastOpenFiles": [
+    "00 - BSN/bsn_2026-03-05_raid-aufgaben.md",
+    "00 - BSN/bsn_usv_2026-03-06.md",
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf",
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf.sb-27e28954-tuSl5S",
     "01 - ET/et_klausur-themen.md",
     "00 - BSN/bsn_RAID_Aufgabe_2026-02-25.pdf",
-    "00 - BSN/bsn_2026-03-05_raid-aufgaben.md",
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf.sb-27e28954-tXd5Iq",
     "06 - Wirtschaft/wwl_kostenvergleichsrechnung_2026-02-25.numbers.sb-27e28954-E5LV96",
     "08 - Datenbanken/db_wiederholung-sql-abfragen_2026-03-04.md",
@@ -220,7 +226,6 @@
     "00 - BSN/bsn_2025-02-06_VLAN_Aufgabe_2023.pdf",
     "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf",
     "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
-    "Untitled.base",
     "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
     "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
     "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
