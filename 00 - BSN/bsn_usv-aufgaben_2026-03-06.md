@@ -85,3 +85,17 @@ VI & VFD: Nur im Notbetrieb
 - VFD → Billigste Lösung, nur Basisschutz
 - VI → Guter Kompromiss für die meisten Anwendungen
 - VFI → Maximaler Schutz, aber höchste Kosten & Verbrauch
+
+## 10.
+| #   | Produkt                         | USV-Typ | Leistung         | Preis (ca.) |
+| --- | ------------------------------- | ------- | ---------------- | ----------- |
+| 1   | APC Back-UPS BE650G2-GR         | VFD     | 650 VA / 390 W   | ~40 €       |
+| 2   | Eaton 3S 850 DIN                | VFD     | 850 VA / 510 W   | ~127 €      |
+| 3   | Eaton Ellipse ECO 1600 USB DIN  | VFD     | 1600 VA / 1000 W | ~155 €      |
+| 4   | APC Back-UPS BX750MI-GR         | VI      | 750 VA / 410 W   | ~90 €       |
+| 5   | CyberPower VP1000ELCD           | VI      | 1000 VA / 550 W  | ~117 €      |
+| 6   | Eaton Ellipse PRO 1600 DIN      | VI      | 1600 VA / 1000 W | ~210 €      |
+| 7   | Digitus Line-Interactive 1500VA | VI      | 1500 VA / 900 W  | ~141 €      |
+| 8   | Eaton 9SX 1000I                 | VFI     | 1000 VA / 900 W  | ~700 €      |
+| 9   | APC Smart-UPS SRT 3000VA RM     | VFI     | 3000 VA / 2700 W | ~3.474 €    |
+| 10  | CyberPower OLS2000ERT2UA        | VFI     | 2000 VA / 1800 W | ~1.060 €    |
