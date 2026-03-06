@@ -33,8 +33,15 @@ Notbetrieb:
 
 ## 5.
 Bei **VFD** und **VI** ist ein Umschalter verbaut.
-Nachteil: Umschaltzeit:
+Nachteil: Umschaltzeit (2-20 ms):
 1. Ausfall erkennen
 2. Umschalten
 3. Wechselrichter übernimmt
-4. 
+
+## 6.
+VFI hat die höchsten Stromkosten
+→ Wechselrichter läuft immer
+
+VI & VFD: Nur im Notbetrieb
+
+## 7.
