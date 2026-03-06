@@ -52,10 +52,16 @@ VI & VFD: Nur im Notbetrieb
 
 ## 8.
 
-| Störung               | VFD | VI  | VFI |
-| --------------------- | --- | --- | --- |
-| Stromausfall          | ✅   | ✅   | ✅   |
-| Kurzzeitunterbrechung | ✅   | ✅   | ✅   |
-| Unterspannung         | ❌   | ✅   | ✅   |
-| Überspannung          | ❌   | ✅   | ✅   |
-| Spannungsspitze       | ❌   | ⚠️  | ✅   |
+| Störung                  | VFD | VI        | VFI |
+| ------------------------ | --- | --------- | --- |
+| Stromausfall             | ✅   | ✅         | ✅   |
+| Kurzzeitunterbrechung    | ✅   | ✅         | ✅   |
+| Unterspannung            | ❌   | ✅         | ✅   |
+| Überspannung             | ❌   | ✅         | ✅   |
+| Spannungsspitze (Surge)  | ❌   | teilweise | ✅   |
+| Spannungseinbruch (Sag)  | ❌   | teilweise | ✅   |
+| Frequenzabweichung       | ❌   | ❌         | ✅   |
+| Frequenzschwankung       | ❌   | ❌         | ✅   |
+| Oberwellen (Harmonische) | ❌   | ❌         | ✅   |
+| Rauschen (Störimpulse)   | ❌   | ❌         | ✅   |
+> VI/
