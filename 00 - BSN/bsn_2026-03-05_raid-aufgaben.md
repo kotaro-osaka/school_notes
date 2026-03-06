@@ -35,6 +35,7 @@ ___
 - **Performance:** Good reads, slower writes
 - **Redundancy:** Survives 2 drive failure
 - **Min drives:** 4
+- **Capacity Formula:** $(num - 2)\times size$
 - **Use case:** Large arrays, archival, high-reliability needs
 
 ### RAID 10 (1+0) - Mirror then Stripe
@@ -42,6 +43,7 @@ ___
 - **Performance:** Excellent read/write
 - **Redundancy:** Survives one failure per mirrored pair
 - **Min drives:** 4
+- **Capacity Formula:** $(num / 2) \times size$
 - **Use case:** Databases, high-traffic applications
 
 ### RAID 01 (0+1) - Stripe then Mirror
@@ -49,6 +51,7 @@ ___
 - **Performance:** Excellent read/write (similar to RAID 10)
 - **Redundancy:** Weaker than RAID 10 - if one drive in a stripe fails, the entire stripe is lost; one more failure anywhere kills the array
 - **Min drives:** 4
+- **Capacity Formula:** $(num / 2) \times size$
 - **Use case:** Rarely preferred over RAID 10; sometimes seen in older hardware controllers
 
 > **RAID 10 vs 01:** Both use the same number of drives and capacity, but RAID 10 is generally more resilient. In a 4-drive RAID 10, you can lose one drive from each mirror pair (2 drives total). In RAID 01, a single drive failure degrades a whole stripe, leaving only the one remaining mirror — any second failure is catastrophic.
@@ -58,6 +61,7 @@ ___
 - **Performance:** Better read/write than plain RAID 5, scales well
 - **Redundancy:** Each RAID 5 group tolerates 1 failure; if 2 drives fail in the same group, all data is lost
 - **Min drives:** 6 (two groups of 3)
+- **Capacity Formula:** $(num - 2) \times s$
 - **Use case:** Large enterprise storage, high-throughput file servers, video production
 
 ## Comparison
