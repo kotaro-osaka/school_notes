@@ -23,18 +23,22 @@
             }
           },
           {
-            "id": "7ee149538e5caca9",
+            "id": "e2e23ea7c34cc4c9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00 - BSN/bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau.pdf"
+                "file": "00 - BSN/bsn_usv-aufgaben_2026-03-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau"
+              "icon": "lucide-file",
+              "title": "bsn_usv-aufgaben_2026-03-06"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +209,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7549239353dbf6b0",
+  "active": "e2e23ea7c34cc4c9",
   "lastOpenFiles": [
-    "00 - BSN/bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau.pdf",
     "00 - BSN/bsn_2026-03-06_usv.md",
+    "00 - BSN/bsn_usv-aufgaben_2026-03-06.md",
+    "00 - BSN/bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau.pdf",
     "00 - BSN/bsn_2026-03-05_raid-aufgaben.md",
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf",
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf.sb-27e28954-tuSl5S",
@@ -243,7 +248,6 @@
     "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
     "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
     "00 - BSN/bsn_2025-10-07_netzwerksegmentierung-teil-4.md",
-    "00 - BSN/bsn_2025-09-18_netzwerksegmentierung-teil-3-uebung-1.md",
     "99 - misc/Pasted image 20260119121134.png",
     "Untitled Diagram.svg",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
