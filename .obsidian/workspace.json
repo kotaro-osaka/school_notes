@@ -21,6 +21,18 @@
               "icon": "lucide-file",
               "title": "bsn_2026-03-06_usv"
             }
+          },
+          {
+            "id": "7ee149538e5caca9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00 - BSN/bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau"
+            }
           }
         ]
       }
@@ -79,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -194,8 +207,9 @@
   },
   "active": "7549239353dbf6b0",
   "lastOpenFiles": [
-    "00 - BSN/bsn_2026-03-05_raid-aufgaben.md",
+    "00 - BSN/bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau.pdf",
     "00 - BSN/bsn_2026-03-06_usv.md",
+    "00 - BSN/bsn_2026-03-05_raid-aufgaben.md",
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf",
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf.sb-27e28954-tuSl5S",
     "01 - ET/et_klausur-themen.md",
@@ -224,14 +238,12 @@
     "01 - ET/et_2026-02-05_brueckengleichrichtung.md",
     "05 - Politik/pgl_2026-02-10_praes-entstehung-eu.md",
     "00 - BSN/bsn_2025-02-06_VLAN_Aufgabe_2023.pdf",
-    "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf",
     "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
     "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
     "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
     "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
     "00 - BSN/bsn_2025-10-07_netzwerksegmentierung-teil-4.md",
     "00 - BSN/bsn_2025-09-18_netzwerksegmentierung-teil-3-uebung-1.md",
-    "00 - BSN/bsn_2025-09-25_uebungsklausur.md",
     "99 - misc/Pasted image 20260119121134.png",
     "Untitled Diagram.svg",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
