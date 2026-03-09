@@ -26,31 +26,26 @@ CHARSET = UTF8;
 ### Insert
 ```mysql
 INSERT INTO _Tabellenname_ VALUES
-(..., ...)
+(..., ...),
+...;
 ```
 ### Update
-
+```mysql
+UPDATE table_name
+SET column1 = value, 
+```
 ### Delete
 
-### Join
+### Joins
 ```mysql
--- INNER
 SELECT ... FROM ...
-INNER JOIN table2
-ON table1.column_name = table2.column_name;
-
--- LEFT
-
-
--- RIGHT
-SELECT ...
-FROM ...
-RIGHT JOIN table2
+INNER/LEFT/RIGHT JOIN table2
 ON table1.column_name = table2.column_name;
 ```
 ## Normalisierung
-### Erste NF.
-
-### Zweite NF.
-
-### Dritte NF.
+### Erste Normalform
+> Die erste Normalform ist gegeben, wenn alle Daten atomar sind.
+### Zweite Normalform
+> Die zweite Normalform ist gegeben, wenn die erste erfüllt ist und wenn alle Nicht-Schlüsselattribute vollfunktional von einem Primärschlüssel abhängig sind.
+### Dritte Normalform
+> Die dritte Normalform ist gegeben, wenn die zweite erfüllt ist und wenn alle Daten transitiv voneinander abhängig sind.
