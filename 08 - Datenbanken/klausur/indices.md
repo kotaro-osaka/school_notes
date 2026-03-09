@@ -1,7 +1,9 @@
 # Indices
 ___
 ## Beschreibung
-- DB nutzen Indices zur Beschleunigung
+*Indices sind Datenstrukturen, die schnellen Zugriff auf Datensätze ermöglichen.
+Indices beschl*
+
 - Ohne Index: Prüfung jeder Zeile nacheinander
 - Mit Index: Direkter Sprung zur gesuchten Zeile
 - Besteht aus Tabelle mit:
@@ -32,5 +34,5 @@ ON kunde(kundenname);
 DROP INDEX idx_table_column;
 
 -- Beispiel
-DROP INDEX idx
+DROP INDEX idx_kunde_kundenname;
 ```
