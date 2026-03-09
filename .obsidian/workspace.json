@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "512d8c2bf149e149",
+        "id": "0f0e4d30f8b14aa9",
         "type": "tabs",
         "children": [
           {
-            "id": "ffdf5985c3d2c636",
+            "id": "65b1fff8760e92ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Datenbanken/klausur/datenschutz-datensicherheit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "datenschutz-datensicherheit"
+              "title": "New tab"
             }
           }
         ]
@@ -192,11 +187,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffdf5985c3d2c636",
+  "active": "65b1fff8760e92ef",
   "lastOpenFiles": [
+    "06 - Wirtschaft/wwl_kostenvergleichsrechnung_2026-02-25.md",
+    "08 - Datenbanken/klausur/datenschutz-datensicherheit.md",
     "06 - Wirtschaft/wwl_kostenvergleichsrechnung_2026-02-25.numbers.sb-e7aa9e3b-o0lp1C",
     "08 - Datenbanken/klausur/cascade.md",
-    "08 - Datenbanken/klausur/datenschutz-datensicherheit.md",
     "08 - Datenbanken/klausur/create-table.md",
     "08 - Datenbanken/klausur/indices.md",
     "08 - Datenbanken/klausur/views.md",
@@ -222,7 +218,6 @@
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf.sb-27e28954-tXd5Iq",
     "06 - Wirtschaft/wwl_kostenvergleichsrechnung_2026-02-25.numbers.sb-27e28954-E5LV96",
     "08 - Datenbanken/db_wiederholung-sql-abfragen_2026-03-04.md",
-    "06 - Wirtschaft/wwl_kostenvergleichsrechnung_2026-02-25.md",
     "06 - Wirtschaft/wwl_kostenvergleichsrechnung_2026-02-25.numbers.sb-27e28954-4HVpUv",
     "06 - Wirtschaft/wwl_kostenvergleichsrechnung_2026-02-25.numbers",
     "00 - BSN/bsn_raid-aufgaben_2026-02-25.md",
@@ -233,7 +228,6 @@
     "09 - Software/software_pflichtenheft.md",
     "09 - Software/favoritenliste.png",
     "09 - Software/ABSCHLUSSKLAUSUR.md",
-    "00 - BSN/bsn_2026-02-12_VLAN_AufgabeUmsetzung_2023.pdf",
     "01 - ET/et_2026-02-05_brueckengleichrichtung-2.png",
     "99 - misc/Pasted image 20260119121134.png",
     "Untitled Diagram.svg",
