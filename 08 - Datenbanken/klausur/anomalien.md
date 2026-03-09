@@ -16,3 +16,12 @@ ___
 - Null-Werte
 - Unvollständige Datensätze
 ## Update-Anomalie
+> *Dieselbe Information ist mehrfach in der Tabelle gespeichert (**Redundanz**). Wenn diese Informationen nicht automatisch bei einer Änderung aktualisiert werden, entsteht eine **Inkonsistenz** der Daten.*
+
+**Beispiel:**
+*Studiengang wird umbenannt. In Folge dieser Änderung müssen sehr viele Datensätze geändert werden, da dieser Wert redundant gespeichert wird.*
+
+**Problem:**
+*Fehlende übergreifende Aktualisierung: **Dateninkonsistenz***
+
+**Ursache:**
