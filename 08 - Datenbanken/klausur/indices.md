@@ -14,11 +14,11 @@ Indices beschleunigen Abfragen, da Informationen statisch gechached werden, was 
 	- Eindeutige Werte (z.B. Primärschlüssel)
 ## Vorteile & Nachteile
 
-| Vorteile            | Nachteile                                   |
-| ------------------- | ------------------------------------------- |
-| Schnellere Abfragen | Erhöhter Speicherbedarf                     |
-|                     | Verlangsamt Insert/Upda                     |
-|                     | Viele Indices → Schlechte Write-Performance |
+| Vorteile                                  | Nachteile                                 |
+| ----------------------------------------- | ----------------------------------------- |
+| Schnellere Abfragen                       | Erhöhter Speicherbedarf                   |
+| Bessere Performance bei häufigen Abfragen | Verlangsamt Insert/Update/Delete          |
+| Optimiert Joins und Sorts                 | Hohe Verwaltungskosten bei vielen Indizes |
 ## SQL
 ### Create
 ```mysql
