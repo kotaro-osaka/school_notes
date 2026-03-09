@@ -31,11 +31,19 @@ INSERT INTO _Tabellenname_ VALUES
 ```
 ### Update
 ```mysql
-UPDATE table_name
-SET column1 = value, 
+UPDATE table_name SET
+column1 = value1, column2 = value2,
+...
+WHERE ...;
 ```
 ### Delete
-
+```mysql
+DELETE FROM table_name WHERE ...;
+```
+### Selects
+```mysql
+SELECT DISTINCT ... FROM ...;
+```
 ### Joins
 ```mysql
 SELECT ... FROM ...
@@ -49,3 +57,6 @@ ON table1.column_name = table2.column_name;
 > Die zweite Normalform ist gegeben, wenn die erste erfüllt ist und wenn alle Nicht-Schlüsselattribute vollfunktional von einem Primärschlüssel abhängig sind.
 ### Dritte Normalform
 > Die dritte Normalform ist gegeben, wenn die zweite erfüllt ist und wenn alle Daten transitiv voneinander abhängig sind.
+## Anomalien
+
+## Indices
