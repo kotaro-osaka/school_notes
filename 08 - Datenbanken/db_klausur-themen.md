@@ -33,7 +33,21 @@ INSERT INTO _Tabellenname_ VALUES
 ### Delete
 
 ### Join
+```mysql
+-- INNER
+SELECT ... FROM ...
+INNER JOIN table2
+ON table1.column_name = table2.column_name;
 
+-- LEFT
+
+
+-- RIGHT
+SELECT ...
+FROM ...
+RIGHT JOIN table2
+ON table1.column_name = table2.column_name;
+```
 ## Normalisierung
 ### Erste NF.
 
