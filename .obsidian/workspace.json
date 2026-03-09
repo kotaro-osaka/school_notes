@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Datenbanken/klausur/cascade.md",
+                "file": "08 - Datenbanken/klausur/datenschutz-datensicherheit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cascade"
+              "title": "datenschutz-datensicherheit"
             }
           }
         ]
@@ -194,8 +194,9 @@
   },
   "active": "ffdf5985c3d2c636",
   "lastOpenFiles": [
-    "08 - Datenbanken/klausur/create-table.md",
     "08 - Datenbanken/klausur/cascade.md",
+    "08 - Datenbanken/klausur/datenschutz-datensicherheit.md",
+    "08 - Datenbanken/klausur/create-table.md",
     "08 - Datenbanken/klausur/indices.md",
     "08 - Datenbanken/klausur/views.md",
     "08 - Datenbanken/klausur/datentypen.md",
@@ -233,7 +234,6 @@
     "09 - Software/ABSCHLUSSKLAUSUR.md",
     "00 - BSN/bsn_2026-02-12_VLAN_AufgabeUmsetzung_2023.pdf",
     "Untitled.md",
-    "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
     "01 - ET/et_2026-02-05_brueckengleichrichtung-2.png",
     "99 - misc/Pasted image 20260119121134.png",
     "Untitled Diagram.svg",
