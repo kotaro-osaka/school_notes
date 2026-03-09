@@ -2,7 +2,7 @@
 ___
 ## Beschreibung
 *Indices sind Datenstrukturen, die schnellen Zugriff auf Datensätze ermöglichen.
-Indices beschl*
+Indices beschleunigen Abfragen, da Informationen statisch gechached werden, was bedeutet, dass das DBMS nicht die gesamte Tabelle durchsuchen muss.*
 
 - Ohne Index: Prüfung jeder Zeile nacheinander
 - Mit Index: Direkter Sprung zur gesuchten Zeile
@@ -14,11 +14,11 @@ Indices beschl*
 	- Eindeutige Werte (z.B. Primärschlüssel)
 ## Vorteile & Nachteile
 
-| Vorteile     | Nachteile                                                     |
-| ------------ | ------------------------------------------------------------- |
-| Sehr schnell | Benötigt zusätzlichen Speicher                                |
-|              | Wird bei Insert/Update/Delete neu aufgebaut (**verlangsamt**) |
-|              | Viele Indices → Schlechte Write-Performance                   |
+| Vorteile            | Nachteile                                   |
+| ------------------- | ------------------------------------------- |
+| Schnellere Abfragen | Erhöhter Speicherbedarf                     |
+|                     | Verlangsamt Insert/Upda                     |
+|                     | Viele Indices → Schlechte Write-Performance |
 ## SQL
 ### Create
 ```mysql
