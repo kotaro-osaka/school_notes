@@ -15,6 +15,7 @@ ___
 **Auswirkung:**
 - Null-Werte
 - Unvollständige Datensätze
+
 ## Update-Anomalie
 > *Dieselbe Information ist mehrfach in der Tabelle gespeichert (**Redundanz**). Wenn diese Informationen nicht automatisch bei einer Änderung aktualisiert werden, entsteht eine **Inkonsistenz** der Daten.*
 
@@ -25,3 +26,24 @@ ___
 *Fehlende übergreifende Aktualisierung: **Dateninkonsistenz***
 
 **Ursache:**
+*Datenredundanz*
+
+**Auswirkung:**
+- Dateninkonsistenz
+- Hoher Wartungsaufwand
+
+## Delete-Anomalie
+> Beim Löschen von Werten eines Datensatzes werden andere Daten mitgelöscht, obwohl die weiterhin benötigt werden.
+
+**Beispiel:**
+*Ein Student verlässt die Uni. Dabei wird der Studiengang, Dozent, etc. mitgelöscht.*
+
+**Problem:**
+*Daten, die erhalten bleiben sollen, werden gelöscht.*
+
+**Ursache:**
+*Unabhängige Entitäten befinden sich in einer Tabelle.*
+
+**Auswirkungen:**
+- Informationsverlust
+- Ungewolltes
