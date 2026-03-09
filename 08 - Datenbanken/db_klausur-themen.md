@@ -21,4 +21,14 @@ ENGINE = INNODB
 COLLATE = UTF8_GERMAN2_CI
 CHARSET = UTF8;
 ```
-### 
+### Insert
+```mysql
+INSERT INTO _Tabellenname_ VALUES
+(..., ...)
+```
+### Update
+
+### Delete
+
+### Join
+
