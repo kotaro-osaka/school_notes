@@ -1,5 +1,7 @@
 # Klausur Themen
 ___
+
+
 ## Excel → ERD
 ![](99%20-%20misc/Pasted%20image%2020260309112147.png)
 
@@ -32,3 +34,9 @@ INSERT INTO _Tabellenname_ VALUES
 
 ### Join
 
+## Normalisierung
+### Erste NF.
+
+### Zweite NF.
+
+### Dritte NF.
