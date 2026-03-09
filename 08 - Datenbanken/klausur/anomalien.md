@@ -46,4 +46,4 @@ ___
 
 **Auswirkungen:**
 - Informationsverlust
-- Ungewolltes
+- Ungewolltes Löschen von relevanten Daten
