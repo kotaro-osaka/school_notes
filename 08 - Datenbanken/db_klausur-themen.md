@@ -23,23 +23,7 @@ ENGINE = INNODB
 COLLATE = UTF8_GERMAN2_CI
 CHARSET = UTF8;
 ```
-### Insert
-```mysql
-INSERT INTO _Tabellenname_ VALUES
-(..., ...),
-...;
-```
-### Update
-```mysql
-UPDATE table_name SET
-column1 = value1, column2 = value2,
-...
-WHERE ...;
-```
-### Delete
-```mysql
-DELETE FROM table_name WHERE ...;
-```
+
 ### Selects
 ```mysql
 SELECT DISTINCT ... FROM ...;
