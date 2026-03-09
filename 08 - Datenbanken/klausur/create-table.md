@@ -1,5 +1,4 @@
-# SQL
-## Create Table
+# Create Table
 *With check & foreign key*
 
 ```mysql
