@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "889a86f693ff9725",
+        "id": "3e97e990c95c0cb3",
         "type": "tabs",
         "children": [
           {
-            "id": "10deb608fb4fb66a",
+            "id": "d52eed3836332773",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "08 - Datenbanken/klausur/Befehlssammlung_SQL.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Befehlssammlung_SQL"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -76,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -190,10 +187,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "10deb608fb4fb66a",
+  "active": "d52eed3836332773",
   "lastOpenFiles": [
-    "08 - Datenbanken/klausur/benutzerverwaltung.md",
+    "00 - BSN/bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau.pdf",
+    "00 - BSN/bsn_2026-03-06_usv-aufgaben.md",
+    "00 - BSN/bsn_2026-03-06_usv.md",
     "08 - Datenbanken/klausur/Befehlssammlung_SQL.pdf",
+    "08 - Datenbanken/klausur/benutzerverwaltung.md",
     "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
     "99 - misc/Pasted image 20260310084613.png",
     "08 - Datenbanken/klausur/views.md",
@@ -218,9 +218,6 @@
     "99 - misc/Pasted image 20260309112242.png",
     "99 - misc/Pasted image 20260309112147.png",
     "99 - misc/Pasted image 20260309112005.png",
-    "00 - BSN/bsn_2026-03-06_usv.md",
-    "00 - BSN/bsn_usv-aufgaben_2026-03-06.md",
-    "00 - BSN/bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau.pdf",
     "00 - BSN/bsn_2026-03-05_raid-aufgaben.md",
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf",
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf.sb-27e28954-tuSl5S",
