@@ -8,7 +8,7 @@ Gegeben:
 
 Switch mit 4 Ports (100 MBit/s) wird mit bestehenden Switch in Verkaufshalle verbunden
 
-## 1.2
+## 1.2 - Datenmenge pro Sekunde (eine Kamera)
 Gegeben:
 - Motion JPEG: 1 Bit/Pixel
 - MPEG4: 0,5 Bit/Pixel
@@ -27,11 +27,15 @@ Geringstmögliche Datenmenge => H.264 (0,2 Bit/Pixel)
 | Umrechnung in MiB/s | $2.188.320 \div 8 \div 1024 \div 1024$ | $≈0,261$ MiB/s     |
 **≈ 0,261 MiB/s**
 
-## 1.3
+## 1.3 - Festplattenspeicherkapazität für 30T
 
-| Schritt     | Rechnung         | Ergebnis         |
-| ----------- | ---------------- | ---------------- |
-| 4 Kameras/s | $0,261 \times 4$ | $=1,044$ MiB/s   |
-| Pro Minute  | $\times 60$      | $=62,64$ MiB/min |
-| Pro Stunde  | $\times 60$      | $=3.758,4$ MiB/h |
-| Pro Tag     | $\times 24$      | $=90.201$        |
+| Schritt     | Rechnung              | Ergebnis            |
+| ----------- | --------------------- | ------------------- |
+| 4 Kameras/s | $0,261 \times 4$      | $=1,044$ MiB/s      |
+| Pro Minute  | $\times 60$           | $=62,64$ MiB/min    |
+| Pro Stunde  | $\times 60$           | $=3.758,4$ MiB/h    |
+| Pro Tag     | $\times 24$           | $=90.201,6$ MiB/Tag |
+| 30 Tage     | $\times 30$           | $=2.706.048$ MiB    |
+| In TiB      | $\div 1024 \div 1024$ | $≈2,58$ TiB         |
+Festplatte muss mind. **≈2,58 TiB** groß sein
+
