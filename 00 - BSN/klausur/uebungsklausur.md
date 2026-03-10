@@ -45,7 +45,8 @@ Gegeben:
 
 **Rechnung:**
 1. `/27` = `255.255.255.224`
-2. `224` = `0111 1101`
+2. `224` = `1110 0000`
+3. 
 
 Netzadresse:
 Broadcastadresse:
