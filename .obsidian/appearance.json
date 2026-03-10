@@ -5,7 +5,8 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "Colored Sidebar Items",
-    "obsidian"
+    "obsidian",
+    "Table Edit"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",

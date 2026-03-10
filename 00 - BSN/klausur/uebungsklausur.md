@@ -1,0 +1,54 @@
+# Übungsklausur
+___
+## 1.1
+Gegeben:
+- 4 IP-Kameras
+- RJ45
+- 10/100 MBit/s
+
+Switch mit 4 Ports (100 MBit/s) wird mit bestehenden Switch in Verkaufshalle verbunden
+
+## 1.2 - Datenmenge pro Sekunde (eine Kamera)
+Gegeben:
+- Motion JPEG: 1 Bit/Pixel
+- MPEG4: 0,5 Bit/Pixel
+- H264: 0,2 Bit/Pixel
+- MPEG 2: 0,52 Bit/Pixel
+
+Geringstmögliche Datenmenge => H.264 (0,2 Bit/Pixel)
+
+**Rechnung:**
+
+| Schritt             | Rechnung                               | Ergebnis           |
+| ------------------- | -------------------------------------- | ------------------ |
+| Pixel pro Bild      | $752 \times 582$                       | $=437.664$ Pixel   |
+| Bits pro Bild       | $437.664 \times 0,2 Bit$               | $=87.532,8$ Bit    |
+| Bits pro Sekunde    | $87.532,8 \times 25$                   | $=2.188.320$ Bit/s |
+| Umrechnung in MiB/s | $2.188.320 \div 8 \div 1024 \div 1024$ | $≈0,261$ MiB/s     |
+**≈ 0,261 MiB/s**
+
+## 1.3 - Festplattenspeicherkapazität für 30T
+
+| Schritt     | Rechnung              | Ergebnis            |
+| ----------- | --------------------- | ------------------- |
+| 4 Kameras/s | $0,261 \times 4$      | $=1,044$ MiB/s      |
+| Pro Minute  | $\times 60$           | $=62,64$ MiB/min    |
+| Pro Stunde  | $\times 60$           | $=3.758,4$ MiB/h    |
+| Pro Tag     | $\times 24$           | $=90.201,6$ MiB/Tag |
+| 30 Tage     | $\times 30$           | $=2.706.048$ MiB    |
+| In TiB      | $\div 1024 \div 1024$ | $≈2,58$ TiB         |
+Festplatte muss mind. **≈2,58 TiB** groß sein
+
+## 1.4 - Subnetting
+Gegeben:
+- Server: 192.168.20.125/27 
+
+**Rechnung:**
+1. `/27` = `255.255.255.224`
+2. `224` = `111 00000`
+3. `125` = `011 11101`
+4. Netzadresse = ``
+
+Netzadresse: 
+Broadcastadresse:
+Nutzbare Hosts:
