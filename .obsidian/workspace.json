@@ -11,10 +11,15 @@
             "id": "65b1fff8760e92ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "08 - Datenbanken/klausur/views.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "views"
             }
           }
         ]
