@@ -45,9 +45,9 @@ Gegeben:
 
 **Rechnung:**
 1. `/27` = `255.255.255.224`
-2. `224` = `1110 0000`
-3. 
+2. `224` = `111 00000`
+3. Netzadresse: `011 11101`
 
-Netzadresse:
+Netzadresse: 
 Broadcastadresse:
 Nutzbare Hosts:
