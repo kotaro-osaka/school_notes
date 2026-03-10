@@ -1,69 +1,37 @@
 {
   "main": {
-    "id": "5763264e2fccc572",
+    "id": "afe32d9bc4b45340",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "da24b7c4e9d53848",
+        "id": "1890de01c5e174ee",
         "type": "tabs",
         "children": [
           {
-            "id": "5cc7aa150a658cc3",
+            "id": "c79fc69415f6e826",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-=======
-        "id": "12e48a5081b448e5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9399d67951c67992",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00 - BSN/bsn_RAID_Aufgabe_2026-02-25.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "bsn_RAID_Aufgabe_2026-02-25"
-            }
-          },
-          {
-            "id": "9ffb23d38ff677e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Wirtschaft/wwl_kostenvergleichsrechnung_2026-02-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "wwl_kostenvergleichsrechnung_2026-02-25"
->>>>>>> 77b28aca5e3ac4e5069ef99966e8760c2a81720f
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "64ebdb829c11b56b",
+    "id": "772b485c70926234",
     "type": "split",
     "children": [
       {
-        "id": "c72bf26045985598",
+        "id": "758172247801d942",
         "type": "tabs",
         "children": [
           {
-            "id": "0f5c7bd669d58100",
+            "id": "3d24120668830220",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +44,7 @@
             }
           },
           {
-            "id": "be2e4aabaca33dac",
+            "id": "f7b0e99f578d8570",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,7 +61,7 @@
             }
           },
           {
-            "id": "413e84b86924e884",
+            "id": "0a652bdf55a4e538",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "00aef108bba0d04b",
+    "id": "f33a110af2c9bac9",
     "type": "split",
     "children": [
       {
-        "id": "c1b9424aa02a1eb0",
+        "id": "7663bb94bca019ec",
         "type": "tabs",
         "children": [
           {
-            "id": "54554b71cf5d3dab",
+            "id": "35c8f5dc738827b2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Deutsch/deutsch_kurzgeschichten_2025-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,11 +99,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for deutsch_kurzgeschichten_2025-09-15"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "4d343ffbc41b570d",
+            "id": "437cd862616d20f3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -149,30 +116,22 @@
             }
           },
           {
-            "id": "5364779db2bd2fd0",
+            "id": "5ceafdfc1905b036",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "295f29a897a0bc7e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "9a01cd07fb78fc8b",
+            "id": "934b5bf7b862d101",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -186,17 +145,21 @@
             }
           },
           {
-            "id": "617e9a84655823b8",
+            "id": "4c2eb5e8aa36c83b",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +168,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -213,64 +175,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
       "github-sync:Sync with Remote": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "5cc7aa150a658cc3",
-=======
-  "active": "9ffb23d38ff677e9",
->>>>>>> 77b28aca5e3ac4e5069ef99966e8760c2a81720f
+  "active": "3d24120668830220",
   "lastOpenFiles": [
-    "06 - Wirtschaft/wwl_kostenvergleichsrechnung_2026-02-25.numbers.sb-27e28954-4HVpUv",
-    "06 - Wirtschaft/wwl_kostenvergleichsrechnung_2026-02-25.numbers",
-    "00 - BSN/bsn_raid-aufgaben_2026-02-25.md",
-    "06 - Wirtschaft/wwl_kostenvergleichsrechnung_2026-02-25.md",
-    "07 - English/english_automotive-tech-comment_2026-02-25.md",
-    "00 - BSN/bsn_RAID_Aufgabe_2026-02-25.pdf",
-    "07 - English/english_finals_2026-02-25.md",
-    "09 - Software/software_vorgehensmodelle.md",
-    "09 - Software/sw_2026-02-18_favoritenliste.md",
-    "09 - Software/software_pflichtenheft.md",
-    "09 - Software/favoritenliste.png",
-    "09 - Software/ABSCHLUSSKLAUSUR.md",
-    "00 - BSN/bsn_2026-02-12_VLAN_AufgabeUmsetzung_2023.pdf",
-    "Untitled.md",
-    "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
-    "00 - BSN/bsn_2026-02-12_aufgabe-10-vlan-einrichten.md",
-    "01 - ET/et_2026-02-05_brueckengleichrichtung-2.png",
-    "00 - BSN/bsn_2026-02-06_vlan-vortrag.md",
-    "01 - ET/1 - lexicon/gleichrichterschaltungen.md",
-    "01 - ET/et_2026-02-05_brueckengleichrichtung.md",
-    "05 - Politik/pgl_2026-02-10_praes-entstehung-eu.md",
-    "00 - BSN/bsn_2025-02-06_VLAN_Aufgabe_2023.pdf",
-    "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf",
-    "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "00 - BSN/1 - glossary/1.4 - vlan/vlan.md",
-    "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
-    "00 - BSN/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
-    "00 - BSN/bsn_2025-10-09_Aufgabe4_NetzwerksegmentierungPackettracer.pdf",
-    "00 - BSN/bsn_2025-10-09_aufgabe-5-komplexes-routing.md",
-    "00 - BSN/bsn_2025-10-07_netzwerksegmentierung-teil-4.md",
-    "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf",
-    "00 - BSN/bsn_2025-09-18_netzwerksegmentierung-teil-3-uebung-1.md",
-    "00 - BSN/bsn_2025-09-25_uebungsklausur.md",
-    "00 - BSN/bsn_2025-09-18_netzwerksegmentierung-teil-3-aufgabenblatt.md",
-    "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
-    "00 - BSN/1 - glossary/1.1 - protocols/tcp.md",
-    "99 - misc/Pasted image 20260119121134.png",
-    "Untitled Diagram.svg",
-    "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
-    "Untitled.canvas",
-    "01 - ET/0 - res/AH Isolationswiderstand.jpg",
-    "01 - ET/0 - res/Screenshot 2025-09-24 at 09.55.47.png",
-    "99 - misc/Screenshot 2025-09-15 at 12.11.40.png",
-    "99 - misc/Screenshot 2025-09-15 at 12.05.28.png",
-    "99 - misc/Pasted image 20250430102206.png"
+    "Untitled 1.md",
+    "Untitled.md"
   ]
 }
