@@ -25,4 +25,13 @@ Geringstmögliche Datenmenge => H.264 (0,2 Bit/Pixel)
 | Bits pro Bild       | $437.664 \times 0,2 Bit$               | $=87.532,8$ Bit    |
 | Bits pro Sekunde    | $87.532,8 \times 25$                   | $=2.188.320$ Bit/s |
 | Umrechnung in MiB/s | $2.188.320 \div 8 \div 1024 \div 1024$ | $≈0,261$ MiB/s     |
-**= **
+**≈ 0,261 MiB/s**
+
+## 1.3
+
+| Schritt     | Rechnung         | Ergebnis         |
+| ----------- | ---------------- | ---------------- |
+| 4 Kameras/s | $0,261 \times 4$ | $=1,044$ MiB/s   |
+| Pro Minute  | $\times 60$      | $=62,64$ MiB/min |
+| Pro Stunde  | $\times 60$      | $=3.758,4$ MiB/h |
+| Pro Tag     | $\times 24$      | $=90.201$        |
