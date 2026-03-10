@@ -11,15 +11,12 @@
             "id": "10deb608fb4fb66a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "08 - Datenbanken/klausur/benutzerverwaltung.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "08 - Datenbanken/klausur/Befehlssammlung_SQL.pdf"
               },
-              "icon": "lucide-file",
-              "title": "benutzerverwaltung"
+              "icon": "lucide-file-text",
+              "title": "Befehlssammlung_SQL"
             }
           }
         ]
@@ -79,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -194,8 +192,9 @@
   },
   "active": "10deb608fb4fb66a",
   "lastOpenFiles": [
-    "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
     "08 - Datenbanken/klausur/benutzerverwaltung.md",
+    "08 - Datenbanken/klausur/Befehlssammlung_SQL.pdf",
+    "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
     "99 - misc/Pasted image 20260310084613.png",
     "08 - Datenbanken/klausur/views.md",
     "08 - Datenbanken/klausur/benutzerverwaltung.pdf",
@@ -226,14 +225,12 @@
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf",
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf.sb-27e28954-tuSl5S",
     "01 - ET/et_klausur-themen.md",
-    "00 - BSN/bsn_RAID_Aufgabe_2026-02-25.pdf",
     "08 - Datenbanken/db_wiederholung-sql-abfragen_2026-03-04.md",
     "00 - BSN/bsn_raid-aufgaben_2026-02-25.md",
     "07 - English/english_automotive-tech-comment_2026-02-25.md",
     "07 - English/english_finals_2026-02-25.md",
     "09 - Software/software_vorgehensmodelle.md",
     "09 - Software/sw_2026-02-18_favoritenliste.md",
-    "09 - Software/software_pflichtenheft.md",
     "09 - Software/favoritenliste.png",
     "01 - ET/et_2026-02-05_brueckengleichrichtung-2.png",
     "99 - misc/Pasted image 20260119121134.png",
