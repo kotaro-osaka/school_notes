@@ -19,7 +19,10 @@ Geringstmögliche Datenmenge => H.264 (0,2 Bit/Pixel)
 
 **Rechnung:**
 
-| Schritt        | Rechnung                 | Ergebnis         |
-| -------------- | ------------------------ | ---------------- |
-| Pixel pro Bild | $752 \times 582$         | $=437.664$ Pixel |
-| Bits pro Bild  | $437.664 \times 0,2 Bit$ | $=87.532,8 Bit$  |
+| Schritt             | Rechnung                               | Ergebnis           |
+| ------------------- | -------------------------------------- | ------------------ |
+| Pixel pro Bild      | $752 \times 582$                       | $=437.664$ Pixel   |
+| Bits pro Bild       | $437.664 \times 0,2 Bit$               | $=87.532,8$ Bit    |
+| Bits pro Sekunde    | $87.532,8 \times 25$                   | $=2.188.320$ Bit/s |
+| Umrechnung in MiB/s | $2.188.320 \div 8 \div 1024 \div 1024$ | $≈0,261$ MiB/s     |
+**= **
