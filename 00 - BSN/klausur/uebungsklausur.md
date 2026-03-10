@@ -39,3 +39,14 @@ Geringstmögliche Datenmenge => H.264 (0,2 Bit/Pixel)
 | In TiB      | $\div 1024 \div 1024$ | $≈2,58$ TiB         |
 Festplatte muss mind. **≈2,58 TiB** groß sein
 
+## 1.4 - Subnetting
+Gegeben:
+- Server: 192.168.20.125/27 
+
+**Rechnung:**
+1. `/27` = `255.255.255.224`
+2. `224` = `0111 1101`
+
+Netzadresse:
+Broadcastadresse:
+Nutzbare Hosts:
