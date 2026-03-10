@@ -11,13 +11,26 @@
             "id": "d52eed3836332773",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00 - BSN/klausur/uebungsklausur.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "uebungsklausur"
+            }
+          },
+          {
+            "id": "760063e922b67b53",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +200,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d52eed3836332773",
+  "active": "760063e922b67b53",
   "lastOpenFiles": [
+    "00 - BSN/klausur/uebungsklausur.pdf",
+    "00 - BSN/klausur/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
+    "00 - BSN/klausur",
     "00 - BSN/bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau.pdf",
     "00 - BSN/bsn_2026-03-06_usv-aufgaben.md",
     "00 - BSN/bsn_2026-03-06_usv.md",
@@ -219,8 +235,6 @@
     "99 - misc/Pasted image 20260309112147.png",
     "99 - misc/Pasted image 20260309112005.png",
     "00 - BSN/bsn_2026-03-05_raid-aufgaben.md",
-    "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf",
-    "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf.sb-27e28954-tuSl5S",
     "01 - ET/et_klausur-themen.md",
     "08 - Datenbanken/db_wiederholung-sql-abfragen_2026-03-04.md",
     "00 - BSN/bsn_raid-aufgaben_2026-02-25.md",
