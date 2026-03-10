@@ -17,6 +17,8 @@ Gegeben:
 
 Geringstmögliche Datenmenge => H.264 (0,2 Bit/Pixel)
 
-|     |     |
-| --- | --- |
-|     |     |
+Berechnung
+
+| Schritt |     |
+| ------- | --- |
+|         |     |
