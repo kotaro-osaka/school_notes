@@ -56,4 +56,7 @@ Kameras und Server ohne Neuverkabelung vom restlichen Netz trennen:
 - Sicherstellen, dass Switch VLAN-fähig ist
 - VLAN 1: Büronetzwerk
 - VLAN 2: Kameranetzwerk
-- 
+- Ports der Kameras und Server zuweisen
+- Kommunikation zwischen VLANs nur über Router/L3-Switch möglich
+	=> Trennung ohne Neuverkabelung
+
