@@ -99,5 +99,10 @@ b) Radius-Server
 => individuelle, zeitbegrenzte Authentisierung pro Nutzer
 
 ## 3.3 - Verschlüsselungsverfahren
-a) WPA: mittlere Sicherheit - gilt als unsicher
-b) WPA2: 
+a) WPA: mittlere Sicherheit (TKIP) - gilt als unsicher
+b) WPA2: hohe Sicherheit (AES) - gilt als sicher
+c) WEP: sehr geringe Sicherheit - gilt als unsicher & veraltet
+
+## 3.4 - Manipulation erkennen
+- Hashwerte (Message Digest) einsetzen
+- Vor Übertragung aus Datenpaket (Gebot) Hashwert berechnen & mit Daten übertragen
