@@ -60,3 +60,10 @@ Kameras und Server ohne Neuverkabelung vom restlichen Netz trennen:
 - Kommunikation zwischen VLANs nur über Router/L3-Switch möglich
 	=> Trennung ohne Neuverkabelung
 
+## 2.1 - Vorteile WLAN vs. Kabel
+1. Keine Verkabelung notwendig → Spart Installations- & Materialkosten
+2. Flexible Aufstellung der Infosäulen
+3. Schnellere Installation
+
+## 2.2 - Signalstärke
+- Signalstärke nimmt mit Entfernung
