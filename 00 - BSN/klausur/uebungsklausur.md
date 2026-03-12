@@ -121,4 +121,13 @@ Vorteile:
 - **Zugangsschutz:** Serverraum abschließen, Zugang nur für befugte
 - **Authentifizierung:** Passwortschutz, Benutzerverwaltung mit sicheren Passwörtern
 - **Firewall:** Schutz vor unberechtigten Netzwerkzugriffen
-- **Virenschutz:** Aktuelle Antivirensoftware installieren & regelmäßig aktiali
+- **Virenschutz:** Aktuelle Antivirensoftware installieren & regelmäßig aktualisieren
+- **Regelmäßige Updates:** Betriebssystem & Software aktuell halten, um Sicherheitslücken zu schließen
+- **USV:** Schutz vor Datenverlust durch Stromausfall
+
+## 4.2 - Alte Datenträger
+> Personenbezogene Daten müssen sicher & unwiederbringlich vernichtet werden
+- Physische Zerstörung des Datenträgers
+- Zertifiziertes Überschreiben mit Software
+
+## 4.3 - 
