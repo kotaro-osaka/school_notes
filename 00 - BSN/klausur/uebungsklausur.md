@@ -145,12 +145,16 @@ Vorteile:
 => Gefährliche Zwischenphase wird deutlich verkürzt
 => Verbesserung d. Ausfallsicherheit, da System schneller wieder in redundanten Zustand zurückkehrt
 
-## 4.5 - Routingtabelle R1
+## 4.5 - Netzwerk & Routingtabelle
 **Netzadressen:**
-- Verkaufshalle: `192.168.20.63`
-- R1-R2: `192.168.20.95`
-- Bürogebäude
+- Verkaufshalle: `192.168.20.32`
+- R1-R2: `192.168.20.64`
+- Bürogebäude: `192.168.20.96`
 
-| Anschluss          | IP-Adresse |
-| ------------------ | ---------- |
-| R1 (Verkaufshalle) |            |
+**Routingtabelle R1:**
+
+| Netzwerkziel  | Subnetzmaske    | Gateway       | Interface     |
+| ------------- | --------------- | ------------- | ------------- |
+| 192.168.20.32 | 255.255.255.224 | -             | 192.168.20.62 |
+| 192.168.20.64 | 255.255.255.224 | -             | 192.168.20.94 |
+| 192.168.20.96 | 255.255.255.224 | 192.168.20.93 | 192.168.20.94 |
