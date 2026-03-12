@@ -117,3 +117,8 @@ Vorteile:
 - Höhere Datenrate (mehrere Datenströme)
 - Stabilere Verbindung (Mehrwegausbreitung)
 
+## 4.1 - Maßnahmen zum Schutz
+- **Zugangsschutz:** Serverraum abschließen, Zugang nur für befugte
+- **Authentifizierung:** Passwortschutz, Benutzerverwaltung mit sicheren Passwörtern
+- **Firewall:** Schutz vor unberechtigten Netzwerkzugriffen
+- **Virenschutz:** Aktuelle Antivirensoftware installieren & regelmäßig aktiali
