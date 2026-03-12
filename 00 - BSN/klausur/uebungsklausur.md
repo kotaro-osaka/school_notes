@@ -143,4 +143,14 @@ Vorteile:
 - Fällt eine Festplatte aus und muss wiederhergestellt werden, ist das System während des Rebuilds gefährdet, falls eine weitere Ausfällt
 - Hot-Spare-Festplatte springt automatisch & sofort im laufenden Betrieb ein
 => Gefährliche Zwischenphase wird deutlich verkürzt
-=> Verbesserung d. Ausfallsicherheit, da System schneller wieder in redundanten Zustand zurückkehr 
+=> Verbesserung d. Ausfallsicherheit, da System schneller wieder in redundanten Zustand zurückkehrt
+
+## 4.5 - Routingtabelle R1
+**Netzadressen:**
+- Verkaufshalle: `192.168.20.63`
+- R1-R2: `192.168.20.95`
+- Bürogebäude
+
+| Anschluss          | IP-Adresse |
+| ------------------ | ---------- |
+| R1 (Verkaufshalle) |            |
