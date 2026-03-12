@@ -130,4 +130,13 @@ Vorteile:
 - Physische Zerstörung des Datenträgers
 - Zertifiziertes Überschreiben mit Software
 
-## 4.3 - 
+## 4.3 - RAID
+> 5 Festplatten, Ausfall einer Festplatte + Max. Speicherkapazität
+
+**RAID 5:**
+- Benötigt mind. 3 Festplatten
+- Kann Ausfall von 1 Festplatte kompensieren
+- Parität
+- Nutzbare Kapazität: $(5-1) \times 4 TiB=16 TiB$
+
+## 4.4 - 
