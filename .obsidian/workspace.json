@@ -1,25 +1,20 @@
 {
   "main": {
-    "id": "afe32d9bc4b45340",
+    "id": "5763264e2fccc572",
     "type": "split",
     "children": [
       {
-        "id": "1890de01c5e174ee",
+        "id": "1b96b14d7b85c1db",
         "type": "tabs",
         "children": [
           {
-            "id": "c79fc69415f6e826",
+            "id": "27b89b1d5616aa96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Datenbanken/klausur/anomalien.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "anomalien"
+              "title": "New tab"
             }
           }
         ]
@@ -28,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "772b485c70926234",
+    "id": "64ebdb829c11b56b",
     "type": "split",
     "children": [
       {
-        "id": "758172247801d942",
+        "id": "c72bf26045985598",
         "type": "tabs",
         "children": [
           {
-            "id": "3d24120668830220",
+            "id": "0f5c7bd669d58100",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +44,7 @@
             }
           },
           {
-            "id": "f7b0e99f578d8570",
+            "id": "be2e4aabaca33dac",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +61,7 @@
             }
           },
           {
-            "id": "0a652bdf55a4e538",
+            "id": "413e84b86924e884",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,20 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "f33a110af2c9bac9",
+    "id": "00aef108bba0d04b",
     "type": "split",
     "children": [
       {
-        "id": "7663bb94bca019ec",
+        "id": "c1b9424aa02a1eb0",
         "type": "tabs",
         "children": [
           {
-            "id": "35c8f5dc738827b2",
+            "id": "54554b71cf5d3dab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Datenbanken/klausur/anomalien.md",
+                "file": "04 - Deutsch/deutsch_kurzgeschichten_2025-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,40 +100,47 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for anomalien"
+              "title": "Backlinks for deutsch_kurzgeschichten_2025-09-15"
             }
           },
           {
-            "id": "437cd862616d20f3",
+            "id": "4d343ffbc41b570d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Datenbanken/klausur/anomalien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from anomalien"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "5ceafdfc1905b036",
+            "id": "5364779db2bd2fd0",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "934b5bf7b862d101",
+            "id": "295f29a897a0bc7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "9a01cd07fb78fc8b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,21 +154,17 @@
             }
           },
           {
-            "id": "4c2eb5e8aa36c83b",
+            "id": "617e9a84655823b8",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "08 - Datenbanken/klausur/anomalien.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of anomalien"
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -175,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,50 +181,60 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
       "github-sync:Sync with Remote": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c79fc69415f6e826",
+  "active": "27b89b1d5616aa96",
   "lastOpenFiles": [
+    "02 - MMI/mmi_2026-01-19_mqtt.md",
+    "02 - MMI/mmi_praesentation-arduino-iot-mit-mqtt.md",
+    "00 - BSN/klausur/uebungsklausur.md",
+    "00 - BSN/klausur/uebungsklausur.pdf",
+    "00 - BSN/klausur/Untitled",
+    "00 - BSN/klausur/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
+    "00 - BSN/klausur",
+    "00 - BSN/bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau.pdf",
+    "00 - BSN/bsn_2026-03-06_usv-aufgaben.md",
+    "00 - BSN/bsn_2026-03-06_usv.md",
+    "08 - Datenbanken/klausur/Befehlssammlung_SQL.pdf",
+    "08 - Datenbanken/klausur/benutzerverwaltung.md",
+    "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
+    "99 - misc/Pasted image 20260310084613.png",
     "08 - Datenbanken/klausur/views.md",
+    "08 - Datenbanken/klausur/benutzerverwaltung.pdf",
     "08 - Datenbanken/klausur/views.pdf",
-    "08 - Datenbanken/klausur/anomalien.md",
+    "06 - Wirtschaft/wwl_2026-03-09.numbers.sb-e7aa9e3b-opwhiO",
+    "06 - Wirtschaft/wwl_2026-03-09.numbers",
+    "06 - Wirtschaft/wwl_kostenvergleichsrechnung_2026-02-25.md",
+    "08 - Datenbanken/klausur/datenschutz-datensicherheit.md",
+    "08 - Datenbanken/klausur/cascade.md",
+    "08 - Datenbanken/klausur/create-table.md",
+    "08 - Datenbanken/klausur/indices.md",
+    "08 - Datenbanken/klausur/datentypen.md",
+    "08 - Datenbanken/db_klausur-themen.md",
+    "08 - Datenbanken/klausur/erd.md",
+    "08 - Datenbanken/klausur/referentielle-integrität.md",
     "08 - Datenbanken/klausur/normalisierung.md",
     "08 - Datenbanken/klausur/insert-update-delete.md",
-    "08 - Datenbanken/klausur/indices.md",
-    "08 - Datenbanken/klausur/erd.md",
-    "08 - Datenbanken/klausur/datentypen.md",
-    "08 - Datenbanken/klausur/datenschutz-datensicherheit.md",
-    "08 - Datenbanken/klausur/create-table.md",
-    "08 - Datenbanken/klausur/cascade.md",
-    "08 - Datenbanken/klausur/benutzerverwaltung.md",
-    "08 - Datenbanken/klausur/benutzerverwaltung.pdf",
-    "08 - Datenbanken/klausur/Befehlssammlung_SQL.pdf",
-    "Untitled.md",
-    "99 - misc/Pasted image 20260310084613.png",
+    "08 - Datenbanken/klausur/anomalien.md",
     "99 - misc/Pasted image 20260309112242.png",
     "99 - misc/Pasted image 20260309112147.png",
     "99 - misc/Pasted image 20260309112005.png",
-    "08 - Datenbanken/klausur/referentielle-integrität.md",
-    "08 - Datenbanken/klausur",
-    "08 - Datenbanken/db_wiederholung-sql-abfragen_2026-03-04.md",
-    "08 - Datenbanken/db_klausur-themen.md",
-    "06 - Wirtschaft/wwl_2026-03-09.numbers",
-    "02 - MMI/mmi_praesentation-arduino-iot-mit-mqtt.md",
-    "01 - ET/et_klausur-themen.md",
-    "00 - BSN/klausur/uebungsklausur.md",
-    "00 - BSN/klausur/uebungsklausur.pdf",
-    "00 - BSN/klausur/Klausur_CI3O1_1_2024_2025_Uebung.pdf",
-    "00 - BSN/klausur",
-    "00 - BSN/bsn_2026-03-06_usv.md",
-    "00 - BSN/bsn_2026-03-06_usv-aufgaben.md",
-    "00 - BSN/bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau.pdf",
-    "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf",
     "00 - BSN/bsn_2026-03-05_raid-aufgaben.md",
-    "Untitled 1.md"
+    "01 - ET/et_klausur-themen.md",
+    "08 - Datenbanken/db_wiederholung-sql-abfragen_2026-03-04.md",
+    "00 - BSN/bsn_raid-aufgaben_2026-02-25.md",
+    "07 - English/english_automotive-tech-comment_2026-02-25.md",
+    "07 - English/english_finals_2026-02-25.md",
+    "09 - Software/favoritenliste.png",
+    "01 - ET/et_2026-02-05_brueckengleichrichtung-2.png",
+    "99 - misc/Pasted image 20260119121134.png",
+    "Untitled Diagram.svg",
+    "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
+    "Untitled.canvas",
+    "01 - ET/0 - res/AH Isolationswiderstand.jpg"
   ]
 }
