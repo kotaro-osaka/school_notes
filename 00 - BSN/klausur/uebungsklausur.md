@@ -66,4 +66,14 @@ Kameras und Server ohne Neuverkabelung vom restlichen Netz trennen:
 3. Schnellere Installation
 
 ## 2.2 - Signalstärke
-- Signalstärke nimmt mit Entfernung
+- Signalstärke nimmt mit zunehmender Entfernung ab
+- Schwächung durch Hindernisse → Übertragungsfehler
+	- Fehler kompensieren durch niedrigere Modulationsrate (starke Reduzierung d. Nettodatenrate)
+- Overhead steigt durch Wiederholungsübertragungen
+
+## 2.3 - Lösungsvorschlag
+- Mehrere Accesspoints
+- Infosäulen näher am Accesspoint positionieren
+- Kabel (zuverlässiger & schneller)
+
+## 2.4 - 
