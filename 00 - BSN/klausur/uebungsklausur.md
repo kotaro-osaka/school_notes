@@ -116,3 +116,4 @@ c) WEP: sehr geringe Sicherheit - gilt als unsicher & veraltet
 Vorteile:
 - Höhere Datenrate (mehrere Datenströme)
 - Stabilere Verbindung (Mehrwegausbreitung)
+
