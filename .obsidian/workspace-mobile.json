@@ -11,18 +11,31 @@
             "id": "1112d623eb7ab079",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "08 - Datenbanken/klausur/Befehlssammlung_SQL.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Befehlssammlung_SQL"
+            }
+          },
+          {
+            "id": "6c66feab94d39dbe",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - ET/et_2025-09-25_kondensator.md",
+                "file": "08 - Datenbanken/klausur/normalisierung.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "et_2025-09-25_kondensator"
+              "title": "normalisierung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,6 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "08 - Datenbanken/klausur/normalisierung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,10 +183,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "1112d623eb7ab079",
+  "active": "6c66feab94d39dbe",
   "lastOpenFiles": [
-    "01 - ET/et_23-01-2026_halbleiter.md",
+    "08 - Datenbanken/klausur/datentypen.md",
+    "08 - Datenbanken/klausur/insert-update-delete.md",
+    "08 - Datenbanken/klausur/views.md",
+    "08 - Datenbanken/klausur/create-table.md",
+    "08 - Datenbanken/klausur/Befehlssammlung_SQL.pdf",
+    "08 - Datenbanken/klausur/cascade.md",
+    "08 - Datenbanken/db_2026-02-06_L6_2_Information.pdf",
+    "08 - Datenbanken/db_wiederholung-sql-abfragen_2026-03-04.md",
+    "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
+    "08 - Datenbanken/db_2026-02-06_benutzerverwaltung.md",
+    "08 - Datenbanken/klausur/normalisierung.md",
+    "08 - Datenbanken/klausur/benutzerverwaltung.md",
+    "08 - Datenbanken/klausur/benutzerverwaltung.pdf",
+    "08 - Datenbanken/klausur/views.pdf",
+    "08 - Datenbanken/db_2025-09-30_bibliothek.md",
+    "08 - Datenbanken/db_klausur-themen.md",
+    "08 - Datenbanken/klausur/datenschutz-datensicherheit.md",
     "01 - ET/et_2025-09-25_kondensator.md",
+    "01 - ET/et_23-01-2026_halbleiter.md",
     "01 - ET/formeln.md",
     "01 - ET/0 - res/AH Isolationswiderstand.jpg",
     "01 - ET/et_2025-09-24_isolationswiderstand.md",
