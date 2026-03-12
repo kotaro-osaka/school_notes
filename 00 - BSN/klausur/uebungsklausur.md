@@ -51,3 +51,9 @@ Gegeben:
 5. Broadcastadresse = `192.168.20.127`
 6. Nutzbare Hosts = $2^5-2=$ `30`
 
+## 1.5 - VLAN
+Kameras und Server ohne Neuverkabelung vom restlichen Netz trennen:
+- Sicherstellen, dass Switch VLAN-fähig ist
+- VLAN 1: Büronetzwerk
+- VLAN 2: Kameranetzwerk
+- 
