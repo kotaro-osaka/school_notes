@@ -104,5 +104,15 @@ b) WPA2: hohe Sicherheit (AES) - gilt als sicher
 c) WEP: sehr geringe Sicherheit - gilt als unsicher & veraltet
 
 ## 3.4 - Manipulation erkennen
+**Integritätsprüfung:**
 - Hashwerte (Message Digest) einsetzen
 - Vor Übertragung aus Datenpaket (Gebot) Hashwert berechnen & mit Daten übertragen
+- Empfänger berechnet nach Empfang erneut Hashwert & vergleicht mit mitgesendeten Wert
+
+## 3.5 - MIMO-Technologie
+> Multiple Input Multiple Output
+- Nutzt **mehrere Antennen gleichzeitig** zum Senden & Empfangen
+
+Vorteile:
+- Höhere Datenrate (mehrere Datenströme)
+- Stabilere Verbindung (Mehrwegausbreitung)
