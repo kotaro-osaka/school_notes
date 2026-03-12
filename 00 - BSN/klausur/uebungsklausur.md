@@ -76,4 +76,9 @@ Kameras und Server ohne Neuverkabelung vom restlichen Netz trennen:
 - Infosäulen näher am Accesspoint positionieren
 - Kabel (zuverlässiger & schneller)
 
-## 2.4 - 
+## 2.4 - SSID
+- SSID-Broadcast deaktivieren
+
+## 2.5 - Ad-hoc
+- Verbindung über WLAN als Peer-to-Peer-WLAN = **Ad-hoc-Modus**
+
