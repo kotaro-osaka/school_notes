@@ -94,4 +94,10 @@ Kameras und Server ohne Neuverkabelung vom restlichen Netz trennen:
 **Authentisierung:**
 - Nur berechtigte Nutzer dürfen Zugang erhalten
 
-## 3.2
+## 3.2 - Authentisierungsverfahren
+b) Radius-Server
+=> individuelle, zeitbegrenzte Authentisierung pro Nutzer
+
+## 3.3 - Verschlüsselungsverfahren
+a) WPA: mittlere Sicherheit - gilt als unsicher
+b) WPA2: 
