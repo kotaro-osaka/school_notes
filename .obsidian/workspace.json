@@ -34,7 +34,8 @@
               "title": "uebungsklausur"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +206,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d72f577b74e9f8bb",
+  "active": "dee493df52dbf949",
   "lastOpenFiles": [
-    "00 - BSN/klausur/uebungsklausur.pdf",
     "00 - BSN/klausur/uebungsklausur.md",
+    "00 - BSN/klausur/uebungsklausur.pdf",
     "01 - ET/et_2026-03-12_arbeitsblatt_step_up_wandler.pdf",
     "02 - MMI/mmi_2026-01-19_mqtt.md",
     "02 - MMI/mmi_praesentation-arduino-iot-mit-mqtt.md",

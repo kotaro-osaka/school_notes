@@ -48,7 +48,6 @@ Gegeben:
 2. `224` = `111 00000`
 3. `125` = `011 11101`
 4. Netzadresse = `192.168.20.96`
-5. Broadcastadresse = `192.168.20.`
+5. Broadcastadresse = `192.168.20.127`
+6. Nutzbare Hosts = $2^5-2=$ `30`
 
-Broadcastadresse:
-Nutzbare Hosts:
