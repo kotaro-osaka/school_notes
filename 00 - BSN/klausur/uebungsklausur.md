@@ -47,8 +47,8 @@ Gegeben:
 1. `/27` = `255.255.255.224`
 2. `224` = `111 00000`
 3. `125` = `011 11101`
-4. Netzadresse = ``
+4. Netzadresse = `192.168.20.96`
+5. Broadcastadresse = `192.168.20.`
 
-Netzadresse: 
 Broadcastadresse:
 Nutzbare Hosts:
