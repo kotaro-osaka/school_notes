@@ -139,4 +139,8 @@ Vorteile:
 - Parität
 - Nutzbare Kapazität: $(5-1) \times 4 TiB=16 TiB$
 
-## 4.4 - 
+## 4.4 - Hot-Spare
+- Fällt eine Festplatte aus und muss wiederhergestellt werden, ist das System während des Rebuilds gefährdet, falls eine weitere Ausfällt
+- Hot-Spare-Festplatte springt automatisch & sofort im laufenden Betrieb ein
+=> Gefährliche Zwischenphase wird deutlich verkürzt
+=> Verbesserung d. Ausfallsicherheit, da System schneller wieder in redundanten Zustand zurückkehr 
