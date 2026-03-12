@@ -82,3 +82,8 @@ Kameras und Server ohne Neuverkabelung vom restlichen Netz trennen:
 ## 2.5 - Ad-hoc
 - Verbindung über WLAN als Peer-to-Peer-WLAN = **Ad-hoc-Modus**
 
+## 3.1 - Datensicherheit
+**Datenintegrität:**
+- Übertragene Daten bleiben auf dem Weg zwischen Sender → Empfänger *unverändert* und können nicht manipuliert werden
+**Vertraulichkeit:**
+- 
