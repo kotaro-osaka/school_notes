@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b96b14d7b85c1db",
+        "id": "e53a9d534e5c5f04",
         "type": "tabs",
         "children": [
           {
-            "id": "27b89b1d5616aa96",
+            "id": "d72f577b74e9f8bb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01 - ET/et_2026-03-12_arbeitsblatt_step_up_wandler.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "et_2026-03-12_arbeitsblatt_step_up_wandler"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
