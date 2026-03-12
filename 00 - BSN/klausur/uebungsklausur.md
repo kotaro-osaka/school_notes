@@ -84,6 +84,14 @@ Kameras und Server ohne Neuverkabelung vom restlichen Netz trennen:
 
 ## 3.1 - Datensicherheit
 **Datenintegrität:**
-- Übertragene Daten bleiben auf dem Weg zwischen Sender → Empfänger *unverändert* und können nicht manipuliert werden
+- Übertragene Daten bleiben auf dem Weg zwischen Sender → Empfänger *unverändert* und können *nicht manipuliert* werden
+	=> Prüfsummen (Hashwerte)
+
 **Vertraulichkeit:**
-- 
+- Daten können nur von berechtigten Empfängern während der Übertragung gelesen werden
+	=> Verschlüsselte Übertragung
+
+**Authentisierung:**
+- Nur berechtigte Nutzer dürfen Zugang erhalten
+
+## 3.2
