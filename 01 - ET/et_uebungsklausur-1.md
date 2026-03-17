@@ -11,4 +11,4 @@ Man dotiert Halbleiter, um die elektrische Leitfähigkeit gezielt zu erhöhen. R
 Ein PN-Übergang entsteht, wenn p-dotiertes und n-dotiertes Halbleitermaterial direkt miteinander verbunden werden. An der Grenzfläche treffen Elektronen (n-Seite) auf Löcher (p-Seite).
 
 ## Was passiert an der Grenzschicht?
-Elektronen diffundieren von der n-Seite zur p-Seite und rek
+Elektronen diffundieren von der n-Seite zur p-Seite und rekombinieren mit Löchern. Es entsteht eine **Raumladungszone / Sperrschicht**, die frei von beweglichen Ladungsträgern ist. Dadurch baut sich ein elektrisches Gegenfeld (Diffusionsspannung, ca. $0,7 \text{ V}$ bei *Si*) auf, das weiteren Ladungsträgertransport stoppt.
