@@ -68,4 +68,8 @@ Gesucht: Netz- & Broadcastadresse
 ## 5. IPv4-mapped IPv6-Adresse
 Gegeben: `192.168.5.78`
 
-Wenn IPv4
+Wenn IPv4-Hosst über IPv6-Netz kommuniziert, wird automatisch eine **IPv4-mapped IPv6-Adresse** zugewiesen.
+**Schema:** `::ffff:<IPv4-Adresse>`
+
+1. `192.168.5.78` → `192`=`C0`, `168`-`A8`, `5`=`05`, `78`=`4E`
+2. `::ffff:c0a8:0`
