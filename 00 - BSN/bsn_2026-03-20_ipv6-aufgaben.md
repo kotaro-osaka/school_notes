@@ -23,7 +23,7 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 **IPv6: NDP (Neighbor Discovery Protocol)**
 - Ersetzt *ARP*, *ICMP Router Discovery*, *ICMP Redirect*
 - Verwendet **Solicited-Node Multicast-Adressen**, die sich aus `ff02::1:ff` + letzten 24 Bit der Ziel-IPv6-Adresse zusammensetzten
-	- **Bsp.:** Wird nach `fe80::a1d6:ffff:ac`
+	- **Bsp.:** Wird nach `fe80::a1d6:ffff:acda:16fd` gesucht, wird `ff02::1:ffda:16fd` gesendet
 
 **ICMPv6-Nachrichtentypen von NDP:**
 
@@ -34,3 +34,11 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 | 135 | Neighbor Solicitation (NS)  | Ersetzt ARP-Request.<br>“Wer hat diese IPv6-Adresse? Antworte mit deiner MAC.”                                                                                                                                                                                             |
 | 136 | Neighbor Advertisement (Na) | Ersetzt ARP-Reply.<br>Angesprochene Host antwortet mit seiner MAC-Adresse direkt an den Absender.                                                                                                                                                                          |
 | 137 | Redirect                    | Router sendet diese Nachricht an einen Host, wenn er weiß, dass ein anderer Router im selben Subnetz ein besserer nächster Hop für ein bestimmtes Ziel wäre.<br>Host aktualisiert seinen Routing-Cache.<br>Vermeidet unnötige Umwege & entlastet Router.                   |
+**Vergleich ARP vs. NDP**
+
+|              | ARP                                 | NDP                                             |
+| ------------ | ----------------------------------- | ----------------------------------------------- |
+| Protokoll    | Eigenständig (EtherType 0x0806)     | Teil von ICMPv6, in IPv6 integriert             |
+| Adressierung | Broadcast - alle müssen verarbeiten | Solicited-Node Multicast - nur betroffene Hosts |
+| Netzlast     | Hoch                                | Deutlich geringer                               |
+| Sicherheit   | Keine - anfällig für ARP-Spoofing   | Erwe                                            |
