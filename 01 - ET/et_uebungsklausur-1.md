@@ -22,7 +22,6 @@ Die Zeichnung zeigt den PN-Übergang in **Vorwärtspolarisation** (Strom fließt
 - **Batterie**: Plus-Pol an p, Minus-Pol an n → die äußere Spannung drängt die Löcher und Elektronen zur Mitte, die Raumladungszone schrumpft, und Strom fließt.
 ### 1. Rekombination
 **Wenn Elektron auf Loch trifft**
-
 ![500](99%20-%20misc/Pasted%20image%2020260320081006.png)
 - Elektron springt in Lücke - unvollständige Bindung wird vollständig
 - Loch “verschwindet”, Elektron “verschwindet” - beide Teil einer normalen kovalenten Bindung
@@ -30,7 +29,6 @@ Die Zeichnung zeigt den PN-Übergang in **Vorwärtspolarisation** (Strom fließt
 
 ### 2. Raumladungszone
 **Was nach der Rekombination übrig bleibt**
-
 ![500](99%20-%20misc/Pasted%20image%2020260320081326.png)
 - Nach Rekombination sind Ladungsträger weg - aber **Atomrümpfe (Ionen)** bleiben fest im Gitter
 - Boratom hat jetzt ein Elektron mehr als Protonen **→ negatives Ion**
@@ -39,9 +37,9 @@ Die Zeichnung zeigt den PN-Übergang in **Vorwärtspolarisation** (Strom fließt
 
 ### 3. Diffusionsspannung
 **Warum das Ganze zum Stillstand kommt**
-
 ![500](99%20-%20misc/Pasted%20image%2020260320081721.png)
 - Stoppt von selbst durch die **Diffusionsspannung**
 - Löcher wollen durch Diffusion zur n-Seite wandern (**hohe Konzentration → niedrige**), aber E-Feld der RLZ wirkt dagegen
 - Irgendwann sind beide Kräfte gleich Groß - **Gleichgewicht**
 - Verbleibende Spannung über der RLZ bei Si beträgt ca. $0,7 \text{ V}$
+	→ Genau die Spannung, die man extern anlegen muss, um Diode in Vorwärtsrichtung zu öffnen
