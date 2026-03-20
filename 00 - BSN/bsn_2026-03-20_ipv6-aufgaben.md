@@ -1,13 +1,19 @@
 # IPv6 Aufgaben
 ___
-## 1. Erkennung
+## 1. Erkennung IPv4 vs. IPv6
 **Network Layer:**
 Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 - `0100` = `4` → IPv4
 - `0110` = `6` → IPv6
 
-**Data**
+**Data-Link Layer:**
+**EtherType** im Frame-Header signalisiert verwendete Version
+- `0x0800` → IPv4
+- `0x86DD` → IPv6
 
-## 2. Länge
-- IPv4: 64 Bit
+## 2. Adresslänge
+- IPv4: 32 Bit
 - IPv6: 128 Bit
+
+## ARP-Äquivalent
+**ARP (Address Resolution Protocol)**
