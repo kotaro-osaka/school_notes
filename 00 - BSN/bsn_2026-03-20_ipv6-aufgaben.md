@@ -16,7 +16,10 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 - IPv6: 128 Bit
 
 ## ARP-Äquivalent
-**ARP (Address Resolution Protocol)**
+**IPv4: ARP (Address Resolution Protocol)**
 - Löst IP-Adresse in MAC-Adresse auf (Layer 3 → Layer 2)
 - Sendet Broadcast-Anfrage um Host mit jeweiligen IP zu finden
 
+**IPv6: NDP (Neighbor Discovery Protocol)**
+- **Neighbor Solicitation / Neighbor Advertisement**-Nachricht (ICMPv6-Typen 135/136)
+- Verwendet Multicast statt Broadcast (effizienter)
