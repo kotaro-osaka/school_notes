@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -219,14 +220,14 @@
   },
   "active": "4b68b999dcc5130a",
   "lastOpenFiles": [
-    "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/protocols/arp.md",
     "00 - BSN/bsn_2026-03-20_ipv6-aufgaben.md",
+    "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
     "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
     "00 - BSN/1 - glossary/1.0 - misc/rir.md",
     "00 - BSN/1 - glossary/1.0 - misc/half_vs_full_duplex.md",
     "00 - BSN/1 - glossary/1.0 - misc/dual-stack.md",
     "00 - BSN/bsn_2026-03-20_IPV6_Aufgaben_2026.pdf",
-    "00 - BSN/1 - glossary/1.2 - addressing/protocols/arp.md",
     "00 - BSN/1 - glossary/1.2 - addressing/protocols/slaac.md",
     "00 - BSN/1 - glossary/1.2 - addressing/protocols/apipa.md",
     "00 - BSN/1 - glossary/1.2 - addressing/ipv6/ipv6_globale_unicast_adressen.md",

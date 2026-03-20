@@ -17,3 +17,6 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 
 ## ARP-Äquivalent
 **ARP (Address Resolution Protocol)**
+- Löst IP-Adresse in MAC-Adresse auf (Layer 3 → Layer 2)
+- Sendet Broadcast-Anfrage um Host mit jeweiligen IP zu finden
+
