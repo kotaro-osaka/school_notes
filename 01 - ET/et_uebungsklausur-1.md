@@ -21,6 +21,15 @@ Die Zeichnung zeigt den PN-Übergang in **Vorwärtspolarisation** (Strom fließt
 - **Raumladungszone** (Mitte): keine freien Träger mehr — nur noch fest gebundene Ionen. Das interne E-Feld zeigt von n nach p.
 - **Batterie**: Plus-Pol an p, Minus-Pol an n → die äußere Spannung drängt die Löcher und Elektronen zur Mitte, die Raumladungszone schrumpft, und Strom fließt.
 ### 1. Rekombination
+**Wenn Elektron auf Loch trifft**
+
 ![500](99%20-%20misc/Pasted%20image%2020260320081006.png)
 - Elektron springt in Lücke - unvollständige Bindung wird vollständig
-- Loch “verschwindet”, Elektron “verschwindet”
+- Loch “verschwindet”, Elektron “verschwindet” - beide Teil einer normalen kovalenten Bindung
+	=> Keine Ladungsträger and dieser Stelle
+
+### 2. Raumladungszone
+**Was nach der Rekombination übrig bleibt**
+
+![500](99%20-%20misc/Pasted%20image%2020260320081326.png)
+- Nach Rekombination sind Ladungsträger weg - aber **Atomrümpfe (Ionen)**
