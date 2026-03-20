@@ -2,11 +2,11 @@
 ___
 - 128Bit
 - [RFC 4291 Regulation](https://datatracker.ietf.org/doc/html/rfc4291)
-## Ohne Subnetting-Berücksichtigung
+## Ohne Subnetting Berücksichtigung
 > Default: `/64`-Prefix
 ![[Pasted image 20240408095946.png|500]]
 > 2 IPv6-Adressteile
-## Mit Subnetting-Berücksichtigung
+## Mit Subnetting Berücksichtigung
 ![[Pasted image 20240408100129.png|500]]
 > 3 IPv6-Adressteile
 > 48, 16, 64
