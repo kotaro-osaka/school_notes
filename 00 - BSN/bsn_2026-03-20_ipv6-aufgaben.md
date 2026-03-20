@@ -63,4 +63,9 @@ Gesucht: Netz- & Broadcastadresse
 1. `fe80:0000:0000:0000:a1d6:ffff:acda:16fd` + `/80`
 2. Netzanteil: `fe80:0000:0000:0000:a1d6` + `::` => `fe80::a1d6:0:0:0/80`
 3. Broadcast: Multicast
-4. Letzte
+4. (Broadcast = “Letzte Adresse”): `fe80::a1d6` + `ffff:ffff:ffff/80` => `fe80::a1d6:ffff:ffff:ffff/80`
+
+## 5. IPv4-mapped IPv6-Adresse
+Gegeben: `192.168.5.78`
+
+Wenn IPv4
