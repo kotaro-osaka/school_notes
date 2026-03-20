@@ -56,4 +56,9 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 - Host finden automatisch ihre Default-Gateway über RS/RA
 - Ohne statische Konfiguration oder DHCPv6
 
-## 4. Netz- & Broadcastadresse für `fe80::a1d6:ffff:ac`
+## 4. Netz- & Broadcastadresse
+Gegeben: `fe80::a1d6:ffff:acda:16fd/80`
+Gesucht: Netz- & Broadcastadresse
+
+1. `fe80:0000:0000:0000:a1d6:ffff:acda:16fd` + `/80`
+2. Netzanteil:
