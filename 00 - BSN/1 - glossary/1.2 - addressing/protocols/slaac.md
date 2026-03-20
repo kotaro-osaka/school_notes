@@ -1,5 +1,5 @@
 # SLAAC
 ___
-> Stateless Address Autoconfiguration
+> Stateless Address Auto configuration
 - Mechanism
 - Used to generate own IPv6 address from MAC and Router advertisements
