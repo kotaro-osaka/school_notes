@@ -38,4 +38,9 @@ Die Zeichnung zeigt den PN-Übergang in **Vorwärtspolarisation** (Strom fließt
 - Diese festen Ladungen bauen das interne E-Feld auf
 
 ### 3. Diffusionsspannung
-**Warum **
+**Warum das Ganze zum Stillstand kommt**
+
+![500](99%20-%20misc/Pasted%20image%2020260320081721.png)
+- Stoppt von selbst durch die **Diffusionsspannung**
+- Löcher wollen durch Diffusion zur n-Seite wandern (**hohe Konzentration → niedrige**), aber E-Feld der RLZ wirkt dagegen
+- Irgendwann sind beide Kräfte gleich Groß - **Gleichgewicht**
