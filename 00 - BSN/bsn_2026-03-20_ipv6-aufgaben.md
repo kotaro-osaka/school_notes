@@ -21,5 +21,10 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 - Sendet Broadcast-Anfrage um Host mit jeweiligen IP zu finden
 
 **IPv6: NDP (Neighbor Discovery Protocol)**
-- **Neighbor Solicitation / Neighbor Advertisement**-Nachricht (ICMPv6-Typen 135/136)
-- Verwendet Multicast statt Broadcast (effizienter)
+- Ersetzt *ARP*, *ICMP Router Discovery*, *ICMP Redirect*
+
+**ICMPv6-Nachrichtentypen von NDP:**
+
+| Typ | Name                     | Funktion |
+| --- | ------------------------ | -------- |
+| 133 | Router Solicitation (RS) | Router   |
