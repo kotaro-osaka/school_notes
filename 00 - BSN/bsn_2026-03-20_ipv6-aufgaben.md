@@ -36,9 +36,10 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 | 137 | Redirect                    | Router sendet diese Nachricht an einen Host, wenn er weiß, dass ein anderer Router im selben Subnetz ein besserer nächster Hop für ein bestimmtes Ziel wäre.<br>Host aktualisiert seinen Routing-Cache.<br>Vermeidet unnötige Umwege & entlastet Router.                   |
 **Vergleich ARP vs. NDP**
 
-|              | ARP                                 | NDP                                             |
-| ------------ | ----------------------------------- | ----------------------------------------------- |
-| Protokoll    | Eigenständig (EtherType 0x0806)     | Teil von ICMPv6, in IPv6 integriert             |
-| Adressierung | Broadcast - alle müssen verarbeiten | Solicited-Node Multicast - nur betroffene Hosts |
-| Netzlast     | Hoch                                | Deutlich geringer                               |
-| Sicherheit   | Keine - anfällig für ARP-Spoofing   | Erwe                                            |
+|                 | ARP                                 | NDP                                                                                       |
+| --------------- | ----------------------------------- | ----------------------------------------------------------------------------------------- |
+| Protokoll       | Eigenständig (EtherType 0x0806)     | Teil von ICMPv6, in IPv6 integriert                                                       |
+| Adressierung    | Broadcast - alle müssen verarbeiten | Solicited-Node Multicast - nur betroffene Hosts                                           |
+| Netzlast        | Hoch                                | Deutlich geringer                                                                         |
+| Sicherheit      | Keine - anfällig für ARP-Spoofing   | Erweiterbar mit `SEND` (Secure NDP)                                                       |
+| Funktionsumfang | Nur MAC-Adressauflösung             | Adressauflösung + Router Discovery + SLAAC + DAD (Duplicate Address Detection) + Redirect |
