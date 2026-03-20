@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -220,8 +219,13 @@
   },
   "active": "4b68b999dcc5130a",
   "lastOpenFiles": [
-    "00 - BSN/bsn_2026-03-20_IPV6_Aufgaben_2026.pdf",
+    "00 - BSN/1 - glossary/1.0 - misc/encapsulation.md",
     "00 - BSN/bsn_2026-03-20_ipv6-aufgaben.md",
+    "00 - BSN/1 - glossary/1.0 - misc/rir.md",
+    "00 - BSN/1 - glossary/1.0 - misc/osi_model.md",
+    "00 - BSN/1 - glossary/1.0 - misc/half_vs_full_duplex.md",
+    "00 - BSN/1 - glossary/1.0 - misc/dual-stack.md",
+    "00 - BSN/bsn_2026-03-20_IPV6_Aufgaben_2026.pdf",
     "00 - BSN/1 - glossary/1.2 - addressing/protocols/arp.md",
     "00 - BSN/1 - glossary/1.2 - addressing/protocols/slaac.md",
     "00 - BSN/1 - glossary/1.2 - addressing/protocols/apipa.md",
@@ -256,10 +260,6 @@
     "99 - misc/Pasted image 20260317084953.png",
     "01 - ET/et_2026-03-12_arbeitsblatt_step_up_wandler.pdf",
     "00 - BSN/klausur/uebungsklausur.md",
-    "02 - MMI/mmi_2026-01-19_mqtt.md",
-    "02 - MMI/mmi_praesentation-arduino-iot-mit-mqtt.md",
-    "08 - Datenbanken/klausur/benutzerverwaltung.md",
-    "08 - Datenbanken/db_2026-02-13_benutzerrechte.md",
     "99 - misc/Pasted image 20260310084613.png",
     "99 - misc/Pasted image 20260309112242.png",
     "99 - misc/Pasted image 20260309112147.png",
