@@ -44,3 +44,4 @@ Die Zeichnung zeigt den PN-Übergang in **Vorwärtspolarisation** (Strom fließt
 - Stoppt von selbst durch die **Diffusionsspannung**
 - Löcher wollen durch Diffusion zur n-Seite wandern (**hohe Konzentration → niedrige**), aber E-Feld der RLZ wirkt dagegen
 - Irgendwann sind beide Kräfte gleich Groß - **Gleichgewicht**
+- Verbleibende Spannung über der RLZ bei Si beträgt ca. $0,7 \text{ V}$
