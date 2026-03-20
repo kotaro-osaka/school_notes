@@ -22,6 +22,8 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 
 **IPv6: NDP (Neighbor Discovery Protocol)**
 - Ersetzt *ARP*, *ICMP Router Discovery*, *ICMP Redirect*
+- Verwendet **Solicited-Node Multicast-Adressen**, die sich aus `ff02::1:ff` + letzten 24 Bit der Ziel-IPv6-Adresse zusammensetzten
+	- **Bsp.:** Wird nach `fe80::a1d6:ffff:ac`
 
 **ICMPv6-Nachrichtentypen von NDP:**
 
