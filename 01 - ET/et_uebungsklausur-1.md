@@ -20,3 +20,7 @@ Die Zeichnung zeigt den PN-Übergang in **Vorwärtspolarisation** (Strom fließt
 - **n-Seite** (grün): freie Elektronen ⊖ als Majoritätsträger
 - **Raumladungszone** (Mitte): keine freien Träger mehr — nur noch fest gebundene Ionen. Das interne E-Feld zeigt von n nach p.
 - **Batterie**: Plus-Pol an p, Minus-Pol an n → die äußere Spannung drängt die Löcher und Elektronen zur Mitte, die Raumladungszone schrumpft, und Strom fließt.
+### 1. Rekombination
+![500](99%20-%20misc/Pasted%20image%2020260320081006.png)
+- Elektron springt in Lücke - unvollständige Bindung wird vollständig
+- Loch “verschwindet”, Elektron “verschwindet”
