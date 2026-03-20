@@ -15,7 +15,7 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 - IPv4: 32 Bit
 - IPv6: 128 Bit
 
-## ARP-Äquivalent
+## 3. ARP-Äquivalent
 **IPv4: ARP (Address Resolution Protocol)**
 - Löst IP-Adresse in MAC-Adresse auf (Layer 3 → Layer 2)
 - Sendet Broadcast-Anfrage um Host mit jeweiligen IP zu finden
@@ -53,4 +53,7 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 - Bevor ein Host eine selbst konfigurierte Adresse nutzt, sendet er eine *NS*-Nachricht an diese *tentative* Adresse
 - Antwort = Konflikt => Adresse wird verworfen
 #### Router Discovery
-- Host finden 
+- Host finden automatisch ihre Default-Gateway über RS/RA
+- Ohne statische Konfiguration oder DHCPv6
+
+## 4. Netz- & Broadcastadresse für `fe80::a1d6:ffff:ac`
