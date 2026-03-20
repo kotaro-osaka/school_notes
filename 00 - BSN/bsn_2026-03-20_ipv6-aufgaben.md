@@ -72,4 +72,4 @@ Wenn IPv4-Hosst über IPv6-Netz kommuniziert, wird automatisch eine **IPv4-mappe
 **Schema:** `::ffff:<IPv4-Adresse>`
 
 1. `192.168.5.78` → `192`=`C0`, `168`-`A8`, `5`=`05`, `78`=`4E`
-2. `::ffff:c0a8:0`
+2. `::ffff:c0a8:054e`
