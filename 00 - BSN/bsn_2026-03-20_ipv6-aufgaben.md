@@ -45,6 +45,12 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 | Sicherheit      | Keine - anfällig für ARP-Spoofing   | Erweiterbar mit `SEND` (Secure NDP)                                                       |
 | Funktionsumfang | Nur MAC-Adressauflösung             | Adressauflösung + Router Discovery + SLAAC + DAD (Duplicate Address Detection) + Redirect |
 ### Weitere NDP-Funktionen:
-#### SLAAC
+#### SLAAC - Stateless Address Autoconfiguration
 1. Host empfängt Netzpräfix via *RA*
 2. Kombiniert Netzpräfix mit Interface-ID
+	=> Fertige IPv6-Adresse ohne DHCP
+#### DAD - Duplicate Address Detection
+- Bevor ein Host eine selbst konfigurierte Adresse nutzt, sendet er eine *NS*-Nachricht an diese *tentative* Adresse
+- Antwort = Konflikt => Adresse wird verworfen
+#### Router Discovery
+- Host finden 
