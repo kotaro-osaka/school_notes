@@ -13,7 +13,7 @@ ___
 ## -Routing-Präfix
 - Anzahl der Netzbits
 ### Global-Routing-Präfix
-> Mit Subnetting-Berücksichtigung
+> Mit Subnetting Berücksichtigung
 > "Netzwerkpräfix" // "Standortpräfix"
 - Präfix: `<64`
 - Angabe des Lokalen (Sub-)Netzes (Adressbereich)
