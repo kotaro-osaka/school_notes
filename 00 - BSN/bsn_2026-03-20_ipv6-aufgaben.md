@@ -25,8 +25,8 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 
 **ICMPv6-Nachrichtentypen von NDP:**
 
-| Typ | Name                       | Funktion                                                             |
-| --- | -------------------------- | -------------------------------------------------------------------- |
-| 133 | Router Solicitation (RS)   | Host sucht nach Router                                               |
-| 134 | Router Advertisement (RA)  | Router antwortet periodisch oder auf RS mit Präfix MTU, Gateway-Info |
-| 135 | Neighbor Solicitation (NS) | Ersetzt ARP-Request -                                                |
+| Typ | Name                       | Funktion                                                                                                     |
+| --- | -------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 133 | Router Solicitation (RS)   | Host sendet diese Nachricht direkt nach dem Verbindungsaufbau ins Netz, um aktiv nach einem Router zu fragen |
+| 134 | Router Advertisement (RA)  | Router antwortet periodisch oder auf RS mit Präfix MTU, Gateway-Info                                         |
+| 135 | Neighbor Solicitation (NS) | Ersetzt ARP-Request -                                                                                        |
