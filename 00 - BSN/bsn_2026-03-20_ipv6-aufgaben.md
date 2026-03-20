@@ -61,4 +61,6 @@ Gegeben: `fe80::a1d6:ffff:acda:16fd/80`
 Gesucht: Netz- & Broadcastadresse
 
 1. `fe80:0000:0000:0000:a1d6:ffff:acda:16fd` + `/80`
-2. Netzanteil:
+2. Netzanteil: `fe80:0000:0000:0000:a1d6` + `::` => `fe80::a1d6:0:0:0/80`
+3. Broadcast: Multicast
+4. Letzte
