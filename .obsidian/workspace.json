@@ -11,18 +11,26 @@
             "id": "4b68b999dcc5130a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "00 - BSN/1 - glossary/1.2 - addressing/ipv6/ipv6.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "00 - BSN/bsn_2026-03-20_IPV6_Aufgaben_2026.pdf"
               },
+              "icon": "lucide-file-text",
+              "title": "bsn_2026-03-20_IPV6_Aufgaben_2026"
+            }
+          },
+          {
+            "id": "0d371bd7b336195f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ipv6"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,12 +200,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b68b999dcc5130a",
+  "active": "0d371bd7b336195f",
   "lastOpenFiles": [
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv6/ipv6_address_types.md",
-    "00 - BSN/1 - glossary/1.2 - addressing/ipv6/ipv6.md",
-    "00 - BSN/bsn_2026-03-20_ipv6-address-types.pdf",
     "00 - BSN/bsn_2026-03-20_IPV6_Aufgaben_2026.pdf",
+    "00 - BSN/bsn_2026-03-06_usv-aufgaben.md",
+    "00 - BSN/bsn_2026-03-20_ipv6-address-types.pdf",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv6/ipv6.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv6/ipv6_address_types.md",
+    "00 - BSN/1 - glossary/1.2 - addressing/ipv6/ipv6_analysis.md",
     "01 - ET/et_uebungsklausur-1.pdf",
     "01 - ET/et_uebungsklausur-1.md",
     "99 - misc/Pasted image 20260320081721.png",
@@ -208,11 +218,10 @@
     "00 - BSN/bsn_2026-03-05_raid-uebungen.pdf",
     "00 - BSN/bsn_2026-03-06_Aufgabe_USV_ArbeitsweiseAufbau.pdf",
     "00 - BSN/bsn_2026-03-06_usv.md",
-    "00 - BSN/bsn_RAID_Aufgabe_2026-02-25.pdf",
-    "00 - BSN/bsn_2026-03-06_usv-aufgaben.md",
+    "00 - BSN/bsn_2026-02-25_RAID_Aufgabe.pdf",
     "00 - BSN/bsn_2026-02-12_VLAN_AufgabeUmsetzung_2023.pdf",
     "00 - BSN/bsn_2026-02-06_vlan-vortrag.md",
-    "00 - BSN/bsn_raid-aufgaben_2026-02-25.md",
+    "00 - BSN/bsn_2026-02-25_raid-aufgaben.md",
     "00 - BSN/bsn_2025-10-07_netzwerksegmentierung-teil-4.md",
     "00 - BSN/bsn_2025-10-07_Aufgabe3_Netzwerksegmentierung.pdf",
     "00 - BSN/bsn_2025-09-25_uebungsklausur.md",
@@ -234,8 +243,6 @@
     "08 - Datenbanken/klausur/create-table.md",
     "08 - Datenbanken/klausur/indices.md",
     "08 - Datenbanken/klausur/datentypen.md",
-    "08 - Datenbanken/db_klausur-themen.md",
-    "08 - Datenbanken/klausur/erd.md",
     "99 - misc/Pasted image 20260309112242.png",
     "99 - misc/Pasted image 20260309112147.png",
     "99 - misc/Pasted image 20260309112005.png",
