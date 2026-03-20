@@ -24,6 +24,7 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 - Ersetzt *ARP*, *ICMP Router Discovery*, *ICMP Redirect*
 - Verwendet **Solicited-Node Multicast-Adressen**, die sich aus `ff02::1:ff` + letzten 24 Bit der Ziel-IPv6-Adresse zusammensetzten
 	- **Bsp.:** Wird nach `fe80::a1d6:ffff:acda:16fd` gesucht, wird `ff02::1:ffda:16fd` gesendet
+	- **Nur der Host mit der passenden Adresse muss den Frame verarbeiten - alle anderen verwerfen ihn auf Schicht 2**
 
 **ICMPv6-Nachrichtentypen von NDP:**
 
@@ -43,3 +44,7 @@ Host erkennt anhand des **Version-Feldes im IP-Header** (ersten 4 Bits)
 | Netzlast        | Hoch                                | Deutlich geringer                                                                         |
 | Sicherheit      | Keine - anfällig für ARP-Spoofing   | Erweiterbar mit `SEND` (Secure NDP)                                                       |
 | Funktionsumfang | Nur MAC-Adressauflösung             | Adressauflösung + Router Discovery + SLAAC + DAD (Duplicate Address Detection) + Redirect |
+### Weitere NDP-Funktionen:
+#### SLAAC
+1. Host empfängt Netzpräfix via *RA*
+2. Kombiniert Netzpräfix mit Interface-ID
