@@ -32,4 +32,10 @@ Die Zeichnung zeigt den PN-Übergang in **Vorwärtspolarisation** (Strom fließt
 **Was nach der Rekombination übrig bleibt**
 
 ![500](99%20-%20misc/Pasted%20image%2020260320081326.png)
-- Nach Rekombination sind Ladungsträger weg - aber **Atomrümpfe (Ionen)**
+- Nach Rekombination sind Ladungsträger weg - aber **Atomrümpfe (Ionen)** bleiben fest im Gitter
+- Boratom hat jetzt ein Elektron mehr als Protonen **→ negatives Ion**
+- Donatoratom (z.B. Phosphor) hat ein Elektron weniger **→ positives Ion**
+- Diese festen Ladungen bauen das interne E-Feld auf
+
+### 3. Diffusionsspannung
+**Warum **
