@@ -111,3 +111,8 @@ e) `fe80::55:e::169` → Nicht möglich, weil `::` zwei Mal verwendet wurde
 **Problem: EUI-64**
 - Bei SLAAC generiert ein Host seine Interface-ID ursprünglich nach dem **EUI-64-Verfahren** direkt aus der MAC-Adresse des Netzwerkinterfaces
 	=> Resultierende IPv6-Adresse enthält **dauerhaft und weltweit eindeutig** die MAC-Adresse des Geräts
+	=> Sichtbar für jeden Router & Server auf dem Weg
+
+**Konsequenzen:**
+1. **Geräteidentifikation:** Da die MAC-Adresse herstellerspezifisch ist (ersten 24 Bit), lässt sich nicht nur Gerät, sondern auch dessen Hersteller ablesen
+2. **Tracking über Netzgrenzen hinweg:** Nutzer, die sich in verschiedene Net
