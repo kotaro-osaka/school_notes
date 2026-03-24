@@ -87,4 +87,11 @@ d) `fe80:0000:0000:0001:0000:0000:0010:1000` → `fe80::1:0:0:10:1000`
 ## 8. Vollständige Darstellung von Kurzformen
 a) `fe80:127:0:33:5:200:0:1b2c` → `fe80:0127:0000:0033:0005:0200:0000:1b2c`
 b) `ff31:1200::2034:1424` → `ff31:1200:0000:0000:0000:0000:2034:1424`
-c) `::1` → `0000:0000:0000:0000:00`
+c) `::1` → `0000:0000:0000:0000:0000:0000:0000:0001`
+d) `fe::ff:1:2` → `00fe:0000:0000:0000:0000:00ff:0001:0002`
+e) `fe80::55:e::169` → Nicht möglich, weil `::` zwei Mal verwendet wurde
+
+## 9. Internetzugriff Problem
+`fe80::218:e7ff:fe16:7130/64`
+
+=> Weil es sich um eine Link-Local Adresse handelt, die nicht für routing ode
