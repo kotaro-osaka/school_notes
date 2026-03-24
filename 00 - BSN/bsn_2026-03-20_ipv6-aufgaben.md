@@ -115,4 +115,4 @@ e) `fe80::55:e::169` → Nicht möglich, weil `::` zwei Mal verwendet wurde
 
 **Konsequenzen:**
 1. **Geräteidentifikation:** Da die MAC-Adresse herstellerspezifisch ist (ersten 24 Bit), lässt sich nicht nur Gerät, sondern auch dessen Hersteller ablesen
-2. **Tracking über Netzgrenzen hinweg:** Nutzer, die sich in verschiedene Net
+2. **Tracking über Netzgrenzen hinweg:** Nutzer, die sich in verschiedene Netze einloggt, verwenden dieselbe Interface-ID und Dienste können ein Bewegungsprofil erstellen, ohne Cookies oder andere Tracking-Mechanismen
