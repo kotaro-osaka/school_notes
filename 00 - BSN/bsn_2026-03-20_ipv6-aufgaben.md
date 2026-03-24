@@ -98,4 +98,11 @@ e) `fe80::55:e::169` → Nicht möglich, weil `::` zwei Mal verwendet wurde
 
 ## 10 Dual Stack
 - Übergangstechnologie (entwickelt, um Migration zu erleichtern)
-	- Reine IPv4 Geräte k
+	- Reine IPv4 Geräte können nicht mit reinen IPv6 Geräten kommunizieren
+- Dual Stack Geräte betreiben beide Protokolle gleichzeitig auf demselben Interface
+
+| Technologie         | Prinzip                                                                          |
+| ------------------- | -------------------------------------------------------------------------------- |
+| Dual Stack          | Beide Protokolle laufen gleichzeitig                                             |
+| Tunneling           | IPv6-Pakete werden in IPv4-Pakete verpackt und durch ein IPv4-Netz transportiert |
+| Translation (NAT64) | Übersetzt IPv6-Pakete in IPv4-Pake                                               |
