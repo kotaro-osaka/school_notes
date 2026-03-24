@@ -94,4 +94,8 @@ e) `fe80::55:e::169` → Nicht möglich, weil `::` zwei Mal verwendet wurde
 ## 9. Internetzugriff Problem
 `fe80::218:e7ff:fe16:7130/64`
 
-=> Weil es sich um eine Link-Local Adresse handelt, die nicht für routing ode
+=> Weil es sich um eine Link-Local Adresse handelt, die nicht für routing, sondern für einzelne ‘Links’ verwendet wird.
+
+## 10 Dual Stack
+- Übergangstechnologie (entwickelt, um Migration zu erleichtern)
+	- Reine IPv4 Geräte k
