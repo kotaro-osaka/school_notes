@@ -30,14 +30,7 @@
               "icon": "lucide-file-text",
               "title": "bsn_2026-03-20_IPV6_Aufgaben_2026"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "91be5e5ac8eb7017",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "4b68b999dcc5130a",
             "type": "leaf",
@@ -53,7 +46,8 @@
               "title": "bsn_2026-03-20_ipv6-aufgaben"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
