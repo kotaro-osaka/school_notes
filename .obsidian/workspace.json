@@ -30,7 +30,14 @@
               "icon": "lucide-file-text",
               "title": "bsn_2026-03-20_IPV6_Aufgaben_2026"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "91be5e5ac8eb7017",
+        "type": "tabs",
+        "children": [
           {
             "id": "4b68b999dcc5130a",
             "type": "leaf",
@@ -46,8 +53,7 @@
               "title": "bsn_2026-03-20_ipv6-aufgaben"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,6 +227,7 @@
   "active": "4b68b999dcc5130a",
   "lastOpenFiles": [
     "00 - BSN/bsn_2026-03-20_IPV6_Aufgaben_2026.pdf",
+    "00 - BSN/bsn_2026-03-20_ipv6-address-types.pdf",
     "00 - BSN/bsn_2026-03-20_ipv6-aufgaben.md",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "00 - BSN/1 - glossary/1.2 - addressing/protocols/arp.md",
@@ -232,7 +239,6 @@
     "00 - BSN/1 - glossary/1.2 - addressing/protocols/slaac.md",
     "00 - BSN/1 - glossary/1.2 - addressing/protocols/apipa.md",
     "00 - BSN/1 - glossary/1.2 - addressing/ipv6/ipv6_globale_unicast_adressen.md",
-    "00 - BSN/bsn_2026-03-20_ipv6-address-types.pdf",
     "Untitled 1.md",
     "Untitled.md",
     "00 - BSN/bsn_2026-03-06_usv-aufgaben.md",
