@@ -105,4 +105,9 @@ e) `fe80::55:e::169` → Nicht möglich, weil `::` zwei Mal verwendet wurde
 | ------------------- | -------------------------------------------------------------------------------- |
 | Dual Stack          | Beide Protokolle laufen gleichzeitig                                             |
 | Tunneling           | IPv6-Pakete werden in IPv4-Pakete verpackt und durch ein IPv4-Netz transportiert |
-| Translation (NAT64) | Übersetzt IPv6-Pakete in IPv4-Pake                                               |
+| Translation (NAT64) | Übersetzt IPv6-Pakete in IPv4-Pakete und umgekehrt                               |
+
+## Zusatzaufgabe - Annonymität
+**Problem: EUI-64**
+- Bei SLAAC generiert ein Host seine Interface-ID ursprünglich nach dem **EUI-64-Verfahren** direkt aus der MAC-Adresse des Netzwerkinterfaces
+	=> Resultierende IPv6-Adresse enthält **dauerhaft und weltweit eindeutig** die MAC-Adresse des Geräts
