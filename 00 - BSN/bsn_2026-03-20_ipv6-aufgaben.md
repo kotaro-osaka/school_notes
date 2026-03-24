@@ -121,3 +121,4 @@ e) `fe80::55:e::169` → Nicht möglich, weil `::` zwei Mal verwendet wurde
 > ISOC (Internet Society) ist die Dachorganisation der IETF (Internet Engineering Task Force)
 - Hat in **RFC 4941** “**Privacy Extensions**” definiert, die inzwischen in allen modernen Betriebssystemen standardmäßig aktiviert sind
 	=> Statt aus der MAC-Adresse abzuleiten, wird eine **zufällige, temporäre Interface-ID** generiert, diese wird periodisch erneuert (oft alle 24h)
+⚠️ Gerät behält intern die EUI-64-Adresse (z.B. für eingehende Verbindungen), verwendet nach außen aber die temp. Adresse
