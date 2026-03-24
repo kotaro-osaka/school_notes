@@ -46,8 +46,7 @@
               "title": "bsn_2026-03-20_ipv6-aufgaben"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,10 +217,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84d470efc9354f1a",
+  "active": "69906ed7ab1923f9",
   "lastOpenFiles": [
-    "00 - BSN/bsn_2026-03-20_ipv6-aufgaben.md",
     "00 - BSN/bsn_2026-03-20_IPV6_Aufgaben_2026.pdf",
+    "00 - BSN/bsn_2026-03-20_ipv6-aufgaben.md",
     "00 - BSN/bsn_2026-03-20_ipv6-address-types.pdf",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "00 - BSN/1 - glossary/1.2 - addressing/protocols/arp.md",
