@@ -44,6 +44,15 @@ Die Zeichnung zeigt den PN-Übergang in **Vorwärtspolarisation** (Strom fließt
 - Verbleibende Spannung über der RLZ bei Si beträgt ca. $0,7 \text{ V}$
 	→ Genau die Spannung, die man extern anlegen muss, um Diode in Vorwärtsrichtung zu öffnen
 
+## Gleichrichtung (Einweggleichrichter)
+Die Schaltung zeigt einen Einweggleichrichter: Die Diode lässt nur die positive Halbwelle durch. An $R$ fällt ab:
+- **Positive Halbwelle:** $U_R = \hat{u}-U_D \approx 10V-0,7V = 9,3V$ (Sinushalbwelle)
+- **Negative Halbwelle:** Diode sperrt → $U_R = 0V$
+
+Die Ausgangsspannung $U_R$ sieht so aus:
+- Halbwellen bei $50Hz$ → Periode $T=20ms$
+- Nur jede zweite Halbwelle ersch
+
 ## Effektivwert
 Welchen Effektivwert hat eine sinusförmige Wechselspannung mit einer Spitze-Tal-Spannung von 12V?
 Spitze-Tal-Spannung $U_{ss}=12V$ → Spitzenwert $\hat{u}=\frac{12}{2}=6V$
