@@ -44,3 +44,6 @@ Die Zeichnung zeigt den PN-Übergang in **Vorwärtspolarisation** (Strom fließt
 - Verbleibende Spannung über der RLZ bei Si beträgt ca. $0,7 \text{ V}$
 	→ Genau die Spannung, die man extern anlegen muss, um Diode in Vorwärtsrichtung zu öffnen
 
+## Effektivwert
+Welchen Effektivwert hat eine sinusförmige Wechselspannung mit einer Spitze-Tal-Spannung von 12V?
+$$U_{eff}=\frac{\hat{u}}{}$$
