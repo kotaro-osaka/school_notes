@@ -26,4 +26,6 @@ ___
 ## Brückengleichrichtung
 - [AB Brückengleichrichter](https://www.elektronik-kompendium.de/sites/slt/1807181.htm)
 - [AH Gleichrichtung](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ah_gleichrichtung.pdf)
-- 
+- [AB Brückengleichrichtung](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ab_brueckengleichrichtung.png)
+- [AH Glätten pulsierender Gleichspannung](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ah_glaetten_von_gleichspannung.pdf)
+- AB Brückengleichrichter

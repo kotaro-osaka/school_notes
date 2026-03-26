@@ -194,8 +194,10 @@
   },
   "active": "0a51cd3ab93edf75",
   "lastOpenFiles": [
-    "01 - ET/klausur/et_ah_gleichrichtung.pdf",
+    "01 - ET/klausur/et_ah_glaetten_von_gleichspannung.pdf",
     "01 - ET/klausur/et_klausurthemen.md",
+    "01 - ET/klausur/et_ab_brueckengleichrichtung.png",
+    "01 - ET/klausur/et_ah_gleichrichtung.pdf",
     "01 - ET/klausur/et_ab_halbleiter.pdf",
     "01 - ET/klausur/et_fragen_halbleiter.md",
     "01 - ET/klausur/et_ah_halbleiter.pdf",
@@ -216,7 +218,6 @@
     "02 - MMI/mmi_2025-09-29_knx.md",
     "02 - MMI/mmi_2025-09-15_knx-bussystem.md",
     "02 - MMI/KNX-Grundlagen.pdf",
-    "00 - BSN/bsn_2026-03-20_ipv6-address-types.pdf",
     "00 - BSN/bsn_2026-03-20_ipv6-aufgaben.md",
     "00 - BSN/1 - glossary/1.1 - protocols/osi_model_protocols.png",
     "00 - BSN/1 - glossary/1.2 - addressing/protocols/arp.md",
@@ -238,7 +239,6 @@
     "99 - misc/Pasted image 20260317084953.png",
     "99 - misc/Pasted image 20260310084613.png",
     "99 - misc/Pasted image 20260309112242.png",
-    "99 - misc/Pasted image 20260309112147.png",
     "Untitled.canvas"
   ]
 }
