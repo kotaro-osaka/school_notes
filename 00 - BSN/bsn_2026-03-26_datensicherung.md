@@ -54,4 +54,6 @@ $$285 + 5 \cdot 10,5 = 337,5 GiB$$
 - Rücksicherung stellt letzten vollständig gesicherten Stand wieder her
 
 **Vollbackup:**
-- Immer nur ein Vollbackup nötig.
+Immer nur ein Vollbackup nötig.
+- **Minimal** (kleinstes Vollbackup=Tag 1): `50 GiB = 51.200 MiB`÷ 119,2 ≈ 429s ≈ 7,2 min`
+- **Maximal** (größtes Vollbackup=Tag 29): `64 GiB = 65.536 MiB`
