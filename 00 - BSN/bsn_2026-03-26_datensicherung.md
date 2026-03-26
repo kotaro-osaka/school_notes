@@ -97,4 +97,8 @@ Immer Vollbackup + 1 differenzielles Backup
 - $z=$ Zuwachs pro Tag in `MiB` $=z/1024 GiB$
 - $T=$ Zeitraum in Tagen
 ### Vollbackup
-$$S=$$
+$$S=T \cdot D + \frac{z \cdot T(T-1)}{2048}[GiB]$$
+### Inkrementelles Backup
+$$S=D + \frac{z(T-1)}{1024}[GiB]$$
+### Differenzielles Backup
+$$S=D + \frac{z \cdot T(T-1)}{2048}[GiB]$$
