@@ -1,5 +1,6 @@
 # Übungsaufgaben: SQL-Abfragen
 ___
+**Relationen:**
 ```
 Zoo(ZooID (PK), Name, Ort)
 
@@ -61,4 +62,9 @@ HAVING COUNT(Tier.TierID) > 2;
 6. Welche Pfleger betreuen mehr als ein Tier und wie viele Tiere betreuen sie jeweils? Sortiere das Ergebnis nach der Anzahl der betreuten Tiere.
 ```mysql
 SELECT Pfleger.Name, COUNT(Pflege.TierID)
+FROM Pfleger
+JOIN Pflege ON Pfleger.PflegerID = Pflege.PflegerID
+GROUP BY Pfleger.PflegerID, Pfleger.Name
+HAVING COUNT(Pflege.TierID) > 1
+ORDER BY COUNT(Pflege.TierID) DESC;
 ```
