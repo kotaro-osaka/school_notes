@@ -43,3 +43,4 @@ Die Zeichnung zeigt den PN-Übergang in **Vorwärtspolarisation** (Strom fließt
 - Irgendwann sind beide Kräfte gleich Groß - **Gleichgewicht**
 - Verbleibende Spannung über der RLZ bei Si beträgt ca. $0,7 \text{ V}$
 	→ Genau die Spannung, die man extern anlegen muss, um Diode in Vorwärtsrichtung zu öffnen
+
