@@ -23,3 +23,9 @@ ___
 	=> $30 \cdot 50 + 0,5 \cdot \frac{29 \cdot 30}{2}=$ `1717,5 GiB`
 
 ## Aufgabe 2 - Speicherbedarf bei wöchentlichem Zyklus
+**Gegeben:**
+- 4 vollständige Wochen + Rest => 5 Vollbackups um 30 Tage abzudecken
+
+| Vollbackup | Tag | Bestand |
+| ---------- | --- | ------- |
+| 1          |     |         |
