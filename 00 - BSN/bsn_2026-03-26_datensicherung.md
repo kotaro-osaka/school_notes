@@ -45,4 +45,5 @@ $$(50 + 53,5 + 57 + 60,5 + 64) + 5 \cdot 3 = 300 GiB$$
 **Differenzielles Backup:**
 Pro Zyklus:
 - 1 Vollbackup
-- Akkumulierende Differenzen ()
+- Akkumulierende Differenzen ($0,5 + 1,0 + 1,5 + 2,0 + 2,5 + 3,0 = 10,5 GiB$)
+$$285 + 5 \cdot 10,5 = 337,5 GiB$$
