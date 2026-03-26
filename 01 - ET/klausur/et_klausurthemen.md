@@ -16,4 +16,8 @@ ___
 - [AH Halbleiter & Diode](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ah_halbleiter_diode.pdf)
 - [AH Halbleiter](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ah_halbleiter.pdf)
 - [Halbleiterdiode](https://www.leifiphysik.de/elektronik/halbleiterdiode)
+- [Fragen zu Halbleitern](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_fragen_halbleiter)
+- [AH Halbleiter](https://www.elektrotechnik-fachbuch.de/e_grundlagen_kap_03.html)
+- [AH Halbleiter und Diode](https://www.rahner-edu.de/grundlagen/signale-richtig-verstehen/dioden/)
+- [AB Halbleiter](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ab_halbleiter.pdf)
 - 
