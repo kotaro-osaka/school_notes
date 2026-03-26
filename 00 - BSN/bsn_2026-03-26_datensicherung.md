@@ -6,10 +6,16 @@ ___
 - Ausfallsicherheit: `30 Tage`
 
 ## Aufgabe 1 - Speicherbedarf
-> Tag 30: $50 + 29 \cdot 0,5 = 64,5 GiB$
+> Tag 30: $50 + 29 \cdot 0,5 =$ `64,5 GiB`
 
 **Vollbackup:**
-$30 \cdot 50 + 0,5 \cdot \frac{29 \cdot 30}{2} = 1717,5 GiB$
+$30 \cdot 50 + 0,5 \cdot \frac{29 \cdot 30}{2} =$ `1717,5 GiB`
 
 **Inkrementelles Backup:**
-- 1x Voll
+- 1x Vollbackup an Tag 1: `50 GiB`
+- 29x tägliche Änderung: je `0,5 GiB` → $29 \cdot 0,5=$ `14,5 GiB`
+	=> $50 + 14,5=$ `64,5 GiB`
+
+**Differenzielles Backup:**
+- 1x Vollbackup an Tag 1: `50 GiB`
+- Difer
