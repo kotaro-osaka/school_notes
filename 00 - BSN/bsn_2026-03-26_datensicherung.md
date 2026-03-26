@@ -26,6 +26,15 @@ ___
 **Gegeben:**
 - 4 vollständige Wochen + Rest => 5 Vollbackups um 30 Tage abzudecken
 
-| Vollbackup | Tag | Bestand |
-| ---------- | --- | ------- |
-| 1          |     |         |
+| Vollbackup | Tag | Bestand  |
+| ---------- | --- | -------- |
+| 1          | 1   | 50,0 GiB |
+| 2          | 8   | 53,5 GiB |
+| 3          | 15  | 57,0 GiB |
+| 4          | 22  | 60,5 GiB |
+| 5          | 29  | 64,0 GiB |
+
+**Vollbackup:**
+(Geht man davon aus, dass Backups älter als 5 Wochen überschrieben werden)
+
+	$$50,0 + 53,5 + 57,0 + 60,5 + 64,0 = 285 GiB$$
