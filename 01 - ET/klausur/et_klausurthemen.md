@@ -14,4 +14,6 @@ ___
 ## Netzteile und Schaltnetzteile
 - [AB Diode](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ab_diode.pdf)
 - [AH Halbleiter & Diode](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ah_halbleiter_diode.pdf)
-- AH Halbleiter
+- [AH Halbleiter](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ah_halbleiter.pdf)
+- [Halbleiterdiode](https://www.leifiphysik.de/elektronik/halbleiterdiode)
+- 
