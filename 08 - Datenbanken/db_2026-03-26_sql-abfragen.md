@@ -47,7 +47,7 @@ ORDER BY Geburtsdatum;
 SELECT Gehege.Name, COUNT(Tier.TierID) AS 'Anzahl Tiere'
 FROM Gehege
 LEFT JOIN Tier ON Gehege.GehegeID = Tier.GehegeID
-GROUP BY Gehege.Gehege.ID, Gehege.Name;
+GROUP BY Gehege.GehegeID, Gehege.Name;
 ```
 
 5. Welche Gehege haben mehr als 2 Tiere?
