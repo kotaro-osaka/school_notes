@@ -55,9 +55,10 @@ $$285 + 5 \cdot 10,5 = 337,5 GiB$$
 
 **Vollbackup:**
 Immer nur ein Vollbackup nötig.
-- **Minimal** (kleinstes Vollbackup=Tag 1): `50 GiB = 51.200 MiB` → `51.200 ÷ 119,2 ≈ 429s ≈ 7,2 min`
-- **Maximal** (größtes Vollbackup=Tag 29): `64 GiB = 65.536 MiB` → `65.536 ÷ 119,2 ≈ 550s ≈ 9,2 min`
+- **Minimal** (kleinstes Vollbackup=Tag 1): `50 GiB = 51.200 MiB` → $51.200 ÷ 119,2 ≈ 429s ≈$ `7,2 min`
+- **Maximal** (größtes Vollbackup=Tag 29): `64 GiB = 65.536 MiB` → $65.536 ÷ 119,2 ≈ 550s ≈$ `9,2 min`
 
 **Inkrementelles Backup:**
 Alle Bänder seit dem letzten Vollbackup werden benötigt
-- **Minimal** (bester Fall=direkt nach Vollbackup, nur 1 Band): `53,5 GiB ÷ 119,2 MiB/s ≈ 459s `
+- **Minimal** (bester Fall=direkt nach Vollbackup, nur 1 Band): $53,5 GiB ÷ 119,2 MiB/s ≈ 459s ≈$ `7,7 min`
+- **Maximal** (schlechtester Fall=letzter Tag des Zyklus, 7 Bänder): $64 GiB + 6 \cdot 0,5 GiB =$ `67 GiB` → 68.608 MiB
