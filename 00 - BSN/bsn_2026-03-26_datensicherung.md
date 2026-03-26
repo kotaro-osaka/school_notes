@@ -85,4 +85,16 @@ Immer Vollbackup + 1 differenzielles Backup
 - Nur Vollbackup + ein differenzielles Band für Wiederherstellung
 - Robuster als inkrementell
 - Moderater Speicherbedarf (`267,5 GiB` täglich)
-- **Empfehlenswert**
+- **Empfehlenswert**, da Wiederherstellung zuverlässig und schnell ist
+
+**Empfehlung:**
+- Differenzielles Backup
+- Wöchentlicher Vollbackup-Zyklus
+
+## Expertenaufgabe - Formel herleiten
+**Gegeben:**
+- $D=$ Anfangsdatenbestand in `GiB`
+- $z=$ Zuwachs pro Tag in `MiB` $=z/1024 GiB$
+- $T=$ Zeitraum in Tagen
+### Vollbackup
+$$S=$$
