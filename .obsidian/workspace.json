@@ -4,34 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e2b5b71390e0f9a7",
+        "id": "940ea08c95e26190",
         "type": "tabs",
         "children": [
           {
-            "id": "36a73d36ac2cb689",
+            "id": "b30706c176065d44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - BSN/bsn_2026-03-26_datensicherung.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "bsn_2026-03-26_datensicherung"
-            }
-          },
-          {
-            "id": "c474f1775ee9c5ab",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "00 - BSN/bsn_2026-03-26_AufgabeDatensicherung.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "bsn_2026-03-26_AufgabeDatensicherung"
+              "title": "New tab"
             }
           }
         ]
@@ -205,10 +188,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36a73d36ac2cb689",
+  "active": "b30706c176065d44",
   "lastOpenFiles": [
-    "00 - BSN/bsn_2026-03-26_AufgabeDatensicherung.pdf",
     "00 - BSN/bsn_2026-03-26_datensicherung.md",
+    "00 - BSN/bsn_2026-03-26_AufgabeDatensicherung.pdf",
     "01 - ET/klausur/et_klausurthemen.md",
     "01 - ET/klausur/et_ab_brueckengleichrichtung.png",
     "01 - ET/klausur/et_ab_brueckengleichrichter.pdf",
