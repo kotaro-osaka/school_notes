@@ -73,7 +73,16 @@ Immer Vollbackup + 1 differenzielles Backup
 - Sehr einfache Wiederherstellung (1 Medium)
 - Enormer Speicherbedarf (`1717,5 GiB` täglich)
 - Langer Sicherungsaufwand
-- Für Datenbank mit starkem Wachstum **nicht empfohlen**
+- Für Datenbank mit starkem Wachstum **nicht Empfehlenswert**
 
 **Inkrementelles Backup:**
-- 
+- Geringster Speicherbedarf (`64,5 GiB` täglich)
+- Schnelle Sicherung da nur Änderungen gespeichert werden
+- Wiederherstellung ist komplex und fehleranfällig - alle Bänder müssen vorhanden sein
+- **Gut für Speichereffizienz, riskant bei Wiederherstellung**
+
+**Differenzielles Backup:**
+- Nur Vollbackup + ein differenzielles Band für Wiederherstellung
+- Robuster als inkrementell
+- Moderater Speicherbedarf (`267,5 GiB` täglich)
+- **Empfehlenswert**
