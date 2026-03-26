@@ -3,7 +3,10 @@ ___
 **Gegeben:**
 - Anfangsdatenbestand: `50 GiB`
 - Tägliche Erhöhung: `500 MiB`
-- Ausfallsicherheit: `30 T`
-- 
+- Ausfallsicherheit: `30 Tage`
 
-Bestimme für alle drei Sicherungsverfahren die benötigte Speicherkapazität der externen Festplatte.
+## Aufgabe 1 - Speicherbedarf
+> Tag 30: $50 + 29 \cdot 0,5 = 64,5 GiB$
+
+**Vollbackup:**
+Sicherung 
