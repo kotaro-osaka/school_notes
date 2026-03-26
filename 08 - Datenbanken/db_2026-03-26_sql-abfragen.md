@@ -28,12 +28,17 @@ LEFT JOIN Gehege ON Tier.GehegeID = Gehege.GehegeID;
 
 2. Zeige alle Pfleger und die Tiere, für die sie zuständig sind. Berücksichtige auch Pfleger ohne zugewiesene Tiere.
 ```mysql
-SELECT Pfleger.Name, 
+SELECT Pfleger.Name, Tier.Name
 FROM Pfleger
-LEFT H
+LEFT JOIN Pflege ON Pfleger.PflegerID = Pflege.PflegerID
+LEFT JOIN Tier ON Pflege.TierID = Tier.TierID;
 ```
 
 3. Zeige alle Tiere mit ihrem Geburtsdatum, sortiert nach dem Alter (älteste zuerst).
+```mysql
+
+```
+
 4. Zeige, wie viele Tiere sich in jedem Gehege befinden.
 5. Welche Gehege haben mehr als 2 Tiere?
 6. Welche Pfleger betreuen mehr als ein Tier und wie viele Tiere betreuen sie jeweils? Sortiere das Ergebnis nach der Anzahl der betreuten Tiere.
