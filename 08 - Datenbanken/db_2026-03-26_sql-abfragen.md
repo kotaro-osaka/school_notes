@@ -20,7 +20,7 @@ Fütterung(FütterungID (PK), TierID (FK), FutterID (FK), Uhrzeit, Menge)
 
 1. Zeige alle Tiere mit ihrer jeweiligen Art und dem Gehege, in dem sie leben.
 ```mysql
-SELECT TierID, Name, Geburtsdatum, Art.Bezeichnung, Gehege.Name
+SELECT Name, Art.Bezeichnung, Gehege.Name
 FROM Tier
 LEFT JOIN Art ON Tier.ArtID = Art.ArtID
 LEFT JOIN Gehege ON Tier.GehegeID = Gehege.GehegeID;
@@ -29,6 +29,8 @@ LEFT JOIN Gehege ON Tier.GehegeID = Gehege.GehegeID;
 2. Zeige alle Pfleger und die Tiere, für die sie zuständig sind. Berücksichtige auch Pfleger ohne zugewiesene Tiere.
 ```mysql
 SELECT Pfleger.Name, 
+FROM Pfleger
+LEFT H
 ```
 
 3. Zeige alle Tiere mit ihrem Geburtsdatum, sortiert nach dem Alter (älteste zuerst).
