@@ -21,13 +21,7 @@
               "icon": "lucide-file",
               "title": "bsn_2026-03-26_datensicherung"
             }
-          }
-        ]
-      },
-      {
-        "id": "39291312b4197a68",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "c474f1775ee9c5ab",
             "type": "leaf",
@@ -97,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "00aef108bba0d04b",
@@ -210,10 +205,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c474f1775ee9c5ab",
+  "active": "36a73d36ac2cb689",
   "lastOpenFiles": [
-    "00 - BSN/bsn_2026-03-26_datensicherung.md",
     "00 - BSN/bsn_2026-03-26_AufgabeDatensicherung.pdf",
+    "00 - BSN/bsn_2026-03-26_datensicherung.md",
     "01 - ET/klausur/et_klausurthemen.md",
     "01 - ET/klausur/et_ab_brueckengleichrichtung.png",
     "01 - ET/klausur/et_ab_brueckengleichrichter.pdf",
