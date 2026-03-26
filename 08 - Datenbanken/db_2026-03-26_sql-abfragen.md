@@ -6,7 +6,7 @@ Zoo(ZooID (PK), Name, Ort)
 
 Gehege(GehegeID (PK), Name, Typ, ZooID (FK))
 
-Tier(TierID (PK), Name, Art, Geburtsdatum, GehegeID (FK))
+Tier(TierID (PK), Name, ArtID (FK), Geburtsdatum, GehegeID (FK))
 
 Art(ArtID (PK), Bezeichnung, Herkunft, Schutzstatus)
 
