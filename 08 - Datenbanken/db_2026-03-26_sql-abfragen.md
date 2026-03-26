@@ -39,7 +39,7 @@ LEFT JOIN Tier ON Pflege.TierID = Tier.TierID;
 ```mysql
 SELECT Name, Geburtsdatum
 FROM Tier
-ORDER BY Geburtsdatum;
+ORDER BY Geburtsdatum DESC;
 ```
 
 4. Zeige, wie viele Tiere sich in jedem Gehege befinden.
