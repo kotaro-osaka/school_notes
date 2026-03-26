@@ -21,7 +21,7 @@ Fütterung(FütterungID (PK), TierID (FK), FutterID (FK), Uhrzeit, Menge)
 
 1. Zeige alle Tiere mit ihrer jeweiligen Art und dem Gehege, in dem sie leben.
 ```mysql
-SELECT Name, Art.Bezeichnung, Gehege.Name
+SELECT Tier.Name, Art.Bezeichnung, Gehege.Name
 FROM Tier
 LEFT JOIN Art ON Tier.ArtID = Art.ArtID
 LEFT JOIN Gehege ON Tier.GehegeID = Gehege.GehegeID;
