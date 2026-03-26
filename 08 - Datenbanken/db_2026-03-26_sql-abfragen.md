@@ -1,2 +1,30 @@
 # Übungsaufgaben: SQL-Abfragen
 ___
+```
+Zoo(ZooID (PK), Name, Ort)
+
+Gehege(GehegeID (PK), Name, Typ, ZooID (FK))
+
+Tier(TierID (PK), Name, Art, Geburtsdatum, GehegeID (FK))
+
+Art(ArtID (PK), Bezeichnung, Herkunft, Schutzstatus)
+
+Pfleger(PflegerID (PK), Name, Telefonnummer, ZooID (FK))
+
+Pflege(PflegeID (PK), PflegerID (FK), TierID (FK), ZuständigSeit)
+
+Futter(FutterID (PK), Bezeichnung, Typ)
+
+Fütterung(FütterungID (PK), TierID (FK), FutterID (FK), Uhrzeit, Menge)
+```
+
+1. Zeige alle Tiere mit ihrer jeweiligen Art und dem Gehege, in dem sie leben.
+```mysql
+SELECT TierID, Name, Art FROM *
+```
+
+2. Zeige alle Pfleger und die Tiere, für die sie zuständig sind. Berücksichtige auch Pfleger ohne zugewiesene Tiere.
+3. Zeige alle Tiere mit ihrem Geburtsdatum, sortiert nach dem Alter (älteste zuerst).
+4. Zeige, wie viele Tiere sich in jedem Gehege befinden.
+5. Welche Gehege haben mehr als 2 Tiere?
+6. Welche Pfleger betreuen mehr als ein Tier und wie viele Tiere betreuen sie jeweils? Sortiere das Ergebnis nach der Anzahl der betreuten Tiere.
