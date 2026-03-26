@@ -51,9 +51,15 @@ Die Schaltung zeigt einen Einweggleichrichter: Die Diode lässt nur die positive
 
 Die Ausgangsspannung $U_R$ sieht so aus:
 - Halbwellen bei $50Hz$ → Periode $T=20ms$
-- Nur jede zweite Halbwelle ersch
+- Nur jede zweite Halbwelle erscheint, gekappt bei $\sim9,3V$
 
 ## Effektivwert
 Welchen Effektivwert hat eine sinusförmige Wechselspannung mit einer Spitze-Tal-Spannung von 12V?
 Spitze-Tal-Spannung $U_{ss}=12V$ → Spitzenwert $\hat{u}=\frac{12}{2}=6V$
 $$U_{eff}= \frac{\hat{u}}{\sqrt{2}} = \frac{6}{\sqrt{2}} \approx 4,24 V$$
+
+## Periodendauer
+$$T = \frac{1}{f} = \frac{1}{1000 Hz} = 0,001s = 1ms$$
+
+## Induktivität Luftspule
+Formel: $L=\$
