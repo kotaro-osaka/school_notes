@@ -36,9 +36,17 @@ LEFT JOIN Tier ON Pflege.TierID = Tier.TierID;
 
 3. Zeige alle Tiere mit ihrem Geburtsdatum, sortiert nach dem Alter (älteste zuerst).
 ```mysql
-
+SELECT Name, Geburtsdatum
+FROM Tier
+ORDER BY Geburtsdatum;
 ```
 
 4. Zeige, wie viele Tiere sich in jedem Gehege befinden.
+```mysql
+SELECT Gehege.Name, COUNT(Tier.TierID) AS 'Anzahl Tiere'
+FROM Gehege
+GROUP BY Gehege.ID
+```
+
 5. Welche Gehege haben mehr als 2 Tiere?
 6. Welche Pfleger betreuen mehr als ein Tier und wie viele Tiere betreuen sie jeweils? Sortiere das Ergebnis nach der Anzahl der betreuten Tiere.
