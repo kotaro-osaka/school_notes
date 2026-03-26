@@ -10,3 +10,8 @@ ___
 - Gibt ein **Verhältnis zweier Größen** an
 - Häufig genutzt, weil sehr große und sehr kleine Werte **handlicher** dargestellt werden können
 - Änderungen lassen sich **additiv** statt multiplikativ beschreiben
+
+## Netzteile und Schaltnetzteile
+- [AB Diode](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ab_diode.pdf)
+- [AH Halbleiter & Diode](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ah_halbleiter_diode.pdf)
+- AH Halbleiter
