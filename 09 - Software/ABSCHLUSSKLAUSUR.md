@@ -6,7 +6,6 @@ ___
 2. [GUI Entwurf Theorie](/09%20-%20Software/software_gui_theorie)
 3. [Vorgehensmodelle](/09%20-%20Software/software_vorgehensmodelle)
 4. Struktogramm Syntax
-5. Sortieralgorithmen???
-6. Polymorphie & Vererbung
+5. Sortieralgorithmen
+6. Polymorphie & Vererbung (@Override and Abstract)
 7. Datenbankeinbindung
-8. GUI???

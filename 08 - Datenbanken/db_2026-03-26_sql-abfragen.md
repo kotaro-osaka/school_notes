@@ -1,0 +1,2 @@
+# Übungsaufgaben: SQL-Abfragen
+___
