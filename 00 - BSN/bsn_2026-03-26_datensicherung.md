@@ -65,4 +65,15 @@ Alle Bänder seit dem letzten Vollbackup werden benötigt
 
 **Differenzielles Backup:**
 Immer Vollbackup + 1 differenzielles Backup
-- **Minimal** (Tag direkt nach Vollbackup): $53,5 + 0,5 = 54 GiB$ → $55.296 MiB \div 119,2 \approx 464s$
+- **Minimal** (Tag direkt nach Vollbackup): $53,5 + 0,5 = 54 GiB$ → $55.296 MiB \div 119,2 \approx 464s \approx$ `7,7 min`
+- **Maximal** (letzter Tag des Zyklus): $64 + 3 = 67 GiB$ → $68.608 MiB \div 119,2 \approx 576s \approx$ `9,6 min`
+
+## Aufgabe 4 - Bewertung
+**Vollbackup:**
+- Sehr einfache Wiederherstellung (1 Medium)
+- Enormer Speicherbedarf (`1717,5 GiB` täglich)
+- Langer Sicherungsaufwand
+- Für Datenbank mit starkem Wachstum **nicht empfohlen**
+
+**Inkrementelles Backup:**
+- 
