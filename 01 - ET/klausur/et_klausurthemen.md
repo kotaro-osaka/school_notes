@@ -28,4 +28,8 @@ ___
 - [AH Gleichrichtung](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ah_gleichrichtung.pdf)
 - [AB Brückengleichrichtung](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ab_brueckengleichrichtung.png)
 - [AH Glätten pulsierender Gleichspannung](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ah_glaetten_von_gleichspannung.pdf)
-- AB Brückengleichrichter
+- [AB Brückengleichrichter](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ab_brueckengleichrichter.pdf)
+- [Schaltungssimulation](https://www.falstad.com/circuit/)
+
+## Induktivität
+Topic 12
