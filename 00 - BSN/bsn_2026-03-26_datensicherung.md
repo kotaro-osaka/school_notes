@@ -22,4 +22,4 @@ ___
 - Speichert die Änderungen seit dem letzten Vollbackup
 	=> $30 \cdot 50 + 0,5 \cdot \frac{29 \cdot 30}{2}=$ `1717,5 GiB`
 
-## Aufgabe 2
+## Aufgabe 2 - Speicherbedarf bei wöchentlichem Zyklus
