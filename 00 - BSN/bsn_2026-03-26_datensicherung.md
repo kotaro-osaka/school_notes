@@ -34,7 +34,15 @@ ___
 | 4          | 22  | 60,5 GiB |
 | 5          | 29  | 64,0 GiB |
 
-**Vollbackup:**
-(Geht man davon aus, dass Backups älter als 5 Wochen überschrieben werden)
+*Geht man davon aus, dass Backups älter als 5 Wochen überschrieben werden*
 
-	$$50,0 + 53,5 + 57,0 + 60,5 + 64,0 = 285 GiB$$
+**Vollbackup:**
+$$50 + 53,5 + 57 + 60,5 + 64 = 285 GiB$$
+
+**Inkrementelles Backup:**
+$$(50 + 53,5 + 57 + 60,5 + 64) + 5 \cdot 3 = 300 GiB$$
+
+**Differenzielles Backup:**
+Pro Zyklus:
+- 1 Vollbackup
+- Akkumulierende Differenzen ()
