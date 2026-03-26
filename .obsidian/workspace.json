@@ -34,7 +34,8 @@
               "title": "bsn_2026-03-26_AufgabeDatensicherung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +206,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "36a73d36ac2cb689",
+  "active": "c474f1775ee9c5ab",
   "lastOpenFiles": [
-    "00 - BSN/bsn_2026-03-26_AufgabeDatensicherung.pdf",
     "00 - BSN/bsn_2026-03-26_datensicherung.md",
+    "00 - BSN/bsn_2026-03-26_AufgabeDatensicherung.pdf",
     "01 - ET/klausur/et_klausurthemen.md",
     "01 - ET/klausur/et_ab_brueckengleichrichtung.png",
     "01 - ET/klausur/et_ab_brueckengleichrichter.pdf",

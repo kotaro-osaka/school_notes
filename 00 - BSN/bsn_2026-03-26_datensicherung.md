@@ -8,5 +8,4 @@ ___
 ## Aufgabe 1 - Speicherbedarf
 > Tag 30: $50 + 29 \cdot 0,5 = 64,5 GiB$
 
-**Vollbackup:**
-Sicherung 
+**Vollbackup:** $30 \cdot 50 +$
