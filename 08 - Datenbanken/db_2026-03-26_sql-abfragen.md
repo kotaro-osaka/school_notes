@@ -45,8 +45,20 @@ ORDER BY Geburtsdatum;
 ```mysql
 SELECT Gehege.Name, COUNT(Tier.TierID) AS 'Anzahl Tiere'
 FROM Gehege
-GROUP BY Gehege.ID
+LEFT JOIN Tier ON Gehege.GehegeID = Tier.GehegeID
+GROUP BY Gehege.Gehege.ID, Gehege.Name;
 ```
 
 5. Welche Gehege haben mehr als 2 Tiere?
+```mysql
+SELECT Gehege.Name, COUNT(Tier.TierID)
+FROM Gehege
+JOIN Tier ON Gehege.GehegeID = Tier.GehegeID
+GROUP BY Gehege.GehegeID, Gehege.Name
+HAVING COUNT(Tier.TierID) > 2;
+```
+
 6. Welche Pfleger betreuen mehr als ein Tier und wie viele Tiere betreuen sie jeweils? Sortiere das Ergebnis nach der Anzahl der betreuten Tiere.
+```mysql
+SELECT Pfleger.Name, COUNT(Pflege.TierID)
+```
