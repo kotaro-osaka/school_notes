@@ -46,4 +46,5 @@ Die Zeichnung zeigt den PN-Übergang in **Vorwärtspolarisation** (Strom fließt
 
 ## Effektivwert
 Welchen Effektivwert hat eine sinusförmige Wechselspannung mit einer Spitze-Tal-Spannung von 12V?
-$$U_{eff}=\frac{\hat{u}}{}$$
+Spitze-Tal-Spannung $U_{ss}=12V$ → Spitzenwert $\hat{u}=\frac{12}{2}=6V$
+$$U_{eff}= \frac{\hat{u}}{\sqrt{2}} = \frac{6}{\sqrt{2}} \approx 4,24 V$$
