@@ -21,4 +21,9 @@ ___
 - [AB Halbleiter](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ab_halbleiter.pdf)
 - [AH Halbleiter](https://www.elektroniktutor.de/elektrophysik/halbltr.html)
 - [Fragen zu Halbleitern](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_fragen_halbleiter)
+- [Schaltungssimulation](https://www.falstad.com/circuit/)
 
+## Brückengleichrichtung
+- [AB Brückengleichrichter](https://www.elektronik-kompendium.de/sites/slt/1807181.htm)
+- [AH Gleichrichtung](obsidian://open?vault=school-notes&file=01%20-%20ET%2Fklausur%2Fet_ah_gleichrichtung.pdf)
+- 
