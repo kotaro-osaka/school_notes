@@ -44,7 +44,7 @@ ORDER BY Geburtsdatum DESC;
 
 4. Zeige, wie viele Tiere sich in jedem Gehege befinden.
 ```mysql
-SELECT Gehege.Name, COUNT(Tier.TierID) AS 'Anzahl Tiere'
+SELECT Gehege.Name, COUNT(*) AS 'Anzahl Tiere'
 FROM Gehege
 LEFT JOIN Tier ON Gehege.GehegeID = Tier.GehegeID
 GROUP BY Gehege.GehegeID, Gehege.Name;
