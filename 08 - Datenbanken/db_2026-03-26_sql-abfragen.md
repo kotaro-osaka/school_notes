@@ -64,7 +64,7 @@ HAVING COUNT(Tier.TierID) > 2;
 SELECT Pfleger.Name, COUNT(Pflege.TierID)
 FROM Pfleger
 JOIN Pflege ON Pfleger.PflegerID = Pflege.PflegerID
-GROUP BY Pfleger.PflegerID, Pfleger.Name
+GROUP BY Pfleger.Name
 HAVING COUNT(Pflege.TierID) > 1
 ORDER BY COUNT(Pflege.TierID) DESC;
 ```
