@@ -29,5 +29,12 @@ LEFT JOIN Klasse ON Schueler.KlassenID = Klasse.KlassenID
 SELECT Schueler.Name
 FROM Schueler
 LEFT JOIN Klasse ON Schueler.KlassenID = Klasse.KlassenID
-WHERE 
+WHERE Klasse.Raum IS NULL;
+```
+
+4) **Zeige alle Schüler (Name) und ihre Lehrer (Name) und dem Fach, das der Lehrer unterrichtet. Sortiere die Schüler dem Namen nach absteigend.**
+```mysql
+SELECT Schueler.Name, Lehrer.Name, Lehrer.Fach
+FROM Schueler
+LEFT JOIN Unterrichtet ON Schueler
 ```
