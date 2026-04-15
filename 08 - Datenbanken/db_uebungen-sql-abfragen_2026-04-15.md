@@ -7,12 +7,19 @@ Lehrer (LehrerID, Name, Fach)
 Klasse (KlassenID, Bezeichnung, Raum)
 Unterrichtet (LehrerID, SchuelerID)
 ```
-## 1)
-**Zeige alle Lehrer mit ihren Namen und die Klassen (Bezeichnung), die sie unterrichten mit denen, die keine Klasse haben.**
+
+1) **Zeige alle Lehrer mit ihren Namen und die Klassen (Bezeichnung), die sie unterrichten mit denen, die keine Klasse haben.**
 ```mysql
 SELECT Lehrer.Name, Klasse.Bezeichnung
 FROM Lehrer
 LEFT JOIN Unterrichtet ON Lehrer.LehrerID = Unterrichtet.LehrerID
 LEFT JOIN Schueler ON Unterrichtet.SchuelerID = Schueler.SchuelerID
-LEFT JOIN Klasse ON 
+LEFT JOIN Klasse ON Schueler.KlassenID = Klasse.KlassenID;
+```
+
+2) **Zeige alle Schüler mit Namen mit ihren Klassen und dem Klassenraum.**
+```mysql
+SELECT Schueler.Name, Klasse.Bezeichnung, Klasse.Raum
+FROM Schueler
+LEFT JOIN Klasse ON Schueler.KlassenID = Klasse.KlassenID
 ```
