@@ -21,7 +21,7 @@ LEFT JOIN Klasse ON Schueler.KlassenID = Klasse.KlassenID;
 ```mysql
 SELECT Schueler.Name, Klasse.Bezeichnung, Klasse.Raum
 FROM Schueler
-LEFT JOIN Klasse ON Schueler.KlassenID = Klasse.KlassenID
+LEFT JOIN Klasse ON Schueler.KlassenID = Klasse.KlassenID;
 ```
 
 3) **Zeige alle Schüler, die keinen Raum haben.**
@@ -36,5 +36,7 @@ WHERE Klasse.Raum IS NULL;
 ```mysql
 SELECT Schueler.Name, Lehrer.Name, Lehrer.Fach
 FROM Schueler
-LEFT JOIN Unterrichtet ON Schueler
+LEFT JOIN Unterrichtet ON Schueler.SchuelerID = Unterrichtet.SchuelerID
+LEFT JOIN Lehrer ON Unterrichtet.LehrerID = Lehrer.LehrerID
+ORDER BY Schueler.Name DESC;
 ```
