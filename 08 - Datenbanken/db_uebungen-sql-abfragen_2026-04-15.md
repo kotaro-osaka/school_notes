@@ -23,3 +23,11 @@ SELECT Schueler.Name, Klasse.Bezeichnung, Klasse.Raum
 FROM Schueler
 LEFT JOIN Klasse ON Schueler.KlassenID = Klasse.KlassenID
 ```
+
+3) **Zeige alle Schüler, die keinen Raum haben.**
+```mysql
+SELECT Schueler.Name
+FROM Schueler
+LEFT JOIN Klasse ON Schueler.KlassenID = Klasse.KlassenID
+WHERE 
+```
