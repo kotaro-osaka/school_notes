@@ -17,12 +17,12 @@ Quelle: Statistisches Bundesamt (Destatis), Juli 2025
 
 **Zwei Beispiele zu jedem Umweltbereich aus betrieblicher Sicht**
 
-| Bereich                      | Beispiel 1                                                                           | Beispiel 2                                                                    |
-| ---------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| Klimaschutz                  | Installation einer Photovoltaikanlage auf dem Betriebsdach                           | Anschaffung von Elektrofahrzeugen für Fuhrpark                                |
-| Abwasserwirtschaft           | Bau einer betriebseigenen Kläranlage zur Behandlung von Produktionsabwässern         | Investition in Anlagen zur Reduzierung der Abwassermenge im Fertigungsprozess |
-| Abfallwirtschaft             | Anschaffung einer Sortieranlage zur Trennung von Produktionsabfällen                 | Einführung eines Recyclingsystems für Verpackungsmaterialien                  |
-| Luftreinhaltung              | Einbau von Filteranlagen zur Reduzierung von Abgasemissionen an Produktionsmaschinen | Umrüstung der Heizungsanlage von                                              |
-| Bodenschutz                  |                                                                                      |                                                                               |
-| Lärmschutz                   |                                                                                      |                                                                               |
-| Arten- und Landschaftsschutz |                                                                                      |                                                                               |
+| Bereich                      | Beispiel 1                                                                           | Beispiel 2                                                                                  |
+| ---------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| Klimaschutz                  | Installation einer Photovoltaikanlage auf dem Betriebsdach                           | Anschaffung von Elektrofahrzeugen für Fuhrpark                                              |
+| Abwasserwirtschaft           | Bau einer betriebseigenen Kläranlage zur Behandlung von Produktionsabwässern         | Investition in Anlagen zur Reduzierung der Abwassermenge im Fertigungsprozess               |
+| Abfallwirtschaft             | Anschaffung einer Sortieranlage zur Trennung von Produktionsabfällen                 | Einführung eines Recyclingsystems für Verpackungsmaterialien                                |
+| Luftreinhaltung              | Einbau von Filteranlagen zur Reduzierung von Abgasemissionen an Produktionsmaschinen | Umrüstung der Heizungsanlage von Öl auf Gas oder Wärmepumpe                                 |
+| Bodenschutz                  | Abdichtung von Lagerflächen für Chemikalien zur Vermeidung von Bodenverunreinigung   | Sanierung eines kontaminierten Betriebsgeländes nach Altlastenfund                          |
+| Lärmschutz                   | Einbau von Schallschutzwänden rund um lärmintensive Maschinen                        | Installation von schwingungsgedämpften Fundamenten unter Produktionsanlagen                 |
+| Arten- und Landschaftsschutz | Renaturierung von Grünflächen auf dem Betriebsgelände                                | Anlage von Ausgleichsflächen (z.B. Blühstreifen) als Ersatzmaßnahme bei Betriebserweiterung |
