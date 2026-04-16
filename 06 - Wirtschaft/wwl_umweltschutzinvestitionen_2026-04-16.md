@@ -15,3 +15,14 @@ ___
 Quelle: Statistisches Bundesamt (Destatis), Juli 2025
 **Berichtsjahr 2023**
 
+**Zwei Beispiele zu jedem Umweltbereich aus betrieblicher Sicht**
+
+| Bereich                      | Bsp. 1 | Bsp. 2 |
+| ---------------------------- | ------ | ------ |
+| Klimaschutz                  |        |        |
+| Abwasserwirtschaft           |        |        |
+| Abfallwirtschaft             |        |        |
+| Luftreinhaltung              |        |        |
+| Bodenschutz                  |        |        |
+| Lärmschutz                   |        |        |
+| Arten- und Landschaftsschutz |        |        |
