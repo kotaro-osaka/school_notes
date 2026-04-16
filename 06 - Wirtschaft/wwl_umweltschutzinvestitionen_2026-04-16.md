@@ -17,12 +17,12 @@ Quelle: Statistisches Bundesamt (Destatis), Juli 2025
 
 **Zwei Beispiele zu jedem Umweltbereich aus betrieblicher Sicht**
 
-| Bereich                      | Bsp. 1 | Bsp. 2 |
-| ---------------------------- | ------ | ------ |
-| Klimaschutz                  |        |        |
-| Abwasserwirtschaft           |        |        |
-| Abfallwirtschaft             |        |        |
-| Luftreinhaltung              |        |        |
-| Bodenschutz                  |        |        |
-| Lärmschutz                   |        |        |
-| Arten- und Landschaftsschutz |        |        |
+| Bereich                      | Beispiel 1                                                                           | Beispiel 2                                                                    |
+| ---------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| Klimaschutz                  | Installation einer Photovoltaikanlage auf dem Betriebsdach                           | Anschaffung von Elektrofahrzeugen für Fuhrpark                                |
+| Abwasserwirtschaft           | Bau einer betriebseigenen Kläranlage zur Behandlung von Produktionsabwässern         | Investition in Anlagen zur Reduzierung der Abwassermenge im Fertigungsprozess |
+| Abfallwirtschaft             | Anschaffung einer Sortieranlage zur Trennung von Produktionsabfällen                 | Einführung eines Recyclingsystems für Verpackungsmaterialien                  |
+| Luftreinhaltung              | Einbau von Filteranlagen zur Reduzierung von Abgasemissionen an Produktionsmaschinen | Umrüstung der Heizungsanlage von                                              |
+| Bodenschutz                  |                                                                                      |                                                                               |
+| Lärmschutz                   |                                                                                      |                                                                               |
+| Arten- und Landschaftsschutz |                                                                                      |                                                                               |
