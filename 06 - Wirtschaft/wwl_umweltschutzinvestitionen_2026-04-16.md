@@ -4,10 +4,12 @@ ___
 
 | Rang | Bereich                                                 | Ausgaben    |
 | ---- | ------------------------------------------------------- | ----------- |
-| 1    | Klimaschutz                                             | ∼8,3 Mrd. € |
-| 2    | Abwasser- und Abfallwirtschaft                          | ∼7,4 Mrd. € |
-| 3    | Luftreinhaltung                                         | ∼1,6 Mrd. € |
-| 4    | Lärm- und Erschütterungsschutz                          |             |
-| 5    | Schutz/Sanierung von Boden, Grund und Oberflächenwasser |             |
-| 6    | Arten- und Landschaftsschutz                            |             |
-Quelle: Statistisches Bundesamt (Destatis), Juli 2025 **Berichtsjahr 2023**
+| 1    | Klimaschutz                                             | ∼7,6 Mrd. € |
+| 2    | Abwasserwirtschaft                                      | ∼4,6 Mrd. € |
+| 3    | Abfallwirtschaft                                        | ∼2,8 Mrd. € |
+| 4    | Luftreinhaltung                                         | ∼1,6 Mrd. € |
+| 5    | Lärm- und Erschütterungsschutz                          |             |
+| 6    | Schutz/Sanierung von Boden, Grund und Oberflächenwasser |             |
+| 7    | Arten- und Landschaftsschutz                            |             |
+Quelle: Statistisches Bundesamt (Destatis), Juli 2025
+**Berichtsjahr 2023**
