@@ -11,15 +11,12 @@
             "id": "9588dc1c65bab39d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02 - MMI/mmi_2026-01-19_mqtt.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "00 - BSN/bsn_Subnetting2026_2026-04-16.pdf"
               },
-              "icon": "lucide-file",
-              "title": "mmi_2026-01-19_mqtt"
+              "icon": "lucide-file-text",
+              "title": "bsn_Subnetting2026_2026-04-16"
             }
           }
         ]
@@ -192,10 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f5c7bd669d58100",
+  "active": "9588dc1c65bab39d",
   "lastOpenFiles": [
-    "02 - MMI/mmi_2025-09-29_knx.md",
     "02 - MMI/mmi_2026-01-19_mqtt.md",
+    "02 - MMI/mmi_2025-09-29_knx.md",
     "02 - MMI/mmi_2026-01-19_mqtt-seven-segment-display.md",
     "02 - MMI/mmi_praesentation-arduino-iot-mit-mqtt.md",
     "00 - BSN/bsn_Subnetting2026_2026-04-16.pdf",
