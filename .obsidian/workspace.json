@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Datenbanken/klausur/anomalien.md",
-                "mode": "preview",
+                "file": "08 - Datenbanken/db_anomalien_2026-04-24.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "anomalien"
+              "title": "db_anomalien_2026-04-24"
             }
           },
           {
@@ -209,10 +209,11 @@
   },
   "active": "f437c168ac11bb66",
   "lastOpenFiles": [
+    "08 - Datenbanken/klausur/anomalien.md",
+    "08 - Datenbanken/db_anomalien_2026-04-24.md",
     "08 - Datenbanken/klausur/benutzerverwaltung.md",
     "08 - Datenbanken/klausur/benutzerverwaltung.pdf",
     "08 - Datenbanken/klausur/db_benutzerverwaltung-befehle.md",
-    "08 - Datenbanken/klausur/anomalien.md",
     "08 - Datenbanken/klausur/Befehlssammlung_SQL.pdf",
     "00 - BSN/bsn_Subnetting2026_2026-04-16.pdf",
     "02 - MMI/mmi_2026-01-19_mqtt.md",
