@@ -40,5 +40,9 @@ GROUP BY Fahrgeschäft.Name
 
 3. Liste alle Besucher auf, die ein ‘t’ im Nachnamen haben und das Fahrgeschäft “Eisachterbahn” besuchen.
 ```mysql
-SELECT Fahrgeschäft.Name, Besucher.Nachname, Besu
+SELECT Fahrgeschäft.Name, Besucher.Nachname, Besucher.Vorname
+FROM Fahrgeschäft
+LEFT JOIN Mitfahrer ON Fahrgeschäft.Bezeichnung ON Mitfahrer.FahrgeschäftBezeichnung
+LEFT JOIN Besucher ON Mitfahrer.BesucherID = Besucher.ID
+WHERE Fahrgeschäft.Name = 'Eisachterbahn' AND Besucher.Nachname LIKE 't%';
 ```
