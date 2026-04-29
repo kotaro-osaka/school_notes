@@ -22,5 +22,8 @@ CREATE INDEX idx_ ON ();
 ```mysql
 SELECT COUNT(*) AS 'num_besucher_rennmaus'
 FROM Fahrgeschäft
-LEFT JOIN Mitfahrer ON Fahrgeschäft
+LEFT JOIN Mitfahrer ON Fahrgeschäft.Bezeichnung ON Mitfahrer.FahrgeschäftBezeichnung
+LEFT JOIN Besucher ON Mitfahrer.BesucherID = Besucher.ID
+WHERE Fahrgeschäft.Name = 'Rennmaus'
+GROUP BY Fahrgeschäft.Name
 ```
