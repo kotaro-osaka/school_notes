@@ -37,3 +37,8 @@ LEFT JOIN Besucher ON Mitfahrer.BesucherID = Besucher.ID
 WHERE Mitfahrer.Datum = '07.08.2025'
 GROUP BY Fahrgeschäft.Name
 ```
+
+3. Liste alle Besucher auf, die ein ‘t’ im Nachnamen haben und das Fahrgeschäft “Eisachterbahn” besuchen.
+```mysql
+SELECT Fahrgeschäft.Name, Besucher.Nachname, Besu
+```
