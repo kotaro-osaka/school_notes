@@ -15,5 +15,7 @@ Besucher (ID (PK), Nachname, Vorname, Alter, Adresse, Unterkunft)
 
 1. Erstelle pro Tabelle einen Index bzw. zusammengesetzte Indizes
 ```mysql
-CREATE INDEX idx_
+CREATE INDEX idx_ ON ();
 ```
+
+3. wieviele 
