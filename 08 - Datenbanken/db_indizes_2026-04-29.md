@@ -20,5 +20,7 @@ CREATE INDEX idx_ ON ();
 
 3. Wieviele Besucher sind am *11.06.2025* mit dem Fahrgeschäft “*Rennmaus*” mitgefahren?
 ```mysql
-SELECT COUNT(*) AS ''
+SELECT COUNT(*) AS 'num_besucher_rennmaus'
+FROM Fahrgeschäft
+LEFT JOIN Mitfahrer ON Fahrgeschäft
 ```
