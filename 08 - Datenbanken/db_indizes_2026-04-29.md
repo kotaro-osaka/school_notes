@@ -30,5 +30,10 @@ GROUP BY Fahrgeschäft.Name;
 
 2. Liste die Anzahl der Besucher pro Fahrgeschäft auf für den *07.08.2025*
 ```mysql
-SELECT Fahrgeschäft.Name, COUNT(*) AS 'num_besucher', 
+SELECT Fahrgeschäft.Name, COUNT(*) AS 'num_besucher', Mitfahrer.Datum
+FROM Fahrgeschäft
+LEFT JOIN Mitfahrer ON Fahrgeschäft.Bezeichnung ON Mitfahrer.FahrgeschäftBezeichnung
+LEFT JOIN Besucher ON Mitfahrer.BesucherID = Besucher.ID
+WHERE Mitfahrer.Datum = '07.08.2025'
+GROUP BY Fahrgeschäft.Name
 ```
