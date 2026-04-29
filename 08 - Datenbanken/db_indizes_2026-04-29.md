@@ -24,8 +24,11 @@ SELECT COUNT(*) AS 'num_besucher_rennmaus'
 FROM Fahrgeschäft
 LEFT JOIN Mitfahrer ON Fahrgeschäft.Bezeichnung ON Mitfahrer.FahrgeschäftBezeichnung
 LEFT JOIN Besucher ON Mitfahrer.BesucherID = Besucher.ID
-WHERE Fahrgeschäft.Name = 'Rennmaus'
+WHERE Fahrgeschäft.Name = 'Rennmaus' AND Mitfahrer.Datum = '11.06.2025'
 GROUP BY Fahrgeschäft.Name;
 ```
 
-2. Liste die Anzahl der Besucher pro Fahrgeschäft auf für den 
+2. Liste die Anzahl der Besucher pro Fahrgeschäft auf für den *07.08.2025*
+```mysql
+SELECT COUNT(*) AS 'num_'
+```
