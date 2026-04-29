@@ -46,3 +46,9 @@ LEFT JOIN Mitfahrer ON Fahrgeschäft.Bezeichnung ON Mitfahrer.FahrgeschäftBezei
 LEFT JOIN Besucher ON Mitfahrer.BesucherID = Besucher.ID
 WHERE Fahrgeschäft.Name = 'Eisachterbahn' AND Besucher.Nachname LIKE 't%';
 ```
+
+freizeitpark.fahrgeschaeft
+freizeitpark.mitfahrer
+freizeitpark.unterkunft
+freizeitpark.besucher
+freizeitpark.personal
