@@ -18,4 +18,7 @@ Besucher (ID (PK), Nachname, Vorname, Alter, Adresse, Unterkunft)
 CREATE INDEX idx_ ON ();
 ```
 
-3. wieviele 
+3. Wieviele Besucher sind am *11.06.2025* mit dem Fahrgeschäft “*Rennmaus*” mitgefahren?
+```mysql
+SELECT COUNT(*) AS ''
+```
