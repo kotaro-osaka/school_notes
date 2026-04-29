@@ -45,21 +45,18 @@ WHERE f.Name = 'Rennmaus'
 ```mysql
 SELECT f.Name, COUNT(*) AS 'num_besucher', m.Datum
 FROM Mitfahrer m
-JOIN Fahrgeschaeft f ON m.FahrgeschaeftBezec
-
-SELECT Fahrgeschäft.Name, COUNT(*) AS 'num_besucher', Mitfahrer.Datum
-FROM Fahrgeschäft
-LEFT JOIN Mitfahrer ON Fahrgeschäft.Bezeichnung ON Mitfahrer.FahrgeschäftBezeichnung
-LEFT JOIN Besucher ON Mitfahrer.BesucherID = Besucher.ID
-WHERE Mitfahrer.Datum = '07.08.2025'
-GROUP BY Fahrgeschäft.Name
+JOIN Fahrgeschaeft f ON m.FahrgeschaeftBezeichnung = f.Bezeichnung
+WHERE m.Datum = '07.08.2025'
+GROUP BY f.Name
+ORDER BY num_besucher;
 ```
 
 3. Liste alle Besucher auf, die ein ‘t’ im Nachnamen haben und das Fahrgeschäft “Eisachterbahn” besuchen.
 ```mysql
-SELECT Fahrgeschäft.Name, Besucher.Nachname, Besucher.Vorname
-FROM Fahrgeschäft
-LEFT JOIN Mitfahrer ON Fahrgeschäft.Bezeichnung ON Mitfahrer.FahrgeschäftBezeichnung
-LEFT JOIN Besucher ON Mitfahrer.BesucherID = Besucher.ID
-WHERE Fahrgeschäft.Name = 'Eisachterbahn' AND Besucher.Nachname LIKE 't%';
+SELECT f.Name, b.Nachname, b.Vorname
+FROM Fahrgeschaeft f
+LEFT JOIN Mitfahrer m ON f.Bezeichnung = m.FahrgeschaeftBezeichnung
+LEFT JOIN Besucher b ON m.BesucherID = b.ID
+WHERE f.Name = 'Eisachterbahn'
+    AND b.Nachname LIKE '%t%';
 ```
