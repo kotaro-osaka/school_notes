@@ -15,7 +15,19 @@ Besucher (ID (PK), Nachname, Vorname, Alter, Adresse, Unterkunft)
 
 ### 2 - Erstelle pro Tabelle einen Index bzw. zusammengesetzte Indizes
 ```mysql
-CREATE INDEX idx_ ON ();
+CREATE INDEX idx_fahrgeschaeft_name ON Fahrgeschaeft(Name);
+
+CREATE INDEX idx_mitfahrer_datum ON Mitfahrer (Datum);
+
+CREATE INDEX idx_personal_nachname ON Personal (Nachname);
+
+CREATE INDEX idx_unterkunft_adresse ON Unterkunft (Adresse);
+
+CREATE INDEX idx_besucher_nachname ON Besucher (Nachname);
+```
+
+```mysql
+CREATE INDEX idx_mitfahrer_fahrgeschäft_datum ON Mitfahrer (FahrgeschaeftBezeichnung, D)
 ```
 
 1. Wieviele Besucher sind am *11.06.2025* mit dem Fahrgeschäft “*Rennmaus*” mitgefahren?
