@@ -34,14 +34,19 @@ CREATE INDEX idx_besucher_name ON Besucher (Nachname, Vorname);
 
 1. Wieviele Besucher sind am *11.06.2025* mit dem Fahrgeschäft “*Rennmaus*” mitgefahren?
 ```mysql
-SELECT f.Name, COUNT(*) AS 'num_besucher', Mitfahrer.Datum
+SELECT f.Name, COUNT(*) AS 'num_besucher', m.Datum
 FROM Mitfahrer m
-JOIN Fahrgeschaeft ON Mitfahrer.FahrgeschaeftBezeichnung = Fahrgeschaeft.Bezeichnung
-WHERE Fahrgeschaeft
+JOIN Fahrgeschaeft f ON m.FahrgeschaeftBezeichnung = f.Bezeichnung
+WHERE f.Name = 'Rennmaus'
+	AND m.Datum = '11.06.2025';
 ```
 
 2. Liste die Anzahl der Besucher pro Fahrgeschäft auf für den *07.08.2025*
 ```mysql
+SELECT f.Name, COUNT(*) AS 'num_besucher', m.Datum
+FROM Mitfahrer m
+JOIN Fahrgeschaeft f ON m.FahrgeschaeftBezec
+
 SELECT Fahrgeschäft.Name, COUNT(*) AS 'num_besucher', Mitfahrer.Datum
 FROM Fahrgeschäft
 LEFT JOIN Mitfahrer ON Fahrgeschäft.Bezeichnung ON Mitfahrer.FahrgeschäftBezeichnung
